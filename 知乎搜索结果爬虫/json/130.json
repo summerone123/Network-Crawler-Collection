@@ -1,0 +1,233 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1471117812.97129",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1470617847.63&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1470617847.62693"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1527583851,
+                "is_labeled": false,
+                "excerpt": "昨日晚间，因台湾中钢、烨联、唐荣、华新丽华、烨辉、允强、彰源、大成钢等多家上市钢厂立场差异导致意见分歧，台湾地方政府拟对大陆进口的碳钢、不锈钢课征平衡税及反倾销税的“双反”调查，将从40天延到60天。 台湾地区经济部贸易调查委员会表示，依据平…",
+                "excerpt_title": "",
+                "id": 37444822,
+                "voteup_count": 8,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-45b443848f63a5d872782de146aa5dd6_{size}.jpg",
+                    "badge": [],
+                    "name": "钢狗网",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "买不锈钢，上钢狗网",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-45b443848f63a5d872782de146aa5dd6_is.jpg",
+                    "is_org": true,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/09901227b6b4a2281695e440d643312f",
+                    "url_token": "gang-gou-wang-8",
+                    "id": "09901227b6b4a2281695e440d643312f"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/37444822",
+                "title": "台湾拟对大陆碳钢、不锈钢“双反”调查从40天延到60天",
+                "created": 1527583851,
+                "content": "<blockquote>昨日晚间，因台湾中钢、烨联、唐荣、华新丽华、烨辉、允强、彰源、大成钢等多家上市钢厂立场差异导致意见分歧，台湾地方政府拟对大陆进口的碳钢、不锈钢课征平衡税及反倾销税的“双反”调查，将从40天延到60天。</blockquote><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-fb46e206e33eff9c519523cc448eae33_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-fb46e206e33eff9c519523cc448eae33_r.jpg\"/></figure><p><br/>台湾地区经济部贸易调查委员会表示，依据平衡税及反倾销税课征实施办法规定，已经公告对自中国大陆生产进口的特定镀锌、中厚钢板以及不锈钢等施以课征平衡税、反倾销税率等，基于处理调查相关资料的需要，相关产业的损害初步调查，决定延长调查期间二分之一，至今年6月17日止。</p><p><br/><b>“失去”大陆不锈钢原料优势，台企还能走多远？</b></p><p><br/>上市钢厂主管表示，政府对大陆进口的不锈钢热轧提出“双反”，主要是因应美国“232调查”政策，积极透过排除大陆料源争取豁免。由于美国是国内钢铁出口的重要市场，维护市场版图对产业最有利。但部分上市不锈钢厂主管表示，排除大陆进口钢材对争取美国高关税豁免有利，但贸易保护主义如刀之双刃，要经过精算，深入了解台湾可能造成的损失，加分与扣分一起算，对产业是不是划算，需要事前考量清楚才好。</p><p><br/>市场考量在于，台湾钢料多依赖进口，以台湾地区内热轧不锈钢为例，自给率仅50%左右，甚至连上游炼钢厂都为了成本考量自大陆进口热轧，因此不认同政府的双反调查，如果政府设限，整个产业损失将加大。</p><blockquote>台湾钢铁工业同业公会资料显示，2015年至2017年来自大陆进口数量为64.7万吨、82.9万吨、72.5万吨，占台湾地区总进口量比率为82.6%、87.6%、85.8%，显示大陆进口产品为主要进口来源。</blockquote><p><br/>上市钢厂表示，低成本优势是外销接单最重要的竞争力来源，所以业界需要更有低成本的原料，如果无法从大陆进口，又找不到适当原料替代，而面临客户直接转单困扰。将严重损及台湾不锈钢产业的国际竞争力。</p><p><br/>值得注意的是，2017年，台湾与大陆货物贸易进出口额为1310.1亿美元，增长17.8%。其中，台湾对大陆出口808.7亿美元，增长20.3%，占台湾出口额的27.7%，提升1.5个百分点；台湾从大陆进口501.4亿美元，增长13.9%，占台湾进口额的19.3%，提升0.2个百分点。台湾与大陆的贸易顺差307.3亿美元，增长32.5%。台湾地区针对大陆进行双反调查，如果大陆反制，台湾失去的可能更多，希望政府能通盘考量，争取本地区钢企最大生存空间。</p><p><br/>随着中美贸易战停火，台湾地方政府因小失大，拿自己当祭品，这对台湾钢企业发展非常不利。2017年台湾地区的不锈钢出口量约100万吨，因美国长年对台湾不锈钢卷、板与工业用管反倾销，所以销往美国的不锈钢品约仅10万吨，占比不到10%，等于惩罚了其他90%非销往美国的出口量。</p><p><br/>对大陆不锈钢产业来说，下一个风口，也许是抢下台湾企业的全球市场份额。</p><p><br/>来源：钢狗网<br/>声明：未经许可，不得转载<br/>往期精彩回顾</p>",
+                "comment_count": 3,
+                "image_url": "https://pic3.zhimg.com/50/v2-067472d150d479b3ee91b7c65a83cc07_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-067472d150d479b3ee91b7c65a83cc07_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-fb46e206e33eff9c519523cc448eae33_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNzE2OTAxNyDrqLTYBSgIMANAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM3NDQ0ODIy"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1527752983,
+                "is_labeled": false,
+                "excerpt": "特朗普最近叫得欢，所以继续关注中美新动向。据报道，美国将对从中国进口的包括高科技产品在内的总值500亿美元的产品征收25%的关税，其中包括与“中国制造2025”计划相关的产品。最终的进口商品清单将于2018年6月15日之前公布，稍后将对这些进口产品征收关…",
+                "excerpt_title": "",
+                "id": 37533403,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-5f600711a5337031e084b4731542fb4f_{size}.jpg",
+                    "badge": [],
+                    "name": "胡冷冷同学",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "帝都农村文艺工作者，个人公众号:七点说。被删文章放公众号。",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-5f600711a5337031e084b4731542fb4f_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/f942220c49e91fafa35fafe9a531bc3c",
+                    "url_token": "hu-ming-he-90",
+                    "id": "f942220c49e91fafa35fafe9a531bc3c"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/37533403",
+                "title": "特朗普怎么又对中国征税了？",
+                "created": 1527752785,
+                "content": "<p>特朗普最近叫得欢，所以继续关注中美新动向。</p><p>据报道，美国将对从中国进口的包括高科技产品在内的总值500亿美元的产品征收25%的关税，其中包括与“中国制造2025”计划相关的产品。最终的进口商品清单将于2018年6月15日之前公布，稍后将对这些进口产品征收关税。</p><p>自从特朗普上台以后，类似的闹剧已经一出又一出了，远的不说，最近的美朝会晤就是先同意，后反悔，然后随着多方角力，特朗普又想继续召开了。</p><p>所以，大家对特朗普的“弃约精神”早已见怪不怪了，可惜美国股市倒是没有做到这点，当地时间周二美股大幅收跌。标普500指数跌幅1.16%，道琼斯工业平均指数跌幅1.58%，当然，这也顺带把全球股市又坑了一遍。无论如何，特朗普的决定怎么看都是一把双刃剑，影响了自己，也影响了全球。那么作为总统又是商人的特朗普难道想不到这点么？显然不可能，那么特朗普为什么会在仅仅九天后就出尔反尔继续要对中国征收关税呢？分析起来有几点：</p><p><b>1. 中美之间再次出现波动早有迹象，毕竟上次的暂停声明并没有涉及到核心矛盾，即“中国制造2025”。</b>通过上次中美联合声明可知（如图）</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d1f317547b2e0dd48551ae2dae264621_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"381\" data-rawheight=\"547\" class=\"content_image\" width=\"381\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>由此也可以推断，双方声明虽然达成了妥协，但是最最根本的核心矛盾没有得到解决，这才引出了特朗普的最新动作。“中国制造2025”的重要性，不言而喻。这个有多重要呢？简单来讲就是中国能否实现对西方弯道超车的关键，其中很多关键技术一旦掌握，中国可以省下很多时间和精力用最新的科技来代替以前没有掌握的技术，从而迅速赶上甚至超过西方。所以解决不了这个核心矛盾，美国是很难对中国做到真正的妥协。</p><p><b>2.为即将访华的美国商务部部长罗斯抬高谈判要价。</b>中美贸易战暂停，并不意味着中美谈判就停止了，上次的声明只是一个框架，所以按照计划，美国商务部长罗斯定6月2日至4日期间，前往北京与中国官员会晤，继续谈判贸易的相关事宜。因此，不排除特朗普有意通过此次征税计划来为接下来的谈判创造新的有利筹码和谈判空间。</p><p>这也是特朗普的老套路了，就像对半岛问题一样，同样的招数继续对中国使用，利用政治承诺、经济打压、包括之前的武力威慑（军舰进入我南海西沙群岛）等方式，来完成他的目的。</p><p><b>3. 迎合美国国内强硬派的情绪。</b>上次的中美妥协后，美国国内对特朗普的行为并不满意，美国国内民众和媒体的压力直指特朗普过于软弱，再加上美国国内政局本身就受到不同利益集团的左右。由此也可以看出，美国对华的强硬派的反对声音也很大，重新对华征收关税也有这方面的考虑。</p><p>如果这次声明真的如同宣称的那样付诸实施，其后果对中美乃至全球都将产生巨大的冲击。所以针对特朗普的策略，中国商务部新闻发言人29日深夜就发表了声明，表示：</p><p><b>我们对白宫发布的策略性声明既感到出乎意料，但也在意料之中，这显然有悖于不久前中美双方在华盛顿达成的共识。无论美方出台什么举措，中方都有信心、有能力、有经验捍卫中国人民利益和国家核心利益。中方敦促美方按照联合声明精神相向而行。</b></p><p>接下来就是美国商务部部长罗斯的访华谈判之旅，中美之间的第三次谈判即将开始，具体能否达成新的成果，有待观察。最后，正如之前我的文章所说<b>短期内贸易战可以妥协，但根本的科技竞争矛盾仍会长期存在，未来中美两国之间类似的情况会经常发生。大家习惯就好。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>所以，顺便点个关注呗~</b></p><p></p>",
+                "comment_count": 0,
+                "image_url": "https://pic3.zhimg.com/50/v2-78e0a532ccbfd4fcc1f01c6edbe70fed_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-78e0a532ccbfd4fcc1f01c6edbe70fed_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-d1f317547b2e0dd48551ae2dae264621_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNzIwNDUxMyDR0L7YBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM3NTMzNDAz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "第一反应是药丸。大豆、牛肉、汽车、飞机，牌一下子全打出来了。但仔细阅读和分析一下，说<b>贸易战全面爆发还为时过早。</b><b>其一：这次是列清单，还没确定执行时间。十八般武器都已经架好了，先吼两嗓子，老子不是好惹的，但还没决定直接开干。</b>对比一下4月2日中国…",
+                "created_time": 1522833992,
+                "id": 358514039,
+                "voteup_count": 15,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-52e58bb546d4a56db8792570731d200e_{size}.jpg",
+                    "badge": [],
+                    "name": "趋势小白",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "敬畏市场，豁达人生",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-52e58bb546d4a56db8792570731d200e_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/df0458016e7aac1b63ec6a4663fbda38",
+                    "url_token": "qushixiaobai",
+                    "id": "df0458016e7aac1b63ec6a4663fbda38"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/358514039",
+                "question": {
+                    "created": 1522829277,
+                    "url": "http://www.zhihu.com/api/v4/questions/271060787",
+                    "title": "如何看待2018年4月4日中国拟对面美国14类106项商品加征25%关税清单？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 271060787
+                },
+                "updated_time": 1522833993,
+                "content": "<p>第一反应是药丸。大豆、牛肉、汽车、飞机，牌一下子全打出来了。</p><p>但仔细阅读和分析一下，说<b>贸易战全面爆发还为时过早。</b></p><p><b>其一：这次是列清单，还没确定执行时间。十八般武器都已经架好了，先吼两嗓子，老子不是好惹的，但还没决定直接开干。</b></p><p>对比一下4月2日中国对美国128项进口商品加征关税的新闻稿。</p><p>4月2日的对美国水果、猪肉及制品的中止关税减让义务，是自2018年4月2日起实施。也就是即刻生效。</p><p>而这次是“<i>最终措施及生效时间将另行公告</i>”。</p><p><b>其二：中国目前的贸易战主要还是对美国具体行动的一一回应，且都把握好了分寸，没有打算直接升级事态。</b></p><p>4月2日的反击回应的是美国挑起的钢铝贸易战即232措施。首先美国对盟国签了豁免，明显的是针对中国，而且该措施在3月23日起已经生效。不过考虑到钢铝在中美贸易中占比较小，中国在4月2日对应的用对水果和猪肉制品来回应，这些品种同样金额不大，而且也是立即生效。至于为什么要拖到4月2日才回应，大家都懂的，25-28日的会面是一个重要的因素。</p><p>同样的，也是有了伟大会面的基础，这次我国的反应就快得多了。</p><p>美国当地时间3日，美国贸易代表办公室公布依据“301调查”结果，公布了拟加征关税的中国商品清单。清单涉及航空航天、信息和通信技术、机器人和机械等行业，包含大约1300个独立关税项目，总价值约500亿美元。注意，这也不是立即生效。</p><p>我国不到一天就有了回应，也就是这个问题的由来。美国301调查的公布的细则一如之前预料，针对的都是中国产业升级的领域，也就是中国制造2025规划的重点行业。所以我们这次的回应也必须有针对性，大豆、牛肉、汽车、飞机都是美国出口中国的重要商品，涉及的贸易总金额也是在500亿美元左右，也没有马上执行。整体上是一一对应，不让步也不冒失，没毛病。</p><p><b>其三：当下的时间节点还有很多问题没落实，贸易战不会马上升级。</b></p><p>3月28日，美国贸易代表莱特希泽还说对中国加征关税的公示时间会延长到60天，而且表示中美有可能通过谈判避免此次关税大战。</p><p>美国时间4月3日的301调查细则的公布其实是之前就已经确定的，因为特朗普在３月２２日签署备忘录发动对华“３０１调查”，根据该备忘录，美国贸易代表办公室将在１５天内（即４月６日前）公布提议加征关税的中国商品清单。</p><p>所以美国公布清单并没有任何意外的地方，而我国的霸气回应也很正常，这都是双方外交层面的正常举动。</p><p>还是回到我之前的分析，贸易战当下的核心节点时间还是那谁和特胖普的会面，原定是在5月前，现在具体时间还没出来。</p><p>但是那谁已经先到中国来了，说实话那国家虽然流氓，但外交手段确实是一流，两边靠，两头吃，尽最程度争取自己的利益。</p><p>除了这个问题之外，还有一个核心原则，我始终认为是此次分析贸易战的核心：<b>中国是不愿意开打贸易战的。</b>大家别看新闻，再怎么热血、再怎么不怕事，都还是要看本质，外交行为不是哗众取宠，根本还是为了维护国家利益，两权相害取其轻。这个我懒得展开了，其实原因也很简单，中国对美国的贸易顺差是占整体贸易顺差的绝对大头，超过60%，而出口是中国经济发展的三驾马车之一，再怎么不爽，该让步还是要让步。</p><p><br></p><p>以上。</p><p>中美的贸易战下一步演变的时机依然还没有到来。而对应的股市也好、商品也好，在下一波趋势明确之前，不会走出单边行情的。个人判断，仅供参考。</p><p>日常观点会发布在公众号：趋势小白（ID：趋势小白），欢迎关注。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-b5a2cbeed71fc6e6817a77fb9779ca5a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"258\" data-rawheight=\"258\" class=\"content_image\" width=\"258\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='258'%20height='258'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"258\" data-rawheight=\"258\" class=\"content_image lazy\" width=\"258\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-b5a2cbeed71fc6e6817a77fb9779ca5a_b.jpg\"></figure><p></p><p></p>",
+                "comment_count": 4,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-b5a2cbeed71fc6e6817a77fb9779ca5a_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-b5a2cbeed71fc6e6817a77fb9779ca5a_200x112.jpg"
+            },
+            "attached_info": "CkIQBBoIOTUyNDQ4ODcgyLSS1gUoDzAEQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTEwODM3cgkzNTg1MTQwMzk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "中兴还没有退出市场喔。刚刚开过新闻发布会。他们董事长说”绝不放弃。并要以法律手段维护自己权益”",
+                "created_time": 1524320632,
+                "id": 372742215,
+                "voteup_count": 8,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-1f5d892cae39809af070d65836f2665f_{size}.jpg",
+                    "badge": [],
+                    "name": "老周斯图加特",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "究天人之际，通古今之变",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-1f5d892cae39809af070d65836f2665f_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/7560344786df39ee72f5628b8c4c7cc8",
+                    "url_token": "lao-zhou-si-tu-jia-te",
+                    "id": "7560344786df39ee72f5628b8c4c7cc8"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372742215",
+                "question": {
+                    "created": 1524301337,
+                    "url": "http://www.zhihu.com/api/v4/questions/274145217",
+                    "title": "历史上有哪些因为国家问题放弃或不得不退出市场的大企业呢？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274145217
+                },
+                "updated_time": 1524320633,
+                "content": "<p>中兴还没有退出市场喔。刚刚开过新闻发布会。他们董事长说”绝不放弃。并要以法律手段维护自己权益”</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc4MzI1NDcg+JLt1gUoCDACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTk2NjI4cgkzNzI3NDIyMTU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1525317974,
+                "is_labeled": false,
+                "excerpt": "<b>美国对华贸易保护愈演愈烈，中国反击日益坚定，美财长本周访华，且看海外各家众说纷纭......</b> <b>美财长本周访华，表示关注《中国制造2025》</b><b>5月1日，美国著名金融博客ZeroHedge博文</b>：据报道称，美国财政部长姆努钦将帅代表团将于本周抵达北京，与中方就停止贸易…",
+                "excerpt_title": "",
+                "id": 36362325,
+                "voteup_count": 4,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-6d257fa257213bca8ec1f00852c79a0b_{size}.jpg",
+                    "badge": [],
+                    "name": "三个逗号",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "聚焦金融热点话题，传递海外投资资讯",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-6d257fa257213bca8ec1f00852c79a0b_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/365b3b1135ce6432daa5dc6ecc81dab4",
+                    "url_token": "san-ge-dou-hao-55",
+                    "id": "365b3b1135ce6432daa5dc6ecc81dab4"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36362325",
+                "title": "美财长本周访华，且看海外各家众说纷纭",
+                "created": 1525317190,
+                "content": "<p><b>美国对华贸易保护愈演愈烈，中国反击日益坚定，美财长本周访华，且看海外各家众说纷纭......</b></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>美财长本周访华，表示关注《中国制造2025》</b></h2><p><b>5月1日，美国著名金融博客ZeroHedge博文</b>：据报道称，美国财政部长姆努钦将帅代表团将于本周抵达北京，与中方就停止贸易冲突问题展开首轮谈判。美国十分关注《中国制造2025》计划，认为此计划着重发展的十大制造业，包括智能机器人、半导体等，对英特尔和三星等企业形成巨大挑战。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>美媒关注中国研发投入</b></h2><p><b>安联保险首席经济顾问4月25日推特图：</b>各国国内研发净投入显示，从2000年以来，中国的研发投入增长率明显高于欧洲和美韩各国，2015年投入将近4000亿美金，仅次于美国。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-824a235a30bf04ab999ef5009000b67c_b.jpg\" data-size=\"normal\" data-rawwidth=\"988\" data-rawheight=\"834\" class=\"origin_image zh-lightbox-thumb\" width=\"988\" data-original=\"https://pic1.zhimg.com/v2-824a235a30bf04ab999ef5009000b67c_r.jpg\"/><figcaption>横轴代表年份，竖轴代表金额（单位：十亿美金）。数据来源：国际货币基金组织IMF</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>高关税政策同样损害美国经济</b></h2><p><b>4月23日，RITHOLTZ财富管理主席兼首席投资官Barry Ritholtz转发彭博社图：</b>受中国报复性关税政策（提高大豆和小麦进口关税）影响，<b>共和党（特朗普所属政党）地区受损面积最大最严重</b>。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1f1a17a6367986db4637a839a2a24821_b.jpg\" data-size=\"normal\" data-rawwidth=\"970\" data-rawheight=\"680\" class=\"origin_image zh-lightbox-thumb\" width=\"970\" data-original=\"https://pic2.zhimg.com/v2-1f1a17a6367986db4637a839a2a24821_r.jpg\"/><figcaption>红色是共和党区域，蓝色是民主党管理的区域，绿色代表大豆，粉色代表小麦，颜色越深代表损失额度越大</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>也不利于全球经济</b></h2><p><b>4月22日，美联储圣路易斯分行推特</b>：1980-2006年数据显示：在全球范围内，关税提高对进口贸易产生的负面影响会持续多年。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-83d4a33c1763797522b94effa30d097f_b.jpg\" data-size=\"normal\" data-rawwidth=\"769\" data-rawheight=\"602\" class=\"origin_image zh-lightbox-thumb\" width=\"769\" data-original=\"https://pic4.zhimg.com/v2-83d4a33c1763797522b94effa30d097f_r.jpg\"/><figcaption>蓝线代表进口/GDP的百分比变化，红色虚线代表进口关税均值的变化，数据来源：世界银行、经济合作与发展组织OECD和作者的计算</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>这张图显示了中美两国与主要贸易伙伴之间的进出口额。表面看起来</b>中国对美出口额远高于美国对中国出口，<b>但实际上</b>中国对美出口产品的40％ 左右由美国在华企业提供，再加上出口领域不同，商品附加值不同，所以中美双方损失的差异不会像两国贸易逆差额显示的那么大。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-ee102fa2e3106a2db3067c862a01e727_b.jpg\" data-size=\"normal\" data-rawwidth=\"753\" data-rawheight=\"703\" class=\"origin_image zh-lightbox-thumb\" width=\"753\" data-original=\"https://pic4.zhimg.com/v2-ee102fa2e3106a2db3067c862a01e727_r.jpg\"/><figcaption>数据来源：美国国际贸易委员会，联合国商品贸易统计数据库</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>Dalio对形势表示担忧，给财富管理人宝贵建议</b></h2><p><b>4月10日</b>，世界上最大的基金管理机构桥水基金创始人Dalio发表博文，表示<b>中美贸易战或其他形式对抗可能性在上升，他担心贸易战还不是美中摩擦升级的最终极形式。</b></p><p>近期的地缘政治事态发展，提升了发生资本战、网络战或真实战争的可能性。</p><p>目前美中关系<b>正式陷入“懦夫博弈”</b>，即胆小鬼先输的局面，人们必须开始严肃地思考一个问题：特朗普在将美国引领向何方？他真正的目标是什么？不断升级的强硬措辞只是达成和平妥协前的谈判技巧，还是通往战争的必经之路？</p><p>Dalio用“修昔底德陷阱”理论解释了美中产生贸易摩擦的根本原因，<b>即一个新崛起的大国与现有大国之间的矛盾使得战争变得不可避免。</b></p><p><b>Dalio将现有的世界格局与1930年代中晚期时（二战爆发前夕）做了类比，认为两个时期具有九个共同点。</b>1）巨大的去杠杆化；2）用债务的货币化帮助去杠杆，进而推动市场和经济走高；3）债务的货币化、新兴技术和自由贸易，产生了巨大的财富差距鸿沟；4）保护主义增强....................阅读全文：<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU3NDQ0OTMwNA%3D%3D%26tempkey%3DOTU1X3J1Uk92S01xTTNCbTVMNnptQTU1U0FuN0gwYlFyN3Q4bDhyOU1VNkZ4REtjWHg1NHJLWThMYzR0TUJXZlJtcXg3MFdFcWs0NXY5QXg4aU1pQXJJajltVl9VdTdNTGRmSVZpLVctbl8zeV9fVklxWTdxNzZ5TC1ES2RDOEMybmVlMWVtZlg5NDN5WnNaRHpjNDVYVWVpbjBZMUl5WkxOTW15aXFIZWd%252Bfg%253D%253D%26chksm%3D7d3372e54a44fbf3a1948dbae235c9928d54cfa91b410518707edceb75db7348a41d794e2f97%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">【独家】美财长本周访华，且看海外各家众说纷纭</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果您对海外投资资讯感兴趣，请关注微信订阅号“三个逗号”，我们致力于持续关注金融热点话题，传递海外投资资讯。</b></p><p></p>",
+                "comment_count": 0,
+                "image_url": "https://pic2.zhimg.com/50/v2-9bd3c855346298eb99a76d105c28b623_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-9bd3c855346298eb99a76d105c28b623_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-824a235a30bf04ab999ef5009000b67c_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-1f1a17a6367986db4637a839a2a24821_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjczNTY3NCDG/KnXBSgEMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2MzYyMzI1"
+        }
+    ]
+}

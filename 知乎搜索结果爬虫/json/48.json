@@ -1,0 +1,236 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439841770.25817",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439811819.22&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439811819.22479"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1545049926,
+                "is_labeled": false,
+                "excerpt": "当中兴被禁，被人家卡了脖子时，华为立刻下发一条指令，要求法务部和中兴全面和解，凡是在知识产权上与中兴有关的互诉全部取消，双方合作加速国产芯片的研发。同时任正非还语重心长地写了一封信告诉华为人，不要趁火打劫，不要落井下石，不许在这个时候去挖…",
+                "excerpt_title": "",
+                "id": 52615432,
+                "voteup_count": 54,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "badge": [],
+                    "id": "e60bc49e5359af949e74c9ee85d31df4"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/52615432",
+                "created": 1545049926,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-68a34fbe5a18f4b5361789d948033221_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"685\" data-rawheight=\"318\" class=\"origin_image zh-lightbox-thumb\" width=\"685\" data-original=\"https://pic2.zhimg.com/v2-68a34fbe5a18f4b5361789d948033221_r.jpg\"/></figure><p>当中兴被禁，被人家卡了脖子时，华为立刻下发一条指令，要求法务部和中兴全面和解，凡是在知识产权上与中兴有关的互诉全部取消，双方合作加速国产芯片的研发。同时任正非还语重心长地写了一封信告诉华为人，不要趁火打劫，不要落井下石，不许在这个时候去挖中兴的墙角，抢对方的客户。虽然说在市场竞争上，我们是竞争对手。可是当国门外的敌人打过来的时候，我们是战友。——这就是华为的格局。（转）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>华为：中兴被美国卡芯片，我们是战友，不能落井下石</p><p></p><p></p>",
+                "comment_count": 16,
+                "title": "华为：中兴是战友，不能落井下石",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-68a34fbe5a18f4b5361789d948033221_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjUQBxoIMTA3NTI4MTUgxq7e4AUoNjAQQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg1MjYxNTQzMg=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524134755,
+                "is_labeled": false,
+                "excerpt": "阿喀琉斯之踵：即使是再强大的英雄，他也有致命的死穴或软肋。 图中是一位工程师，参与09年中兴出征海外的标杆型工程——埃塞俄比亚移动网络项目。当时日本NHK跟随记录了整个项目的细节，项目接近尾声时，中兴工程师在国庆节聚在一家小小的中国餐厅看国内国…",
+                "excerpt_title": "",
+                "id": 35883310,
+                "voteup_count": 16,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-2cdb4d65377c6fc6cd90e7890522287e_{size}.jpg",
+                    "name": "启信宝",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "启信宝，让商业更真实。",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "qi-xin-bao-93",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-2cdb4d65377c6fc6cd90e7890522287e_is.jpg",
+                    "is_org": true,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/14e5454e86830bd23f73ff859652a623",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "14e5454e86830bd23f73ff859652a623"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35883310",
+                "created": 1524134756,
+                "content": "<p>阿喀琉斯之踵：即使是再强大的英雄，他也有致命的死穴或软肋。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-8d27e47872101d7133bf94802ae770eb_b.jpg\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"448\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-8d27e47872101d7133bf94802ae770eb_r.jpg\"/><figcaption>图片来源网络</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>图中是一位工程师，参与09年中兴出征海外的标杆型工程——埃塞俄比亚移动网络项目。当时日本NHK跟随记录了整个项目的细节，项目接近尾声时，中兴工程师在国庆节聚在一家小小的中国餐厅看国内国庆阅兵仪式，NHK捕捉到了这个年轻工程师眼中亮晶晶的憧憬，这份憧憬是对远在千里之外祖国未来的憧憬，也是对公司事业前途的憧憬。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>但这份憧憬在2018年陷入了至暗时刻。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>中兴被禁 华为告急</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴至暗时刻到来，有中美贸易战，美国对中国制造2025计划打压的因素，但更多是中兴管理层自身一连串的愚蠢行为。顶风作案、明知故犯，舍本逐末酿成了如今的封杀危机。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>并且美国在做出封杀中兴之后，动作也一直未停止，当地时间4月17日消息，美国监管机构当日采取一项措施，禁止移动运营商使用联邦补贴购买中国企业生产的任何电信设备，包括华为科技有限公司和中兴通讯公司在内。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>中国的“无芯”之过</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>众多舆论的背后凸显的是一份恐慌，是对通信行业上游电子技术、通讯元件随时都有可能面临被切断的恐慌，这种恐慌在近几年华为产量几千亿，国内技术又突破欧美壁垒等消息的一片繁荣中被无限放小，但又在这次危机中得到重新审视。过去数十年来我们在互联网、通信技术等领域通过种种方式已经取得重要突破，产业规模在做大，但实际上很多关键领域核心技术我们没有掌握。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以国内第二大通信技术服务企业中兴通讯为例，其去年向供应商采购金额超过百亿元。中兴通讯2017年财报显示，中兴向最大供应商的采购金额为31.69亿元，占本集团年度采购总额5.46%，向前五名最大供应商合计的采购金额为106.12元，占本集团年度采购总额的18.28%。不过，中兴并未披露供应商名字。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>“中国芯”崛起可能吗？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>集成电路产业是一个高度市场化，全球化的产业，凝聚了数学、物理、化学等众多基础学科的智慧结晶，其技术密集程度远超其他产业。从其他国家经验来看，国家的强有力支持和持续投入是这一产业崛起的必要条件。中国经济的长足发展和广阔市场，使我们有足够的底气静下心来发展行业，积累技术，实现突破。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-6c61f8be216ed4c3a6f246dfee0e24b4_b.jpg\" data-size=\"normal\" data-rawwidth=\"481\" data-rawheight=\"289\" class=\"origin_image zh-lightbox-thumb\" width=\"481\" data-original=\"https://pic1.zhimg.com/v2-6c61f8be216ed4c3a6f246dfee0e24b4_r.jpg\"/><figcaption>图片来源启信宝</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>当前我国集成电路产业也不是一无所有，这次事件正可以给国产芯片一个崛起的机会，逆困境而生才能不受制于人。<b>目前在启信宝上收录现为存续状态，注册资金在1000万以上，且有专利的半导体企业目前是有4094家，他们最早的有从1949年便开始了芯片业务的开展</b>，那么，有哪些种子选手有望在未来芯片行业中崛起：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>海思科技；</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>海思科技注册于2004年，最开始是华为研发Android系统的备份系统而成立，覆盖无线网络、固定网络、数字媒体等领域的芯片及解决方案，目前不少华为的手机用的就是华为海思自己的处理器。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d7d086097ec05bd06c3cf71d55edb6b2_b.jpg\" data-size=\"normal\" data-rawwidth=\"742\" data-rawheight=\"988\" class=\"origin_image zh-lightbox-thumb\" width=\"742\" data-original=\"https://pic3.zhimg.com/v2-d7d086097ec05bd06c3cf71d55edb6b2_r.jpg\"/><figcaption>图片来源启信宝</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>不过，像华为的麒麟等芯片，以及海思的hi1612等芯片大多采用的是ARM的结构，华为自身走的也是ARM技术路线，而ARM是一家专门设计cpu架构的公司，本质上还是基于ARM模式，只能解决商业上的问题，无法真正解决核心技术受制于人的问题。但背靠华为雄厚的资金实力，以及一向对研发的看重，目前来看很有优势。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>紫光国芯</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>紫光集团旗下的紫光国芯主攻业务设计、开发及销售智能安全芯片、特种集成电路、存储器芯片。十大股东之一的同方股份有限公司，背后控股人包含清华大学，科研实力雄厚。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e046d89a1ea8a96a9a127edafe6c4dde_b.jpg\" data-size=\"normal\" data-rawwidth=\"435\" data-rawheight=\"521\" class=\"origin_image zh-lightbox-thumb\" width=\"435\" data-original=\"https://pic3.zhimg.com/v2-e046d89a1ea8a96a9a127edafe6c4dde_r.jpg\"/><figcaption>图片来源启信宝</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>目前研制出了一款DDR3存储芯片。虽然技术上没有办法到达存储芯片所需要的高度，只能实现90nm级别的量产。但从目前的情况来看，紫光国芯已经走上轨道。紫光国芯紫原本定位是发展国产存储器，但因为和长江存储之间的关系，未来紫光国芯可能全面转向安全芯片，长江存储将会是紫光存储业务的最主要的平台。　</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>展讯科技</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在全球基带芯片领域上，展讯已经和高通、联发科三分天下了。不过，联发科和展讯在中低端市场已占据优势，在巩固中低端市场份额优势的情况下，不排除这两家手机芯片企业向高通占据优势的中高端市场发起进攻的可能。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>清华紫光旗下的展讯科技，背后股东除了紫光之外还包括英特尔（中国）有限公司，持股比例达20%，对于技术支持和经验指导应该会有一定的优势。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-5551fd17d5e06de8cb4f437e3374f260_b.jpg\" data-size=\"normal\" data-rawwidth=\"557\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb\" width=\"557\" data-original=\"https://pic1.zhimg.com/v2-5551fd17d5e06de8cb4f437e3374f260_r.jpg\"/><figcaption>图片来源启信宝</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2016年，中国大陆的手机芯片企业展讯异军突起，4G芯片出货量同比暴涨574%达到1亿片。同年下半年，领先联发科发布支持LTE Cat7技术的手机芯片，获得了中国移动的支持；又在三季度的时候，其发布了全球首款4G功能机芯片SC9820。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在印度市场，展讯是当地最大的手机芯片厂商，其在印度的合作伙伴覆盖了移动运营商及手机终端厂商。就整个印度基带芯片市场，展讯的市场份额占到55%，成为印度最大的基带芯片供应商。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>结语</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>与开头图相呼应，这张图昨晚在中兴同事圈疯传。深圳机场，年逾七旬的中兴创始人侯为贵走在前面，后面跟着中兴董事长殷一民和CEO赵先明，赶赴远方救火，而侯为贵在2016年已经从中兴退休，已经为中兴工作30年了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-12fe60464a5664a9d8d7807d24854629_b.jpg\" data-size=\"normal\" data-rawwidth=\"689\" data-rawheight=\"585\" class=\"origin_image zh-lightbox-thumb\" width=\"689\" data-original=\"https://pic2.zhimg.com/v2-12fe60464a5664a9d8d7807d24854629_r.jpg\"/><figcaption>图片来源启信宝</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这条侯为贵前进的道路，何尝不像中国的崛起之路呢？<b>目的地在前方，但不知道哪个路过的“美国”路人会出来碰撞你，耽误前进的脚步。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>不过，塞翁失马，焉知非福，美国的阻拦，更能够让我们停下来仔细思考一下，能够从“共享单车又融几百亿美金、某家公司一个月又烧了几十亿的块钱”快钱舆论中清醒过来。毕竟认清现实才能选择对的方向前进。<b>曾经，面对严峻的国际形势，举国之力突破两弹一星技术。这次我们又为什么不能做到呢？大国复兴之路本来就不是一帆风顺的道路。但希望每一次对中国的围堵，都成为中国前进的动力。</b></p><p></p>",
+                "comment_count": 0,
+                "image_url": "https://pic4.zhimg.com/50/v2-9f14103b2b1f73027b5d649845d5892d_hd.jpg",
+                "title": "中兴的封杀危机，中国的阿喀琉斯之踵",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-9f14103b2b1f73027b5d649845d5892d_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-8d27e47872101d7133bf94802ae770eb_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-6c61f8be216ed4c3a6f246dfee0e24b4_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjU0Mzc5MCDk5uHWBSgQMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODgzMzEw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "这很正常。买方市场和卖方市场基本上是一样大的，假设以前印度买阿根廷的大豆，但现在阿根廷大豆被中国买了，印度只好去买美国大豆。而且美国大豆便宜，中国去买价格更高的大豆，必然导致大豆整体价格上扬。除非中国自己种大豆，否则无法对美国大豆产业构成…",
+                "created_time": 1525775080,
+                "id": 386616447,
+                "voteup_count": 13,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "帐篷里的夜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "纵观世界风云变化",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "zhang-peng-li-de-ye",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/fe6e2264e6dca7ce0fe48fae3ce68b2d",
+                    "badge": [],
+                    "id": "fe6e2264e6dca7ce0fe48fae3ce68b2d"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/386616447",
+                "question": {
+                    "title": "如何看待中国停止购买美国大豆后，美大豆销售反涨？",
+                    "url": "http://www.zhihu.com/api/v4/questions/275957086",
+                    "created": 1525495813,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 275957086
+                },
+                "updated_time": 1525775080,
+                "content": "这很正常。买方市场和卖方市场基本上是一样大的，假设以前印度买阿根廷的大豆，但现在阿根廷大豆被中国买了，印度只好去买美国大豆。而且美国大豆便宜，中国去买价格更高的大豆，必然导致大豆整体价格上扬。除非中国自己种大豆，否则无法对美国大豆产业构成伤害。<br>这不能说明我们这个贸易制裁不好，至少我们把钱给其他国家了，可以搞好与其他国家关系，甚至有利于我们对该国的出口。<br>以后中美可能都会走上这样一条路，减少中美两国的贸易量，能找第三国替代的就不找对方了。这样实际上是对世界经济的伤害，中美真的经济互补性很强，不是其他国家能替代。对中美也没好处。但美国现在已经举起大刀，中国也没得选择了。",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAwMzYyMjE3IOj1xdcFKA0wAEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzU5OTI3M3IJMzg2NjE2NDQ3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558086913,
+                "is_labeled": false,
+                "excerpt": "今天大家都被这个新闻刷屏了，华为的战略能力再一次让大家见识到了。我对这个新闻倒是一点不惊讶，去年搞中兴的时候我和技术口的朋友聊天，华为早就做好了准备。在知乎上我的几个回答都有提到，不要说是芯片，就是安卓明天不让用了，华为都有能力让全体用户…",
+                "excerpt_title": "",
+                "id": 66145886,
+                "voteup_count": 90,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-2395886fa312b1bdf4975f3193f17b51_{size}.jpg",
+                    "name": "王家CFA",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "土木工程"
+                    },
+                    "headline": "公众号“家哥的小黑屋”",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "wang-jia-48-31",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-2395886fa312b1bdf4975f3193f17b51_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/68c2982dd93521afde9d151e2d1b76dc",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "北京智慧九宜科技有限责任公司 首席执行官"
+                        }
+                    ],
+                    "id": "68c2982dd93521afde9d151e2d1b76dc"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66145886",
+                "created": 1558086913,
+                "content": "<p>今天大家都被这个新闻刷屏了，华为的战略能力再一次让大家见识到了。我对这个新闻倒是一点不惊讶，去年搞中兴的时候我和技术口的朋友聊天，华为早就做好了准备。在知乎上我的几个回答都有提到，不要说是芯片，就是安卓明天不让用了，华为都有能力让全体用户第二天用上“备胎”操作系统。<br/><br/><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-2c0e64c697ff4664db44211d531c6aa1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"2221\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-2c0e64c697ff4664db44211d531c6aa1_r.jpg\"/></figure><p><br/><br/>简单说华为的芯片距离高通，确实还有差距，所以其他都一样的情况之下，我认为消费者购买内置高通芯片的无可厚非。但是华为的单说手机产品，在设计上有亮点、在拍照上有亮点。对于消费级产品来说，只要是好产品，价格合适，不需要在乎那相差并不多的芯片性能。在这次事件之前，1季度的销量数据已经证明了，华为手机本身就是很能打的。（华为芯片的自给自足率60%左右，这下海思的加班加点了）。<br/><br/>市场有市场的规律，但是从用户角度来说，也许之前还有些犹豫，但是在性能和体验接近的时候，我会选择华为。<br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-af636216e2aa3216e1835ab48009b14e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"637\" data-rawheight=\"373\" class=\"origin_image zh-lightbox-thumb\" width=\"637\" data-original=\"https://pic3.zhimg.com/v2-af636216e2aa3216e1835ab48009b14e_r.jpg\"/></figure><p><br/><br/><br/>其实我们看到华为的发言是很收敛的：<br/><br/>“美国的技术不可获得”，这要是喜欢哭惨的人，直接说“美国人疯狂封锁”。通篇下来更多是对同事们的鼓舞，也是对后面面对艰苦的预见。网络上有华为的员工已经说了，华为不鼓励自己的员工在朋友圈哭惨，这也确实是过去华为在海内外电信业务披荆斩棘的原因。企业能够盈利，玩法千万种：<br/></p><ul><li>纯粹收割智商税低配高价的；</li><li>伪装成国货做买办生意的；</li><li>公司不挣钱做资本市场生意的。<br/></li></ul><p><br/>老实说华为是正经靠生意盈利的，我记得很早的时候在知乎写过一个答案。土木系毕业之后有同学去非洲援建，修水坝。当地局势不稳，有的时候大使馆鞭长莫及，合作最多的就是华为。华为员工在当地服务得好，冲突双方都买账，毕竟打电话是刚需。为了不让工地被骚扰，华为送了当年还是给别人贴牌的功能机，两方都不骚扰水坝援建工地了。正式靠着这种欧美公司不去我去，不做二道贩子的玩法，赚到了前几桶金。<br/><br/>按照绝大多数企业的玩法，有了钱没处花（其实就是不愿意投入研发），搞搞控股集团、搞搞地产生意，毕竟容纳几千亿且汇报可预期的就是收购别的公司、投资别的公司和地产行业了。不，沿着产业链继续做。海思不光是做麒麟，还有其他各种各样的芯片，前一阵子我们商业地产圈要做视频技术改造，发现所有人都在等华为的下一代GPU解决方案：AI的、安防的、商业场景应用的。也许芯片一开始看不到回报，但是一旦做好了，就是一个大生态。<br/><br/>往回来说，华为的各种备胎的持续不断投入体现的是战略高度。企业的长期战略与投资人的短期目标天然冲突。我们看今天海思做芯片这个事件，海思团队的各种立项是非常重大的决策，做不好怎么办，卖不掉怎么办？在不同的企业是这么处理的:<br/>~中兴，职业经理人不要冒风险，买就可以了;<br/>~联想，职业经理人本来就想着买过来赚钱一条路;<br/>~京东方，职业经理人必须得做，被股民骂了十多年。<br/><br/>私有企业在做战略性决策方面受制于财务投资者压力更小。相对能够更小阻力长期执行，虽然海思在内部一定压力也很大。企业的战略视野决定了企业的发展高度，雷布斯要求小米学华为的营销，他自己要继续进步的是战略:<br/>~怎么在产业链上继续向上;<br/>~怎么解决与产业链的关系;<br/>~渠道体系如何健全;<br/>还是没钱，然而已经上市了，今天花几千亿研发不一定能有什么结果的芯片，股东可能要拆了他吧。董小姐要是这么做，散户也得拆了她。<br/><br/>现在是个企业，刚做一年就要上市，各类资本蜂拥而至，大战略的执行难上加难，都等着三五年套现走人。除了这个芯片，哪天安卓翻脸，第二天华为手机也能切换自己的，这个“备胎团队”，还在等着。退潮之下，才能发现谁在裸泳对吧。<br/><br/>-----------------<br/>看一个企业是不是好企业，巴菲特曾经提到过护城河理论。在不同行业的护城河是不一样的，比如垄断、比如品牌、比如渠道。但是在下一阶段的市场分析和投资中，特别是5G时代的投资，技术护城河应该成为一条主线。毕竟大家都以为全球化的产业链和产业分工已经形成，特总统一巴掌打了脸。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>更多有意思的商业评论、公司分析、投资策略，请搜索公众号“家哥的小黑屋”。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-aa8e0c41c2b70dd46b1ffd6cfcce24e5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"258\" data-rawheight=\"258\" class=\"content_image\" width=\"258\"/></figure><p></p>",
+                "comment_count": 18,
+                "image_url": "https://pic2.zhimg.com/50/v2-5b902ae447ee1267b122f4bf8dd1e919_hd.jpg",
+                "title": "自助者天助之",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-5b902ae447ee1267b122f4bf8dd1e919_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-2c0e64c697ff4664db44211d531c6aa1_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-af636216e2aa3216e1835ab48009b14e_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "Cj0QBxoJMTAyODI4MDEwIIGK+uYFKFowEkAAUhF0b3BfYWN0aXZpdHlfcG9zdFoFMzM5OTZyCDY2MTQ1ODg2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1522401042,
+                "is_labeled": false,
+                "excerpt": "美国总统特朗普上周签署「301调查」备忘录，对约600亿美元中国进口商品征收附加税，令中美陷入贸易战边缘。 <b>白宫顾问：“中国制造2025”让其他国家没未来</b> 白宫贸易顾问纳瓦罗接受访问时表示，特朗普签署的对中国商品征收高额关税的计划，毫无疑问就是直指「…",
+                "excerpt_title": "",
+                "id": 35129065,
+                "voteup_count": 8,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "badge": [],
+                    "id": "fa44ee5a15b2195a692d7ac364e702c0"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35129065",
+                "created": 1522401042,
+                "content": "<p>美国总统特朗普上周签署「301调查」备忘录，对约600亿美元中国进口商品征收附加税，令中美陷入贸易战边缘。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>白宫顾问：“中国制造2025”让其他国家没未来</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p>白宫贸易顾问纳瓦罗接受访问时表示，特朗普签署的对中国商品征收高额关税的计划，毫无疑问就是直指「中国制造2025」的相关产业，包括人工智能、机器人、量子计算等。因为中国的这项计划，意味着其他国家不会有任何未来。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-547bb67da180699fd03c92828b109713_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"505\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"505\" data-original=\"https://pic4.zhimg.com/v2-547bb67da180699fd03c92828b109713_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>纳瓦洛认为，中国对外宣布「中国制造2025」计划，就是变相的向全世界宣告，中国未来要占领所有新兴行业，让其他经济体无路可走。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>是不是有点阴谋论的味道？那「中国制造2025」到底是怎样的呢。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>「中国制造2025」早在2015年5月就由中国国务院提了出来，以揭示中国从「制造大国」往「制造强国」迈进的10 年行动纲领。大致内容是，中国将致力于10大领域发展，包括：新一代信息技术产业(包括5G技术)、高档数控机床和机器人、航空航天装备、海洋工程装备及高技术船舶、先进轨道交通装备、节能与新能源汽车、电力装备、农机装备、新材料、生物医药及高性能医疗器械。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>关于中国制造2025</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>制造业一直都是实体经济的主体，是国民经济的脊梁，是国家安全和人民幸福安康的物质基础，是我国经济实现创新驱动，转型升级的主战场。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-009df3b4800889b7114bdb9003d29bb4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"506\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb\" width=\"506\" data-original=\"https://pic1.zhimg.com/v2-009df3b4800889b7114bdb9003d29bb4_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>据世界银行统计数据显示，2010年以来，我国制造业增加值连续五年超过美国，成为制造大国，但是与发达国家相比，我国制造业创新能力、整体素质和竞争力仍有明显差距，大而不强。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>因此，为了实现从制造大国向制造强国的转变，国务院组织编制并于2015年5月8日正式发布了《中国制造2025》，对我国制造业转型和跨越发展作了整体部署，提出了我国制造业由大变强“三步走”战略目标，明确了建设制造强国的战略任务和重点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>制造业覆盖面很广，为了确保用十年的时间，到 2025 年，迈入制造强国行列，必须坚持整体推进、重点突破。《中国制造2025》围绕经济社会发展和国家安全重大需求，选择 10 大优势和战略产业作为突破点，力争到 2025 年达到国际领先地位或国际先进水平。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>醉翁之意不在酒！美国发动“贸易战” 真正目的</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>很显然，美国发动“贸易战”直指《中国制造2025》的十大优势和战略产业，并打着知识产权和“中国阴谋论”的幌子，其意图昭然若揭。美国真正考量是要遏制中国制造业升级，拖慢中国实业兴邦的中国制造2025这一强国战略。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-25db4e06e2a8fba04ff885a335ef5ce1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"594\" data-rawheight=\"351\" class=\"origin_image zh-lightbox-thumb\" width=\"594\" data-original=\"https://pic2.zhimg.com/v2-25db4e06e2a8fba04ff885a335ef5ce1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>虽说从微观上看，知识产权的确是中美的一个议题，但宏观上讲，美国以知识产权为借口，借关税手段打压中国向高精尖制造业强国升级是美国背后的更深层考量。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不管这场贸易战是否会打起来，中国将进一步提升制造业开放水平，加强“中国制造2025”与全球制造业的对接。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>更多资讯请关注微信公众号【<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/mp/profile_ext%3Faction%3Dhome%26__biz%3DMzIyMzU5NDU5MA%3D%3D%26scene%3D124%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">芯电易网</a>】</p>",
+                "comment_count": 1,
+                "title": "芯电易：白宫顾问直接挑明，“中国制造2025”让其他国家没未来",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-547bb67da180699fd03c92828b109713_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-009df3b4800889b7114bdb9003d29bb4_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-25db4e06e2a8fba04ff885a335ef5ce1_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjI0MTQ5MiCS/vfVBSgIMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1MTI5MDY1"
+        }
+    ]
+}

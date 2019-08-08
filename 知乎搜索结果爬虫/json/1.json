@@ -1,0 +1,217 @@
+﻿{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5508.74149",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=5521.74984&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5521.74984"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1560910868,
+                "is_labeled": false,
+                "excerpt": "2019年6月17日，驻加拿大大使卢沙野在加拿大《国会山时报》发表题为《中美贸易磋商的真相是什么》的署名文章，全文如下：近日，中方发布了《关于中美经贸磋商的中方立场》白皮书。白皮书从中美经贸摩擦的影响、美方在磋商过程中几次出尔反尔、中方对待磋商…",
+                "excerpt_title": "",
+                "id": 69758576,
+                "voteup_count": 232,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_{size}.jpg",
+                    "name": "中国一带一路网",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "传递信息 沟通文明 合作共赢 （微信号：ydylgov）",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "zhong-guo-yidai-yilu-wang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/36eb424c507b2f772b4d3ffff5c25824",
+                    "type": "people",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "36eb424c507b2f772b4d3ffff5c25824",
+                    "is_org": true
+                },
+                "url": "http://zhuanlan.zhihu.com/p/69758576",
+                "created": 1560910868,
+                "content": "<p>2019年6月17日，驻加拿大大使卢沙野在加拿大《国会山时报》发表题为《中美贸易磋商的真相是什么》的署名文章，全文如下：</p><p>近日，中方发布了《关于中美经贸磋商的中方立场》白皮书。白皮书从中美经贸摩擦的影响、美方在磋商过程中几次出尔反尔、中方对待磋商的原则立场等角度，回顾了中美经贸磋商的基本情况，阐明了中方对于中美经贸磋商的政策立场，回应了国际社会对中美经贸磋商关注的主要问题。</p><h2>一、现任美国政府到底想干什么？</h2><p>现任美国政府奉行“美国优先”政策，对外采取一系列单边主义和保护主义措施，动辄使用关税“大棒”，将自身利益诉求强加于他国。</p><p>美国无视中美经济结构、发展阶段特点和国际产业分工现实，坚持认为中国采取不公平、不对等的贸易政策，导致美国出现对华贸易逆差，在双边经贸交往中“吃了亏”，并对华采取单边加征关税措施。</p><p>国际社会中的许多国家应对美的单边贸易霸凌行为有共同感受。美利用其国内法，对欧盟、日本、加拿大、墨西哥等采取加征关税的措施，近日又宣布取消印度最惠国待遇，逆经济全球化大势，肆意挑起全球贸易争端。</p><h2>二、谁在中美经贸磋商中出尔反尔？</h2><p>美方自挑起中美经贸摩擦后，双方磋商经历几次波折，均由于美方的出尔反尔。</p><p>美三次推翻已达成共识的内容，对于磋商过程中中方提出文本内容及相关表述的修改意见的通常做法，美方却指责中方在磋商中“开倒车”，坚持不合理的高要价，坚持在协议中写入涉及中国主权事务的要求，坚持不取消加征的全部关税，并且以提高加征关税的税率来施压，致使谈判严重受挫。</p><p>孰是孰非，不证自明。</p><h2>三、美方挑起全球贸易摩擦伤害了谁？</h2><p>美加征关税导致两国贸易和投资下滑，提高了企业成本、抬升了国内物价、阻碍了出口，损人不利己。</p><p>贸易战没有实现美国经济增长，反而将导致美GDP增幅在未来几年每年减少0.3% - 0.5%。美方采取的贸易保护措施，违反世界贸易组织规则，损害多边贸易体制，威胁全球经济增长，严重干扰全球产业链和供应链，给全球经济复苏带来严峻挑战。</p><h2>四、中方经贸磋商的立场是什么？</h2><p>经济全球化和贸易自由化是不可阻挡的时代潮流，以邻为壑的单边主义、保护主义不得人心。</p><p>中国始终坚持平等、互利、诚信的磋商立场。中美应秉持相互尊重、平等互利的精神，本着善意和诚信，通过磋商解决问题，缩小分歧，扩大共同利益，共同维护全球经济稳定和发展。</p><p>在原则问题上，中国决不让步，任何挑战都挡不住中国前进的步伐。</p><p>中美达成一个互利双赢的协议，符合中美两国利益，顺应世界各国期待。希望美国同中国相向而行，本着相互尊重、平等互利的精神，管控经贸分歧，加强经贸合作，共同推进以协调、合作、稳定为基调的中美关系，增进两国和世界人民福祉。</p>",
+                "comment_count": 0,
+                "title": "中美贸易磋商的真相是什么？",
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "Cj8QBxoJMTAzNjMwOTQ0IJS4pugFKOgBMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjExNTA2MXIINjk3NTg1NzY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1560920185,
+                "is_labeled": false,
+                "excerpt": "据最新数据显示，中国遭受的网络攻击主要来自美国。以前老是有人贼喊捉则，现在数据出来了，估计要结结实实的打脸了。所以，今天一起来了解一下相关的内容<b>分开来解析一下。</b><b>首先是，来自美国的，或者是美国来的。 </b> <b>Amérikidin kelgen</b><b>从美国 Amérika+din，…</b>",
+                "excerpt_title": "",
+                "id": 69784197,
+                "voteup_count": 10,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/952a1ad4f_{size}.jpg",
+                    "name": "TurG",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "微信公众号：每天学一句维吾尔语",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "turghunjan-89",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/952a1ad4f_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/20cdf23e820cb8756f2610ea78d71811",
+                    "type": "people",
+                    "badge": [],
+                    "id": "20cdf23e820cb8756f2610ea78d71811",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/69784197",
+                "created": 1560920185,
+                "content": "<p>据最新数据显示，中国遭受的网络攻击主要来自美国。以前老是有人贼喊捉则，现在数据出来了，估计要结结实实的打脸了。</p><p>所以，今天一起来了解一下相关的内容</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-4acc156b52cefb80d50db506374d214b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"288\" data-rawheight=\"80\" class=\"content_image\" width=\"288\"/></figure><p><b>分开来解析一下。</b></p><p><b>首先是，来自美国的，或者是美国来的。                 </b> <b>Amérikidin kelgen</b></p><p><b>从美国  Amérika+din，其中Amérika最后的a因为后面加了din，而din里面还有i，所以这个a要变成i。和谐一下，让说话的口型更方便一些。于是就变成了Amérikidin</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Kel（   ）的意思是来，gen这个词尾表示的是一种完成的状态，就是“来了的”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>所以Amérikidin kelgen就是从美国来的/来自美国的</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>tor（   ）是网络的意思</b></p><p><b>hujumi（      ），实际上是hujum+i，表示第三人称形式。</b></p><p><b>而攻击的动词是 </b> <b>          （hujum qilish）是以+  （ish）结尾的动词。词干是 hujum qil</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>所以，tor hujumi在这里就成了一组短语了。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>来自美国的网络攻击，其实并不可怕。我们的征途是星辰大海。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>看吧，其实并不是很难吗</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>微信公众号：【每天学一句维吾尔语】</b></p>",
+                "comment_count": 0,
+                "title": "来自美国的网络攻击丨用维吾尔语怎么说？",
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "Cj4QBxoJMTAzNjM2NjY1IPmAp+gFKAowAEAAUhF0b3BfYWN0aXZpdHlfcG9zdFoGMTEzMzcwcgg2OTc4NDE5Nw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1560735699,
+                "is_labeled": false,
+                "excerpt": "对于中美贸易战的研究多了去了，对于中国和美国的贸易战的根源，说明白的确实不多。如果说做原因分析的话，大约集中在三个层次：最基础的是从贸易层面来看，中美之间的贸易不平衡是直接的原因，“在货物贸易上，美国对中国的确有比较大的逆差。美方的统计是…",
+                "excerpt_title": "",
+                "id": 69413662,
+                "voteup_count": 38,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-b80f2200adf05f4bf5f7cdf9b15a9a39_{size}.jpg",
+                    "name": "八零年代",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "金融从业人员",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "yang-liu-an-78-50",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-b80f2200adf05f4bf5f7cdf9b15a9a39_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/538c340abcfbc92d4dc94e08e3c9272e",
+                    "type": "people",
+                    "badge": [],
+                    "id": "538c340abcfbc92d4dc94e08e3c9272e",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/69413662",
+                "created": 1560735699,
+                "content": "<p>对于中美贸易战的研究多了去了，对于中国和美国的贸易战的根源，说明白的确实不多。如果说做原因分析的话，大约集中在三个层次：</p><p>最基础的是从贸易层面来看，中美之间的贸易不平衡是直接的原因，“在货物贸易上，美国对中国的确有比较大的逆差。美方的统计是3752亿美元，中方的统计是2758亿美元。”虽然两方的数据因为统计口径的原因不太一致，但是大体上中国对于美国的贸易顺差接近3000亿美元是现实情况。</p><p>很多专家在这个状况产生的原因方面做了很多分析，其中，因为中国产业链条位置导致的被夸大的顺差是最中肯的答案。简单来说，中国对美国贸易顺差接近3000亿美元，但是中国总共的贸易顺差也就3000多亿美元，当然不可能都集中在美国。</p><p>“中国对美国相当一部分货物贸易的顺差是由中国对韩国、日本、德国等产业链高端经济体的逆差转化的，本质上是美国对这些国家的逆差，只是统计在中国的名义下。根据中国商务部发布的《关于中美经贸关系的研究报告》，2017年，中国货物贸易顺差的59%来自加工贸易。比如，2017年韩国对中国的贸易顺差就接近750亿。”</p><p>所以，无论是不是中国来承担最后的罪名，美国总是需要靠进口来满足自身的消费和生产需求，只不过到现在轮到中国来实现最终的产成品输出，从而体现了较多的对美顺差。</p><p>于是，第二个层面的因素就被推动成为公认的根本原因：修昔底德陷阱。中美贸易战不是贸易战，是国力战，这成为当前最受欢迎的答案。因为中国的经济规模和全球政治地位的提升，到现在来看，中国已经成为仅次于美国的超级大国，所以老大和老二的竞争才是此次中美贸易战的“根本原因”。</p><p>如果说从政治层面来讲，这个好像也无可辩驳，确实如此，似乎当面的美苏冷战到现在转变成了美中“新冷战”。但是如果从经济的角度来较真的话，好像这个答案依然不完美，再深度追问下，为啥会出现这种情况？为啥美国经济会被中国赶超？为啥美国非要进口如此之多的产品？为啥中国能够生产如此之多的产品？</p><p>所以，根源在哪里？根源在“全球化”。自从有了跨国贸易以来，国与国之间的差异就越发严重，按照经济学理论，社会分工的深化是不可阻挡的趋势，在一个前提下——资本的价值在于创造更大的利润。</p><p>市场经济环境下，在追求的更高的利润的驱动下，资本（就是钱）总是向成本更低，利润更高的方向流动。在国与国之间没有限制资本流动的情况下，国与国就会出现明显的社会分工深化，在全球化的浪潮下，各国真的是有钱出钱（资本流出国，从英国到美国到日本），有力出力（劳动力输出国，从日本到四小龙到中国到东南亚），有资源出资源（资源输出国，从南美到澳洲到中东），造就了近三十年的全球化经济大浪潮。</p><p>在这一全球化的过程中，你就会发现资本和资源的流动可以是无障碍（完全自由贸易），但是劳动力的流动则没那么容易（移民问题）。于是，全球化大发展造就的是全球的资源和资本的自由流动，以及全球劳动力薪资水平差距的缩小（以高水平位为目标，低水平位不断上升），那么必然会发生的事情就是发达经济体的劳动力薪资水平涨幅变慢，而劳动力输出国的劳动力薪资水平快速上升。</p><p>结果，作为发达经济体的中产阶级们会发现一个尴尬的局面，穷兄弟们越来越有钱，工作机会多多，凭啥作为领导者的我们越来越穷（消费能力并没有等比例提升），找工作越来越难？原因就在于制造业的转移，发达经济体容易出现所谓的制造业空心化（实际上也不全是，比如德国），制造业的规模萎缩必然导致相关的工作机会和财税的减少。</p><p>所以，才会有特朗普的制造业回归美国，让美国再次伟大（其实就是自给自足），但是在当前的全球社会分工如此细化的情况下，制造业的迁移涉及到的相关配套非常繁复，也不是那么容易。</p><p>啰啰嗦嗦那么多，其实结论就是：中美贸易战背后的“逆全球化”，根源在于全球化推动了全球的资源和资本的低障碍流动，同时劳动力的流动则没法合拍，所以导致全球的财富分化越来越严重，全球资源的分配也不那么均衡，结果各地的“民愤”导致政治格局的动荡。</p><p></p>",
+                "comment_count": 4,
+                "title": "“逆”全球化为啥会出现？",
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzNTU0MjAwINPfm+gFKCYwBEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjk0MTM2NjI="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-3d63fb1a497a65266a09eae9fe157b92_hd.jpg",
+                "updated": 1560494852,
+                "is_labeled": false,
+                "excerpt": "黄浦江在浦东的某地形成了一个90度的直角转弯，涛涛江水便在这转角处冲出了一片冲击滩地，三面环水。假如站在黄浦江西岸望向这里，犹如一只巨兽张开大嘴在饮水。恰好这里又是一位明代知名网红陆深（官至四川省省长）的祖宅所在，因此人们将此处称为陆家嘴。…",
+                "excerpt_title": "",
+                "id": 69130538,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "type": "people",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/69130538",
+                "created": 1560492092,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-cea299c971b0166a04b1eb63fecc3656_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>黄浦江在浦东的某地形成了一个90度的直角转弯，涛涛江水便在这转角处冲出了一片冲击滩地，三面环水。假如站在黄浦江西岸望向这里，犹如一只巨兽张开大嘴在饮水。恰好这里又是一位明代知名网红陆深（官至四川省省长）的祖宅所在，因此人们将此处称为陆家嘴。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-c8ae20fc5c6cc9a6bd5ea322aac0aa94_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"560\" data-rawheight=\"446\" class=\"origin_image zh-lightbox-thumb\" width=\"560\" data-original=\"https://pic1.zhimg.com/v2-c8ae20fc5c6cc9a6bd5ea322aac0aa94_r.jpg\"/></figure><p> 陆家嘴地图<br/></p><p>如果说中国也有华尔街的话，那么一定是指两条街，一条是北京的金融街，负责顶层设计；一条便是上海的陆家嘴，负责商业行为（干活挣钱）。昨天，整个金融圈的焦点都聚集在陆家嘴金融论坛上，因为3位重量级官员从帝都飞到了魔都陆家嘴，就为了把市场期待的利好在创业板开板之际放出来（举行了科创板开板仪式）。为了这一天，沪深港通已经8日净流入，昨天净流入14.31亿元。陆家嘴论坛的全称是陆家嘴金融创新论坛，至今已经举办了第11届了，本届的主题是“加快国际金融中心建设推动经济高质量发展”。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-87c906e7b987c3fb6e65f416e871dcfa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"192\" class=\"content_image\" width=\"320\"/></figure><p>菠菜认真的学习了领导讲话，按照三位发言顺序，整理了一些干货：</p><p>一、 鹤总的讲话（代表红墙）。</p><p>1、看中国经济要看长期，长期向好的趋势不变。巨大的市场潜力在拉动经济增长，庞大的中等收入群体正在形成（这话是说给台下世界知名金融机构高管听的），中国已经形成全球最大的成长性市场（印度三哥打喷嚏了吗？）；</p><p>2、供给、需求和金融是三角框架，在全球化背景下，它们是开放的系统而不是封闭的系统。这是领导进一步解释了中国经济良好的内部结构的基础，要知道对岸的需求端明显不足，他们的三角其实已经散了；</p><p>3、金融正在进行供给侧改革，要适配（经济）。再次强调了加大直接融资比例，这里就是指资本市场。此处领导特别提出了科创板，这也正体现了金融体系的“适配”。还强调了加快推进上市、退市制度（老生常谈了，看疗效吧）；</p><p>二、 老郭的讲话（注意，轮值论坛chairman）。</p><p>1、老郭讲的主要是银行和整个金融体系的改革，过度竞争和服务空白同时存在，欢迎境外金融机构参与进来，我们将进一步扩大银行、保险、证券、信托的开放，尤其欢迎有经验的资产管理机构与中国同行一道，募集人民币资金投入到人民币证券市场。（台下邀请的确实有不少境外投资者，听上去政策的开放态度很明确）；</p><p>2、信贷在融资结构中占比80%以上，股权融资不超过10%。这话是说给一级市场债市听的，因为能发出去债的基本是大型企业，中小创是拿不到钱的。信贷资源也一样，钱都被大企业贷走了，小企业在银行信贷部门基本是冷板凳；</p><p>3、严惩违法违规机构（早该惩治了，比如昨天的非洲猪瘟注射剂）。人为操纵资产质量分类，甚至肆意作假账，削弱了金融业本应具备的公信力。主要是违规成本太低，要继续严惩；</p><p>4、特别提到了养老基金在资本市场中占比要达到世界平均水平。看来下一步要再发养老目标基金了，现在还是头部几家老牌基金公司在做，显然是不够的</p><p>5、靠盲目投资投机房地产来理财的居民和企业，最终都会发现其实很不划算。再次强调某些地区房地产投资过度，泡沫严重。菠菜觉得这为接下来降准打下伏笔（老郭是央行D委书记），即使货币政策进一步宽松也会继续限制房地产的过度投资行为，因为占用了太多贷款。</p><p>三、 易村长的讲话（县官不如现管，你懂的）。</p><p>1、金融开放，这是易村长整个讲话的基本基调。科创板、MSCI等都是大家心里预期内的，菠菜听到了易村长说的上海石油期货交易所的成绩，一年多以来以人民计价的原油期货上市以来境外投资者开户数量不断增加，同时铁矿石期货、PTA期货的投资者也在增加。这点菠菜认为是再次为上海石油期货交易所业务做了有效推动；</p><p>2、强调了外部环境的同时，阐明我国资本市场建设会进一步按照市场化法治化国际化的总要求，坚定推进资本市场对外开放。此处，易村长特别提出了足够的工具储备；</p><p>3、按内外资一致原则，允许合资证券和基金管理公司的境外股东实现“一参一控”（一家机构或者受同一实际控制人控制的多家机构参股证券公司的数量不得超过两家，其中控股证券公司的数量不得超过一家）。这里也是说给外资听的，他们总是担心政策的不确定性，这里是提现了内外一视同仁。也提到了放宽外资银行在华从事证券投资基金托管业务的准入限制；</p><p>4、支持上海国际金融中心建设。这里特别强调了一个规划，到2020年上海基本确立以人民币产品为主导、具有较强金融资源配置能力和辐射能力的全球性金融市场地位。讲真，陆家嘴的外资投行总部数量还是比北京金融街少，而且不少金融皮包公司和山寨假外资企业（此处菠菜就不展开了）。</p><p>4、支持上海国际金融中心建设。这里特别强调了一个规划，到2020年上海基本确立以人民币产品为主导、具有较强金融资源配置能力和辐射能力的全球性金融市场地位。讲真，陆家嘴的外资投行总部数量还是比北京金融街少，而且不少金融皮包公司和山寨假外资企业（此处菠菜就不展开了）。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-00e95a0924df9f447dc29ae5182b4347_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic4.zhimg.com/v2-00e95a0924df9f447dc29ae5182b4347_r.jpg\"/></figure><p>分析完讲话，我们再来深思一个问题，为什么是陆家嘴而不是金融街？珠三角有了粤港澳大湾区，而长三角的核心上海是第一批自贸区试点，这种由一线城市辐射周边形成城市带的思路一直会有政策性延续。如果细致的听下来整个论坛，昨天晚上浦江夜话的主题是“全面提升资源配置能力——上海金融中心的核心竞争力”；今天最后一场的主题正是“长江三角区域一体化与自贸试验区新发展”。如果说粤港澳大湾区代表着中国外向型经济的活力，那么陆家嘴就代表着金融行业的活力。菠菜做个不恰当的比喻，一个赚经常项下顺差，一个打算未来赚资本项下顺差。</p><p>分析完讲话，我们再来深思一个问题，为什么是陆家嘴而不是金融街？珠三角有了粤港澳大湾区，而长三角的核心上海是第一批自贸区试点，这种由一线城市辐射周边形成城市带的思路一直会有政策性延续。如果细致的听下来整个论坛，昨天晚上浦江夜话的主题是“全面提升资源配置能力——上海金融中心的核心竞争力”；今天最后一场的主题正是“长江三角区域一体化与自贸试验区新发展”。如果说粤港澳大湾区代表着中国外向型经济的活力，那么陆家嘴就代表着金融行业的活力。菠菜做个不恰当的比喻，一个赚经常项下顺差，一个打算未来赚资本项下顺差。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-02a3562648a92bc665315cc7e465c894_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"635\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb\" width=\"635\" data-original=\"https://pic1.zhimg.com/v2-02a3562648a92bc665315cc7e465c894_r.jpg\"/></figure><p>因此，菠菜判断近期上海地方性企业也会迎来一批政策性利好，这里包括传统的地方国改（请参考<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/zbp6ONWOyu0-K8Dn2Oi06g\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">必读的上海国改纯干货</a>一文）和张江为代表的科技类公司。论坛要持续两天，今天盘中可能还有利好进一步抛出。</p><p>PS：科创板开板和科创板上市公司IPO不是一码事，要再等2个月左右才有真正的科创板公司上市。</p><p></p>",
+                "comment_count": 0,
+                "title": "陆家嘴论坛除了科创板外，还有哪些重要的投资机会？",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-3d63fb1a497a65266a09eae9fe157b92_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-c8ae20fc5c6cc9a6bd5ea322aac0aa94_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-87c906e7b987c3fb6e65f416e871dcfa_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzNDkxMzc5ILzwjOgFKAIwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjkxMzA1Mzg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1560493553,
+                "is_labeled": false,
+                "excerpt": "自中国提出“一带一路”倡议以来，个别国家不时宣称该倡议难以契合当地需求，指责“中国倡议与参与国实际需求相脱节”“未能促进技术转移和经济发展”等，并列举巴基斯坦、马来西亚等中国合作伙伴的“例证”。个别国家抹黑“一带一路”的时候，一般都是该倡…",
+                "excerpt_title": "",
+                "id": 69136766,
+                "voteup_count": 79,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_{size}.jpg",
+                    "name": "中国一带一路网",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "传递信息 沟通文明 合作共赢 （微信号：ydylgov）",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "zhong-guo-yidai-yilu-wang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/36eb424c507b2f772b4d3ffff5c25824",
+                    "type": "people",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "36eb424c507b2f772b4d3ffff5c25824",
+                    "is_org": true
+                },
+                "url": "http://zhuanlan.zhihu.com/p/69136766",
+                "created": 1560493553,
+                "content": "<p>自中国提出“一带一路”倡议以来，个别国家不时宣称该倡议难以契合当地需求，指责“中国倡议与参与国实际需求相脱节”“未能促进技术转移和经济发展”等，并列举巴基斯坦、马来西亚等中国合作伙伴的“例证”。</p><p>个别国家抹黑“一带一路”的时候，一般都是该倡议取得重大进展之时。</p><p>自2013年倡议提出六年来，中国同“一带一路”国家贸易总额已超过6万亿美元，对“一带一路”沿线国家直接投资超过900亿美元，“六廊六路多国多港”的互联互通架构已基本形成，一大批合作项目落地生根。</p><p>在单边主义、保护主义沉渣泛起时，“一带一路”合作为国际贸易和投资搭建新平台，为世界经济增长开辟新空间。</p><p>今年4月，第二届“一带一路”国际合作高峰论坛成功举办，37位外国领导人、2位重要国际组织负责人及来自五大洲150个国家、92个国际组织的共6000多名代表齐聚北京，共襄盛举。他们对“一带一路”倡议投出了信任票。</p><p>作为“一带一路”倡议的重大先行项目，中巴经济走廊在建项目最多，进展最快，给巴当地投资、就业、税收及整体国民经济带来巨大利好。</p><p>目前，在中巴经济走廊框架下9个项目已完工，13个项目开工在建，覆盖港口、交通基础设施、能源和产业合作等领域。在走廊投资和预期带动下，5年来巴经济发展平稳增长，GDP平均增长率达4.77%；外国对巴直接投资由2012年6.5亿美元猛增至2018年22亿美元；巴人均年收入从2012年1334美元增长至2018年的1641美元。</p><p>据统计，走廊项目为当地人民创造7万个直接就业岗位，为巴政府贡献9.3亿美元税收，2017-2030年走廊将为巴创造70万个就业机会。走廊优先实施能源项目15个，装机规模11110兆瓦，其中11个项目开工或投产运营，装机总量达6910兆瓦，有效舒缓了巴能源危机，改善其国际收支平衡。</p><p>2018年9月，美国防部高官在美智库毫不掩饰地表露心机，“美国及其盟友和伙伴不能去正面对抗中国‘一带一路’，因为其满足当地对基建的渴求，而应借助西方发达的媒体宣传造势，集中曝光该倡议的消极、负面消息，放大其遭遇的困难和挑战，以此侵蚀其合法性，动摇参与国家的决心”。</p><p>然而，一位中亚学者则直言，美迄今未提出相较“一带一路”倡议更具吸引力的方案，却眼红中国影响力的拓展，纯粹是为反对而反对。</p><p>事实上，共建“一带一路”，契合经济全球化的历史潮流，顺应全球治理体系变革的时代要求，回应各国人民过上更好日子的强烈愿望。</p><p>面向未来，中国及其合作伙伴应继续凝神聚力、聚焦重点、深耕细作，共同绘制精谨细腻的“工笔画”，推动共建“一带一路”沿着高质量发展方向不断前进。共建“一带一路”成果频传之际，就是各种抹黑言行进退失据之时。（作者是中国国际问题研究院亚太研究所副所长、副研究员蓝建学）</p>",
+                "comment_count": 0,
+                "title": "抹黑“一带一路” 都是该倡议取得重大进展之时",
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "Cj4QBxoJMTAzNDkyNzgwIPH7jOgFKE8wAEAAUhF0b3BfYWN0aXZpdHlfcG9zdFoGMTE1MDYxcgg2OTEzNjc2Ng=="
+        }
+    ]
+}

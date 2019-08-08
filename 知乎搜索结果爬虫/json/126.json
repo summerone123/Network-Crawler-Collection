@@ -1,0 +1,237 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1468391318.74554",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1467768058.05&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1467768058.04567"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "过度解读。美国页岩油革命后，页岩油井伴生页岩油气过剩。美国国内天然气跌到人民币0.6元一方左右（新疆进口价格1.7元一方）。但是这些过剩天然气出口困难，出口到中国需要大型液化气船，还得压缩。运输成本很高。于是一批国际性化工企业，比如台塑、中化、…",
+                "created_time": 1525170130,
+                "id": 380721239,
+                "voteup_count": 26,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "看看",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/081cf3dfef9905cd31137bd63534475e",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "吃瓜群众",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "kan-kan-13-50-9",
+                    "id": "081cf3dfef9905cd31137bd63534475e"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/380721239",
+                "question": {
+                    "title": "2018年4月19日中国公布对美国产的卤化丁基橡胶反倾销调查的初裁裁定。会刺激中国化工产业发展吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274007846",
+                    "created": 1524203667,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274007846
+                },
+                "updated_time": 1525170130,
+                "content": "<p>过度解读。美国页岩油革命后，页岩油井伴生页岩油气过剩。美国国内天然气跌到人民币0.6元一方左右（新疆进口价格1.7元一方）。但是这些过剩天然气出口困难，出口到中国需要大型液化气船，还得压缩。运输成本很高。于是一批国际性化工企业，比如台塑、中化、LG化学等到美国开天然气化工厂，做成乙烯、橡胶、化肥等大宗化工产品出口亚洲。实际上就是美国出口天然气，以化工产品的方式。我国化工生产厂经营压力都很大。日韩台化工企业干脆放弃抵抗，主动到美国建厂。</p><p>说到页岩油革命，美国在08年金融危机后，页岩油给美国实打实地充了很多血。原油减小了进口量，还出口了。天然气带动化工产业兴旺。美国实体经济回血不少。其实美国人现在搞贸易战很无厘头。他的就业率4%左右，接近充分就业。从历史角度看，也是很好的就业时期。根本不存在国内民众失业率太高，矛盾大的问题。</p><p>川普的执政基础其实很混乱。既有反全球化的，也有反移民的，还有反少数族裔保护政策的，也有仇视一切外来人口和宗教的红脖子。然后这帮人聚集在一起制订国策，他们先得打架。找不到能妥协的共同点。唯一的共同点就是反对以前二十年的政治正确。内政上，川普其实很难寻求统一的。政策甚至很矛盾，一方面减税，另一方面要扩大基建支出。内政难搞，就搞外交。和中国在搞贸易战，和欧洲贸易摩擦。和朝鲜戏剧般的和解，到叙利亚扔一批导弹。川普的政策可以用非理性和疯来描述。一个国家和一个群体有时候是会陷入疯狂的。参考西方的群体心理学。</p><p>怎么看待中美贸易战?川普的做法是疯打，TPP是杀人于无形。疯打其实要容易对付点，疯了就容易露出破绽。现在更需要研究川普政策和外交的破绽。预期中美贸易战还会持续一段时间，5月的谈判不会有结果。中兴独自一边哭去。历史性的大国冲突，真的不会顾及你一家公司，不值。找不到川普政策破绽的办法下，就是拖，自己别露出破绽。也许需要一两年等美国国内民众和川普政府冷静后才能真正谈解决问题。这个阶段，以挂免战牌为主。不主动挑事，适当反击。拳击有时候比的不是谁能打，比的是谁能抗。</p>",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTkyODk5MjIg0v+g1wUoGjAFQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTY2MDAycgkzODA3MjEyMzk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "我把原文贴出来，并且把我看到的重点画出来了。仔细读的话应该能发现，事实上反倾销高粱和猪肉价格下降是没什么关系。出问题的是供求关系，应该是成猪的出栏量过高，导致了猪肉的收购价下降。导致猪肉价格下降有很多原因。其中一个是规模化的养猪场对传统猪…",
+                "created_time": 1526623888,
+                "id": 394836114,
+                "voteup_count": 9,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "雨齐",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/4f0165947303837e00dff1d200543207",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "BD",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "srj-41-35",
+                    "id": "4f0165947303837e00dff1d200543207"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/394836114",
+                "question": {
+                    "title": "为什么对美国高梁反倾销会导致猪肉价格下降？",
+                    "url": "http://www.zhihu.com/api/v4/questions/277651779",
+                    "created": 1526617779,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 277651779
+                },
+                "updated_time": 1526636382,
+                "content": "<figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-9cbd34162002e59d78ad377d2d602814_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1016\" data-rawheight=\"1109\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-ce11d5b103a28d36291b1f50cbeb9eb4_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1016\" data-original=\"https://pic2.zhimg.com/v2-9cbd34162002e59d78ad377d2d602814_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1016'%20height='1109'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1016\" data-rawheight=\"1109\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-ce11d5b103a28d36291b1f50cbeb9eb4_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1016\" data-original=\"https://pic2.zhimg.com/v2-9cbd34162002e59d78ad377d2d602814_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-9cbd34162002e59d78ad377d2d602814_b.jpg\"></figure><p>我把原文贴出来，并且把我看到的重点画出来了。</p><p>仔细读的话应该能发现，事实上反倾销高粱和猪肉价格下降是没什么关系。出问题的是供求关系，应该是成猪的出栏量过高，导致了猪肉的收购价下降。</p><p>导致猪肉价格下降有很多原因。其中一个是规模化的养猪场对传统猪农的冲击，原本散养的猪农会根据价格的波动决定出栏量。而养猪场为了保证资金流水，即便市场价格低会保证出栏量。而且规模化养殖的成本要低一些（主要是大量采购猪苗和饲料的价格低），产量稳定有计划性。所以在市场上竞争有一定的优势。</p><p>通常一头猪养6-7个月就能达到200多斤，这时候出栏是最经济的，再养耗费的饲料和体重的增加就会不成正比。传统猪农为了避免低价出售，会在价格低时压低出栏量，遇到了猪肉价格阴跌的周期，长期压低出栏量会导致饲料成本的上升，生产循环周期加长导致的时间成本增加（成猪没卖掉，没钱买新猪苗），以至于严重亏损。但是如果一旦出现大量的猪农放弃养猪，会导致6-7个月后猪肉价格供需关系又一次大反转，猪肉价格会暴涨，要再次恢复产量稳定猪肉价格又需要一个漫长的过程，不利于社会安定。</p><p>权衡利弊之下就决定放弃对美高粱反倾销的制裁。毕竟在我们国家，稳定压倒一切。我们不是美国人，家底厚。杀敌一万，自损八十的买卖可以干，杀敌一万，自损八千的活是不能干的。</p><hr><p>以上是我个人的见解，我猜可能会有人说这是向美国投降的例证，我希望能阐述一套能自洽的逻辑并且列举事实。</p>",
+                "comment_count": 5,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-9cbd34162002e59d78ad377d2d602814_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic2.zhimg.com/v2-9cbd34162002e59d78ad377d2d602814_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTAxODU4MTA3IJDd+dcFKAkwBUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzk3NjA5OHIJMzk0ODM2MTE0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "贸易战话题下很多人还天真的以为欧盟去会拆老美的台。。。还巴西大豆澳洲铁矿呢，想啥呢",
+                "created_time": 1523011446,
+                "id": 360081028,
+                "voteup_count": 8,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "13e578db6ccd11b5d715da8bc8c8d072"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/360081028",
+                "question": {
+                    "title": "如何看待欧盟日本申请加入美对华知识产权磋商？",
+                    "url": "http://www.zhihu.com/api/v4/questions/271294043",
+                    "created": 1523008064,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 271294043
+                },
+                "updated_time": 1523011447,
+                "content": "<p>贸易战话题下很多人还天真的以为欧盟去会拆老美的台。。。</p><p>还巴西大豆澳洲铁矿呢，想啥呢</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTU1MzAxMTMg9p6d1gUoCDACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTYyNjAycgkzNjAwODEwMjg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1521898650,
+                "is_labeled": false,
+                "excerpt": "欧盟、加拿大、中南美洲、墨西哥、中国是美国最大的5个贸易出口目的地。美国对欧盟、墨西哥和中国的出口保持着快速增长的势头，对加拿大、中南美洲、巴西、OPEC等国家和地区的出口贸易额已经出现了下降的趋势。从2005年到2017年，美国对中国的出口贸易占美…",
+                "excerpt_title": "",
+                "id": 34905111,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-b3d3469338523787459e3a5b5dcaa4a6_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-bc322541cc9065f70f6f2a1d7f313a6e_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-60c700f93e52b3a80999bb44665785ed_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_{size}.jpg",
+                    "badge": [],
+                    "name": "特布鲁",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "专注数据，关注社会 公众号：不惑门 (NCR2019_4)；",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "te-bu-lu-59",
+                    "id": "87a2a1d7bdeafde6d1500eafc4b1fa76"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/34905111",
+                "title": "美国与世界主要国家和地区的贸易平衡",
+                "created": 1521898401,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b3d3469338523787459e3a5b5dcaa4a6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1051\" data-rawheight=\"655\" class=\"origin_image zh-lightbox-thumb\" width=\"1051\" data-original=\"https://pic3.zhimg.com/v2-b3d3469338523787459e3a5b5dcaa4a6_r.jpg\"/></figure><p>欧盟、加拿大、中南美洲、墨西哥、中国是美国最大的5个贸易出口目的地。美国对欧盟、墨西哥和中国的出口保持着快速增长的势头，对加拿大、中南美洲、巴西、OPEC等国家和地区的出口贸易额已经出现了下降的趋势。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-bc322541cc9065f70f6f2a1d7f313a6e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"850\" data-original=\"https://pic3.zhimg.com/v2-bc322541cc9065f70f6f2a1d7f313a6e_r.jpg\"/></figure><p>从2005年到2017年，美国对中国的出口贸易占美国出口贸易的比例从3.93%上升到8.01%，中国是美国出口贸易规模增长最快的国家，2017年美国对中国的出口贸易规模达到了1,868亿美元，仅次于加拿大、墨西哥。美国对香港出口贸易占比也从1.61%上升到2.25%，这其中有很大一部分通过转口贸易进入了中国。美国对欧盟的出口贸易占比从24.01%下降到22.50%，对加拿大的出口贸易占比从19.06%下降到14.65%，说明对着两个地区出口贸易增长较慢。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-60c700f93e52b3a80999bb44665785ed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1078\" data-rawheight=\"667\" class=\"origin_image zh-lightbox-thumb\" width=\"1078\" data-original=\"https://pic2.zhimg.com/v2-60c700f93e52b3a80999bb44665785ed_r.jpg\"/></figure><p>欧盟、中国、加拿大、墨西哥、中南美洲是美国最大的5个贸易进口国。美国从中国的贸易进口增长速度较快，2017年，美国从中国的进口额达到5,240亿美元。美国从加拿大、中南美洲、OPEC、沙特等国家和地区的进口贸易已经出现了下降的趋势。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-03d9785baf1327e27e2339cd81b601dd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"842\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb\" width=\"842\" data-original=\"https://pic2.zhimg.com/v2-03d9785baf1327e27e2339cd81b601dd_r.jpg\"/></figure><p>从2005年到2017年，美国从中国的进口贸易占美国进口贸易额的比例从12.58%上升到18.07%。美国从欧盟的进口贸易占比基本保持在21%左右，从加拿大进口贸易占比从15.84%下降到11.69%，从中南美洲进口贸易占比从8.19%下降到6.64%，从墨西哥进口贸易占比从9.41%上升到11.93%，从印度进口贸易占比从1.18%上升到2.67，从OPEC进口占比从6.97%下降到2.87%。中国、印度、墨西哥等国是美国进口贸易增长速度较快的国家。OPEC和沙特则是进口贸易增速较慢的国家和地区。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-104cc0d0c659abc7da365b9eae968091_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1059\" data-rawheight=\"674\" class=\"origin_image zh-lightbox-thumb\" width=\"1059\" data-original=\"https://pic2.zhimg.com/v2-104cc0d0c659abc7da365b9eae968091_r.jpg\"/></figure><p>2017年，美国与中国的贸易逆差为3,372亿美元，中国是美国贸易逆差规模最大的国家。美国与欧盟、墨西哥、德国、日本、意大利、印度、法国、台湾、韩国等国家和地区也都是贸易逆差。美国与香港、新加坡、中南美洲、巴西、OPEC、沙特等国家之间的贸易是顺差。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b5ee1e4116e7ecede68ae2692aedf97a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"839\" data-rawheight=\"462\" class=\"origin_image zh-lightbox-thumb\" width=\"839\" data-original=\"https://pic3.zhimg.com/v2-b5ee1e4116e7ecede68ae2692aedf97a_r.jpg\"/></figure><p>从2005年到2017年，美中贸易逆差占美国贸易逆差的比例从28.14%上升到59.32%。2017年，美国有将近60%的贸易逆差来自中国。如果单从这个数据看，足够触目惊心，好像也足以说明特朗普签字的对中国商品的强征关税有一定的合理性。</p><p>由于全球油价下跌，美国与OPEC、沙特等原油供应国之间的贸易关系从逆差转为顺差。从而造成了美国贸易逆差基本控制在7,000亿上下，而与中国的贸易逆差占比则相应的提高较快。因此，我们说美中贸易逆差占比虽然有较快的增长，但是造成美中贸易占比较高的一个原因是由于全球油价调整，进口原油贸易金额下降较多所致。</p><p>虽然美国与中国的货物贸易逆差有3,756亿元，与中国的服务贸易顺差仅为384亿元，由于货物和服务的利润率差异较大，美中双方在贸易的实际收益发面的差距并没有贸易逆差规模的比例那么大。</p><p>中国是美国最大的货物进口国，也是美国第五位的货物出口地，同时也是美国服务出口增速最快的国家。美国对中国的贸易战，貌似有很多充足的理由，但是，从长远来看，贸易战的结果可定会影响中国企业在美国市场的发展，但是，同样也会波及到美国企业在中国的增长空间，特别是利润率较高的服务业增长空间。</p>",
+                "comment_count": 1,
+                "voteup_count": 9,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjE1MTk2MiChp9nVBSgJMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM0OTA1MTEx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1531314293,
+                "is_labeled": false,
+                "excerpt": "周三受毛衣战升级影响大盘暴跌，现在毛衣战不能多说，否则审核不过发不了言，但是也明显能看到救市在进行，不过溪水之前跟大家讲过的话今天就不想多说了，大家可以去翻阅一下溪水上周日的文章《神秘资金出手救A股机构却不买账》，这里不赘述了，溪水当时明…",
+                "excerpt_title": "",
+                "id": 39538792,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-881020dd366a1d43a119dbe346847825_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-d253b5d82864e49267aa144bf561a016_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-dec9a0c5deb1c492732f5aecdd017634_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "溪水长流",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/7b461494af643073c803e6f7b8239bce",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "证券投顾",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xi-shui-chang-liu-3-97",
+                    "id": "7b461494af643073c803e6f7b8239bce"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/39538792",
+                "title": "国运面前人人有责",
+                "created": 1531314293,
+                "content": "<p>         周三受毛衣战升级影响大盘暴跌，现在毛衣战不能多说，否则审核不过发不了言，但是也明显能看到救市在进行，不过溪水之前跟大家讲过的话今天就不想多说了，大家可以去翻阅一下溪水上周日的文章《神秘资金出手救A股机构却不买账》，这里不赘述了，溪水当时明确说了，当时的原话有截图的，</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d253b5d82864e49267aa144bf561a016_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"415\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic3.zhimg.com/v2-d253b5d82864e49267aa144bf561a016_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>   本来溪水以为救市能扛过上半周的，结果是周三开始就尿了，当然也跟毛衣战升级有关系，然后溪水今天想再说一段话，估计说话是发不出的，截图看看吧，绝对是官媒不是杜撰的</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-dec9a0c5deb1c492732f5aecdd017634_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"864\" data-rawheight=\"244\" class=\"origin_image zh-lightbox-thumb\" width=\"864\" data-original=\"https://pic1.zhimg.com/v2-dec9a0c5deb1c492732f5aecdd017634_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-3f21f78a13403c848f0d41f66105e610_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"707\" data-rawheight=\"423\" class=\"origin_image zh-lightbox-thumb\" width=\"707\" data-original=\"https://pic1.zhimg.com/v2-3f21f78a13403c848f0d41f66105e610_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>大家要注意我圈住的字，我从内心里来讲，肯定是愿意的，因为是国运之战了，但是15年股灾告诉我，决定休息了，至于怎么理解我不好发表言论，否则肯定被和谐， 最近一年下来我保本，说好听一点算没亏钱是活的好的，因为选的是工具股，好在没踩雷，但是现在这样我拿着工具股都不踏实，什么时候放出增量才做趋势，什么时候暴跌才做反抽。这是我个人的看法，当前实在是提不起兴致了，至于毛衣战能否砸出黄金坑，不考虑了，12年创业板见底拉升的时候明显是有量的，现在无量都是扯淡。我从内心坚决支持祖国，国运之战有国有家，我也是认可的，我也愿意共克时艰，但是股票账户应该不差我一个吧。今天就不多说了，这一年希望来了很多次，结果每次都是下套。耐心等着打游击了，等量来了再说趋势。从上周五救市至今，机构一直都不给救市面子，机构都不在意，我小屁民更不敢当勇士。领导忙着给股市打扫卫生，我就不来添乱了。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-76bc305445fa5635f4097c0d283c7f68_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"671\" data-rawheight=\"505\" class=\"origin_image zh-lightbox-thumb\" width=\"671\" data-original=\"https://pic1.zhimg.com/v2-76bc305445fa5635f4097c0d283c7f68_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>PS：谢谢一直以来各位股友的大力支持，溪水每天的辛苦复盘总结，觉得不错的朋友帮忙点赞，转发收藏，您的举手之劳是对溪水最大的鼓励和支持。也是溪水坚持的动力。</b></p>",
+                "comment_count": 0,
+                "image_url": "https://pic2.zhimg.com/50/v2-881020dd366a1d43a119dbe346847825_hd.jpg",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNzg0ODExMiD1gJjaBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjEzNTM4NXIIMzk1Mzg3OTI="
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441574329.83587",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1441434508.27&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441434508.26910"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "当初我就说过了，结果一堆人跑来说打脸了 打脸了，现在也不知道打了谁的脸2333. 随着中国的制造业外移，接受转移的国家经济开始增长也是可以预期的，那么他们的油脂和肉类的需求增加也是可以预期的。 当然了，还有另一个原因。那就是今年乌拉圭和阿根廷干旱…",
+                "created_time": 1525928130,
+                "id": 387998476,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/3a32e96bd6c24ed8863d5ba6f39ccbc1_{size}.jpg",
+                    "badge": [],
+                    "name": "Acrad",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "治疗魔法开发 高阶魔导师教育"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/de01a2703b1c1fe0fc75d2fe185d5a99",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "zhang-wen-9-69-59",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/3a32e96bd6c24ed8863d5ba6f39ccbc1_is.jpg",
+                    "is_org": false,
+                    "headline": "辛辛苦苦抖机灵，然而没人看。",
+                    "type": "people",
+                    "id": "de01a2703b1c1fe0fc75d2fe185d5a99"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/387998476",
+                "question": {
+                    "created": 1525495813,
+                    "url": "http://www.zhihu.com/api/v4/questions/275957086",
+                    "title": "如何看待中国停止购买美国大豆后，美大豆销售反涨？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 275957086
+                },
+                "updated_time": 1525928130,
+                "content": "<p> 当初我就说过了，结果一堆人跑来说打脸了 打脸了，现在也不知道打了谁的脸2333.</p><p> 随着中国的制造业外移，接受转移的国家经济开始增长也是可以预期的，那么他们的油脂和肉类的需求增加也是可以预期的。</p><p> 当然了，还有另一个原因。那就是今年乌拉圭和阿根廷干旱，巴西的大豆虽然收获尚可但有很多供应商捂盘。 </p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAwNjEzNzM4IMKhz9cFKAcwAEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzU5OTI3M3IJMzg3OTk4NDc2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524116356,
+                "is_labeled": false,
+                "excerpt": "<b>美国商务部在美东时间 4 月 16 日宣布，将禁止美国公司向中兴通讯销售零部件、商品、软件和技术 7 年，直到 2025年3月13日。</b> 杀人诛心，美国的一纸禁令，让本就风雨飘扬的中兴，再受重创。 有分析认为，由于美国公司在这 7 年内都不卖东西给中兴，美国此举…",
+                "excerpt_title": "",
+                "id": 35821968,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-d33dc1ca87345095f79536c5ce083299_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-7e25450c104ee93b2b028b521f01ea5b_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-27ad949e00bc09215e96ca7d82b349e3_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-8474271682d3609656fd948bd9ca1108_{size}.jpg",
+                    "badge": [],
+                    "name": "億翔昱诚众创集团",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/2a22cd50e52f88f0b032452a0e54d104",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "yi-xiang-yu-cheng-zhong-chuang-ji-tuan",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-8474271682d3609656fd948bd9ca1108_is.jpg",
+                    "is_org": true,
+                    "headline": "用信息，为创业提速。",
+                    "type": "people",
+                    "id": "2a22cd50e52f88f0b032452a0e54d104"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35821968",
+                "title": "大国博弈下的牺牲品，下一个华为？",
+                "created": 1524116357,
+                "content": "<figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d33dc1ca87345095f79536c5ce083299_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"252\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-d33dc1ca87345095f79536c5ce083299_r.jpg\"/></figure><p><b>美国商务部在美东时间 4 月 16 日宣布，将禁止美国公司向中兴通讯销售零部件、商品、软件和技术 7 年，直到 2025年3月13日。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>杀人诛心，美国的一纸禁令，让本就风雨飘扬的中兴，再受重创。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有分析认为，由于美国公司在这 7 年内都不卖东西给中兴，美国此举无疑将重挫中兴的发展，国内一些声音在心疼中兴的同时也更加担心华为。在中美贸易战一波未平，一波又起的大背景下，美国此举杀敌一千，会否自损八百？傲慢与偏见背后，北美电信企业又会受到怎样影响？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1</p><p><b>理由</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7e25450c104ee93b2b028b521f01ea5b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"716\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-7e25450c104ee93b2b028b521f01ea5b_r.jpg\"/></figure><p><b>美国对于华为、中兴的处罚次数太多了，具体到此次风波，还要从去年说起。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2017 年 3 月 7 日，中兴就美国政府出口管制调查案件达成和解，案件起因是中兴美国公司向美国制裁的国家伊朗出售违禁产品，<b>中兴承认了3项指控：在未获得美国政府许可的情况下，向伊朗出口美国产品，妨碍司法，以及制造重大不实陈述。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>同时，中兴总计认罚金额高达 11.92 亿美元，合计人民币约 82.2 亿元。除了交钱，中兴还做出了纪律处分的承诺，包括但不限于裁员、罚款等人事措施。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但据外媒报道，美国商务部周一发表声明称，中兴通讯在 2016 年至 2017 年间曾向商务部产业安全局做出虚假陈述，中兴通讯未如实披露它曾向有过违法行为的雇员支付全额奖金，且未曾向它们发出谴责函。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴通讯承诺解雇 4 名高级雇员，并通过减少奖金或处罚等方式处罚 35 名员工。但中兴通讯在今年 3 月承认，该公司只解雇了 4 名高级雇员，未处罚或减少 35 名员工的奖金。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>“中兴通讯误导了商务部。中兴通讯没有谴责（涉事）员工和高管，反而给予奖励。这种令人震惊的行为不容忽视。”美国商务部长威尔伯·罗斯在声明中说。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>站在美国的角度来看就是：我已经罚过你一次了，你不知悔改，还变本加厉。好，那我做得就彻底一点。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是，就有了这样强硬到匪夷所思的制裁措施。</p><p>2</p><p><b>对中兴影响</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-27ad949e00bc09215e96ca7d82b349e3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"370\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-27ad949e00bc09215e96ca7d82b349e3_r.jpg\"/></figure><p><b>简单来说，如果禁令真的落实，并且长达 7 年的话，对于中兴来说将会是毁灭性的打击。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如今的制裁措施，不仅只有罚款那么简单，中兴甚至有停产的危险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们先来看看目前中兴的主要业务：目前中兴主要包含手机、平板等消费类电子产品以及电信设备两大块业务，其中电信设备占营收以及相关服务占约 60%，而消费类电子产品仅占 30 % 左右。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在市场竞争如此激烈的今天，别说 7 年，就是 7 个月都有可能对一家公司造成致命的打击。原因也很简单，如今的智能手机制造完全依赖“世界工厂”，而美国所能提供的处理器、调谐器、玻璃等零件，一时半会还真没法在别国找到替代品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>高通的处理器肯定是没有了，其它依赖美国的零部件等也没戏了。由于 Android 系统是开源，基本上可以随便用，但是如今中兴已经拿不到 Google 的 GMS 授权（可以理解为 Google 全家桶），对于进军国际市场是不小的阻碍。尤其是在海外销售占比高达 70% 的情况下。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而电信设备方面，据全天候科技报道，中兴的电信设备部分的关键组件，比如说光传输的发送器与接收器等，还是以国际大厂作为零件供应主要来源，电信设备中的零件亦有不少来自美国的供货商。整体来看，外来零件占其料件比例至少有 6 成以上，而来自美国供应商的料件至少占了这 6 成的一半以上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>唇亡齿寒，中兴的生产受到威胁，连带着也会影响一批中国的供应商。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>掌握了“核心科技”的美国，可以肆无忌惮地对中国厂商实施类似的打击，因为“无芯”一直是中国半导体行业难以言说的痛。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这像极了《三体》中智子对地球的科技封锁，如果硬要找些宽慰的话，就是这会刺激中国半导体事业的发展，甚至有可能会上升到“两弹一星”这种举国之力的高度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但无论如何，<b>中兴都已经沦为了大国博弈的牺牲品。</b></p><p>3</p><p><b>后续及影响</b></p><p><b>中兴只是个靶子</b></p><p>4 月 17 日上午，针对美国商务部宣布将禁止美国公司向中兴通讯销售零部件、商品、软件和技术 7 年，中国商务部新闻发言人表示：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>中方注意到美国商务部宣布对中兴公司采取出口管制的措施。中方一贯要求中国企业在海外经营过程中，遵守东道国的法律政策，合法合规开展经营。中兴公司与数百家美国企业开展了广泛的贸易投资合作，为美国贡献了数以万计的就业岗位。希望美方依法依规，妥善处理，并为企业创造公正、公平、稳定的法律和政策环境。商务部将密切关注事态进展，随时准备采取必要措施，维护中国企业的合法权益。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>而中兴通讯在官网发表声明称，已获悉美国商务部对公司激活拒绝令。公司正在全面评估此事件对公司可能产生的影响，与各方面积极沟通及应对。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>今早，受事件影响，中兴通讯 AH 股双双停牌，原因是以待刊发内幕消息公告，内容有关美国商务部工业与安全局激活拒绝令。待公司刊登相关公告后复牌。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>另据新浪科技报道，截至 4 月 16 日美国股市收盘，高通下跌 1.72%、美光下跌 1.11%；同时，美国光纤网络提供商 ACIA暴跌 35.97%，Oclaro 下跌 15.18% ；此外，A 股多家科技板块公司股价走低，海康威视、大华股份盘中股价触及跌停。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴只是个靶子，战场之上，人人自危。</p><p><b>受影响的美国本土厂商实际数量比想象更</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>目前与中兴合作的美国企业众多，包括微软、英特尔、IBM等知名企业。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴曾经宣布在2012至2015年向美国的高通和博通采购至少50亿美元芯片，而最近几年来，中兴通讯已经在美国芯片和美国设备上投入140亿美元，并为美国市场直接和间接地创造了20000个就业岗位。公开资料显示，从中兴目前的软硬件与零部件采购状况来看，美国厂商占其采购比重高达 30% 到 40%。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有分析称，对于那些注册地不在美国，但在业务据点、技术服务据点在美国的公司而言，也同样在美国商务部禁令范围中。所以受到该禁令影响的美国国内公司和其他国家在美投资的公司实际数量会更多。</p><p><b>中国方面潜在的“以牙还牙”还击将重创相关企业</b></p><p>尽管目前中国政府还未对美国此举进行实质性的反击，但网络上已有不少声音认为，中国政府应“以牙还牙”，<b>用相同标准重新考虑思科等美国企业的准入制度。</b>在《华尔街日报》引述的一封联名信中，谷歌、苹果、沃尔玛等企业联合上书特朗普，称实施严厉的关税政策将引来报复，从而对美国经济产生负面影响。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一直以来，思科在国内设备出现漏洞以及市场垄断等报道时有耳闻，早在2013年，全国政协委员、中央财经大学证券期货研究所所长贺强在两会期间就提出，应提高对思科等外国企业审查的严格性，提高其市场准入门槛。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>的确，中国对待美国企业的态度更加包容，实现了“我家大门常打开”；反观美国，对待中国企业的准入尺度极为苛刻，如果中国政府用美国政府对待华为、中兴的态度严苛对待思科等美国企业，将同样会使这些美国公司遭受巨大的损失。中国市场也是时候重新考虑美国企业进入的衡量尺度了。</p><p><b>长远影响：伤害贸易环境，影响美国国内就业率</b></p><p>良好的贸易环境会极大地拉动就业率增长，但是如果两国一直处在剑拔弩张的关系之中，势必有更多就业机会被扼杀。在美国智库布鲁金斯学会的一份研究中显示，<b>如果中国发起反制措施，将会影响到分布在美国2783个县的两百万个工作岗位，在这两千多个县中，有82%的县在2016年的选举中，都投了特朗普的票。</b>而贸易战的延续将在市场和就业两方面持续损害美国小企业利益。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>华为、中兴这些年来的遭遇傲慢与偏见的“美国故事”明确的揭示了一个直白的道理：国家间的商业竞争，并非只是单纯的技术、资金、服务和企业竞争力，在国家之间的谈判和博弈框架下，设立对等的国家利益的市场审核制度同样重要。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>用一句略显俗套的话来形容，“这是一场没有硝烟的战争”。</p>",
+                "comment_count": 0,
+                "voteup_count": 10,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUxOTI5NSCF1+DWBSgKMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODIxOTY4"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "在退出TPP的情况下，通过回流制造业替代made in china 会带来可怕的经济问题。美元的实际购买力下降，真实所得降低，经济停滞，由于历史的积累问题，物价可能会爆发式上涨。日用消费品价格的提高，会带来连锁反应。日用消费品价格上升→劳动力成本上升→商…",
+                "created_time": 1540433370,
+                "id": 517825832,
+                "voteup_count": 12,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/a4a085f8076bb2419881388a6393995a_{size}.jpg",
+                    "badge": [],
+                    "name": "小肥熊",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/2283b99d68f2e6fad9c1bab7857f2b19",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "xiangyu-wang-65",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/a4a085f8076bb2419881388a6393995a_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "type": "people",
+                    "id": "2283b99d68f2e6fad9c1bab7857f2b19"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/517825832",
+                "question": {
+                    "created": 1539743428,
+                    "url": "http://www.zhihu.com/api/v4/questions/298847843",
+                    "title": "如果搬走美国人家中所有的Made in China，那么大约还能剩下多少东西？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 298847843
+                },
+                "updated_time": 1540433481,
+                "content": "<p>在退出TPP的情况下，通过回流制造业替代made in china 会带来可怕的经济问题。美元的实际购买力下降，真实所得降低，经济停滞，由于历史的积累问题，物价可能会爆发式上涨。日用消费品价格的提高，会带来连锁反应。日用消费品价格上升→劳动力成本上升→商品价格上升→货币价值下降。</p><p>当时欧美国家解决滞胀的方法，是通过自由经济还是全球化，我更倾向于是后者。全球化，带来了廉价消费品，廉价消费品替代了原先的高价消费品，使整个社会的生产、生活成本降低，培养劳动力成本降低，变相提高了货币的真实价值。通胀的问题得以解决，市场的扩大以及富余的劳动力也为经济增长腾出空间。</p><p> 那现在反过来呢？经过多年的积累，美国生产的消费品价格和发展中国家的消费品价格差距越来越大，日用消费品与富人差距确实不大，但却与劳动者息息相关。消费品价格的上升，先不说通胀的问题，首先带来的是“生产”劳动者的成本大幅提高，那雇佣成本必然进一步提高，通胀和经济停滞在预期之内。</p><p></p><p></p>",
+                "comment_count": 8,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTI0MjIwNjkwINrLxN4FKAwwCEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyODY4NzAyMXIJNTE3ODI1ODMy"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524058604,
+                "is_labeled": false,
+                "excerpt": "中美贸易战持续到现在，中美双方你来我往，胜负未分。这次，美国终于放出了大招：将禁止美国公司向中兴通讯销售零部件、商品、软件和技术7年，直到2025年3月13日，并对中兴通讯处以 3 亿美元罚款。最迅速的影响自然是中国股市了。股市历来是市场经济的晴雨…",
+                "excerpt_title": "",
+                "id": 35839337,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-8018165fa732db314cf8fec3509b5f1b_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-8c03035bbc9a8b5bb4ca4afcf8a2d663_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-cc020833b0f39f25e329015905e3c6c4_{size}.jpg",
+                    "badge": [],
+                    "name": "与优秀同行",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/40b7d674b197707b00c2b3f142c000bc",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "wang-le-pro",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-cc020833b0f39f25e329015905e3c6c4_is.jpg",
+                    "is_org": false,
+                    "headline": "努力，奋斗。",
+                    "type": "people",
+                    "id": "40b7d674b197707b00c2b3f142c000bc"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35839337",
+                "title": "中兴遭制裁，中国制造何去何从？",
+                "created": 1524057648,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-8018165fa732db314cf8fec3509b5f1b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"418\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-8018165fa732db314cf8fec3509b5f1b_r.jpg\"/></figure><p>中美贸易战持续到现在，中美双方你来我往，胜负未分。</p><p>这次，美国终于放出了大招：将禁止美国公司向中兴通讯销售零部件、商品、软件和技术7年，直到2025年3月13日，并对中兴通讯处以 3 亿美元罚款。</p><p>最迅速的影响自然是中国股市了。股市历来是市场经济的晴雨表，中兴通讯股票先知先觉，紧急停牌。否则不知道又是几个跌停。最倒霉的莫过于中国的散户，特大爷一声吼，大A股就得抖三抖。甚至有些散户很迷茫：我们炒的是股票还是特朗普？</p><p>再说说对中兴通讯本身的影响。中兴通讯九成的芯片依赖进口或在华厂商。这无疑是毁灭式打击。对中兴而言，未来不论是产品开发、规划、制造、销售等环节都会造成极大的影响。</p><p>7年，这次制裁可能会让中兴通讯错过整个5G时代，错过“中国制造2025”，被这个时代抛弃。当然，这都是中兴自己咎由自取的结果。早在2016年美国就因为擅自向伊朗出售商品，违反美国对伊朗的出口管制政策，遭到美国制裁，处罚高达8.9亿美元。中兴屡教不改，继续干些见不得人的勾当，激活美国为期七年的拒绝令。中兴作为全球第五大，中国第二大通信设备制造商，作为中国最大的通信设备上市公司，5G时代引领者，没有一点大企业的担当，更没有危机意识，中兴落得如此下场不值得同情。</p><p>但是，于国家来说，会造成不小的打击。</p><p>虽然这些年，国内集成电路行业突飞猛进。国内有一批如紫光，华为等优秀的芯片制造厂商研发出许多应用广泛的芯片，华为的麒麟芯片甚至可以和高通骁龙媲美，龙芯蓄力十多年，厚积薄发，也和北斗卫星一起升天。但是，国产品牌芯片自给率依然只有8%。而且国产的芯片大多应用于生活消费领域，如微波炉，空调，智能音箱，电饭锅等。对可靠性和稳定性要求很高的军工，医疗，通信领域，我们的自给率严重不足，完全依赖进口。</p><h2><b>是危机也是机遇</b></h2><p>这一次，真正的为中国和国人敲响了警钟。究竟什么才是一个国家核心竞争力。是新时代的四大发明？是房地产这种吸血企业？是美团，滴滴，还是摩拜？在国人心中，伟大如阿里巴巴，马云一直在改变着我们的生活方式。贸易战期间，马云在《华尔街日报》刊文《贸易战扼杀就业、机会和希望》，核心观点是中国的贸易战看不到对美国经济有半分好处，合作才能共赢。甚至要放弃为美国结果100万个就业岗位的承诺，全文论点鲜明，有理有据。但是特朗普鸟他么？阿里巴巴再伟大，也不过是商业模式的创新。不具备不可替代性，没有阿里八八，还有阿里九九。腾讯更不必说，难道面对美国封锁，能用不让美国人玩王者荣耀来威胁？</p><p>军工，集成电路，半导体技术，人工智能等高科技技术才是一个国家的核心竞争力。</p><p><b>我们不怕打压！越打压越发展！我中华泱泱大国，怎么一直被美国牵着鼻子走？</b></p><p>美国的这次封锁，只会让我们更快的意识到我们该着重发展什么，更快的研发出稳定可靠的芯片，拥有自主产权。同时，中兴这种责任感缺失的大企业被制裁，中小厂商看到了希望，国家也会大力扶持。别忘了，当初我们的原子弹，火箭是怎么研发出来的。同样是在美国的大力封锁甚至重重威胁下，研发出来的！</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-8c03035bbc9a8b5bb4ca4afcf8a2d663_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-8c03035bbc9a8b5bb4ca4afcf8a2d663_r.jpg\"/></figure><p>大国崛起非一日之功，中国也必历经曲折。我们要做的就是把重点回归制造业。在哪里跌倒的，就在哪里爬起来！<b>断剑重铸之日，骑士归来之时！</b></p><hr/><p>感谢阅读。微信公众号：每日要闻必读。作者：愤怒的蜗牛。</p><p></p><p></p><p></p>",
+                "comment_count": 7,
+                "voteup_count": 11,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUyNjE2MyCwjN3WBSgLMAdAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODM5MzM3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1556374399,
+                "is_labeled": false,
+                "excerpt": "图片来源于 The Economist 该周刊评论道：“China’s choice of tariffs seems designed to deter escalation at any cost. Only regimes with no voters to satisfy can run that risk.”<a href=\"https://www.economist.com/graphic-detail/2019/04/27/why-you-should-never-start-a-trade-war-with-an-autocracy\" data-draft-node=\"block\" data-draft-type=\"link-card\">https://www.economist.com/graphic-detail/2019/04/27/why-you-should-never-start-a-trade-war-with-an-autocracy</a>",
+                "excerpt_title": "",
+                "id": 64023900,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-5aece3f154b1f7c7c8e8c9d6e72df20a_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-5baf0762ce6c4c088e829033a6c65b83_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/e20002f22_{size}.jpg",
+                    "badge": [],
+                    "name": "edourdoo",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/8cc5ee07bf3539c322ade06c560fdb71",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "edourdoo",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/e20002f22_is.jpg",
+                    "is_org": false,
+                    "headline": "twitter@edourdoo",
+                    "type": "people",
+                    "id": "8cc5ee07bf3539c322ade06c560fdb71"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/64023900",
+                "title": "中欧应对美国贸易挑衅对策大不同",
+                "created": 1556374399,
+                "content": "<p>图片来源于 The Economist </p><p>该周刊评论道：“China’s choice of tariffs seems designed to deter escalation at any cost. Only regimes with no voters to satisfy can run that risk.”</p><a href=\"https://link.zhihu.com/?target=https%3A//www.economist.com/graphic-detail/2019/04/27/why-you-should-never-start-a-trade-war-with-an-autocracy\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">economist.com/graphic-d</span><span class=\"invisible\">etail/2019/04/27/why-you-should-never-start-a-trade-war-with-an-autocracy</span><span class=\"ellipsis\"></span></a><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5baf0762ce6c4c088e829033a6c65b83_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"640\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-5baf0762ce6c4c088e829033a6c65b83_r.jpg\"/></figure><p></p>",
+                "comment_count": 2,
+                "image_url": "https://pic3.zhimg.com/50/v2-5aece3f154b1f7c7c8e8c9d6e72df20a_hd.jpg",
+                "voteup_count": 16,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyMzU2OTQ4IP/GkeYFKBAwAkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjQwMjM5MDA="
+        }
+    ]
+}

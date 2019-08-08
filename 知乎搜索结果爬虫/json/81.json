@@ -1,0 +1,241 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441942810.39532",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1441816768.03&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441816768.03032"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "你们怎么这么拧巴呢？我们要向胡总编（总在编）一样学会理性思维，爱国和生活不要弄混淆了。爱国是工作，苹果是生活。就算某一天胡总编移民美国了，也不能妨碍他拳拳的赤子之心，人家那是到米国的地盘去骂米国（就好像爱国中年司马南一样，用自己的脖子甚至…",
+                "created_time": 1544771714,
+                "id": 551927090,
+                "voteup_count": 11,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-404f070cbb80c6a9bd5d5f5e3ab920ab_{size}.jpg",
+                    "badge": [],
+                    "type": "people",
+                    "name": "西风瘦",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/74e261271059efb249a8c97732576536",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-404f070cbb80c6a9bd5d5f5e3ab920ab_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "url_token": "xi-feng-shou-30",
+                    "id": "74e261271059efb249a8c97732576536"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/551927090",
+                "question": {
+                    "created": 1524026453,
+                    "url": "http://www.zhihu.com/api/v4/questions/273743560",
+                    "title": "请问我们该如何像胡锡进一样用苹果手机来支持中兴？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273743560
+                },
+                "updated_time": 1544771714,
+                "content": "<p>你们怎么这么拧巴呢？我们要向胡总编（总在编）一样学会理性思维，爱国和生活不要弄混淆了。爱国是工作，苹果是生活。就算某一天胡总编移民美国了，也不能妨碍他拳拳的赤子之心，人家那是到米国的地盘去骂米国（就好像爱国中年司马南一样，用自己的脖子甚至生命去碰瓷资本主义的夹角，这是什么精神？这是大无畏的爱国主义精神啊！），就像俩混子掐架一样，你说是轮着键盘骂人过瘾，还是狭路相逢指着鼻子骂过瘾。所以胡总编用用苹果手机并不影响他的爱国热情，世界终归走向大同，我畅想着那一天，我们全国人民都用苹果手机为华为点赞、为中兴加油，那该是多么和谐的世界啊。</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTMwNDE5MTk3IIKxzeAFKAswAkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzEwNzEzMXIJNTUxOTI3MDkw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "抄写过来的答案，但是是我认为最好的答案。 OnFriday, I announced plans for tariffs on $50 billion worth of imports fromChina. These tariffs are being imposed to encourage China to change theunfair practices identified in the Section 301 act…",
+                "created_time": 1529732220,
+                "id": 424230839,
+                "voteup_count": 25,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "type": "people",
+                    "name": "反例蕴含规律",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/c3033e839b5630819eb8f2b8dfe10c85",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "基因黑客 健康成长 老年疾病 信息技术",
+                    "url_token": "fan-li-yun-han-gui-lu",
+                    "id": "c3033e839b5630819eb8f2b8dfe10c85"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/424230839",
+                "question": {
+                    "created": 1524754590,
+                    "url": "http://www.zhihu.com/api/v4/questions/274901513",
+                    "title": "中兴出口伊朗和东芝出口苏联有何不同？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274901513
+                },
+                "updated_time": 1529732220,
+                "content": "<p>抄写过来的答案，但是是我认为最好的答案。</p><p><br></p><p><br></p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-6aa97d0e5484882a43a5594ebcb6e2bb_b.jpg\" data-rawwidth=\"554\" data-rawheight=\"209\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-6aa97d0e5484882a43a5594ebcb6e2bb_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='554'%20height='209'&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"209\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-6aa97d0e5484882a43a5594ebcb6e2bb_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-6aa97d0e5484882a43a5594ebcb6e2bb_b.jpg\"></figure><p><br></p><p><br></p><p>OnFriday, I announced plans for tariffs on $50 billion worth of imports fromChina. These tariffs are being imposed to encourage China to change theunfair practices identified in the Section 301 action with respect totechnology and innovation. They also serve as an initial step towardbringing balance to our trade relationship with China.</p><p>在星期五（6月15日-宁南山注），我宣布了将对中国500亿美元出口美国商品征收关税的计划，</p><p>这些关税是用于促使中国改变其已在301调查中指出有关技术和创新的不公平手段；同时也是促使和中国的贸易回归平衡的初始手段。</p><p>Howeverand unfortunately, China has determined that it will raise tariffs on $50billion worth of United States exports. China apparently has no intentionof changing its unfair practices related to the acquisition of Americanintellectual property and technology. Rather than altering thosepractices, it is now threatening United States companies, workers, and farmerswho have done nothing wrong.</p><p>但是很遗憾，中国决定对美国出口中国的500亿美元商品也征收关税进行报复，很明显中国无意改变其获取美国知识产权和技术的不公平手段，更重要的是，这还威胁到了并没有做错任何事情的美国公司，工人和农民。</p><p>Thislatest action by China clearly indicates its determination to keep the UnitedStates at a permanent and unfair disadvantage, which is reflected in ourmassive $376 billion trade imbalance in goods. This isunacceptable. Further action must be taken to encourage China to changeits unfair practices, open its market to United States goods, and accept a morebalanced trade relationship with the United States.</p><p>中国的最新举动表明他们想继续让美国处于永远的不公平地位，即每年高达3760亿美元的逆差。这是不能接受的，更多的措施将会实施来促使中国改变其不公平的行为，同时对美国商品开放市场，并且接受和美国更为平衡的贸易关系。</p><p>Therefore,today, I directed the United States Trade Representative to identify $200billion worth of Chinese goods for additional tariffs at a rate of 10percent. After the legal process is complete, these tariffs will go intoeffect if China refuses to change its practices, and also if it insists ongoing forward with the new tariffs that it has recently announced. IfChina increases its tariffs yet again, we will meet that action by pursuingadditional tariffs on another $200 billion of goods. The traderelationship between the United States and China must be much more equitable.</p><p>所以，今天，我命令美国贸易代表确定2000亿美元的进口中国商品清单，如果中国仍然拒绝改变其举措，并且坚持其最近宣布的对美国商品征收关税进行报复，那么在经过法律程序后，将会对这2000亿美元的商品征收10%的关税。</p><p>在这之后，如果中国再对美国这2000亿美元关税进行关税征收报复，那么美国还会再对另外一个2000亿美元的中国进口商品征收关税。中美之间的贸易关系必须平等。</p><p>Ihave an excellent relationship with President Xi, and we will continue workingtogether on many issues. But the United States will no longer be takenadvantage of on trade by China and other countries in the world.</p><p>Wewill continue using all available tools to create a better and fairer tradingsystem for all Americans.</p><p>我和习主席有着非常好的个人关系，我们将会共同在很多方面一起继续合作。但是美国将不会再容忍继续被中国或者其他国家在贸易方面占便宜。</p><p>我们将会继续使用所有可用的工具，为美国打造一个更好，更公平的贸易系统。</p><p>这个声明里面，美国人通篇对中国的指责就是两个：</p><p>1：中国通过用不公平的手段获取美国的知识产权和技术。至于具体是哪些不公平的手段，等会儿再讲。</p><p>2：因为第一点，所以中美的贸易逆差扩大到了3760亿美元。</p><p>美国挑起贸易战要有依据，打仗都要讲师出有名，那就是301调查，源自冷战时期的美国《1974年贸易法》第301条，授权美国贸易代表可对他国的“不合理或不公正贸易做法”发起调查，并可在调查结束后建议美国总统实施单边制裁，包括撤销贸易优惠、征收报复性关税等。</p><p>我在之前的文章里面写过，美国人就是想搞事情，他们永远把自己放到执法者的位置，别的国家都是被执法者，只要这种态势不变，他们的借口多的是。</p><p>我们看历史就知道了，美国上一次大规模使用“301调查”是在上世纪八十年代美日贸易纠纷期间。当然了，当年比较倒霉的是日本，总共遭受了24次301调查，次数最多，美国用301这个大棒逼迫日本开放国内市场。</p><p>301调查，当年是日本，现在就该轮到中国了。</p><p>除了贸易战以外，在上世纪八十年代，发生了一起和中兴有点类似的事件，就是东芝事件，</p><p>东芝和挪威一家公司一起，向苏联卖了几台机床，因为代替东芝出面进行贸易的日本和光交易公司的日本员工熊谷一男向巴统揭发，让美国人知晓了此事，美国人立即群情激愤。下图为美国议员在国会山前砸毁东芝的产品。</p><p><br></p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-6624e971052f0a6bfe1c35b9205a4230_b.jpg\" data-rawwidth=\"455\" data-rawheight=\"253\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"455\" data-original=\"https://pic1.zhimg.com/v2-6624e971052f0a6bfe1c35b9205a4230_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='455'%20height='253'&gt;&lt;/svg&gt;\" data-rawwidth=\"455\" data-rawheight=\"253\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"455\" data-original=\"https://pic1.zhimg.com/v2-6624e971052f0a6bfe1c35b9205a4230_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-6624e971052f0a6bfe1c35b9205a4230_b.jpg\"></figure><p><br></p><p><br></p><p><br></p><p>美国的议员们对东芝提出的惩罚，可比今天对中兴严重多了，</p><p>比如一万亿日元罚款，按照当年的汇率可是差不多150亿美元，</p><p>另外还有对从东芝出口美国的商品征收100%的关税，或者完全禁止东芝对美国出口商品5年，以及关闭东芝的美国工厂等等。</p><p>其实一看就知道美国人就是借机修理日本，苏联人最终是从一家挪威公司那里买的机床，这家挪威公司和日本公司一起操作了对苏联的机床出口，也是涉事者，然而整个事件里面，不管是美国的议员还是媒体，似乎都当这家挪威公司不存在，几乎所有的矛头都指向日本东芝。</p><p>从1985年12月，日本人熊谷一男向巴统委员会告发此事，在1986年整整一年，日本政府对此事处于否认态度，日本通产省对东芝的调查也没有太多进展，一直到1987年初，美国人获取了更多的完整情报，日本政府才不得不在1987年4月转变态度。</p><p>从这个时间轴，我们可以看出，对东芝的惩罚压力完全是美国人施加的，日本人自己其实不想把东芝怎么样。</p><p>和今天的中兴事件相比，日本人当年是怎么做的，嗯很屈辱：</p><p><b>首先是日本人自己惩罚东芝：</b></p><p>1：1987年4月，东京警视厅对东芝机械公司提出诉讼，并且日本警察对东芝公司进行了突击检查，获取了有关秘密合同文档。</p><p>其实这也可以看出，日本政府之前一年多对东芝的调查是敷衍的，没有上升到刑事案件的高度，之所以后来升级，完全是因为美国因素。</p><p>2:：1987年5月，日本警视厅逮捕了日本东芝机械公司铸造部部长林隆二和机床事业部部长谷村弘明，日本法院分别判处二人10个和1年的有期徒刑。</p><p>3：1987年5月，日本通产省发布命令禁止东芝在一年内向14个国家出口任何产品；</p><p><b>然后是东芝公司自己花钱向美国人谢罪：</b></p><p>东芝公司花了1亿多日元在全美50多家报刊整版刊登“谢罪广告”。同时发动各种关系在美国国会进行游说，小尾敏夫在《说客——撼动美国政治的力量》一书中称：东芝游说是历史上代价最大的游说战，足足花费900万美元。</p><p>最为耻辱的是，<b>日本首相亲自出面向美国政府道歉</b>：</p><p>中曾根还严厉地批评东芝公司：“东芝事件是对日本国民的背叛，我要求有关省厅重新调查是否还有类似行为，并决定健全法规，加强出口管理和审查制度，坚决堵塞漏洞。”</p><p>不仅如此，<b>不少日本媒体也在指责东芝</b>，例如《产经新闻》，切腹都不足以谢罪的东芝事件。</p><p><br></p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-89afb87135d01344702bce3402055261_b.jpg\" data-rawwidth=\"303\" data-rawheight=\"351\" data-caption=\"\" data-size=\"normal\" class=\"content_image\" width=\"303\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='303'%20height='351'&gt;&lt;/svg&gt;\" data-rawwidth=\"303\" data-rawheight=\"351\" data-caption=\"\" data-size=\"normal\" class=\"content_image lazy\" width=\"303\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-89afb87135d01344702bce3402055261_b.jpg\"></figure><p><br></p><p><br></p><p><br></p><p>日本人低头，换来了美国人减轻对东芝的惩罚，1988年的制裁法案只是制裁出口机床的东芝机械3年，而不是整个东芝集团。</p><p>东芝事件，当年影响很大，在美帝强权下，日本政府，日本公司，乃至日本媒体集体屈服了，这让日本的爱国者们非常郁闷和愤怒，实际上，当时日本国内有不少的声音，说苏联的技术进步和日本出口的4台机床并无完全相关性，还有的声音说美国自己也向苏联提供过工业产品，为何就偏偏抓着日本不放。</p><p>1989年的时候，日本出版了一本书籍，我相信很多中国人都知道这本书的名字，那就是《日本可以说不》，作者是索尼公司的创始人盛田昭夫和日本著名右翼石原慎太郎。</p><p>很多国人可能以为这本书是当年日本国力上升，日本人自信膨胀下的产物，</p><p>其实这本书更多的意思是，日本应该追求独立自主，不能再被美国全面控制了，应该敢于对美国说不，这是日本屈服于美国的现实下，昭和男儿的哀鸣。</p><p>《日本可以说不》的两个作者，一定是对东芝事件不满的。</p><p>美国人说东芝违反了巴统的协定向苏联卖东西，</p><p>其实中国也是巴统的禁运对象，而美国人自己由于反苏的需要，上世纪八十年代搞了和平典范计划，向中国卖了不少军火，比较著名的有黑鹰直升机，其他还有鱼雷，反炮兵雷达，反坦克导弹等等，甚至还帮中国技术升级主力战斗机歼八，极大的加强了中国的军事技术和力量。</p><p>所以美国人自己是可以根据自己的利益做事情的，而日本人就不行。</p><p>不管是当年数十次的301调查，还是当年的东芝事件，充分体现了美国人打压潜在竞争对手的决心，所以我们可以得出结论：</p><p><b>今天的贸易战，将是不可避免的，长时间持续的。</b></p><p>三十年前，美国人对日本人进行了24次301调查搞贸易战，什么时候基本结束了呢？在1995年之后，美国人就很少使用了，虽然一般认为原因是因为世贸组织成立了，纠纷可以在世贸框架下进行，但是我们也注意到1995年是日本GDP的巅峰，之后日本经济泡沫彻底破灭。</p><p>只要中国的实力持续的威胁到了美国的地位，各种形式的遏制一定会继续。</p><p>下图是日本人统计的全球半导体十强，可以看出上世纪八十年代日本半导体的实力，1985年日本5家，到1995年还是5家，2005年还剩3家，2016年只有东芝了，如今东芝也在寻求出卖。</p><p><br></p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-8c1b5620aa0d2dee8ae293cec4ad946a_b.jpg\" data-rawwidth=\"554\" data-rawheight=\"386\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-8c1b5620aa0d2dee8ae293cec4ad946a_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='554'%20height='386'&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"386\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-8c1b5620aa0d2dee8ae293cec4ad946a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-8c1b5620aa0d2dee8ae293cec4ad946a_b.jpg\"></figure><p><br></p><p><br></p><p><br></p><p><br></p><p>我们今天有很多文章说，美国人今年开始搞中国，是因为我们太高调了，成天对内宣传“厉害了我的国”，“大国崛起”，导致吸引了美国人注意云云。</p><p>先不说这种宣传方式好不好，</p><p>其实这是一种“我虽然是一头体型硕大的巨龙，但是我躲在花花草草里面别人就看不见”的臆想，是完完全全把美国的精英分子当成白痴。</p><p><br></p><p>我2012年在欧洲，遇到一个巴西姑娘，她问我哪里来的，我说中国，她说“China is rising”,她还只是一个普通的旅行者，中国的崛起，是全世界随时随地能够感受的事件。</p><p>不知道为何会有人有“中国不宣传，美国人就注意不到中国强大了”的想法。</p><p>今天中美之间的贸易战，我们从隔壁日本的一篇报道可以一窥一二，我们看下一些日本媒体是怎么看待中美的贸易战的。</p><p>参考消息网6月18日报道，</p><p>日本《选择》月刊6月号刊登题为<b>《美中“半导体战争”必然激化》</b>的文章称，</p><p>这次美中贸易纠纷由美国对钢铝征收关税而起，但目前纠纷已经扩大到知识产权问题上。中国主要信息通信企业中兴通讯和华为等遭到制裁。</p><p>文章称，美国一边要求缩小贸易赤字，一边拿个别企业当靶子，还亮出“停止供应美国制造的零件”的匕首。<b>日本人对这种手法还有记忆</b>。上世纪80年代发生了动摇日美关系的半导体摩擦，美国“查出”了IBM商业间谍事件。美国逮捕了窃取IBM技术的日立制作所和三菱电机的雇员，并对两家公司进行了制裁。富士通也被迫与IBM签协议，支付了巨额技术补偿金。</p><p>1986年，世界半导体产业销售额居前三位的是日本电气公司、东芝和日立，前十家公司中有六家是日本企业。美国创造出半导体并长期引领世界，但其霸权遭到动摇。</p><p>文章称，IBM商业间谍事件和东芝机械违反巴黎统筹委员会贸易管制规定事件发生后，日本领教了触怒美国的后果。<b>日本半导体产业自主限制对美出口，接受“美国半导体在日本市场的份额达20%以上”的约定等，放缓研发和投资，走上衰退之路。</b></p><p><b>美国解决大框架问题的方法是，攻击个人和企业，各个击破，促成整体解决。美国政府和产业界基于这些成功经验，这次也采取了抑制中国半导体和通信领域企业进一步崛起的战术。</b></p><p>美中现在进行的是面向未来的霸权争夺。<b>美国在此次摩擦中期望达到的目的不是缩小逆差，而是要将中国在半导体、通信产业的竞争力扼杀在萌芽状态</b>。</p><p>一位熟悉中国市场的日本银行负责人表示：“中国政府性基金正向我们咨询向日本半导体设备制造商出资和收购的相关事宜。”日本的半导体企业在传感器和离散元件等方面有个别优势幸存的领域，但总体来看处于毁灭状态。东芝的半导体业务部门也已确定出手。</p><p><br></p><p>中国料到美国今后会采取类似制裁中兴通讯的手法限制中国采购半导体相关设备，正积极推动将有实力的半导体设备制造商收归旗下。中国政府正确解读出了美国这次掀起贸易纠纷的意图，正采取对抗措施。</p><p>文章称，不管美国的意图如何，中国政府今后将继续大力发展半导体产业。当然，美中之间的半导体霸权争夺战还有第二幕、第三幕。</p><p>实际上这篇日本媒体的报道释放的价值信息是<b>：</b></p><p>1：认为美国是在复制三十年前对日本的故事，抓住某个或者几个企业的事情无限放大，你在街上过马路闯了红灯，他就要把你判死刑，各个击破，促成事情整体的解决。</p><p>2：中国政府基金已经在向日本的银行咨询收购日本集成电路制造设备供应商的可能性，这说明中国政府非常清楚贸易战背后的实质是美国恐惧自己的技术霸权被中国夺走。</p><p>3：日本人认为中美这次是“半导体战争”而非“贸易战”，而且即使这一幕完结了，还会有第二幕，第三幕。</p>",
+                "comment_count": 4,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-6aa97d0e5484882a43a5594ebcb6e2bb_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-6624e971052f0a6bfe1c35b9205a4230_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-89afb87135d01344702bce3402055261_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic1.zhimg.com/v2-6aa97d0e5484882a43a5594ebcb6e2bb_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTA3MjAxOTc1IPy4t9kFKBkwBEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzM2NDc5MnIJNDI0MjMwODM5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "最新消息：对此，商务部已经回应：<b>如果美方坚持搞单边主义和贸易保护主义行径，中方将奉陪到底，必定采取新的综合应对措施捍卫国家和人民的利益，不惜付出任何代价。</b><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/Kf0Hpd-hm92D_K-vwBVvOQ\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">mp.weixin.qq.com/s/Kf0H</span><span class=\"invisible\">pd-hm92D_K-vwBVvOQ</span><span class=\"ellipsis\"></span></a>————————原回答分割线—————————关注了一上午这个大…",
+                "created_time": 1522995586,
+                "id": 359910850,
+                "voteup_count": 19,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-616dd275701112cbf370e653c2d4bc1c_{size}.jpg",
+                    "badge": [],
+                    "type": "people",
+                    "name": "下一项",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/614cadc3098c0c75bdd2c09c61a46626",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-616dd275701112cbf370e653c2d4bc1c_is.jpg",
+                    "is_org": false,
+                    "headline": "我曾经瘦过",
+                    "url_token": "xia-yi-xiang-75",
+                    "id": "614cadc3098c0c75bdd2c09c61a46626"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/359910850",
+                "question": {
+                    "created": 1522984095,
+                    "url": "http://www.zhihu.com/api/v4/questions/271255173",
+                    "title": "如何看待美国对中国征收税增加到1000亿美元，是否预示着什么，中国会继续和美国作出同样做法嘛。？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 271255173
+                },
+                "updated_time": 1522998451,
+                "content": "<p>最新消息：</p><p>对此，商务部已经回应：<b>如果美方坚持搞单边主义和贸易保护主义行径，中方将奉陪到底，必定采取新的综合应对措施捍卫国家和人民的利益，不惜付出任何代价。</b></p><p><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/Kf0Hpd-hm92D_K-vwBVvOQ\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">mp.weixin.qq.com/s/Kf0H</span><span class=\"invisible\">pd-hm92D_K-vwBVvOQ</span><span class=\"ellipsis\"></span></a></p><p>————————原回答分割线—————————关注了一上午这个大新闻，说几点：</p><p>1.对川普这样不讲套路的人，不能抱有“他就是吓吓人”的幻想，一定要做最坏打算。</p><p>2.美国对华货物出口额还有900多亿美元不在前两批反击清单上，如果川普真加码1000亿，我们必须show hand，宣布对所有美国货物加税25%，不管红州蓝州，实现基本对等报复。</p><p>3.如果川普再加码1500亿怎么办？我们就只能对服务贸易下手了，美国对华服务贸易有300多亿美元顺差，够我们再刚一波。</p><p>4.美国再再再加码怎么办？我们可以提高加税力度，比如从25%提高到50%，有需要的话可以加到100%以上，直到双方实质性断绝贸易往来。</p><p>5.打击到美国主张自由贸易的蓝州产业怎么办？升级到这一步，只能打，逼着蓝营加大游说、施压力度。</p><p>6.打击到中国国内产业怎么办？（比如需要芯片和大豆的产业）。贸易战一定是自残式的，这个心理准备要有。但是我们也有办法减轻损失，比如寻找进口替代源，加大从南美的大豆进口，我们的大豆库存足够等到下一季大豆成熟；比如缓和与韩国的关系，加大从韩国进口芯片的力度，同时给已经具备国产能力的低端芯片创造机会，并加大对高端芯片扶持力度。作为全世界产业门类最齐全的国家，我们只有质量和价格问题，没有活不下去的问题。相反，美国倒是有大把工业产品不能国产化，不论试图转移到东南亚采购还是自己重启生产，都不是一两年内能搞定的。</p><p>7.美国拉拢欧日一起制裁中国怎么办？日欧都在嘴上配合美国，实质性动作没有。心里都明白，坐等中国转移过去的订单数钱呢。万一西方就是宁可自残也要团结起来呢？我们又不是第一次被国际封锁，跟一带一路国家抱个团，发展慢一点，不至于过不下去。我们政府这段时间外交很忙，都是在为打破包围圈做准备。</p><p>8.难道不怕美国把中国对内出口彻底阻断吗？中国对美货物贸易5000亿，其中有至少一半是美国在华投资企业返销美国，或者美国暂时无法找到替代进口源的商品，比如苹果手机，比如大型龙门吊，川普真要动手的话鼓掌欢迎啊，一旦触及这部分，我们不用采取任何报复措施，坐看美国自残就好了。</p><p>9.总之，全球化、市场化之下的贸易，一定是各取所需的，打到最后无非是谁伤一千、谁伤八百的问题。</p><p>10.帝国主义亡我之心不死，这次认怂赔款，下次就是割地。我们手中的子弹不如敌人多，就只能拿承受力来扛。为了我们的下一代，唯有共度时艰。不想与“你国”共命运的，趁早移民。</p>",
+                "comment_count": 6,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTU0OTkwNzQggqOc1gUoEzAGQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTUzOTAxcgkzNTk5MTA4NTA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "华为如果真被制裁，那也没有什么不同。现在华为就是要低调再低调，各位就不要在类似的问题上推华为害华为了，生怕美国商务部没有盯上华为，生怕议会的老爷们没有看到华为的新闻，忘了向有关部门施加压力来调查华为了。不过，正如我在上一个回答里面所说的，…",
+                "created_time": 1524316412,
+                "id": 372688754,
+                "voteup_count": 19,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "type": "people",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "url_token": "",
+                    "id": "ea9b30e11d36ee477a12d80ab63ff65c"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372688754",
+                "question": {
+                    "created": 1524184075,
+                    "url": "http://www.zhihu.com/api/v4/questions/273970552",
+                    "title": "如果这次美国制裁的是华为，而不是中兴，那么以华为的技术积累，能突破重围吗？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273970552
+                },
+                "updated_time": 1524347562,
+                "content": "<p>华为如果真被制裁，那也没有什么不同。</p><p>现在华为就是要低调再低调，各位就不要在类似的问题上推华为害华为了，生怕美国商务部没有盯上华为，生怕议会的老爷们没有看到华为的新闻，忘了向有关部门施加压力来调查华为了。</p><p>不过，正如我在上一个回答里面所说的，中美贸易战如果真要打下去，芯片问题其实还只是小事。真要打贸易战，将要面临的困难远比很多人想象中要大得多。</p><p>当然，事情不是中国挑起的，我们还是很愿意大事化小，小事化了，争取谈判解决问题的。</p><p><br></p><p>目前白宫和国会内部是两派意见，一派是坚决主张与中国打贸易战的，另一派则是要敲打一下中国，得一下好处，然后见好就收，以避免美国遭受损失。</p><p>我们的基本方针就是努力争取后一个派别的支持，无论是坚决反击也好，还是在一定程度做出妥协也好，都是为了争取后一个派别，以尽快结束这场“战争”。</p><p><br></p><p>我们绝不是想着要与整个美国硬碰硬，而是要如何分化瓦解美国内部反华的声音。</p><p>以前说的韬光养晦的意义也在如此，并不是让所有人相信，只需要让一部份人相信，有一定的政治势力约束就行了。</p><p>真要面对一个团结一致来对抗中国的美国，中国根本没有做好这方面的准备。</p>",
+                "comment_count": 3,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc4MjI5MTMg/PHs1gUoEzADQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTU3NjAycgkzNzI2ODg3NTQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1557158562,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "type": "people",
+                    "name": "梁茂尊",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/4006a8ddc66ad9b5cc29e5376525646b",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "对修行、法律、自媒体比较感兴趣",
+                    "url_token": "liang-mao-zun",
+                    "id": "4006a8ddc66ad9b5cc29e5376525646b"
+                },
+                "is_labeled": false,
+                "excerpt": "前几天，美国忽然爆出一则言论，说跟咱们中国的冲突“是与一种完全不同的文明和不同意识形态之间的斗争，美国以前从未经历过”，接着还说，美国国务卿蓬佩奥的团队正基于美国历史上第一次“与一个真正不同的文明作战”的理念，制定对华战略。美国国务院政策…",
+                "id": 64873636,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-a6bb73f9e73cd6083519c53da0e89baf_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-288792a03d2738c92a6295fe07dcea83_250x0.jpg"
+                ],
+                "created": 1557158562,
+                "url": "http://zhuanlan.zhihu.com/p/64873636",
+                "title": "没有什么文明冲突，只有尸位素餐者对新造富运动的恐惧",
+                "content": "<p>前几天，美国忽然爆出一则言论，说跟咱们中国的冲突“是与一种完全不同的文明和不同意识形态之间的斗争，美国以前从未经历过”，接着还说，美国国务卿蓬佩奥的团队正基于美国历史上第一次“与一个真正不同的文明作战”的理念，制定对华战略。美国国务院政策规划部门的工作人员则在主任斯金纳的领导下，“正准备应对与中国的文明冲突”。<br/></p><p>何其可笑的言论，特别是当这一言论是从一位黑人女性的嘴巴里说出来的时候，不知道这位女士当时是何种状态，是否真的以为在这样赤果果的文明等级的思想里，自己也成了白种人的一员？她是否意识到，这样的理论就是要将所有的有色人种，不论是黄种人，还是黑种人，置于白种人的统治之下，让她以及她的子孙，永永远远做白种人的奴隶呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a6bb73f9e73cd6083519c53da0e89baf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1002\" data-rawheight=\"560\" class=\"origin_image zh-lightbox-thumb\" width=\"1002\" data-original=\"https://pic4.zhimg.com/v2-a6bb73f9e73cd6083519c53da0e89baf_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，人总是存在侥幸心理的，只是这类侥幸通常是不存在于现实当中的。</p><p>但这样的言论也确实足够唬人的。</p><p>西方人的潜意思里一直对咱们炎黄子孙有着根深蒂固的敌意，哪怕是在咱们非常贫穷落后的时候，比如19世纪末的美国排华法案，当咱们的同胞，在恶劣的环境下为美国建成了铁路之后，美国人却卸磨杀驴，要将咱们赶出他们的地盘。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-288792a03d2738c92a6295fe07dcea83_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"217\" class=\"content_image\" width=\"300\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这样根深蒂固的针对咱们的恐惧是很可笑的，就好像突然爆发的土豪担心没落的贵族要抢夺他们的钱财一样。</p><p>当然，我们是不应该嗤笑他们的，怎么说，他们好不容易暴富一回，这样的恐惧总是应该要有的。</p><p>不过，这样的理论，其实蛮能够忽悠一大部分群体的，比如前几天刚刚举行的美欧32国5G会议，这背后的部分原因其实就可以归结为文明恐惧，对新土豪的敌视，担心抢了他们的饭碗。</p><p>可惜的是，人都是要吃饭的，没有饭吃的主义注定是长久不了的，只是在小圈子内的经济循环，注定是难以满足每一个国家的生存要求的。</p><p>因为，根本不存在所谓的文明冲突，只是存在披着各类外衣，比如文明，比如宗教，比如民族，比如黑社会，这样的经济小团体。</p><p>其实，透过表象来说，所谓的文明冲突跟村霸陆匪是等价的，本质上都是为了一口饭吃，为了维持自己不劳而获的特权，为了抢夺他人或者团体的劳动成果。</p><p>当他们强调所谓的文明冲突的时候，其实就是在说，我的饭碗就是我的，不许你们夺走，就好像护食的猫狗一样，以为发出可怕的叫声，就可以阻挡历史的车轮从他们身上碾过。</p><p>可惜，他们到现在都没有明白，他们圣经中的马太效应到底说的是什么。</p><p>当他们活在过去老祖宗的宝座上不愿意下来的时候，大自然一定会将他们揪下来的，因为他们已经不能再创造更大的价值了，既然如此，他们手中的财富也是要收回的，就跟中国历代王朝末年的战乱一般。</p><p>如果他们仍然一味的活在过去，以为借着所谓的文明冲突论可以挑起新一波的世界性冷战，简直可以说是痴心妄想，因为中国人并不与他们这些野蛮人一样，只会掠夺，欺压其他社群，我们是大自然的建造工，是在不断地创造新的财富的。</p><p>当然，他们是可以选择闭关锁国的，可惜这样也是断不能成功的，地球已经成了一个小村子，我们可以用脚，用汽车，用火车，用飞机，走出他们自我封闭的地域，自发地加入人类命运共同体的建设大潮里，因为这里是有肉吃，有汤喝的。</p>",
+                "comment_count": 6,
+                "excerpt_title": "",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyNTQ1NzA0IKK1weYFKAIwBkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjQ4NzM2MzY="
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441434508.26910",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1441412252.56&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441412252.55640"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524489868,
+                "is_labeled": false,
+                "excerpt": "<b> 美国再制裁中国19家企业？</b> 山雨欲来风满楼，中兴通讯事件后，中美贸易战局势越发紧张。而在周末又有一则关于<b>“美国宣布制裁19家中国高新技术企业”</b>的消息不胫而走，涉及企业有华为、联想、天马微、京东方等，一时间人心惶惶…… 对此，消息涉及的京东方、…",
+                "excerpt_title": "",
+                "id": 36030786,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-53659a9f71a59f4616f589529b1ebd94_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-b6c4ae31ab83d7d10c7d32f13af963fe_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-6236999ff9deacef51ab00a078bfb753_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-ec9101974af942e88ddae6ef71a2b6c5_{size}.jpg",
+                    "name": "沃民舆情观察",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "全球网络情报专家",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "wo-min-yu-qing-guan-cha",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-ec9101974af942e88ddae6ef71a2b6c5_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/efc89585d0d7ffc93e35c4907d1295dc",
+                    "type": "people",
+                    "badge": [],
+                    "id": "efc89585d0d7ffc93e35c4907d1295dc",
+                    "is_org": true
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36030786",
+                "title": "揭秘‖“美国制裁19家中国企业”的背后是谁在捣鬼？",
+                "created": 1524489868,
+                "content": "<p><b> 美国再制裁中国19家企业？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>山雨欲来风满楼，中兴通讯事件后，中美贸易战局势越发紧张。而在周末又有一则关于<b>“美国宣布制裁19家中国高新技术企业”</b>的消息不胫而走，涉及企业有华为、联想、天马微、京东方等，一时间人心惶惶……</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对此，消息涉及的京东方、莱宝高科于23日率先发布澄清公告。两公司均表示：截至公告披露日，公司未获悉、也未收到任何有关受到美国制裁的官方信息；目前公司各项生产经营正常。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>沃德社会气象台的实时监测显示，仅仅两三天，网上关于“美国制裁19家中国高新技术企业”的信息共有<b>1151条</b>，其中微博数量105条，影响人数更是超过<b>726.37万人次；</b>除微博外，股吧、同花顺论坛、贴吧、雪球等财经社交平台也成了流言肆虐的地方。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-808da28c7494157a216f0a9b853d325e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"740\" data-rawheight=\"73\" class=\"origin_image zh-lightbox-thumb\" width=\"740\" data-original=\"https://pic3.zhimg.com/v2-808da28c7494157a216f0a9b853d325e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>↑实时数据统计↑</p><p>更值得重视的是，此次的谣言主要传播境外社交平台上，<b>境外社交平台相关信息高达944条，占总比62.5%</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>那么“美国制裁19家中国高新技术企业”的谣言的源头在哪里呢？这则消息又是如何传播的呢？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>小编将通过沃德社会气象台（<a href=\"https://link.zhihu.com/?target=http%3A//www.wordemotion.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">wordemotion.com</span><span class=\"invisible\"></span></a>）网络情报实时监测与智能分析系统带你一探究竟。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b> 起因：一份报告的过度解读</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>4月21日09:53，微博用户@SC_木头鱼发文：“美国这一轮报了19家中国企业？这是要掀桌啊……”并附上<b>三张某美国政府报告的截图和一个链接</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-53659a9f71a59f4616f589529b1ebd94_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"569\" data-rawheight=\"314\" class=\"origin_image zh-lightbox-thumb\" width=\"569\" data-original=\"https://pic1.zhimg.com/v2-53659a9f71a59f4616f589529b1ebd94_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b6c4ae31ab83d7d10c7d32f13af963fe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"674\" data-rawheight=\"640\" class=\"origin_image zh-lightbox-thumb\" width=\"674\" data-original=\"https://pic3.zhimg.com/v2-b6c4ae31ab83d7d10c7d32f13af963fe_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然他没有直言美国要制裁19家中国高新技术企业，只是说“这一轮报了”，<b>但是在贸易战和中兴被制裁的舆论下，加上一份美国政府报告的截图和链接，很多人误以为这是美国新一轮准备制裁的中国企业名单。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d366f905d81f4a4ecf5fb939f33567a0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"574\" data-rawheight=\"60\" class=\"origin_image zh-lightbox-thumb\" width=\"574\" data-original=\"https://pic1.zhimg.com/v2-d366f905d81f4a4ecf5fb939f33567a0_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-3ec7ac1445e7acaf60890b5d8a766eb7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"575\" data-rawheight=\"71\" class=\"origin_image zh-lightbox-thumb\" width=\"575\" data-original=\"https://pic4.zhimg.com/v2-3ec7ac1445e7acaf60890b5d8a766eb7_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6236999ff9deacef51ab00a078bfb753_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"577\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"577\" data-original=\"https://pic4.zhimg.com/v2-6236999ff9deacef51ab00a078bfb753_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>↑部分评论截图↑</p><p>于是很多网友以为这是一个爆炸新闻，纷纷开始转发……</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e980821ef43d8e16c65c0ea369808cf4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"100\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e980821ef43d8e16c65c0ea369808cf4_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6cb34f6e25aa0bc4ee24a35e7057c44b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"96\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-6cb34f6e25aa0bc4ee24a35e7057c44b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>↑部分转发评论↑</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-ac6de846ec86cb0afa64834646a967a6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"752\" data-rawheight=\"620\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic3.zhimg.com/v2-ac6de846ec86cb0afa64834646a967a6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>↑微博传播路径↑</p><p>问题就出在作者所发的美国报告中，这份报告来自美国-中国经济和安全审查委员会官网，报告标题为——中国对美国ICT供应链条所造成的威胁，其中ICT是英文Information、Communications、Technology的缩写，即信息通信技术。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1b0c8c1e3e6d9c3c4413b897f32647f5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"616\" data-rawheight=\"449\" class=\"origin_image zh-lightbox-thumb\" width=\"616\" data-original=\"https://pic2.zhimg.com/v2-1b0c8c1e3e6d9c3c4413b897f32647f5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>文中的免责声明提到，这篇报告是应美中经济与安全评估委员会要求所写。整篇报告分为六章阐述了中国对美国ICT供应链所造成的风险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-5b63a864e7ad3f830cbdb3a8a1e93d78_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"981\" data-rawheight=\"129\" class=\"origin_image zh-lightbox-thumb\" width=\"981\" data-original=\"https://pic1.zhimg.com/v2-5b63a864e7ad3f830cbdb3a8a1e93d78_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>第一章总述了美国政府ICT供应链的情况</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e0c7e10f9d2867fc0c0bf44739d25d00_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"999\" data-rawheight=\"102\" class=\"origin_image zh-lightbox-thumb\" width=\"999\" data-original=\"https://pic1.zhimg.com/v2-e0c7e10f9d2867fc0c0bf44739d25d00_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>第二章叙述了SCRM关于ICT供应链的相关法律法规和要求</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-67b408e055145ef259ae008602710f6b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1002\" data-rawheight=\"95\" class=\"origin_image zh-lightbox-thumb\" width=\"1002\" data-original=\"https://pic4.zhimg.com/v2-67b408e055145ef259ae008602710f6b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>第三章分析了美国ICT供应链的制造商</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-896c6ac56bb2d4224c0cdc6d0cbb6b7c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"999\" data-rawheight=\"93\" class=\"origin_image zh-lightbox-thumb\" width=\"999\" data-original=\"https://pic1.zhimg.com/v2-896c6ac56bb2d4224c0cdc6d0cbb6b7c_r.jpg\"/></figure><p>文章的这部分列举了ICT供应链条中的中国实体产业，也就是作者截图的部分，但是<b>报告中只是分析了这些中国企业可能会给ICT带来的风险，但是没有任何美国会对这些企业采取制裁措施的字眼</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第四章讲明中国的政治经济政策是威胁供应链条安全的背后原因</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-396d4a10d06cd98349f39a7cb08f0db3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"965\" data-rawheight=\"115\" class=\"origin_image zh-lightbox-thumb\" width=\"965\" data-original=\"https://pic4.zhimg.com/v2-396d4a10d06cd98349f39a7cb08f0db3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>第五章对SCRM提出建议</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-ef8f2016381df262e285f89a29aaf25b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"966\" data-rawheight=\"317\" class=\"origin_image zh-lightbox-thumb\" width=\"966\" data-original=\"https://pic4.zhimg.com/v2-ef8f2016381df262e285f89a29aaf25b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>但是建议内容<b>只是从政治经济政策角度提出解决供应链条安全威胁的解决办法，并未提到与制裁中国企业有直接关系</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第六章是对下一步的构想和之后的结论总结</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-b234f79facf1d97d14117cbcaf3679ef_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"955\" data-rawheight=\"83\" class=\"origin_image zh-lightbox-thumb\" width=\"955\" data-original=\"https://pic4.zhimg.com/v2-b234f79facf1d97d14117cbcaf3679ef_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>综上，<b>通篇并未提及任何要对中国企业采取制裁的措施，所以网络上传播的“美国将对中国企业进行制裁”的信息纯属断章取义，是一种不负责任的虚假信息传播</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f42db57c91ad8ce85154bd1ea7c7c2bc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"886\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb\" width=\"886\" data-original=\"https://pic1.zhimg.com/v2-f42db57c91ad8ce85154bd1ea7c7c2bc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>首发之后，此消息在微博开始传播，随即传到股吧、同花顺论坛、贴吧、雪球等财经社交平台。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>网络黑手推波助澜？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果仅仅是对这份报告的过分解读倒好，小编在研究此谣言传播情况的时候，渐渐发现此事远远没有那么简单！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>从沃德社会气象台态势关注分析和文章之前提到的信息来源分布来看，境外主流平台信息占比最高，而4月21日11时至22时，<b>微博和Twitter的信息几乎同时出现高峰</b>，这不由让人怀疑其中有猫腻。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2d39f466a82463b9abd5c08d8e74039f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"735\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb\" width=\"735\" data-original=\"https://pic4.zhimg.com/v2-2d39f466a82463b9abd5c08d8e74039f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是小编再次深挖，发现此次谣言的传播有众多诡异之处：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1.发布时间有问题</b>，twitter上“美国宣布制裁19家中国企业”相关内容始于4月21日21日16：08，之后突然爆发，截止23时集中出现418次占总比40.6%；其次，微博发布时间和twitter发布时间出现相似高峰。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-297ec3e3a70906c2ddd8f9695c964a08_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"887\" data-rawheight=\"421\" class=\"origin_image zh-lightbox-thumb\" width=\"887\" data-original=\"https://pic1.zhimg.com/v2-297ec3e3a70906c2ddd8f9695c964a08_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.信息内容有问题</b>，所有发布内容基本相似，境内外信息基本相同，疑似机器人刷帖。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-df478dca925e69eedf099e77f6539b9b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"153\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-df478dca925e69eedf099e77f6539b9b_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-bcc2c3be6003b8e257c1ef6eb030a1c0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"894\" data-rawheight=\"255\" class=\"origin_image zh-lightbox-thumb\" width=\"894\" data-original=\"https://pic1.zhimg.com/v2-bcc2c3be6003b8e257c1ef6eb030a1c0_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.发布者ID有问题</b>，twitter发布者ID出现大量敏感词汇。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-914d9d71820593ecccbacb3c7afbf816_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"518\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"518\" data-original=\"https://pic3.zhimg.com/v2-914d9d71820593ecccbacb3c7afbf816_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>↑twitter发布者ID词云统计↑</p><p>综上所述，基本能确定这次谣言的传播疑似有境外不法势力在暗中推波助澜，这些幕后势力想利用网络的隐蔽性，在贸易战期间制造混乱，误导社会舆论！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>贸易战已经打响，我们也应该随时警惕不法势力对境内发起舆论战。作为网民我们要不信谣不传谣，也许不经意间你就成了别人手中的枪；作为政府和企业，我们更要使用大数据的武器，将这些谣言扼杀在摇篮之中。</p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/wnShudzED4FwrZja9yHQ\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/wnShudz</span><span class=\"invisible\">ED4FwrZja9yHQ</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p>",
+                "comment_count": 0,
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjYwMjY5OSCMvffWBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2MDMwNzg2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "美国抓到华为的小辫子了？看起来似乎并没有，现在牵涉到华为的也就是中兴的那些“机密文件”而已，美国方面目前也就要求华为对文件的内容作出解释。 美国自诩法制社会、民主灯塔，做事还是挺讲究的，君不见打伊拉克这么个小国的时候为了自圆其说还搞了洗衣…",
+                "created_time": 1524134023,
+                "id": 370964760,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-8560da7d9a8dbc03a34d2c87b5fc2d13_{size}.jpg",
+                    "name": "笨笨",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "ben-ben-80-89",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-8560da7d9a8dbc03a34d2c87b5fc2d13_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/77b5bf47822bc911ec4947353b34f18c",
+                    "type": "people",
+                    "badge": [],
+                    "id": "77b5bf47822bc911ec4947353b34f18c",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370964760",
+                "question": {
+                    "created": 1524126083,
+                    "url": "http://www.zhihu.com/api/v4/questions/273900261",
+                    "title": "中兴被制裁，华为该如何应对？按照这样的节奏，华为遭殃肯定只是时间问题呀？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273900261
+                },
+                "updated_time": 1524178902,
+                "content": "<p>美国抓到华为的小辫子了？看起来似乎并没有，现在牵涉到华为的也就是中兴的那些“机密文件”而已，美国方面目前也就要求华为对文件的内容作出解释。</p><p><br></p><p>美国自诩法制社会、民主灯塔，做事还是挺讲究的，君不见打伊拉克这么个小国的时候为了自圆其说还搞了洗衣粉（划掉划掉），何况是中国这么个五常之一？除非证据已经充实到能让所有人闭嘴，否则根本不可能对华为动手。</p><p><br></p><p>退一万步讲，就算真的抓住了小辫子，证据也足够充实了，不也还有庭审过程吗（参考中兴事件），华为组个牛逼律师团把官司打到底就是了，随便都能拖上几年（天知道到时候川普同志还有没有在位子上……）。</p>",
+                "comment_count": 13,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc1MDkxMDMgh+Hh1gUoBzANQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTQxOTQycgkzNzA5NjQ3NjA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558055803,
+                "is_labeled": false,
+                "excerpt": "5月17日凌晨，华为海思总裁何庭波发布《致员工的一封信》表示，为了兑现公司对于客户持续服务的承诺，华为保密柜里的备胎芯片“全部转正”，是历史的选择。他还指出，这确保了公司大部分产品的战略安全，大部分产品的连续供应。 今年2月，特朗普表示，希望…",
+                "excerpt_title": "",
+                "id": 66067906,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-ca9f328290d2c0d8d014ad710908cf4c_hd.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-ffc96995b44b1234eb352f045751f0d6_{size}.jpg",
+                    "name": "王昕覃",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "国际新闻"
+                    },
+                    "headline": "公众号已更名为：达尔斯顿王",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "wang-xin-tan-57",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-ffc96995b44b1234eb352f045751f0d6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/12d532811686de9c1c583fd564c372b6",
+                    "type": "people",
+                    "badge": [],
+                    "id": "12d532811686de9c1c583fd564c372b6",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66067906",
+                "title": "华为海思总裁：科技自立，保密柜里的备胎芯片“全部转正”",
+                "created": 1558055803,
+                "content": "<p>5月17日凌晨，华为海思总裁何庭波发布《致员工的一封信》表示，为了兑现公司对于客户持续服务的承诺，华为保密柜里的备胎芯片“全部转正”，是历史的选择。他还指出，这确保了公司大部分产品的战略安全，大部分产品的连续供应。</p><p><br/>今年2月，特朗普表示，希望美国能在5G领域与中国展开“公平竞争”，“我们不想封杀任何人”。 特朗普在社交平台上称，“我想美国通过自由竞争获得胜利，而非通过封锁更先进的技术。我们必须在我们做的每件事情都做领导者，特别是令人兴奋的科技世界！”</p><p><br/>现在看来，或许特朗普意识到，通过公平竞争已经无法赶超华为的发展势头，便一举撕破脸皮，使出惯用的“极限打压”和全面封锁的霸凌手段。</p><p><br/>借唐主任的话，作为一个投资人，我会选择和华为的一供（华为无法直接投资）站在一起，<b>历史从不亏待任何站位正确且坚定的人</b>。<br/></p><hr/><p>尊敬的海思全体同事们:</p><p><br/>　　此刻，估计您已得知华为被列入美国商务部工业和安全局(BIS)的实体名单(entity list)。</p><p><br/>　　多年前，还是<b>云淡风轻的季节，公司做出了极限生存的假设，预计有一天，所有美国的先进芯片和技术将不可获得，而华为仍将持续为客户服务</b>。为了这个以为永远不会发生的假设，数千海思儿女，走上了<b>科技史上最为悲壮的长征，为公司的生存打造“备胎”</b>。数千个日夜中，我们星夜兼程，艰苦前行。华为的产品<b>领域</b>是如此<b>广阔</b>，所用技术与<b>器件</b>是如此<b>多元</b>，面对数以千计的科技难题，我们无数次失败过，困惑过，但是从来没有放弃过。</p><p><br/>　　后来的年头里，当我们逐步走出迷茫，看到希望，又难免一丝丝失落和不甘，担心许多芯片永远不会被启用，成为一直压在保密柜里面的备胎。</p><p><br/>　　今天，命运的年轮转到这个极限而黑暗的时刻，超级大国毫不留情地中断全球合作的技术与产业体系，做出了最疯狂的决定，在毫无依据的条件下，把华为公司放入了实体名单。</p><p><br/>　　今天，是<b>历史的选择</b>，所有我们曾经打造的<b>备胎，一夜之间全部转“正”!</b>多年心血，在一夜之间兑现为公司对于客户持续服务的承诺。是的，这些努力，已经连成一片，挽狂澜于既倒，确保了公司大部分产品的战略安全,大部分产品的连续供应!今天，这个至暗的日子，是每一位海思的平凡儿女成为时代英雄的日子!</p><p><br/>　　华为立志，将数字世界带给每个人、每个家庭、每个组织，构建万物互联的智能世界，我们仍将如此。今后，为实现这一<b>理想</b>，我们不仅要保持<b>开放创新</b>，更要实现<b>科技自立!</b>今后的路,不会再有另一个十年来打造备胎然后再换胎了，缓冲区已经消失，每一个新产品一出生，将必须同步“科技自立&#34;的方案。</p><p><br/>　　前路更为艰辛，我们将以<b>勇气、智慧和毅力</b>，在极限施压下挺直脊梁，奋力前行!滔天巨浪方显英雄本色，艰难困苦铸造诺亚方舟。</p><p><br/>　　何庭波</p><p><br/>　　2019年5月17日凌晨</p>",
+                "comment_count": 6,
+                "image_url": "https://pic3.zhimg.com/50/v2-ca9f328290d2c0d8d014ad710908cf4c_hd.jpg",
+                "voteup_count": 34,
+                "type": "article"
+            },
+            "attached_info": "Cj0QBxoJMTAyODEwNjI5IPuW+OYFKCIwBkAAUhF0b3BfYWN0aXZpdHlfcG9zdFoFOTI5NjByCDY2MDY3OTA2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1536299402,
+                "is_labeled": false,
+                "excerpt": "昨天上午盘中，有一条关于2000亿美元关税的一条假消息在网络上肆意传播。由于其假得太离谱，马上发了一篇<a href=\"https://zhuanlan.zhihu.com/p/43906703\">擦亮眼睛，看清假新闻的真面目</a>这里就不占用篇幅了。总之，市场信心相当脆弱，截止目前菠菜发稿为止，双方依旧在喊话，并没有2000亿实锤落下。有意思的…",
+                "excerpt_title": "",
+                "id": 43950979,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-7a60ea285302b186c18d327ad1154080_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-510f15ba4aa3cdc7259808430943cd8d_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-acce9c2aec2e5750ff540d3cb591c5d3_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "type": "people",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/43950979",
+                "title": "2000亿关税逼出重大政策性利好",
+                "created": 1536282709,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>昨天上午盘中，有一条关于2000亿美元关税的一条假消息在网络上肆意传播。由于其假得太离谱，马上发了一篇<a href=\"https://zhuanlan.zhihu.com/p/43906703\" class=\"internal\">擦亮眼睛，看清假新闻的真面目</a>这里就不占用篇幅了。总之，市场信心相当脆弱，截止目前菠菜发稿为止，双方依旧在喊话，并没有2000亿实锤落下。有意思的是，我刚在百度上打“2000”这个数字的时候，就是下面的画风↓</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-510f15ba4aa3cdc7259808430943cd8d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"672\" data-rawheight=\"306\" class=\"origin_image zh-lightbox-thumb\" width=\"672\" data-original=\"https://pic2.zhimg.com/v2-510f15ba4aa3cdc7259808430943cd8d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>足见现在市场有多么在意关税。商务部也迅速给美方回应，我们必将反制。敢喊出来总是好的，可能双方谈的不太好。菠菜有种感觉，这次可能在名单上有所松动。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-acce9c2aec2e5750ff540d3cb591c5d3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"121\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic4.zhimg.com/v2-acce9c2aec2e5750ff540d3cb591c5d3_r.jpg\"/></figure><p>可是，最大的利好昨夜悄然而至：</p><p>1、 <u><b>抓紧研究适当降低社保费率，确保总体不增加企业负担</b></u>。最近大家一直在担心民营企业的负担越来越重，你给老百姓减了个税，把企业负担提上去，民营企业又在银行拿不到贷款了，真的要死给你看了。现在放出这个利好，说明舆情监测被重视了；</p><p>2、<u><b>确保创投基金税负总体不增</b></u>。这个事再次体现商务部和财政部之间多年以来存在的政策不同步。商务部明明已经给招商引资税收、社保的优惠，到了财政部那为了完成税收任务再找你要回来；</p><p>3.<u><b>社保基金的考核周期酝酿从1年延长到5年</b></u>。我认为这是利好指数的最重磅消息。有人昨天问菠菜为啥周三公募集体砸盘，买了不动不就得了吗？当你真的操盘大资金的时候，有时真的身不由己。因为你想出货一天两天根本出不完，没卖多少就跌停了。因此像搞长期牛市，搞价值投资，要先把考核口径改了。</p><p>所以，国务院这几个职能部门长年以来积累的矛盾在经济L型底部的时候充分得以暴露。还记得前不久刘国师任主任的国务院金融稳定发展委员会刚刚开会研究如何支持中小企业发展，看来很多政策会逐步落地。</p><p>美国发动XX站，先做的动作是减税，是确保美国企业的利润。我们作为被动的一方，如果在对内政策上能跟上减税，那么股市不会太差。中国经济目前最大的问题是<b>企业负担太重</b>，<b>民企绑定国企利益</b>，如果能多出些政策鼓励民企发展让民企通过市场本身赚到钱就真的能从根上提高上市公司利润，也就奠定了牛市的基础。</p><p>真正依靠市场成长出来的民企在中国有吗？当然有，比如京东就是。我深切的怀疑京东美股大跌背后华尔街历来的做空手段（<b>为什么每次跳出来的都是《华尔街日报》，而不是《华盛顿邮报》、《纽约时报》？因为订阅此报的向来都是华尔街各大买方</b>）。菠菜认为美国媒体能不能好好关心一下美国内政和美国经济未来命运，比如促进美国换届啥的。京东这样的中国互联网公司，不应该因这点事倒下。BATJ在中国的崛起，不是靠给央企国企做乙方赚来的利润，而是真正靠中国老百姓的购买力，依靠市场充分竞争崛起的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-fc9eb9dd12baa5904fe77242e886e659_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"698\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-fc9eb9dd12baa5904fe77242e886e659_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（此消息截自《华尔街日报》） </p><p>美股已经连跌了3天，特别是纳斯达克为代表的科技类创业公司。美国企业家一定比中国股票砖家更了解美国政客，因此可以隐约的感到全球资本对美国经济预期并不好。</p><p>A股正在摆脱2000亿关税的阴影，昨天也没跌下去太多。激进的可以考虑现在进场（分次，一旦基本面掉头马上止损，输不起就别玩高难度动作），保守的继续等实锤。但如果真的减税落地，A股返牛的可能性极大。</p><p>PS：最令我欣慰的是国务院政策越来越步调一致，而不是各个职能部门邀功竞争相互拆桥。这是内政最大的利好，他们不仅统一了思想，而且统一了行动。因此美国人最怕的是啥来着？国家姿本主义（此处写个错别字，呵呵）。</p>",
+                "comment_count": 12,
+                "image_url": "https://pic4.zhimg.com/50/v2-7a60ea285302b186c18d327ad1154080_hd.jpg",
+                "voteup_count": 9,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHODgyODc3OSDVoMfcBSgJMAxAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQzOTUwOTc5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558358261,
+                "is_labeled": false,
+                "excerpt": "中美贸易战再次开打，美元兑人民币冲破6.9的开口，三个月内人民币贬值了8.8%。大家心里有想过为甚么人民币贬值那么快，但美元就好像平安没事，今天Ken就和大家探讨一下这个问题。 <b>国际货币怎么分级</b>首先先讲一讲货币的品质，古人以贝做钱、拿纸换金，货币一…",
+                "excerpt_title": "",
+                "id": 66421689,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-433b08d0e7c62e3088c1aec5ddea8f21_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-3852b19d6413cee11da3cfe172717987_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-28018939e53d9e16028fa1fbfd3be698_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-580cb11ff612104dc77e7066ea06f2b4_{size}.jpg",
+                    "name": "理财师Kensiu",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "金融"
+                    },
+                    "headline": "香港友邦理財顧問",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "li-cai-shi-kensiu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-580cb11ff612104dc77e7066ea06f2b4_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/ecbe82a81a72bb11d29ada7bb16def84",
+                    "type": "people",
+                    "badge": [],
+                    "id": "ecbe82a81a72bb11d29ada7bb16def84",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66421689",
+                "title": "为何人民币不能代替美元成为全球信赖的国际货币？这篇文章告诉你答案",
+                "created": 1558358261,
+                "content": "<p>中美贸易战再次开打，美元兑人民币冲破6.9的开口，三个月内人民币贬值了8.8%。大家心里有想过为甚么人民币贬值那么快，但美元就好像平安没事，今天Ken就和大家探讨一下这个问题。<br/></p><p><b>国际货币怎么分级</b></p><p>首先先讲一讲货币的品质，古人以贝做钱、拿纸换金，货币一直是重要的计价标准与交易媒介，不同国家的货币也存在着差异性，因此专家学者们发展出了许多衡量货币的方式，其中BenjaminJ. Cohen便以金字塔的意象将货币做分级，由上而下分成七层，知名学者SusanStrange则将货币以功能性区分成四种。以金字塔分级而言，美元位于金字塔顶层，在国际的流通性与使用上皆是企业与国家首选，也较为稳定；人民币为位于第三层的菁英货币，在一特定区域中被发行国与少量邻国使用作为交易媒介的货币，但扩及度与频率皆没上层高。按照Susan的分类，人民币则属于中性货币（NeutralCurrency），虽对市场有一定的影响力，但国际化程度却略显失色。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-3852b19d6413cee11da3cfe172717987_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"456\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-3852b19d6413cee11da3cfe172717987_r.jpg\"/></figure><h2><b>美元价值和石油挂勾</b></h2><p>1971年，美国决定不再令美元价值与黄金储备挂钩后，美元成为与其他货币一样的货币。但在1974年，美国和沙特阿拉伯达成协议，沙特阿拉伯和其他海湾国家支持美元作为石油出口交易的主要媒介。这样，石油和其他商品以美元定价，因此任何购买石油的国家都必须建立美元储备来支付，石油对世界经济和科技发展有至关键的影响。通过对石油的炼制可得到汽油、煤油、柴油等燃料以及各种机器的润滑剂、气态烃。通过化工过程，可制得合成纤维、合成橡胶、塑料、农药、化肥、医药、油漆、合成洗涤剂等。因此，石油被广泛运用于交通运输、石化等各行各业，被称为经济乃至整个社会的「黑色黄金」、「经济血液」。石油的流动改变着世界政治经济的格局，只要没有一种新的燃料能取代石油，国际间石油的争夺就不会停止，而美国亦因为石油成为地球上最有影响力的国家。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-28018939e53d9e16028fa1fbfd3be698_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"363\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-28018939e53d9e16028fa1fbfd3be698_r.jpg\"/></figure><p><b>不神圣三角下的人民币</b></p><p>保罗·克鲁格曼（PaulRobin Krugman），曾提出一个国际政治经济学概念被称为三元悖论（TheImpossible Trinity），国家可能有三个目标分别为货币政策的独立性、汇率的稳定性与资本的自由流通，但要同时达成三者是不可能的，最多仅可能达成其中两者。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-0f5e91202c28952cf2eefdb9f9f70e0c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"308\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-0f5e91202c28952cf2eefdb9f9f70e0c_r.jpg\"/></figure><p>​当一个国家要有货币政策的独立性同时要保障资本自由移动的时候，其汇率不可避免的受国家的政策决定与国际上的资本移动所影响，因此其汇率往往较波动，汇率的不稳定性容易造成货币持有者与市场的不安。 </p><p>若一个国家要维持资本的自由移动同时保有稳定汇率的话，他必须牺牲的就是货币政策的自主性。他国做出的经济与货币政策往往会对国际市场造成波动，为了维持自身稳定的汇率势必要做出相对因应的措施，自身国家的货币政策就变成在处理强势货币国丢出的问题，较少有闲暇空间去发展出自己的货币政策。</p><p>一国若要有稳定的汇率，同时又要有主动的货币政策支持他在国内与国际发展的话，就必须实行资本上的管控。从造成汇率波动的源头着手，直接进行控制，中国目前就处在三角中的这一侧。</p><h2><b>资本管制是中国无法迈向国际顶尖货币的元凶？</b></h2><p>成为一个国际货币并非这么简单，要被国际社会广泛的使用首先必须具备兑换的便利性与高流通性，该货币同样需要有强力的贸易网络，强大的流通力让其他国家普遍上支持使用该货币，除此之外众人对这货币的未来抱持着信心，唯有信赖这货币的稳定性才会持有该货币进而用它进行交易结算与储存投资。 </p><p>中国为了稳定计划中的经济发展与汇率，强力的资本管制乃中国现今仍持续实施的政策之一。中国虽为大市场与大工厂，有着强大的贸易网络，但兑换与流出的不方便性让人民币至今依旧无法往更上层的货币迈进。</p><p><b>人民币的二万五千里长征</b></p><p>2016年美元加强了主宰金融市场的力道，2017年欧元同样加入战局，让原本渐有一席之地却苦无进展的人民币硬生滑落国际支付货币的前5名。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e3163ac247f0d97ff3e711631dced78a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"311\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-e3163ac247f0d97ff3e711631dced78a_r.jpg\"/></figure><p>中国也了解到有这个问题，所以想藉由亚投行与一带一路带动人民币，在中国较有主导权的区域组织与国家中推行人民币的广泛使用，在地图上则成为东亚的「人民币走廊」。但问题依旧，中国是否愿意更开放它的资金移出与投资，此现象又是否为成长趋缓的中国能应付得来。</p><p>更为重要的，外国当地需要使用人民币进行交易与结算才有达到人民币国际化的目标，而非将资金带到当地后依旧转换为其他货币作为支付，这样则是变相资本外流的单纯投资而已。因此中国本身若未设有足够诱因，各国使用人民币作为主要货币的机率依旧不高，毕竟就现况而言人民币依旧不能算在顶尖货币之中。</p><p>原本藉由问鼎一篮子货币（currencybasket）想加深国际对人民币的信心，但资本管制总是让人产生该货币无法面对大市场的意象，再加上近期喧嚣尘上的影子银行（ShadowBanking System）及最近贸易战的表现更加深市场对人民币的不安，同样打击着民众对人民币的信心，也是造成最近人民币贬值的原因之一。人民币距离成为被区域所接受的国际性货币还有好长的路要走，在现阶段，一般的市民应该好好保护自己的财产，做好的风险管理，储备一部分境外资产。​​​​</p>",
+                "comment_count": 20,
+                "image_url": "https://pic3.zhimg.com/50/v2-433b08d0e7c62e3088c1aec5ddea8f21_hd.jpg",
+                "voteup_count": 1,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyODg5MTcxIPXRiucFKAEwFEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjY0MjE2ODk="
+        }
+    ]
+}

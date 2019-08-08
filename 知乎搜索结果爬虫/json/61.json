@@ -1,0 +1,233 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440364388.52757",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1440341181.82&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440341181.81583"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558099674,
+                "is_labeled": false,
+                "excerpt": "文 | 老拾首发 | 拾遗往事（ID：shiyiwangshi） 5月17日凌晨，华为海思总裁致员工的一封信，强势登上了热搜。 海思总裁在信中说： 多年前，还是云淡风轻的季节，<b>公司做出了极限生存的假设</b>，预计有一天，所有美国的先进芯片和技术将不可获得，而华为仍将持续…",
+                "excerpt_title": "",
+                "id": 66163036,
+                "voteup_count": 63,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-6b02e9a205a4f06a4f45895fd76b73a4_{size}.jpg",
+                    "badge": [],
+                    "name": "老拾",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "公众号：我是冯十一。原创爆文写手，亲子、生活类自媒体原创作者",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-6b02e9a205a4f06a4f45895fd76b73a4_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/488b699be86ac9f12aba257902e34b82",
+                    "type": "people",
+                    "url_token": "sheng-sheng-37",
+                    "id": "488b699be86ac9f12aba257902e34b82",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66163036",
+                "title": "备胎芯片一夜转“正”，敢于和美国叫板的华为，底气何在？",
+                "created": 1558099674,
+                "content": "<p>文 | 老拾</p><p>首发 | 拾遗往事（ID：shiyiwangshi）</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-56a256a48422ad263517705d00a9a59e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"176\" data-rawheight=\"150\" class=\"content_image\" width=\"176\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>5月17日凌晨，华为海思总裁致员工的一封信，强势登上了热搜。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>海思总裁在信中说：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>多年前，还是云淡风轻的季节，<b>公司做出了极限生存的假设</b>，预计有一天，所有美国的先进芯片和技术将不可获得，而华为仍将持续为客户服务。为了这个以为永远不会发生的假设，海思走上了科技史上最为悲壮的长征，<b>为公司的生存打造&#34;备胎&#34;</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>今天，命运的年轮转到这个<b>极限而黑暗的时刻</b>，超级大国不留情地中断全球合作的技术与产业体系，做出了疯狂的决定。在毫无依据的情况下，把华为列入了美国商务部工业和安全局的实体名单。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>今天，是历史的选择，所有我们曾经打造的备胎，一夜之间全部转“正”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-af160d566bb30c6d1bf993103e2ccc4f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"630\" data-rawheight=\"2798\" class=\"origin_image zh-lightbox-thumb\" width=\"630\" data-original=\"https://pic4.zhimg.com/v2-af160d566bb30c6d1bf993103e2ccc4f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（注：海思全名是为海思半导体有限公司，成立于2004年10月，负责华为自己的芯片设计。我们熟知的华为手机芯片麒麟系列就是出自海思。除了手机芯片，海思的产品还有服务器芯片（鲲鹏系列）、基站芯片、基带芯片、AI芯片等等。）<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>网友看到此信后，有的对华为的这种行为点赞、打气鼓劲：<b>“居安思危，心怀远大”、“一直用华为产品、支持国货”“加油、华为”</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>更多的是，是被信中那种勇往直前、斗争到底的精神感动，大呼：<b>“看得掉泪了，很震撼，很鼓舞人心！” “燃”、“热血沸腾”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7f7f5c5720c016d07c248aeee791921f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"613\" data-rawheight=\"139\" class=\"origin_image zh-lightbox-thumb\" width=\"613\" data-original=\"https://pic4.zhimg.com/v2-7f7f5c5720c016d07c248aeee791921f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-cdd8d1449aadcf2e7f7f2f58f2f6efa5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"385\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-cdd8d1449aadcf2e7f7f2f58f2f6efa5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>有人要问，勇于与超级强国硬钢，华为公司的底气来自哪里？<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-3a0df47375a2fe37dfbb12bd4faf250b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"176\" data-rawheight=\"150\" class=\"content_image\" width=\"176\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>提到华为，很多人第一反应都是这是个制造手机的公司，然而实际上，华为不仅仅只是一个手机厂商，而是一个<b>科技型公司</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>华为，是一家非常非常非常（重要的事说三遍）注重研发的公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>投入经费方面，2018年，华为以<b>113.34亿欧元（约合人民币 891.1698 亿元）</b>的研发投入，位列<b>全球第五、中国第一</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下面这份榜单是欧盟委员会一年一度的报告《2018年欧盟工业研发投资排名》，华为是唯一一家跻身Top 50的中国公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b7df5a52dd82ae999da53d1a9012c32e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"559\" data-rawheight=\"809\" class=\"origin_image zh-lightbox-thumb\" width=\"559\" data-original=\"https://pic3.zhimg.com/v2-b7df5a52dd82ae999da53d1a9012c32e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>专利方面，世界知识产权组织(WIPO)发布的数据显示，2018年，中国科技巨头华为的专利申请量高达<b>5405件，位居全球第一</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>研发人才方面，华为有<b>1万多名博士</b>，其中包括几十名俄罗斯的数学家。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>无论是放眼国内还是全球，华为在研发方面，都是让人钦佩的。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a789f8c50816fda3e919f82e47cba901_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"176\" data-rawheight=\"150\" class=\"content_image\" width=\"176\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>与很多局限在国内的公司不同，华为业务遍布<b>170多个国家和地区，服务全球1/3以上的人口</b>。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>员工方面：阿里巴巴员工3万，百度5万，腾讯大约3万，加起来11万，但是华为的全球员工总数是<b>17万</b>！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>纳税方面：腾讯70多亿，阿里巴巴纳税109亿，百度22亿，华为<b>超过了他们的总和，纳税337亿</b>！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>利润方面：阿里巴巴的利润234亿，腾讯242亿，百度105亿，利润总额是580亿，但是70％被外国人拿走，而从2000年开始的最近十五年，<b>华为累积营收2.3万亿，超过70%来自海外，在外国人身上赚的钱达1.38万亿</b>！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>曾经，欧洲的地铁都是没有信号的，2007年，这样的情况终于被华为打破。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当时华为拿到了德国的订单，一下子在德国建了8000多个通信基站，于是，德国地铁里终于有了信号。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>这是一个万亿级的超级市场，而华为已经占据了市场份额第一。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>华为，支撑着20多亿人口打电话，发短信，上网。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1eac97b5066cdeb62dc553452500b8aa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"281\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-1eac97b5066cdeb62dc553452500b8aa_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>就像海思总裁在信的末尾所说：<b>滔天巨浪方显英雄本色，艰难困苦铸造诺亚方舟</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>海明威在《老人与海》中说: </p><blockquote>一个人可以被毁灭，但不能被打败。</blockquote><p>这句话用在华为身上是如此的贴切。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>华为，是有傲骨的企业；华为，是中国人的傲气！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>华为，中华有为！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-aab0afca340dbfcea9227daf9c01c8a5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"23\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic2.zhimg.com/v2-aab0afca340dbfcea9227daf9c01c8a5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>老拾：38岁中年人。专业党务工作者，资深考古往事爱好者，写那些被遗忘的故事。坚信“日光之下无新事，但往事里藏着金子”。公众号：拾遗往事（ID: shiyiwangshi）</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a8a399d89179c7d22f6b325124df411d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"344\" data-rawheight=\"344\" class=\"content_image\" width=\"344\"/></figure><p></p>",
+                "comment_count": 15,
+                "image_url": "https://pic4.zhimg.com/50/v2-684bc6cdb4e168b4895670e208251384_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-684bc6cdb4e168b4895670e208251384_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-af160d566bb30c6d1bf993103e2ccc4f_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-7f7f5c5720c016d07c248aeee791921f_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "Cj8QBxoJMTAyODMxNzk1INrt+uYFKD8wD0AAUhF0b3BfYWN0aXZpdHlfcG9zdFoHMTAzMjUwOHIINjYxNjMwMzY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "三星股权结构图韩国大企业、银行等关键部门在97年亚洲金融危机的时候就大部分被外资（美资为主）控制了，还有韩国有好几万美军驻扎。",
+                "created_time": 1527128636,
+                "id": 399739230,
+                "voteup_count": 6,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/aadd7b895_{size}.jpg",
+                    "badge": [],
+                    "name": "匿名用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/aadd7b895_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "type": "people",
+                    "url_token": "",
+                    "id": "0",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/399739230",
+                "question": {
+                    "created": 1527028023,
+                    "url": "http://www.zhihu.com/api/v4/questions/278259646",
+                    "title": "同属于ICT巨头:三星在美国市场发展，为什么没有遇到像华为那么大的阻力？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 278259646
+                },
+                "updated_time": 1527129036,
+                "content": "<p>三星股权结构图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-9cf5b1df2575c3976872f7016c02887a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1108\" data-rawheight=\"585\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-9cf5b1df2575c3976872f7016c02887a_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1108\" data-original=\"https://pic1.zhimg.com/v2-9cf5b1df2575c3976872f7016c02887a_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1108'%20height='585'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1108\" data-rawheight=\"585\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-9cf5b1df2575c3976872f7016c02887a_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1108\" data-original=\"https://pic1.zhimg.com/v2-9cf5b1df2575c3976872f7016c02887a_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-9cf5b1df2575c3976872f7016c02887a_b.jpg\"></figure><p>韩国大企业、银行等关键部门在97年亚洲金融危机的时候就大部分被外资（美资为主）控制了，还有韩国有好几万美军驻扎。</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-9cf5b1df2575c3976872f7016c02887a_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic1.zhimg.com/v2-9cf5b1df2575c3976872f7016c02887a_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTAyNzQ5NTA3ILzEmNgFKAYwAkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNDExMTA0NHIJMzk5NzM5MjMw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "近期华为轮值董事长徐直军公开表示，麒麟处理器是非卖品。言下之意是不会把华为的芯片卖给中兴。如果这样看来，中兴离完蛋就不远了。真的是这样吗？杨小帅给您分析一波。 中兴作为国内第二大，全球第五大的通讯设备厂商，在全球有相当大的市场份额，但是芯…",
+                "created_time": 1524115483,
+                "id": 370700401,
+                "voteup_count": 19,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "诗城少女的梦",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/be28886ab6d8f23cd37165ff51673e75",
+                    "type": "people",
+                    "url_token": "shi-cheng-shao-nu-de-meng",
+                    "id": "be28886ab6d8f23cd37165ff51673e75",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370700401",
+                "question": {
+                    "created": 1523962192,
+                    "url": "http://www.zhihu.com/api/v4/questions/273661389",
+                    "title": "华为人如何看待中兴被制裁？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273661389
+                },
+                "updated_time": 1524115484,
+                "content": "近期华为轮值董事长徐直军公开表示，麒麟处理器是非卖品。言下之意是不会把华为的芯片卖给中兴。如果这样看来，中兴离完蛋就不远了。真的是这样吗？杨小帅给您分析一波。<br>中兴作为国内第二大，全球第五大的通讯设备厂商，在全球有相当大的市场份额，但是芯片过分依赖于进口，缺乏核心技术。中兴作为国有背景相当深厚的企业，承载着大国崛起的使命。国家是不会轻易放弃中兴的，必然有政府的力量给予干预。<br>华为也懂得唇亡齿寒的道理，企业之间的矛盾永远小于国家间的矛盾。华为自己就完全掌握了核心技术吗？未必，麒麟芯片也是基于arm的，你蹦哒的厉害了照样可以封杀你。但是暗地还是要帮的，只是明面上不能说。<br>由中兴事件让我想到的事，中国虽然强大了，但是别人也处处掐着你的命门。这次你不卖我芯片，我就不卖你大豆。是不是颇有你掐我喉脖，我便踩你脚指的意味？",
+                "comment_count": 31,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc0NjEwOTkgm9Dg1gUoEzAfQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMDg4ODIwcgkzNzA3MDA0MDE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526169967,
+                "is_labeled": false,
+                "excerpt": " 点击上方蓝字“微观系列”，关注我 特朗普的“通俄门”之火越烧越旺，昨天正式烧到了特朗普头上，“通俄门”特别检察官穆勒对媒体说，将约谈美国总统，目前约谈要求已经提出，正等待总统律师团的答复。对此穆勒准备了<b>“40大题”</b>来质问总统，对特朗普来说这…",
+                "excerpt_title": "",
+                "id": 36473922,
+                "voteup_count": 140,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_{size}.jpg",
+                    "badge": [],
+                    "name": "捷克甜糖",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "搜索公众号“微观系列”，关注我 获取更多好文",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/097e844fdfb8462488c0af2a809c6265",
+                    "type": "people",
+                    "url_token": "yue-han-zao",
+                    "id": "097e844fdfb8462488c0af2a809c6265",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36473922",
+                "title": "美国到底要把世界搞的多乱？",
+                "created": 1525526783,
+                "content": "<p></p><p>​</p><p>点击上方蓝字“微观系列”，关注我</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f3684b282774542fdbb10b37418f302c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"371\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic1.zhimg.com/v2-f3684b282774542fdbb10b37418f302c_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普的“通俄门”之火越烧越旺，昨天正式烧到了特朗普头上，“通俄门”特别检察官穆勒对媒体说，将约谈美国总统，目前约谈要求已经提出，正等待总统律师团的答复。</p><p>对此穆勒准备了<b>“40大题”</b>来质问总统，对特朗普来说这绝对是个不怀好意的约谈，所谓的“40道题”完全可能是<b>题题陷阱</b>，在回答40道题的过程中，特朗普只要有一个不小心，就可能被抓住把柄大做文章。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-f3820ecabab118949d13b3d108b212f5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"533\" data-original=\"https://pic2.zhimg.com/v2-f3820ecabab118949d13b3d108b212f5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>左为特别检察官穆勒</p><p>就现在的情况来看，总统律师团队很可能建议特朗普不接受检察官约谈，明知是虎穴，还偏向虎山行，英雄勇士可以这么做，奸猾的人还是能免则免吧。</p><p>然而如果特朗普拒绝特别检察官约谈，根据美国法律，如果总统拒绝约谈，那特别检察官可以使出杀手锏<b>“特别传票”，强制要求总统去向美国大陪审团作证，当事情闹到大陪审团那里后，那就更难以收拾了。</b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-003ef7d1c73b0a2d2c927d54ab6c26b9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-003ef7d1c73b0a2d2c927d54ab6c26b9_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>被炒鱿鱼的科布（左），新上任的律师弗罗德（右）</p><p>在此背景下，特朗普突然把自己的心腹，一直兢兢业业帮他处理“通俄门案子”的律师科布炒了鱿鱼</p><p>换上了美国最知名的律师，EMMET FLOOD</p><p>弗罗德有多知名呢？</p><p>弗罗德最著名的战绩是帮前总统克林顿处理了美国国会对于克林顿的总统弹劾案。</p><p><b>由此可见特朗普心里已经准备好应付一场“总统弹劾”了</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-de7517ea4878bcdeb626febb030e80b3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"338\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-de7517ea4878bcdeb626febb030e80b3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>除了通俄门，特朗普现在还真是四面楚歌，之前我写过文章《美国最奇葩总统》里讲过，特朗普为了让一个拍色晴片的女演员闭嘴，付了13万美金封口费，还被怀疑这封口费出自他的总统竞选经费。</p><p>现在最新爆料又爆出，特朗普在2016年竞选总统期间公布的健康报告，可能完全是伪造的。他的私人医生都被找上了电视参加节目。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-885472e4ec2ce3045188fd4194d13038_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"281\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-885472e4ec2ce3045188fd4194d13038_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普在国外不断给世界各国点火，弄得各国人心惶惶，鸡犬不宁，可在国内他自己也是四面楚歌，一桩又一桩的案子，麻烦不断。</p><p>那么问题来了，特朗普该怎么办呢？</p><p>熟悉政治的朋友应该知道有一招政治家惯用的招数，叫做<b>“内部矛盾，外部解决”</b></p><p><b>什么意思？就是我的执政出现了危机，那最好的办法不是我去解决这危机，而是挑起我国与外国的矛盾。</b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-2ef2fb492e6d5d5e708a45ad8d047f95_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-2ef2fb492e6d5d5e708a45ad8d047f95_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>这样做的好处是，国与国之间的危机关注度，永远大于国内的执政危机关注度。</b></p><p>比如说特朗普故意挑起中美矛盾，那美国人民的爱国热情就一下被煽呼起来，此时人民对于特朗普丑闻的关注，肯定就低于中美矛盾的关注，那这招转移注意力的计谋就奏效了。</p><p>而如果特朗普在中美矛盾中获得了好处，那他就可以在美国人民面前炫耀</p><p><b>看，我厉害吧，我让敌人低头认输了</b></p><p>如此，特朗普执政的危险系数，就会因为他取得了国与国之间矛盾的胜利，而得到很大程度的化解。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a47209ffe7747a1101e3489c9002ca28_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"379\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-a47209ffe7747a1101e3489c9002ca28_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>为什么我今天上来就跟大家讲特朗普在美国国内的危机呢？</p><p><b>因为他在美国国内过的越糟糕，他对国外就越强硬。</b></p><p><b>因为他已经输不起了，必须要借助国外的胜利来转化国内的危机。</b></p><p>结合到当前正在进行的中美谈判，特朗普绝对是寄希望于“凯旋而归”的.</p><p><b>通过从中国身上讹诈来的“胜利”，来向美国人民证明，瞧，我多行，最终最大程度的浇灭他在美国国内的民怨之火。</b></p><p><b>由此中美谈判必定非常艰难，很可能一无所获，双方互相僵持。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-37d1cc2a931c44b3a6a5f9958fce8c43_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"181\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而且当前美国国内的政治格局也在不断发生改变，而讲一个国家的政治格局，是一个很庞大的问题，大到可以出一本书了。</p><p>但是篇幅有限，我只能用最简单易懂的方法讲，希望让每一个朋友都能轻松理解。</p><p>当前美国国内的政治格局，主要分为三派</p><p><b>保守派</b></p><p><b>自由派</b></p><p><b>民粹派</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a6de8e531293c87b448d1328f37298e8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-a6de8e531293c87b448d1328f37298e8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>保守派以共和党为代表的，主要涉及美国军工集团，能源集团（石油天然气），烟草集团，外交集团。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-f94602a380f8d0df8edf89add4b2d076_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"358\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic3.zhimg.com/v2-f94602a380f8d0df8edf89add4b2d076_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>高科技精英全是反特朗普的</p><p>自由派以民主党为代表的，主要涉及媒体集团，好莱坞集团，硅谷高科技集团，精英知识分子集团</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-8cafdad3aea6118211f942aab64cdba1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"624\" data-rawheight=\"351\" class=\"origin_image zh-lightbox-thumb\" width=\"624\" data-original=\"https://pic2.zhimg.com/v2-8cafdad3aea6118211f942aab64cdba1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而最后一个民粹派，是近几年才在美国壮大起来的，它的壮大主要是因为在全球化的浪潮下，美国制造业大量流失，造成了大批美国人失业</p><p><b>美国好几个曾经制造业辉煌的大州，如今早已人去厂空，工厂和设备也都锈迹斑斑，故而被称为“铁锈州”</b></p><p>这些生活在“铁锈州”的人民，没有工作，生活艰难，对于共和两党都失去信心</p><p><b>直到特朗普的出现。</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d13ca34250400699d37a192ae3bc7206_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"574\" data-rawheight=\"235\" class=\"origin_image zh-lightbox-thumb\" width=\"574\" data-original=\"https://pic3.zhimg.com/v2-d13ca34250400699d37a192ae3bc7206_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在竞选期间，特朗普振臂高呼“美国优先，振兴美国制造业”，这两句口号一喊出来，铁锈州的人民群情激奋，纷纷为特朗普摇旗呐喊，疯狂为特朗普投票造势。</p><p><b>于是特朗普也顺理成章的成了这群铁锈州人民，这群即不相信共和党，也不相信民主党的底层人民的最佳代言人。</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e2e7727a9c0726d829199381cbedfac6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-e2e7727a9c0726d829199381cbedfac6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>极简单的介绍了目前美国国内的政治格局，而如果特朗普想要稳定执政，就必须获得这三大派别中两大派的支持。</p><p>特朗普要获得民主党派的支持是不可能的，民主党弄死他的心都有，那特朗普就必须稳固住共和党派和民粹派的支持。</p><p>我刚才说了，民粹派都是美国底层百姓，他们没有工作，生活艰苦，那要获得他们支持，你光靠喊口号肯定不行，人家又不是傻子，听你喊喊口号就疯狂支持你？你必须拿真东西出来。</p><p>民粹派想要什么真东西呢？</p><p><b>讲白了，就是要工作</b></p><p>那共和党派想要什么呢？</p><p><b>讲白了，就是要钱。</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-0b497075706ed1c7cbd1866cc19112e0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"358\" data-rawheight=\"195\" class=\"content_image\" width=\"358\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>那特朗普该怎么做才能即弄到钱，又弄到工作呢？</p><p>大家最先想到的肯定是<b>制造业回流美国</b></p><p>这是谁都知道的，不过我一直不太看好制造业回流美国</p><p><b>因为他是一个很漫长的过程，制造业从美国流走先后至少用了十年，现在你要他一点点回来，少说也要个五六年。</b></p><p>你一个总统任期才四年，这四年你见不到成果人民就抛弃你了。</p><p>所以特朗普是不能靠“制造业回流美国”来兼顾两派利益的，特朗普必须要找一个能最快的，能立竿见影的方法来满足双方。</p><p>那有没有这个东西呢？</p><p>有，朋友们知道是什么吗？</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-726990d25d67a92b6f5fbfcb25a34a0d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"308\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-726990d25d67a92b6f5fbfcb25a34a0d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>嗯，没错，是军火。</p><p>美国的军火生意，是能够最快的，而且最大限度满足两方利益的最佳方案。</p><p>在这里就必须为大家引入美国军火生意的一个概念</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-73eab19d3d2b81f8c8ec2745fa95fc2d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-73eab19d3d2b81f8c8ec2745fa95fc2d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>叫“<b>Military-Industrial Complex</b>”</p><p>中文叫<b>军工复合体</b>，简称MIC</p><p>这个“军工复合体”概念不是我提出的，是二战盟军最高指挥官，同时也是美国前总统“艾森豪威尔”提出的。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e12fdba47eecd593a44dc554836b0404_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-e12fdba47eecd593a44dc554836b0404_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>埃森豪对于军工复合体的警告</p><p>艾森豪因为是军人出身，非常了解“军工复合体”的运作模式，下面这段来自美国智库VOX的视频，就很好的介绍了什么是美国政治的幕后操盘手，军工复合体。</p><p><b>视频约2分钟,建议降低音量</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-0967e848383fb93758db950e8030b5ff_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-0967e848383fb93758db950e8030b5ff_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>铁三角</p><p>简单讲一下什么是“军工复合体”</p><p>如视频中所示</p><p><b>军工复合体是由，三个利益相关方，所组成的一个“铁三角”</b></p><p><b>这三个利益方是国防部，军火商，国会议员</b></p><p>这个铁三角相互依存，相互依赖，形成了一整个庞大的，影响美国国家政策走向的利益集团。</p><p>那这铁三角是怎么运作的呢？</p><p><b>1，总统拉生意</b></p><p><b>2，国防部放出总统找来的订单</b></p><p><b>3，国内军火商获取订单</b></p><p><b>4，订单经过国会批准</b></p><p><b>5，订单开始生产，寻找当地美国工人</b></p><p><b>6，美国工人投票支持在国会批准军火订单的国会议员。</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b698ceb3d4c4cee5b3fde80eb2584a46_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-b698ceb3d4c4cee5b3fde80eb2584a46_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>五角大厦，国会，军火商的相互关联</p><p>我直接假设一个例子，更方便大家理解</p><p>特朗普访问沙特，说服沙特国王买50架F35战机（总统拉生意）</p><p>这50架战机的订单放到国防部网站上（国防部放订单）</p><p>军火商从国防部网站获取订单，订单确认交由美国国会批准。（军火商取得订单）</p><p>国会议员经过讨论，通过该军火订单（国会批准）</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b81311d2ab0879090ab871799a851219_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-b81311d2ab0879090ab871799a851219_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>波音和雷神两大军火商在美国各州所创造的工作机会</p><p>军火商开始生产50架F35</p><p><b>但一架军用战斗机，里面涉及到的硬件，软件，零件，成千上万，绝不可能由军火商一家公司独自完成，所以军火商会将业务分包给下面至少3000家大大小小的公司</b></p><p><b>你做这个，他做这个。于是这就产生了大量的工作岗位</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a614be7cdf6cee317e84b468f2f60b3a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-a614be7cdf6cee317e84b468f2f60b3a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>被波音和雷神游说的国会议员，在国会为两大军火商发声</p><p>那这些获得工作的美国人，每到投票季，就自然而然的会去投票支持批准军火订单的国会议员，因为没有国会议员的批准，就不可能有这些工作。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d2f0e4342fe30591ef03fe88a65032d4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-d2f0e4342fe30591ef03fe88a65032d4_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>美国前几大军火商</b></p><p><b>波音，洛克希德马丁，通用动力，诺斯罗普，雷神</b></p><p><b>同时也是全球前500强企业</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-1879da43ec42e2f6b07c508fbc17a547_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-1879da43ec42e2f6b07c508fbc17a547_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普是军火商的总代言人</p><p>而这些军火商也非常狡猾，他们会将工厂设立在支持军火生产的国会议员的选区，哪个议员支持军火生产我的厂就放在你那个州</p><p>所以我们能非常清楚的看到美国5大军火商的工厂分布，其实非常分散，就是因为他们要找不同的国会议员支持</p><p>他们要主动去找那些国会议员所在的选区设厂，而不像其他国家的军火生产，主要集中在一个地方，美国是遍地开花。</p><p><b>这样他们可以对，特定军火商，的特定标案，给于特别支持。</b></p><p><b>这也就是最典型的美国式官商勾结。</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-660b2a2d52cc06c0f7a628121876ee10_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"404\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-660b2a2d52cc06c0f7a628121876ee10_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最后那些获得工作，获得不错收入的美国人除了支持相关国会议员外，自然也会支持为他们带来工作的总统特朗普。</p><p><b>这也就形成了一个完整的利益铁三角，一个完整而庞大的利益共同体。</b></p><p><b>然后就能解释我上面提出的问题了，特朗普即要获得民粹派的支持，又要获得共和党派的支持，用什么方法最快最好？</b></p><p>就是用“军工复合体”的这套方法。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-c10cbb0b18270eab8ff7dcb836433b63_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-c10cbb0b18270eab8ff7dcb836433b63_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>没有军火和死亡，美国这个国家就过不好</p><p>这套方法能让共和党派获得巨大利益，同时也能满足美国民粹派需要工作的实际需求。</p><p>而这也就解释了我上周，上上周，在多篇文章里提到的，美国为什么要搅乱这个世界。</p><p>世界太平，美国的最大利益集团“军工复合体”就会完蛋。</p><p>所以特朗普作为军火代言人，自然在世界各地到处点火放炮。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6e05d3fde47747a4914b6905201be517_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"312\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-6e05d3fde47747a4914b6905201be517_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在伊朗，他要退出伊朗核协议，激化逊尼派，什叶派和以色列三方的冲突，点燃第六次中东战争的导火索</p><p>大炮一响，黄金何止万两，中东战争只要一打，那些靠着石油赚取丰厚利益的阿拉伯国家，都得乖乖把钱送给美国人。</p><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU1NjI0MzQzNg%3D%3D%26mid%3D2247483872%26idx%3D1%26sn%3D7e87996cdf23b569a6af543cb8c015f1%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">相关文章链接；美国，第三次世界大战</a></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-060579e87c2d5ff10b8c3db247009570_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"318\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-060579e87c2d5ff10b8c3db247009570_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在叙利亚，美国制造化武攻击，让原本有望和平的叙利亚战争烽火再起，战斧导弹一枚600万美金，反正花的是纳税人的钱，得利的是军工复合体。</p><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU1NjI0MzQzNg%3D%3D%26mid%3D2247483795%26idx%3D1%26sn%3Dbc28ebc611492c8f9df8582af50be80a%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">点击相关链接；这个世界的黑暗超乎你想象</a></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b0015adbc38b9347d50ff2641d19333a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-b0015adbc38b9347d50ff2641d19333a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在欧洲，英美联手炮制间谍毒杀案，使得俄罗斯和欧洲各国相互驱逐外交官，形成新一波对于俄罗斯的外交孤立，制造紧张气氛，让欧洲各国和北约再次与俄罗斯对立。</p><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU1NjI0MzQzNg%3D%3D%26mid%3D2247483695%26idx%3D1%26sn%3D5589ab57839fcaca18b0a93921fd0f98%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">点击相关链接；毒杀间谍，一出英美联合，自导自演的闹剧</a></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-aec27e2af93ae5dbab3dab8b28b2324d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"246\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-aec27e2af93ae5dbab3dab8b28b2324d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>北约28国，全面包围俄罗斯</p><p>从而达到特朗普的目标，即北约所有28个国家，<b>每个国家的国防开支都必须占到该国GDP的2%</b>，北约秘书长迫于美国的淫威和俄罗斯的威胁，已经表示将全面达标。</p><p>如果这28个国家因为俄罗斯威胁真的将国防开支提升到GDP的2%，<b>那就等于每年多花900亿美金，而这900亿美金，毫无疑问的，都会流进美国人口袋。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-657fb47c027ca414d555ace70afe50bf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"462\" data-rawheight=\"277\" class=\"origin_image zh-lightbox-thumb\" width=\"462\" data-original=\"https://pic4.zhimg.com/v2-657fb47c027ca414d555ace70afe50bf_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在亚洲，朝韩虽然已现和平曙光，但文在寅已经对媒体放话，在他的任期内，就算朝韩签署了和平协议，美军也不会撤出朝鲜半岛，韩国将继续依赖于美军的存在。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-1fdb513fc5a8d8801f0261c942cbe52b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"220\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-1fdb513fc5a8d8801f0261c942cbe52b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>同样的，在日本，在台湾地区，美国一样不会让这片地方太平。特朗普要日本多交保护费，日本不敢不交，日本军费近年再创新高，光是向美国买F35战机这一笔军火费用，就高达约4000亿日元。</p><p>点击<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzU1NjI0MzQzNg%3D%3D%26mid%3D2247483862%26idx%3D1%26sn%3D1f771651b816699b5dfe3bfa2b1e1751%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">相关链接；亚洲和平的唯一阻碍</a></p><p><b>我在想，还好火星上没人哦</b></p><p><b>不然美国肯定也会把火星搞个鸡飞狗跳，不得安宁。</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-3760755bf46edcfcf356637924d9c7a8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"306\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-3760755bf46edcfcf356637924d9c7a8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>微观系列包括微观当代、微观历史、微观人物。每一个事件的讲述者都是从自我感情出发的片面表述，但是将多个片面组合起来，至少能构成事件的大致图景。为您及时剖析，可能会影响到世界格局的大事件，以及其背后所隐藏着的，鲜为人知的故事。</p><p>版权所有，转发请注明</p><p>我是江平舟，平凡世界里的，一叶孤舟。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>微信搜索，微观系列，关注获取更多好文</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d71efde6f9cf7f9c10e5353a34a4a8d2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-d71efde6f9cf7f9c10e5353a34a4a8d2_r.jpg\"/></figure><p>​</p><p>​</p><p></p><p></p><p></p>",
+                "comment_count": 17,
+                "image_url": "https://pic1.zhimg.com/50/v2-d0f16462801d3019b42f0f781049cf18_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-d0f16462801d3019b42f0f781049cf18_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-f3684b282774542fdbb10b37418f302c_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-f3820ecabab118949d13b3d108b212f5_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjUQBxoHNjc4MDQzNCD/4bbXBSiMATARQABSEXRvcF9hY3Rpdml0eV9wb3N0cggzNjQ3MzkyMg=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523166317,
+                "is_labeled": false,
+                "excerpt": "1 有人称特兰谱悍然发起中美之间的贸易战，是霸权主义行径。但，他却认定美国是被中国欺辱，现在不过是讨回公道而已。4月4日，他的推文可以证明：“我们不是在与中国进行贸易战，那场战争在许多年前已经由那些愚蠢的，或无能的代表美国的人输了。现在，我们…",
+                "excerpt_title": "",
+                "id": 35403144,
+                "voteup_count": 23,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "何华强",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "斜杠大叔",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/31fbcdd655436a8a22ccda8dfbc879e7",
+                    "type": "people",
+                    "url_token": "he-hua-qiang-25",
+                    "id": "31fbcdd655436a8a22ccda8dfbc879e7",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35403144",
+                "title": "特朗普的悲情与我们的激情",
+                "created": 1523156633,
+                "content": "<h2>1</h2><p class=\"ztext-empty-paragraph\"><br/></p><p>有人称特兰谱悍然发起中美之间的贸易战，是霸权主义行径。</p><p>但，他却认定美国是被中国欺辱，现在不过是讨回公道而已。</p><p>4月4日，他的推文可以证明：</p><p>“我们不是在与中国进行贸易战，那场战争在许多年前已经由那些愚蠢的，或无能的代表美国的人输了。现在，我们每年的贸易逆差为5000亿美元，而知识产权盗窃则为3000亿美元。我们不能让这种情况继续下去。</p><p>当你已经损失了5000亿美元（贸易逆差），你不能损失了。”</p><p class=\"ztext-empty-paragraph\"><br/></p><p>就我所知，到目前为止，特朗普还没有提到过“主义”两个字。说明意识形态方面，他没那么在乎，他也没有把中国当成敌人，并且称与习主席是好朋友，但贸易是贸易。</p><p>同时，当很多人担心中美会陷入“修昔底德陷阱”的时候，他认为这是纯属扯淡。</p><p>反而，“修昔底德陷阱”说，在国内有更大的市场。</p><p>君不见，动辄就说我们某某产品、某某技术、某某材料超过欧美日，</p><p>什么美国惊呆了、欧盟傻掉了、日本给跪了、韩国吓尿了、印度后悔了等标题比比皆是，爱国主义情怀、民族主义情绪大行其道，各种阴谋论甚嚣尘上，巴不得国家即刻成为世界第一，恢复我泱泱中华地位，四方来贺盛况。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>面对这些，为什么特朗普就如此风轻云淡，根本不担心修昔底德陷阱呢？</p><p>因为，在特朗普心里，从来没有把中美放在同一个等量级的位置上。</p><p>美国是发展了几百年的发达国家，中国是近来才加速发展的发展中国家，底蕴相差甚远，具体如下：</p><p>1、军事：空天、空军、舰艇、导弹、陆军都不是对手。</p><p>大家都明白，美国在上个世纪四十年代，就在大洋上与德军潜艇和日本航空母舰大规模血战，而我们现有的航空母舰的战力还在磨练中，尚未真正成熟。</p><p>飞机就不用说了，至少差距50年，导弹至少差距20年，陆军先不说，能不能用得上还是一个问题，因为两国彼此深入腹地短兵相接的概率极低。</p><p>那你可能会问，我们军队的人数多呀。是的，可是几乎每个美国成年公民的用枪能力大概率会超过我们的普通士兵，全民皆兵呀。</p><p>更不用说，美国的军事韬略和素养了。</p><p>2、经济：GDP接近我们的两位，人均GDP接近我们的8倍。</p><p>3、文化：虽然美国的普世价值比不上我们的社会主义核心价值观，内容规定的还没有我们多。但关键是大部分国家都卖他的账呀，如之奈何？</p><p>4、政治：虽然说我们制度自信，代表比资本主义更高层级的社会主义和共产主义，但毕竟刚开始起步，相当于一个小孩，力量还是薄弱的。</p><p>5、教育：世界顶级学府的聚集地。我们央行行长就是从那里留学归来，并且作为很重要的经历亮点，以此为荣。</p><p>6、科技：几乎囊括大部分世界上靠前的科技公司、科技产品、发明专利和商誉。尽管我们也在进步，但还是局部的。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>2</h2><p class=\"ztext-empty-paragraph\"><br/></p><p>你可能会说，为何如此灭自己志气，长他人威风呢？</p><p>我是国家的一个公民，从未如此深切地爱着我的祖国。</p><p>但我已经从只会发泄情绪，进阶到深度思考。</p><p>因此，我更能记住国家领导人说过的话：要理性爱国。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所谓的理性爱国，就是要正视现实，接受现实、臣服现实。</p><p>正视现实，不是懦弱</p><p>正视现实，不是畏惧</p><p>正视现实，不是不思进取，不是自甘落后，不是颓废等待，</p><p>正视现实，是了更好地思考如何才能突破现实，思考如何不断的超越自我、超越他人，然后去释放激情、燃烧热血，去建构美好的家园。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一个不敢正视自己过去和现在的国家是没有未来的，</p><p>一个不敢正视自己过去和现在的民族是没有未来的，</p><p>一个不敢正视自己过去和现在的个人是没有未来的。</p><p>当我们放下的时候，实际上是最强大的时候。</p><p>就像有人承认自己不足，实际上就是自己真正强大的开始，唯如此，才能摆脱皇帝新衣，活出新我。</p><p>中华民族，基于历史原因，因为过于自卑，过于自尊，过于执着恢复往昔的荣光，反而导致闭门锁国，让自己陷入更加深重的灾难：少年失聪、少女失节、壮士失血、山河失色。</p><p>难道，还要再来一次吗？！</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>3</h2><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，人无完人，国家不完美也很正常。</p><p>谁说我们一定要超过美国呢？</p><p>我们做第二难道就不行吗？</p><p>只要政治清明、环境清新、食品安全，民生幸福，为什么非要我们的国家领导人做第一呀。</p><p>不是第一的国民难道就不幸福了吗？</p><p>加拿大、澳大利亚、新西兰、北欧四国、英法德等国家，他们的国家不是第一，难道国民就不幸福了吗？</p><p>如果不幸福，为什么还有那么多人花钱抢着immigration呢？</p><p>为什么你们不去战火纷飞的叙利亚，不去民生凋敝的兄弟国家朝鲜呢？</p><p>孔子奉行“危邦不入，乱邦不居”，</p><p>如果把国家的的隔离带离开，民众会涌向哪里呢？</p><p>好不容易，中国发展到现在，有人移出，也有人移进。</p><p>移进的这些人，不管出于什么原因，能够从从海外回来，终归说明这个地方有可取之处。</p><p>难道非得用民主主义情绪和爱国主义情怀，来绑架领导人的意志，去做一些满足短期情绪，损害长期利益的事情？！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果您喜欢我的文章，可以加我微信号：fjfzhhq</p><p>让我们在追求  财富  自由的路上携手共进。</p><p></p><p></p>",
+                "comment_count": 52,
+                "image_url": "https://pic1.zhimg.com/50/v2-06a30bbe8889098b096be92850a32bcc_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-06a30bbe8889098b096be92850a32bcc_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjM1MTQxNSCZjabWBSgXMDRAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NDAzMTQ0"
+        }
+    ]
+}

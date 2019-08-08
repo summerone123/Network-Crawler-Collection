@@ -1,0 +1,238 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439196612.90915",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439159661.28&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439159661.28441"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-f83ef6f9fe8a796c94e061aca7bd316f_hd.jpg",
+                "updated": 1557814720,
+                "is_labeled": false,
+                "excerpt": "我今天先讲个英语段子。大家都知道英文单词里税收一词是tax，这词肿么来的捏？菠菜当年教《国贸》的教授曾经在课堂上说是因为英格兰旧时经常被海盗洗劫村庄。当地的英格兰人也会和维京海盗搏斗，但大多数时候都会主动交点钱了事。这种钱叫Danegeld（我觉得…",
+                "excerpt_title": "",
+                "id": 65679110,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-f83ef6f9fe8a796c94e061aca7bd316f_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-d3c2a2ea64a9a286f16f6251457a3e0e_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-13d90c905b66349b8368237ec379857f_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "url_token": "xing-kong-cai-fu",
+                    "user_type": "people",
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/65679110",
+                "created": 1557804501,
+                "content": "<p>我今天先讲个英语段子。大家都知道英文单词里税收一词是tax，这词肿么来的捏？菠菜当年教《国贸》的教授曾经在课堂上说是因为英格兰旧时经常被海盗洗劫村庄。当地的英格兰人也会和维京海盗搏斗，但大多数时候都会主动交点钱了事。这种钱叫Danegeld（我觉得后面的geld估计是gold的一种变体，总之类似赎金的意思），至今在丹麦的赋税都叫Danegeld而不叫tax。</p><p>哇咔咔~~逗比的在后面，关税的英文Tariff其实是个地名译为塔里法(现在依然有塔里法角）。这地方大概在地中海西口,  距直布罗陀21  英里处的一个港口。这是个神奇的地方，因为当时是海盗控制的港口，地中海的贸易必须途径此处缴纳一笔买路费。你不给钱对方就开船过来抢货物，所以就成了约定俗成的“规矩”。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d3c2a2ea64a9a286f16f6251457a3e0e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"493\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-d3c2a2ea64a9a286f16f6251457a3e0e_r.jpg\"/></figure><p>菠菜研究了一下世界贸易的黑社会的黑历史，发现一个道理，关税从来就没有公平本身就是一个国家主权的一种象征。强大的团伙一定会借助自己的优势赚钱。即使是在生产力落后的古代，强盗们也会计算一次打劫的成本。这些强盗们穿越了千年历史走到今天，还用了以前的套路，好熟悉的味道啊~~所以，必须正面刚上。</p><p>昨天美股三大指数暴跌，苹果直接下跌5.5%，虽然我A也绿但菠菜心里还是莫名的舒坦。SEC也不管管某人用社交媒体操纵市场，这直接伤害广大美国投资者的基本利益。我估计他继续用这种方式来护盘的作用也会边际效用递减。对方抛过来一张我们不可能签的协议，就是为了给我们贴一张并不存在的标签，如果中招对于外向型经济为主的粤港澳大湾区非常不利。各个股票群都是一种极度亢奋的状态，这两天可能会有做多的信号，但我还是建议大家谨慎为妙，除非人民币汇率止跌企稳。昨天上证只跌了35.5点，算是很给力了。</p><p>芝加哥期权交易所编制了一个指数，用来衡量S&amp;P500未来30日的预期年化波动率。这句如果不好懂没关系，这个指数反映市场恐慌情绪也被称为恐慌指数VIX（Volatility   Index）。这个数值越高代表市场越恐慌，昨天这个值已暴涨30%收在20.55（如下图）。说明整个资本市场避险情绪严重，可以考虑买黄金板块相关个股做短期对冲。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-13d90c905b66349b8368237ec379857f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"658\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb\" width=\"658\" data-original=\"https://pic4.zhimg.com/v2-13d90c905b66349b8368237ec379857f_r.jpg\"/></figure><p>最近一些列如亨通光电、康得新等公司出现了财务爆雷，这类公司一定要回避。即使外部环境转好，股指企稳也不要抱希望在这种已经发生问题的公司上。这里我提醒一下ST板块的一些个股，昨天出现了大范围的跌停，这说明一个问题，即将有大面积退市潮将于近期启动。保护好自己的账户，现在还不是全面做多的时候。我有一种预感，更大规模直接利好中小企业的利好正在路上。政策空间上，我们比对岸更有弹性。在没有见到利好政策实锤时，星空不认为会有大规模资金主导做多。</p><p>科技类公司只有头部的几个资金面不吃紧，是值得长期投资的。其他的主要靠题材炒作，啥叫题材？就是隔三差五出来喊一句要并购了。现在发并购基金的难度越来越大，并购后一地鸡毛吃相难看的公司比比皆是，因此精选标的尤为重要。到手的订单比传出来的并购消息靠谱多了，大环境风雨飘摇时一定要看公司基本面的，不看基本面不分析财务报表的很容易踩雷。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-760a960031e1a80d3d7307e1af10a485_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"690\" data-rawheight=\"388\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic2.zhimg.com/v2-760a960031e1a80d3d7307e1af10a485_r.jpg\"/></figure><p>PS：一早在群里看到有人说会抛美债买比特币……我当时就笑喷了，这么有才的假新闻一定是币圈干部编的，佩服！（今天我就指这个笑话解忧了，哈哈~~）</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f5dcc26e27549100ce60414319d87960_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"271\" data-rawheight=\"143\" class=\"content_image\" width=\"271\"/></figure><p></p>",
+                "comment_count": 0,
+                "title": "白马也爆雷，是时候考虑黄金板块了",
+                "voteup_count": 14,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyNzI0MzI5INXr6OYFKA4wAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjU2NzkxMTA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "先来看看影响。以上是中国对美进口商品加征关税的清单，从清单的的种类来看，主要分为农产品和铝废碎料，农产品关税最重的是猪肉，关税达到25%。从海关公布的数据来看，2017年中国进口猪肉来源最多的国家是西班牙，为237513.8吨、其次是德国211774.8吨、加…",
+                "created_time": 1522629154,
+                "id": 356287773,
+                "voteup_count": 60,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-6bad87071b76450fb616ae05b5c57e25_{size}.jpg",
+                    "badge": [],
+                    "name": "马继鹏",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "经济学"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/dac278897b5b9c081b97a2d8e09eac12",
+                    "url_token": "zhenrongbao",
+                    "user_type": "people",
+                    "headline": "资深财经媒体人、财经专栏作者",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-6bad87071b76450fb616ae05b5c57e25_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "dac278897b5b9c081b97a2d8e09eac12"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/356287773",
+                "question": {
+                    "created": 1522602415,
+                    "url": "http://www.zhihu.com/api/v4/questions/270748696",
+                    "title": "如何解读：中国对美国128项进口商品加征关税？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 270748696
+                },
+                "updated_time": 1522630589,
+                "content": "<figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-d01d0adede1449d632045fa535c2e656_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"1692\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-d01d0adede1449d632045fa535c2e656_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='550'%20height='1692'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"1692\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-d01d0adede1449d632045fa535c2e656_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-d01d0adede1449d632045fa535c2e656_b.jpg\"></figure><p>先来看看影响。</p><p>以上是中国对美进口商品加征关税的清单，从清单的的种类来看，主要分为农产品和铝废碎料，农产品关税最重的是猪肉，关税达到25%。</p><p>从海关公布的数据来看，2017年中国进口猪肉来源最多的国家是西班牙，为237513.8吨、其次是德国211774.8吨、加拿大166754.9吨、美国的165740.7吨。</p><p>165740.7吨相当于进口200多万头生猪，这相对于中国市场的总体量而言所占比例微小，但却不能忽视。</p><p>按照2016年美国猪肉平均价格为45.16美元/英担（1英担折合约50.8公斤），按照现在人民币兑美元汇率大约1：6.9来计算，美国猪肉价格仅为6.13元/公斤。而根据中国统计局的数显示2016年我国猪肉平均价格为18.76元/公斤。</p><p>也就是说，美国的进口猪肉即便算上关税和运输费用，其成本也仅不过是我国猪肉价格的三分之一左右。</p><p>所以，对美国猪肉征收25%后，猪肉价格不超过8元。</p><p>但是，最担心的是中国的很多无良肉商可能会借机涨价，最近很多国内的农牧上市公司股价已经上涨，预计猪肉价格也会上涨，最后还是老百姓买单。</p><p>中国为什么要对美国128项进口商品加征关税？</p><p>最直接的原因就是美方此前对进口自中国的钢铁和铝产品采取232措施（对特定产品进口是否威胁美国国家安全进行立案调查），商务部向世贸组织提出贸易补偿磋商请求，但美方没答复。</p><p>所以，可以将此次中国对美国128项进口商品加征关税理解为贸易报复。</p><p>但是大家要搞清楚，最新宣布的这份关税清单是对特朗普政府3月初宣布的钢铝关税的报复，而不是针对特朗普在3月晚些时候作出的对高达600亿美元中国进口产品征收25%关税的报复。</p><p>总之，从清单来看，中美直接的贸易战目前还在初级阶段，都没有伤及对方“主力产业”，目的主要是在谈判桌上赢得更好的筹码。</p>",
+                "comment_count": 22,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-d01d0adede1449d632045fa535c2e656_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-d01d0adede1449d632045fa535c2e656_200x112.jpg"
+            },
+            "attached_info": "CkIQBBoIOTQ4NDAxMjggovSF1gUoPDAWQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNDQxNDkwcgkzNTYyODc3NzM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic2.zhimg.com/50/v2-552a18c99680e4ec3518549f914c695a_hd.jpg",
+                "updated": 1545920845,
+                "is_labeled": false,
+                "excerpt": "<b>大家好</b>我是乌鸦上尉 这两天，美国政府关门了原因也很简单<b>没钱了</b>工资都发不出来了关了拉倒 这件事的起因是特朗普在国会要钱修边境墙时说：<b>万水千山总是情，50个亿行不行？</b>民主党咬死了不同意：<b>天涯何处无芳草，13个亿搞不搞？</b>结果，两党价钱谈不拢一怒之下，…",
+                "excerpt_title": "",
+                "id": 53473652,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-552a18c99680e4ec3518549f914c695a_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-72d1b0a1ec659bfcad61fc36d10363f6_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-81972005b0a2a48460032f4c3c8dcf11_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-d7c4259577015f4e80e61a515c614da7_{size}.jpg",
+                    "badge": [],
+                    "name": "乌鸦校尉",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/a46ffe315ac5c92a61f953832bd3aa10",
+                    "url_token": "wu-ya-shang-wei-84",
+                    "user_type": "people",
+                    "headline": "北航研究生，热衷研究中国工业和军事发展，人称“北航奥观海”。",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-d7c4259577015f4e80e61a515c614da7_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "a46ffe315ac5c92a61f953832bd3aa10"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/53473652",
+                "created": 1545920845,
+                "content": "<p><b>大家好</b></p><p>我是乌鸦上尉</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这两天，美国政府关门了</p><p>原因也很简单</p><p><b>没钱了</b></p><p>工资都发不出来了</p><p>关了拉倒</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这件事的起因</p><p>是特朗普在国会要钱修边境墙时说：</p><p><b>万水千山总是情，50个亿行不行？</b></p><p>民主党咬死了不同意：</p><p><b>天涯何处无芳草，13个亿搞不搞？</b></p><p>结果，两党价钱谈不拢</p><p>一怒之下，政府就关门谢客了</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-72d1b0a1ec659bfcad61fc36d10363f6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"299\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-72d1b0a1ec659bfcad61fc36d10363f6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>但是特朗普像一个生气的小孩</p><p>咬死不松口</p><p>一定要给我50亿修墙</p><p>不然就不开门！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这也是美国40年来第一次</p><p>政府一年内关3次门</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-81972005b0a2a48460032f4c3c8dcf11_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"685\" data-rawheight=\"483\" class=\"origin_image zh-lightbox-thumb\" width=\"685\" data-original=\"https://pic2.zhimg.com/v2-81972005b0a2a48460032f4c3c8dcf11_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，建墙这50亿美元</p><p>也不算太多钱</p><p>特朗普自己身价都有31亿</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是美国政府</p><p><b>现在背负着21万亿的巨额债务</b></p><p><b>每年还要新增将近1万亿的债</b></p><p>这21万亿的债是什么概念呢？</p><p>美国2017年全年的GDP</p><p>还不到20万亿</p><p>也就是说</p><p><b>就算全美国人一年不吃不喝</b></p><p><b>挣来的钱都给政府还债</b></p><p><b>也还不完</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>手头这么紧的情况下</p><p>拿出50亿修墙</p><p>就显得有点扎眼了</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-feab9cd9c65032042603d94cbf27ebb7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-feab9cd9c65032042603d94cbf27ebb7_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>很多人肯定会觉得奇怪</p><p>为什么美国背了这么多债？</p><p>这么多债不会成问题吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，美国借的钱</p><p>一开始并没有这么多</p><p>有人把每个美国总统借钱的量</p><p>画成了一个图</p><p>这个图是这样的：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-ba7492b0c851a880b01861bc465c352d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"323\" data-rawheight=\"451\" class=\"content_image\" width=\"323\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>可以看到的是</p><p>美国的债一开始</p><p>还是一小部分一小部分地加</p><p>但是到了后面</p><p>是一层一层地加</p><p>停都停不下来</p><p class=\"ztext-empty-paragraph\"><br/></p><p>之所以会出现这种情况</p><p>是因为借债就像毒品</p><p>一旦吸上了就戒不掉了</p><p>只会越吸越多越吸越多</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国刚开始吸毒的时候<br/></p><p>也没觉得毒品会越吸越多</p><p>但是没想到毒品这么厉害</p><p> 美国虽然是个富二代</p><p>家里富得流油</p><p><b>但是几次大规模的吸毒</b></p><p><b>还是把美国吸成了这个样子</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在，美国吸毒吸多了</p><p>债台堆上了天</p><p>就像一颗核弹</p><p>随时都有可能爆炸</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而且，一旦核弹爆炸</p><p>不止美国要完蛋</p><p>还会波及到全世界的每一个人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为什么这么说呢？</p><p>我们来看三个故事</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第一次吸毒的时候</b></p><p><b>美利坚是拒绝的</b></p><p>我堂堂世界第一强国</p><p>为什么要吸毒呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可惜，事与愿违</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1944年，太平洋战场上</p><p>122中队的美军飞行员</p><p>正在吃冰淇淋</p><p>但是，和普通的冰淇淋不一样</p><p><b>他们这一桶冰淇淋</b></p><p><b>是用航空汽油造的</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9fab1d79a719d0c0cebfb235c0d5b01e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"756\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-9fab1d79a719d0c0cebfb235c0d5b01e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美军待的这个地方</p><p>叫做<b>佩勒琉岛</b></p><p>岛上气候炎热<br/></p><p>美国飞行员经常热得吃不下饭</p><p>虽然空军的伙食好</p><p>天天都有牛肉吃</p><p><b>但是因为太热，飞行员吃不下去</b></p><p><b>他们想吃冰淇淋</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这样一个光秃秃的荒岛</p><p>上哪儿去找冰淇淋啊</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有一天，122中队的指挥官突发奇想：</p><p>飞得越高气温就越低</p><p><b>如果飞到3万英尺的高空</b></p><p><b>飞机玻璃都能结层霜</b></p><p><b>不就能做冰淇淋了吗？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是，他们把可可粉和奶粉装进铝罐<br/></p><p>挂在飞机两翼</p><p>开起飞机就飞到3万英尺</p><p>果然，降落以后</p><p><b>他们就得到了</b></p><p><b>冻得梆硬的巧克力冰淇淋</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-cdc60c5c339dd3e65a9b8a25ac31434b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"376\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-cdc60c5c339dd3e65a9b8a25ac31434b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这下飞行员们都嗨起来了</p><p>发现这个秘密后</p><p>122中队每天下午</p><p>都要打着例行训练的名义起飞</p><p>保证一百多号人能够吃上冰淇淋</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其他中队知道这事以后</p><p>不但没有打小报告</p><p>反而纷纷效仿</p><p>连第11航空大队的司令部也点名要吃</p><p><b>于是，美国就整天</b></p><p><b>让飞机飞起来落下去</b></p><p><b>飞起来落下去</b></p><p><b>天天造冰淇淋吃</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，这些冰淇淋</p><p>等于是用航空汽油换的</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在二战中，汽油非常宝贵</p><p>日本人是<b>“一滴汽油一滴血”</b></p><p>希特勒为了汽油都快疯了</p><p><b>美国却为了一口冰淇淋</b></p><p><b>这么可劲霍霍汽油</b></p><p><b>啥家庭啊？家里有矿啊？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-c03e1ba14f568d63051a677ee4cb7fb9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"746\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"746\" data-original=\"https://pic2.zhimg.com/v2-c03e1ba14f568d63051a677ee4cb7fb9_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这话没说错</p><p>美国人就是家里有矿</p><p><b>这座矿，就是美债</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>二战期间，美国一年的GDP</p><p>才2000多亿美元</p><p>但是光是美军的军费</p><p>就高达2815亿美元</p><p class=\"ztext-empty-paragraph\"><br/></p><p>军费比GDP都高</p><p>这些钱是怎么来的呢？</p><p>一开始，因为战争的压力</p><p>到处都需要用钱</p><p>美国政府是不停地征税</p><p>甚至开出了丧心病狂的税率：</p><p>只要你年收入超过20万美元</p><p>就要征收94%的所得税率</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d36bab507e110e8c79a5033755b17f9f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"486\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-d36bab507e110e8c79a5033755b17f9f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>但即使税收得这么狠</p><p>也只筹到了44%的军费</p><p>钱还是不够</p><p>怎么办呢？</p><p>美国政府很快发现</p><p>自己一点一点工作来钱多慢啊</p><p>还是借钱快！</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>于是，美国就发行了美债</b></p><p><b>通俗点说就是借条</b></p><p><b>找别人借了一大笔钱</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-24a75d619e7fbda7df6c1ae81d79de90_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-24a75d619e7fbda7df6c1ae81d79de90_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：电影《美国队长》里，主角被派到巡回演出工作队</b></p><p><b>最重要的工作就是兜售国库券</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>1930年，美国只有160亿美债</p><p>而二战结束后，这个数字飙升到了2600亿</p><p>足足翻了好几番</p><p><b>这也是美国建国一百多年来</b></p><p><b>美国国债规模首度超过GDP</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>正因为借了一大笔钱</p><p>美军的军费多得花不完</p><p>想怎么霍霍就怎么霍霍</p><p>才有了汽油换冰淇淋的事</p><p class=\"ztext-empty-paragraph\"><br/></p><p>与此同时，能造能打的美军</p><p>也拉动了美国经济</p><p>产品滞销的农场、煤矿、兵工厂</p><p>都接到了大批的订单</p><p>战后，美国人发现：</p><p><b>两千亿的美债</b></p><p><b>换来的是美国长达20年的黄金时代</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-38aa8bc4761b47e7d162333b19bf1fcb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"445\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic4.zhimg.com/v2-38aa8bc4761b47e7d162333b19bf1fcb_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：电视、汽车和圣诞树，五十年代美国家庭</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美债就像毒品一样</p><p>在吸毒之前，美国人觉得自己不会上瘾</p><p>但是吸完之后才发现</p><p><b>吸毒真特么爽！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是，美国上瘾了</p><p>从此以后只要碰到问题</p><p>美国就吸毒，发美债</p><p><b>用美债刺激经济</b></p><p><b>成了美国的灵丹妙药</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-24f8f07eab026bea723e2be52af8b6e7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"414\" data-rawheight=\"259\" class=\"content_image\" width=\"414\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是，吸毒吸多了</p><p>会有什么问题呢？</p><p>我们来看第二个故事</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第二次吸毒的时候</b></p><p><b>美利坚觉得爽得不行</b></p><p><b>而与此同时，他的身体正在垮下去</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在美苏冷战的时候</p><p>美国一家工厂的老板</p><p>一个电话联系到苏联</p><p><b>求苏联爸爸把自己的工厂买下</b></p><p><b>开价20万美元</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>在这个厂子巅峰的时候</b></p><p><b>别说20万了</b></p><p><b>200万也不一定卖</b></p><p>但是现在，厂子开不下去了</p><p>就是20万贱卖</p><p>一般人也不会接手</p><p><b>他只能冒险跟苏联谈</b></p><p><b>把美国的汽车厂子贱卖给</b></p><p><b>美国最大的敌人</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在当时，这不是个例</p><p>苏联工业界有句话叫</p><p><b>“剥削美帝国主义”</b></p><p>凡是自己造不出、造不好的东西</p><p>就从美国那里买</p><p><b>美国有一帮工厂老板</b></p><p><b>求着苏联买他们的技术和厂子</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5bc55852651e3d98e0684378faa852e7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"648\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-5bc55852651e3d98e0684378faa852e7_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：苏联卡马汽车厂，只花很少钱</b></p><p><b>就能从美国搬一套回苏联</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这听起来很不可思议</p><p>美苏冷战时是势同水火</p><p>天天对骂“赤匪”、“资本家”</p><p>双方恨不得马上打一架</p><p><b>美国哪可能帮自己敌人呢？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，不是美国想帮苏联</p><p>而是美国又吸毒了</p><p>美国的工厂主都被搞垮了</p><p>不卖也不行了</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-cbd5b8e483b9ada47a926cfb75dc7bbc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"678\" data-rawheight=\"534\" class=\"origin_image zh-lightbox-thumb\" width=\"678\" data-original=\"https://pic1.zhimg.com/v2-cbd5b8e483b9ada47a926cfb75dc7bbc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：成堆的高精尖设备，正要出口到苏联去</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这事儿得从里根说起</p><p>里根上台的时候</p><p>美国正面临严重的经济危机</p><p>与此同时，美国之前打的借条</p><p>现在快到期了</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一边是经济危机</p><p>一边债主还找自己还钱</p><p>美国政府狼狈得很</p><p class=\"ztext-empty-paragraph\"><br/></p><p>怎么解决债务呢？</p><p>里根总统想了个好办法</p><p><b>“我借完钱，不还了</b></p><p><b>不就没有债了吗？”</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-0a94ac953e2c3d390401a54935c49a7a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-0a94ac953e2c3d390401a54935c49a7a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-81ad3991dd00ceb38de343931e513cd1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"639\" data-rawheight=\"352\" class=\"origin_image zh-lightbox-thumb\" width=\"639\" data-original=\"https://pic2.zhimg.com/v2-81ad3991dd00ceb38de343931e513cd1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>咋做到借钱不还呢？</p><p>说白了，就是先疯狂印钱</p><p>拿这钱还上今年的债</p><p>然后再跟债主们说：</p><p><b>“去年你借我的钱</b></p><p><b>我还2%的利息</b></p><p><b>再把钱借我一年</b></p><p><b>明年给你4%的利息！”</b></p><p>忽悠债主们把刚收回的钱</p><p>重新又借回给美国</p><p class=\"ztext-empty-paragraph\"><br/></p><p>也就是说，美国左手刚还钱</p><p>右手又把钱收了回来</p><p><b>用新债抵旧债</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是，在这么一通令人窒息的操作下</p><p>每次债务到期</p><p>美国就用新债抵旧债</p><p>但是因为有利息存在</p><p>美国的钱就越欠越多</p><p>越还不上就越是要借钱</p><p>越借钱就越是还不上</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>美国的债务</b></p><p><b>成了一个死循环</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-53e4be94ba692b5926a08642a2f7cf17_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"433\" data-rawheight=\"328\" class=\"origin_image zh-lightbox-thumb\" width=\"433\" data-original=\"https://pic4.zhimg.com/v2-53e4be94ba692b5926a08642a2f7cf17_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：利率上调一点，要还的钱会多几倍</b></p><p><b>而美国要还的钱，就是以橙色这条线上涨</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是，大家都不是傻子</p><p>要让别人第二年依然借你钱</p><p>就必须让他们有的赚</p><p>也就是借钱的利息一定要涨</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美债当时的利息涨到了多少呢？</p><p><b>——5.1%左右</b></p><p><b>算上通胀大约是15.6%</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-41763a07e374944293a56a6501ebebbc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"946\" data-rawheight=\"676\" class=\"origin_image zh-lightbox-thumb\" width=\"946\" data-original=\"https://pic1.zhimg.com/v2-41763a07e374944293a56a6501ebebbc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于美国工厂来说</p><p>这个15.6%要了命了</p><p class=\"ztext-empty-paragraph\"><br/></p><p>你拿一笔钱开工厂，辛辛苦苦一年</p><p>为工厂为工人愁白了头</p><p>可能利润也只有5%</p><p><b>但你把这钱拿去买美债，啥都不干</b></p><p><b>一年却有15.6%的利息</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a568c028087f51b99254d4e5feb560b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"579\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb\" width=\"579\" data-original=\"https://pic1.zhimg.com/v2-a568c028087f51b99254d4e5feb560b8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：工人失业，使得1970年各种抗议活动</b></p><p><b>此起彼伏，归根结底，还是日子不好过</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>只要是个正常人</p><p>都会拿钱去买美债</p><p>不去给工厂投资了</p><p>于是，大量资金投向美债</p><p><b>凡是利润低于15.6%的企业</b></p><p><b>没有了资金来源</b></p><p><b>只能抛售家当关门</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-77716dd17283f5d4f34a7a13e602ef86_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"690\" data-rawheight=\"388\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic3.zhimg.com/v2-77716dd17283f5d4f34a7a13e602ef86_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这才出现了我们前面说的</p><p>美国的工厂主就算贱卖工厂</p><p>还得求着敌人苏联买的怪事</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote><b>苏联每年进口的高技术设备，从70年代前期的4%左右，上升到后期的10%，整个70年代，苏联引进了几百台大型电子计算机和几万台精密机床。还从失业严重的欧洲国家引进了大批成套设备，从法国雷诺和意大利菲亚特的买来的生产线装备了伏尔加汽车厂，从美国、西德、英国、意大利引进的各个分厂，拼成了卡马汽车厂。</b></blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>到了这一步，美国已经从</p><p>全世界最强大的工业国</p><p>变成了一个“金融帝国”</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>在华尔街赚得盆满钵盈的同时</b></p><p><b>美国汽车之都底特律的工厂</b></p><p><b>却纷纷破产倒闭</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-bd23a412f65756966f2ca86975d10334_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"615\" data-original=\"https://pic1.zhimg.com/v2-bd23a412f65756966f2ca86975d10334_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：华尔街在80年代迎来发展高潮</b></p><p><b>背后却是破产的底特律</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>可是，只有劳动是创造财富的</p><p>金融游戏不创造财富</p><p>一旦全美国都去玩金融了</p><p>谁来创造财富呢？</p><p><b>——中国人</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>苏联解体之后</p><p>美国把工厂迁到了中国</p><p><b>中国人辛辛苦苦造东西</b><br/></p><p><b>美国人再借中国人的钱</b></p><p><b>买中国的东西</b></p><p><b>用一堆美债白吃白喝</b></p><p>而越是白吃白喝惯了</p><p>美国就越不愿意工作</p><p>就越要借债挥霍</p><p><b>就像一个刷爆了信用卡的卡奴</b></p><p><b>只能不断地用新卡补旧卡的窟窿</b></p><p><b>这又是一个死循环</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国航母够多</p><p>国力够强的时候</p><p>这个游戏可以一直玩</p><p>但是总有玩脱的一天</p><p>什么时候玩脱呢？</p><p>我们来看第三个故事</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第N次吸毒的时候</b></p><p><b>美利坚感觉身体被掏空</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2011年，奥巴马和硅谷名人共进午餐<br/></p><p>奥巴马问了乔布斯一个问题：</p><p><b>“怎么样能让iPhone回到美国生产？”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>那时，苹果在美国有43000名雇员</p><p>人均利润40万美元</p><p>但是奥巴马并不满意</p><p>因为每一台iphone背面的合金背板上</p><p>都明白写着<b>&#34;Made in China&#34;</b></p><p>这一行小字意味着<br/></p><p>苹果在中国的工厂</p><p>让70万个中国工人有了工作</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国工人想要这些工作想疯了</p><p><b>如果这些工作岗位回流美国</b></p><p><b>奥巴马将成为历史上</b></p><p><b>最伟大的美国总统</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是，乔布斯却回答说：</p><p><b>“总统先生，这些工作是回不来的”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a916184935845d37a14695ad3fb0dbed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1023\" data-rawheight=\"643\" class=\"origin_image zh-lightbox-thumb\" width=\"1023\" data-original=\"https://pic2.zhimg.com/v2-a916184935845d37a14695ad3fb0dbed_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>为什么回不来？</p><p>因为美国工人造不好iphone</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2007年，距离iPhone发布</p><p>仅仅只有一个月的时候</p><p>乔布斯发现iPhone的塑料屏幕</p><p>会被兜里的钥匙磨花</p><p>他怒气冲冲地召集全体高管开会</p><p><b>“所有iPhone全部重来！”</b></p><p><b>”我需要一块玻璃屏幕！“</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-99cf05e8c79707a3b57b135dff487dde_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"534\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-99cf05e8c79707a3b57b135dff487dde_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>乔布斯的要求太高<br/></p><p>打遍了所有供应商电话后</p><p>苹果高管终于找到了一家玻璃加工厂</p><p>那里有数百个中级技师</p><p>一仓库的玻璃样品</p><p><b>乔布斯近乎变态的切割和打磨要求</b></p><p><b>只有他们能做到</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而这家工厂，是中国的</b></p><p class=\"ztext-empty-paragraph\"><br/></p><b><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-201a2f21449351229f24504c0c37011b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"637\" data-rawheight=\"371\" class=\"origin_image zh-lightbox-thumb\" width=\"637\" data-original=\"https://pic4.zhimg.com/v2-201a2f21449351229f24504c0c37011b_r.jpg\"/></figure></b><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>因为屏幕要换成玻璃的了</p><p>组装工艺也得变</p><p>这个任务太艰巨了</p><p>苹果紧急联系富士康，修改屏幕</p><p class=\"ztext-empty-paragraph\"><br/></p><p>接到通知后</p><p>富士康工头叫醒了8000名中国工人</p><p>一人发了一包饼干和一杯茶</p><p>不到半个小时</p><p>这座工厂就全负荷运作了</p><p><b>他们用日产一万台iPhone的速度</b></p><p><b>拯救了苹果的发布会</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-85dc30f68e4828b6ae7fd142de9b4196_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"560\" data-rawheight=\"373\" class=\"origin_image zh-lightbox-thumb\" width=\"560\" data-original=\"https://pic3.zhimg.com/v2-85dc30f68e4828b6ae7fd142de9b4196_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：乔布斯的继任者库克参观富士康郑州工厂</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这次事件让乔布斯明白</p><p>他要的材料，美国找不到</p><p>他要的工人，美国也找不到</p><p>只有中国能</p><p><b>想要iPhone在美国生产</b></p><p><b>就是白日做梦</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>可是以前不是这样的</p><p>以前美国制造也是高质量的代名词</p><p><b>不到两年时间建起的帝国大厦</b></p><p><b>是美国工人实力的象征</b></p><p><b>现在问题出在哪里了呢？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-c5b714e94638c1bafcea0a86acb42c7a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-c5b714e94638c1bafcea0a86acb42c7a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>就出在美债上</p><p>美债这个白吃白喝的套路貌似无解</p><p>但其实有两个明显的问题</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第一，因为美债的玩法</b></p><p><b>把资金全聚集到华尔街了</b></p><p><b>赚不到钱的制造业迁到了中国</b></p><p><b>美国制造业越来越空心化</b></p><p><b>想造东西也造不出来了</b></p><p><b>只能靠中国</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>也就是说</p><p>这个富二代原本是又会造飞机</p><p>又会造航母</p><p>但是吸毒吸坏了身体后</p><p>现在连搬砖都搬不好了</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-86bbb9ba8a525d6d266c0fd0e57e1a73_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"300\" class=\"content_image\" width=\"300\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>第二，大家跟你玩美债的游戏</p><p>是相信你的国力</p><p>相信你这个富二代会还钱</p><p>再加上怕你的航母</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果哪天大家不怕你了</p><p>不借你钱还债了</p><p>而美国倾其所有也还不上债</p><p>美债就面临崩盘的危险</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而全世界各个国家</p><p>都给美国借过钱</p><p>一旦美债崩盘</p><p><b>雪崩之下，全世界都要给美国陪葬</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a8659684cbc4cb3d6f2b7a9bf5af9ced_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"733\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic2.zhimg.com/v2-a8659684cbc4cb3d6f2b7a9bf5af9ced_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>几次吸毒吸下来</p><p>美债已经越堆越高</p><p class=\"ztext-empty-paragraph\"><br/></p><p>罗斯福借的债</p><p>是过去100年美国借债的总和</p><p>里根借的债</p><p>是过去200年美国借债的总和</p><p><b>奥巴马只用了8年时间</b></p><p><b>就把200年的债务总和</b></p><p><b>又翻了一番</b></p><p><b>特朗普只用了2年时间</b></p><p><b>债务就堆到了奥巴马的一半</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-ba7492b0c851a880b01861bc465c352d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"323\" data-rawheight=\"451\" class=\"content_image\" width=\"323\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在贸易战之前</p><p>特朗普还做了几件事：</p><p>加军费，搞基建，减税</p><p><b>加军费是要钱的</b></p><p><b>搞基建也是要钱的</b></p><p><b>减税是让政府没钱的</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>也就是说，特朗普这几招</p><p>虽然让美国经济稳住了</p><p>失业率也下去了</p><p>但是却让美国政府的财政</p><p>又到了赤字状态</p><p>为了政府能继续运作</p><p>那就必须继续借钱</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>这等于是把美国</b></p><p><b>往悬崖边上继续推</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e059f4817961c59862ecc175cfdc7628_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic1.zhimg.com/v2-e059f4817961c59862ecc175cfdc7628_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图：美国人预计到2028年，美债将和美国GDP持平</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国人心里很清楚</p><p>这样下去早晚要出事</p><p>有人就告诉特朗普</p><p><b>照他这么借钱下去</b></p><p><b>总有一天会美债危机的</b></p><p><b>到时候就玩完啦！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普说：</p><p><b>没错，但是等到出事的时候</b></p><p><b>总统就不是我了</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-7876f7c80d4d7e25b8c99068322da4f5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"182\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-7876f7c80d4d7e25b8c99068322da4f5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>“我死后</b></p><p><b>哪管他洪水滔天”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在过去的十年间</p><p>美国GDP只上涨了36%</p><p>债务却涨了110%</p><p>现在，美债已经突破了21万亿</p><p>国会不想乱花钱找死</p><p>但特朗普还想要修改债务上限</p><p>让他可以继续借钱霍霍</p><p>这才掐了起来</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而对于中国来说</p><p>中国持有美国7%的国债</p><p>美债危机对我们造成的影响</p><p>也是最大的</p><p><b>但同时，这些美债也是一颗</b></p><p><b>关键时候能要命的核弹</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-31669f564c0dd6fc444acf11a6b691eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"630\" data-rawheight=\"504\" class=\"origin_image zh-lightbox-thumb\" width=\"630\" data-original=\"https://pic4.zhimg.com/v2-31669f564c0dd6fc444acf11a6b691eb_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，在正常情况下</p><p>7%不过是个很小的比例</p><p>如果抛售美债</p><p>也引不起什么大变动</p><p>这就好比在1937年</p><p>你就是往日本丢3颗核弹</p><p>也阻止不了狂热的日本政府</p><p>发动侵华战争</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是在1945年</p><p>在日本人穷兵黩武</p><p>拼死要把战争拖下去的时候</p><p><b>一颗核弹，就能粉碎日本人的信心</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>也就是说</p><p>如果在全世界</p><p>都怀疑美国的信用</p><p>不看好美国经济时</p><p>只要抛出这枚核弹</p><p><b>那对于美国的经济</b></p><p><b>就是致命一击</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>正所谓“时来天地皆同力</b></p><p><b>运去英雄不自由”</b></p><p>到了那个时候</p><p>我们也许能亲眼见证</p><p>这个曾经伟大的帝国</p><p>在一片惊愕和诧异的目光中</p><p>轰然坍塌</p>",
+                "comment_count": 29,
+                "title": "百年老赖成长史：借钱一时爽，一直借钱一直爽",
+                "voteup_count": 253,
+                "type": "article"
+            },
+            "attached_info": "CjcQBxoJMTAwMDExODkyIM3Ck+EFKP0BMB1AAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDUzNDczNjUy"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "在下不才，翻译了一篇华盛顿邮报的文章，目的无他，兼听则明。中芯国际（国际半导体生产公司）决定从纽约证券交易所退市，这个事件很快就和美中贸易战联系在一起，好像它是一个紧张局势的受害者。实际情况并非如此，如果这件事情能说明什么的话，那就是一个…",
+                "created_time": 1559030137,
+                "id": 697901597,
+                "voteup_count": 24,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-ea1bbf9e2d260bdf5c1ff923889e3682_{size}.jpg",
+                    "badge": [],
+                    "name": "高金立",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "神经内科"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/c4b3416fc846c3a30195e4a29bb14d44",
+                    "url_token": "gao-jin-li-91",
+                    "user_type": "people",
+                    "headline": "神经内科医生",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-ea1bbf9e2d260bdf5c1ff923889e3682_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "c4b3416fc846c3a30195e4a29bb14d44"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/697901597",
+                "question": {
+                    "created": 1558700783,
+                    "url": "http://www.zhihu.com/api/v4/questions/325939874",
+                    "title": "如何看待中芯国际5月24日宣布申请自愿从纽交所退市？又会给其他在美国上市的中国企业带来什么样的影响？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 325939874
+                },
+                "updated_time": 1559030137,
+                "content": "<p>在下不才，翻译了一篇华盛顿邮报的文章，目的无他，兼听则明。</p><p>中芯国际（国际半导体生产公司）决定从纽约证券交易所退市，这个事件很快就和美中贸易战联系在一起，好像它是一个紧张局势的受害者。实际情况并非如此，如果这件事情能说明什么的话，那就是一个简单的事实，中国目前没有一个可依赖的，国际化的半导体公司，请注意国际化这个词。中美之间的争端提示中国在技术方面的缺乏。</p><p>在5月24日，这家在上海的公司宣布从纽约证券交易所退市，原因是交易量很低，而管理的费用很高，这样的做法表达很多意思，30天交易量是2341905，使它位于在纽约上市的中国技术公司的最底层。被统计的公司是市值10亿美元以上的。</p><p>中芯国际在中国之外很少有人听说，以至于它被称为上海半导体公司，它为苔湾联合微电子公司和苔湾半导体生产公司设计的芯片做组装工作</p><p>中芯国际一直是在技术上落后，以至于它的核心战略是给苔湾公司做边缘的工作。我其实不想说这样的话，但事实是，他的客户如果有可能，会选择技术能力和价格都比较好的苔湾公司，而不是它。</p><p>由中国政府出资和地皮建立的这个公司，技术上是落后的。更加让人绝望的是，10年之前苔湾公司在美国的法庭，在关于商业秘密方面对中芯国际进行控诉，它失败了！中芯国际几乎没有现金去赔偿对方，具有讽刺意味的是苔湾公司申请，苔湾（当局）让这个更低的的对手，中一个他们（苔湾公司）都不想要的标。</p><p>在2014年公司有了一点起色，那个时候高通同意和它合作，而且也申请了一些订单，这是世界上最重要的半导体公司一个很重要的表示，但这更像是这个美国公司为了让中国政府满意，因为这个公司面临着一个不信任案。</p><p>但公司仍然是落后的，这个公司最新的技术是在去年还可以做28纳米芯片，苔湾公司8年前已经能完成，今年也要做14纳米芯片，苔湾公司在2013年已经能做出类似的产品</p><p>如果你认为在中芯国际帮助下，新的硅谷可以诞生，这种想法也可以理解，但是它的技术要提高。但目前情况是，像华为这样的技术公司的产品，要能够达到他们美国竞争者的水平，那么华为生产的芯片要达到同样的水准，那么华为别无选择，只能寻求海外的公司，如苔湾公司</p><p>对西方者投资者来说，中芯国际这种持续性的失败者角色是不能忍受的，基金经理有很多其他的芯片公司可以投资，他们更喜欢中国的科技公司，像阿里巴巴，百度这样的蓝筹股，或者是增长非常迅速的，摩拜，拼多多</p><p>中芯国际逐渐国有化，以及他59%的收益，都是来自于中国的芯片设计师，这也表明他不是一个国际投资者青睐的股票。在纽交所退市明显是它下一步要做的事情。</p><p>这样的事情还会有更多</p><p> 文章来源：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=https%3A//www.washingtonpost.com/business/chinas-chip-companies-just-cant-excite-the-nyse/2019/05/27/c633c298-8044-11e9-b585-e36b16a531aa_story.html%3Futm_term%3D.9d96bc480fd0\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">washingtonpost.com/busi</span><span class=\"invisible\">ness/chinas-chip-companies-just-cant-excite-the-nyse/2019/05/27/c633c298-8044-11e9-b585-e36b16a531aa_story.html?utm_term=.9d96bc480fd0</span><span class=\"ellipsis\"></span></a><p></p>",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTU2OTU4Mzg2IPnSs+cFKBgwBUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggzNDcwNjk1OHIJNjk3OTAxNTk3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "先把自己的腰杆直起来。对内，没有不敢说的话题，不黑别人的帖子，违法就追究，违了什么法敢放在桌面上谈。彻底检讨“房地产是国民经济的支柱产业”这样的国策，彻底认错改错。然后，大家才能安心工作，才能把大把的钱砸在核心科技上，砸在做核心科技的人家…",
+                "created_time": 1524802158,
+                "id": 377337272,
+                "voteup_count": 50,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "泛思哲",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/58fd8ca6b4ea9d090c4736d0c9aa538d",
+                    "url_token": "kevin-25-5",
+                    "user_type": "people",
+                    "headline": "非典型工程师，思维爱好者",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "type": "people",
+                    "id": "58fd8ca6b4ea9d090c4736d0c9aa538d"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/377337272",
+                "question": {
+                    "created": 1524547299,
+                    "url": "http://www.zhihu.com/api/v4/questions/274508330",
+                    "title": "如何破解美国的科技封锁？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274508330
+                },
+                "updated_time": 1524802158,
+                "content": "<p>先把自己的腰杆直起来。对内，没有不敢说的话题，不黑别人的帖子，违法就追究，违了什么法敢放在桌面上谈。彻底检讨“房地产是国民经济的支柱产业”这样的国策，彻底认错改错。然后，大家才能安心工作，才能把大把的钱砸在核心科技上，砸在做核心科技的人家里。</p><p>什么是高技术？拉巨多的牛人+砸巨多的钱+耗巨多的时间，弄出来的东西才是高技术。但从基本要素上说，只有两样：钱和时间。人可以用钱挖来，人可以用钱和时间培养出来，只要真的下本投时间。</p><p>美国凭什么用科技来封锁你？因为在真正的高科技领域人家有实力，哪来的实力？花了一百年全民搞科技，营造了一个社会现实——有科技的个人和团体能发财，而不是有地、有房的人能发财。</p><p>社会不变革文化就不会变革。我们的电影、小说，最牛的高手靠武功秘籍，武功秘籍越远古越牛逼，失传的秘籍是最牛逼的。美国的高手靠高科技，要成为最牛的高手只能靠穿越，不是穿越到古代而是穿越到未来，拿到未来的芯片，施瓦辛格才能把当世的邪恶机器人弄到熔炉里over了。</p><p>真正封锁我们的不是美国的科技，是我们的制度和文化。</p>",
+                "comment_count": 9,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTg2NzM1Njgg7sSK1wUoMjAJQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjc3MzgycgkzNzczMzcyNzI="
+        }
+    ]
+}

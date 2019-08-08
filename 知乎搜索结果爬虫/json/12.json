@@ -1,0 +1,250 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=4501.39865",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=4538.19939&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=4538.19939"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524144018,
+                "is_labeled": false,
+                "excerpt": "这几天，中兴通讯被美国封杀事件已经闹得沸沸扬扬，路人皆知。我在事情刚发生就开始关注网络上的一些讨论，知乎的帖子从最初的3万多的浏览量，仅仅用了一天便飙升到1000万的浏览量，可见此事的关注程度。当然，舆论的倾向都是中兴没有核心竞争力，这种组装…",
+                "excerpt_title": "",
+                "id": 35847301,
+                "voteup_count": 331,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-b55a7cb8f58f210a212c2d321f53237f_{size}.jpg",
+                    "badge": [],
+                    "name": "村中少年",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "报文深度识别工程师",
+                    "url_token": "xiaofan510",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-b55a7cb8f58f210a212c2d321f53237f_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/512706f1162480ea912b22643e34ee20",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "512706f1162480ea912b22643e34ee20",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35847301",
+                "title": "我眼中的中兴通讯",
+                "created": 1524065523,
+                "content": "<p> 这几天，中兴通讯被美国封杀事件已经闹得沸沸扬扬，路人皆知。我在事情刚发生就开始关注网络上的一些讨论，知乎的帖子从最初的3万多的浏览量，仅仅用了一天便飙升到1000万的浏览量，可见此事的关注程度。当然，舆论的倾向都是中兴没有核心竞争力，这种组装公司倒闭也罢，中兴为什么不自主研发芯片，中兴不思进取等等。看到这些评论，我还是挺郁闷的。因为作为中兴8万名员工中的一员，虽然说和公司之间仅仅是简单的雇佣关系，但是也在公司呆了近三年的时间，我还是想把我个人对公司的认识给大家呈现出来，可能和知乎上很多人还是不太一样，仅一家之言。</p><p> 首先中兴是一家老牌公司了，作为一家高新技术公司，做到年产值1000亿的规模，同时具有30多年的历史，这应该来说在中国也是不多见的了。</p><p> 很多人说中兴被制裁，而毫无反手之力的原因在于中兴没有核心技术。我觉得首先要明确衡量一个公司核心技术的标准是什么。因为每个行业的标准可能会有差异，但是说一个大家都喜闻乐见的标准那就是专利。说到专利，其实中兴这七八年每年申请的国际专利都是数一数二，排的上号的，我记得没有跌出过全球前三。如果从这个角度看，我们的核心技术并不弱，而是很强。实际在工作中我也切身的感受到撰写一篇高价值的专利是必须要有干货，真材实料的，在工作中积累了数年才能撰写一篇。公司每年都会发邮件告知大家我们的专利在国际上的排名情况，但是可能对外的宣传力度不够，或者中兴人也都已经习惯不去讨论，或者关注这方面的人也比较少，导致大众对于中兴的理解有差异吧。专利暂且不表，公司的整体实力在通信行业也是可以排到全球第四的位置的，多少曾经的巨头合并的合并，倒下的倒下，中兴走到了今天。</p><p> 中兴从盈利和业务规模角度上来说其实是一家b2b的公司。虽然说通信和我们每个人息息相关，我们每天都在在打电话，上网，但是实际上我们都认为自己用的是移动，联通，电信的服务，并不知道上网和打电话的管道设备，相关的通信技实现都是由中兴，华为这些公司来提供给三大运营商的，而运营商再租借给我们。具体一点就是我们看到的铁塔基站，家中宽带的接入设备（猫），还有不常见的中间设备，如核心网，大型路由器和交换机等等，都是运营商向中兴，华为这样的企业购买，然后面向用户提供服务。因为b2b的特点，导致中兴并不是人们关注的热点范围。而相反，像小米，vivo这种b2c的公司被大家所熟知，因为你用的手机都是其中某一个品牌，自然和你相关的话题就比较多，而讨论的频率也比较高。华为也一样，因为其终端的影响力在国内远超中兴（中兴的终端其实是在小灵通之后没能成功转型所致吧），因此被大家所熟知，是很正常的。终端设备是中兴大力发展的一块，但始终不尽如人意。而爱屋及乌的道理，导致人们认为华为全方位的领先中兴，技术秒杀中兴等等。事实上，中兴和华为是全面竞争关系，很多领域的确在市场份额上落后于对手。但就通信这一块，尤其是无线通信，也就是手机上网，打电话的业务来说，两家在这一块来说也是棋逢对手，技术上和国内外的市场份额也都是非常接近。因此中兴的核心技术也是主业在于，解决人与人之间打电话的问题，解决快速上网的问题。而解决这些问题需要庞大的硬件和软件支撑，需要解决的问题很多。去采购一些芯片，而专注于自身主营业务这是市场决定的企业的取舍，不可能所有的东西都是自己搞。</p><p> 举个例子来说，全球最知名的汽车生产商奔驰，可以生产发动机，也可以生产变速箱，但是钢材你可能还得采用克虏伯，因为钢材质量决定了车身的能够承受的冲击，就是安全性；音响系统可能会采用BOSE；玻璃可能是福耀的；ABS系统可能是BOSCH的；轮胎可能是马牌。而BOSCH，BOSE，克虏伯，福耀，马牌都是各行业的翘楚都是拥有核心技术的，行业门槛并不低。你能说奔驰不生产这些而去采购他们的产品，就没有自己的核心技术了吗。作为汽车厂商来说，其核心技术在于将大量的零件组装起来，调试验证，从而打造出一台能够正常行驶，毛病少，舒适度高的的汽车产品，这种整车系统的工程才是一家汽车厂的价值所在，也是其核心技术所在。一台车能够上路往往要经过百万公里的测试，看似整车厂是在组装，其实中间涉及的环节也是繁多复杂的。当然奔驰能够生产发动机和变速箱也是其在多年的历史中不断的完善产业链所带来的额外收益。但是要知道世界上知名的汽车品牌并不是每一家都会自主研发生产变速箱和发动机。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-34e3d947dad6add92223bde387095f7c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"565\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb\" width=\"565\" data-original=\"https://pic1.zhimg.com/v2-34e3d947dad6add92223bde387095f7c_r.jpg\"/></figure><p> 其实这和中兴的问题很像，通信厂商的核心问题是解决用户通话问题，上网问题。让用户享受高速的上网体验，高质量的通话。而在解决这种系统化的工程过程中，需要采购芯片，光纤，甚至是空调等一系列的设备，通过软件连接，控制这些设备，让不同的设备能够各司其职，完成最优的通信上网的工作。世界上没有一家通信厂商能够做到，通信涉及的所有部件能够自给自足，你觉得一家通信公司会去生产空调吗。就像世界上没有一家汽车厂商能够生产整车所有零部件一样，如果轮胎厂商对汽车厂商断供，一辆车发送机再怎么优秀，也跑不起来。这其实和中兴所面临的问题如出一辙，通信过程中，通信芯片是必不可少的一环，没有了芯片，真个系统是无法运作的。不同的是轮胎厂商很多国家都有，奔驰不会面临被所有轮胎厂断供的绝境。但是芯片厂商，通信相关芯片的厂商，主要集中在美国，甚至有的只有美国能够生产。因此美国禁止出售芯片这件事情不仅仅对于中兴，放在任何一家企业身上都是沉重的打击。网上讨论最多的就是华为麒麟芯片，需要赞赏的是，麒麟芯片是一款优秀的芯片。但是事实上华为也是高度依赖美国的芯片，因为通信涉及的芯片种类还是比较多的，华为更是从来没有说过能够弃用美国芯片。事实上，不止中华两家，国内绝大多数的企业都面临着同样的问题。我们可以不关注造成我们国家的这个软肋的原因是什么，但是应该知道，我们和美国还有很大的差距，尤其在半导体行业。一个好消息就是中兴在芯片领域和操作系统领域早有布局，中兴微电子院就专利和出货量来说也是国产芯片的第一梯队，像朱雀芯和迅龙芯等，部分芯片也能自给自足。而中兴的工业级操作系统也是行业的标杆，但这些好像都没有怎么宣传过，只在内部发过邮件。短期来看公司的主营业务可能会遭受严重影响，但长期来看这可能是一个涅盘重生的机会。</p><p> 额外的谈一谈我从入职到在中兴工作的一些感受吧；</p><p> 中兴通讯并不是一家被毕业生特别关注的公司，尤其在这样一个属于互联网的时代。2015年我从北邮研究生毕业，当时的情况和现在差不多。最受关注的是bat，四大行的软开，当然还有一些国外公司，像摩根，fb，google，ms，hulu，freewheel等等，总之一句话互联网相关的公司。虽然当时中兴笔试的时候人还是挺多的，但是最终因为面试的冲突，或者提前得到了一些offer，最终选择中兴的可能和我的原因差不多，主要是选择一个城市。因为中兴的研发据点还是挺多的，像北京，南京，西安，成都，武汉，长沙，上海，深圳等。</p><p> 当年中兴的笔试题并不是特别的困难，当然面试也都是一些常见的基本问题，并没有互联网公司把自己的格调定的那么高。当时北邮毕业生在面试互联网的时候都会看一本叫做《剑指offer》的书，因为那个时候互联网的面试题基本都是从这本书里面出。因为涉及到算法，数据结构的一些知识总体要难一些，档次要高一些，而年轻时候，又都洽洽喜欢挑战，bat面试题在校园里面被广泛的传播和讨论，相应公司的热度也是越来越高。相反中兴总是很少被讨论，也总是极少数人的选择。当然最主要的原因在于，中兴的工资水平没有互联网公司给的看上去那么高，同时大家又觉得通信是一个夕阳产业，出于职业发展的考量吧。种种原因导致中兴在北邮人的眼里存在感其实很低，在北邮论坛上只能搜到极少数的关于中兴的讨论帖其实已经证明了这一点，虽然中兴每年都在赞助我们的篮球赛。因为我想找一个离家近一点的城市工作，我最终通过了面试，选择了中兴。当时也象征性的投了阿里，网易，趋势等，因为我邮面试的人基数巨大，人家可选择的余地太多，何况这几家公司的格调比较高。后来的交流中，我得知在阿里，网易的一些同学，因为加班压力大，不到一年就离职了；趋势因为不涨工资，一个师弟来中兴做了面试和笔试，但正巧赶上中兴最困难的时候，还不清楚他的选择。我呢一直呆在我职业生涯开始的地方，感谢其他的公司当时没有选择我，因为我还是比较满意目前的处境。</p><p> 来中兴马上就满三年，年薪不敢跟互联网的同学相比，总是被秒杀，但是如果去掉城市因素，换算成为时薪的话，也算旗鼓相当吧。因此我在工作几年后也逐渐明白，工作这种事，合适的最重要，钱给的多，当然也不会白给你。能够兼顾家庭和工作，自己的兴趣等等，这已经很好了。</p><p> 中兴内部很多的老人，我周围40岁的还在编码也不少，这可能跟互联网以年轻为主不大一样。当然导致这种情况的原因很多，比如城市的职业范围选择少；呆久了，习惯了这家公司；加班强度小一些等等；当然也有很多人将自己的的事业长久的放在这里。人的年龄偏大，所带来的结果就是不如互联网公司那么朝气蓬勃，这与中兴的整体公司气质也是一致的。不温不火，没有多少活力，宣传很少，话题点少。而我也是在这种氛围中从开始的年少轻狂逐渐冷却下来，快到而立之年，人的整个气质是会发生变化的，公司和人之间相互影响。幸运的是，我还是一个比较爱技术的人，周围有很多值得我学习的老员工，他们具有丰富的知识和经验，同时我对于工作上的事情还是比较感兴趣的。我也一直在探索学习新技术，收获也挺多。这其实要感谢一下团队以及部门管理者给予我工作上的压力并不大，就是说一件事完成的时间很充裕，唯一的目标就是做好它。这种氛围其实和学校实验室的氛围差不多，因此我也是乐在其中。同时作为一家大公司，中兴各方面的制度也是非常完善，人事的办事效率也都蛮高，福利也比较完善，比如说食堂，班车，调休政策等等。我不知道会在中兴呆多久，但是我还是挺享受在中兴工作的这段时间。</p><p> 所以我希望能够通过我的经历和认识，能够让大家从另外一个角度来看待中兴这家企业，来看待最近美国制裁中兴这件事。可能一千个人的眼中有一千个中兴，至少对于我来说，对于中兴整体印象还是比较正面的。</p>",
+                "comment_count": 106,
+                "image_url": "https://pic3.zhimg.com/50/v2-f18ca36b85cab93ff883ba73569b9e63_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-f18ca36b85cab93ff883ba73569b9e63_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-34e3d947dad6add92223bde387095f7c_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjUQBxoHNjUyOTM2NCDzyd3WBSjLAjBqQABSEXRvcF9hY3Rpdml0eV9wb3N0cggzNTg0NzMwMQ=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "关税都是向本国买方收的。但是具体结果要看供需关系一是买方市场，我买你的要加税，那我可以买别人不用加税的，你要想继续卖给我就把价格降下来，把我加税的损失弥补上，结果是终端商品价格没变，生产产家的利润被压缩了。二是卖方市场，这东西加税我也只能…",
+                "created_time": 1523634975,
+                "id": 366290491,
+                "voteup_count": 17,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/773d879f6_{size}.jpg",
+                    "badge": [],
+                    "name": "芒果",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "url_token": "wang-lin-80-66-66",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/773d879f6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/8f4b7eb431cb367811b82621c1a70a23",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "8f4b7eb431cb367811b82621c1a70a23",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/366290491",
+                "question": {
+                    "created": 1522831185,
+                    "url": "http://www.zhihu.com/api/v4/questions/271065006",
+                    "title": "中美贸易加征关税是向买方加征还是向卖方加征？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271065006
+                },
+                "updated_time": 1523634975,
+                "content": "<p>关税都是向本国买方收的。但是具体结果要看供需关系</p><p>一是买方市场，我买你的要加税，那我可以买别人不用加税的，你要想继续卖给我就把价格降下来，把我加税的损失弥补上，结果是终端商品价格没变，生产产家的利润被压缩了。</p><p>二是卖方市场，这东西加税我也只能买你的，别无分店，那我只能转手卖的时候加钱，结果是终端商品价格提高了。</p><p>三是介乎于两者之间，结果是终端商品价格提高了一些，生产厂家的利润也压缩了一些，别国的生产厂家趁机大赚了一笔。</p>",
+                "comment_count": 1,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTY2NTk3MjUgn6bD1gUoETABQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTExNzc4cgkzNjYyOTA0OTE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523199846,
+                "is_labeled": false,
+                "excerpt": "最近中美之间的贸易纷争闹得沸沸扬扬，用满城风雨不足以形容，简直是满地球风雨。中美双方作为全球最大的两个经济体，互放狠话，级别和烈度都令人乍舌，连我们一向和稀泥大法最666的外交部门都强硬得让人觉得自己仿佛穿越了，说好的韬光养晦呢？当下贸易争…",
+                "excerpt_title": "",
+                "id": 35421584,
+                "voteup_count": 2736,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/f1febcfa6_{size}.jpg",
+                    "badge": [
+                        {
+                            "topics": [
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "金融",
+                                    "url": "http://www.zhihu.com/api/v4/topics/19609455",
+                                    "excerpt": "金融指货币的发行、流通和回笼，贷款的发放和收回，存款的存入和提取，汇兑的往来等经济活动。金融（FINANCE）就是对现有资源进行重新整合之后，实现价值和利润的等效流通。（专业的说法是：实行从储蓄到投资的过程，狭义的可以理解为金融是动态的货币经济学。）金融是人们在不确定环境中进行资源跨期的最优配置决策的行为。",
+                                    "is_vote": false,
+                                    "introduction": "金融指货币的发行、流通和回笼，贷款的发放和收回，存款的存入和提取，汇兑的往来等经济活动。金融（FINANCE）就是对现有资源进行重新整合之后，实现价值和利润的等效流通。（专业的说法是：实行从储蓄到投资的过程，狭义的可以理解为金融是动态的货币经济学。）金融是人们在不确定环境中进行资源跨期的最优配置决策的行为。",
+                                    "avatar_url": "https://pic2.zhimg.com/50/ca0657b5e0ef154ee25c3e357a6c607d_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19609455"
+                                }
+                            ],
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "name": "许哲",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "胆小如鼠，从不瞎赌",
+                    "url_token": "xu-zhe-42",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/f1febcfa6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/08b9121dc17fa6040ba682863c84ade1",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "08b9121dc17fa6040ba682863c84ade1",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35421584",
+                "title": "不乃为大盗积者也",
+                "created": 1523191085,
+                "content": "<p>最近中美之间的贸易纷争闹得沸沸扬扬，用满城风雨不足以形容，简直是满地球风雨。中美双方作为全球最大的两个经济体，互放狠话，级别和烈度都令人乍舌，连我们一向和稀泥大法最666的外交部门都强硬得让人觉得自己仿佛穿越了，说好的韬光养晦呢？</p><p>当下贸易争端互放狠话，但表示谈判窗口还开着的阶段，是典型的Chicken Game。这不是吃鸡游戏的意思，比较流行的翻译是“胆小鬼博弈”，比谁是弱鸡。</p><p>（可参考<a href=\"https://link.zhihu.com/?target=https%3A//www.guokr.com/article/94677\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">胆小鬼博弈：如何假装死磕到底 | 科学人 | 果壳网 科技有意思</a>）</p><p>在胆小鬼博弈中，我们假定双方可以采取的策略只有 2 种：死磕到底（用Dare或D表示）或者认怂（用Chicken或C表示），双方（甲、乙）采取不同策略的收益可以用下表来表示：</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-994cfd53d38a497f95ba0bf25a7f6f80_b.jpg\" data-size=\"normal\" data-rawwidth=\"237\" data-rawheight=\"117\" class=\"content_image\" width=\"237\"/><figcaption>胆小鬼博弈的PayOff表</figcaption></figure><p>一起认怂，大家都当无事发生过，一切照旧。如果有一方死磕，另一方认怂，则死磕方获胜认怂方失败，被占一点便宜。而如果双方都是死磕到底，那双方都要支付非常惨痛的代价，没有赢家。</p><p>用更形象一点的例子来说，一条赛道上两辆赛车朝对方高速行驶赌命，如果有一方认怂转弯，则另外一方获得所有赌注。如果两个人都认怂，则当没事发生过。当然如果两个人都死磕到底，则两个人都会车毁人亡，钱什么的就都没有意义了。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e1d94b0450fb53f05308ad62ae53ba38_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb\" width=\"850\" data-original=\"https://pic1.zhimg.com/v2-e1d94b0450fb53f05308ad62ae53ba38_r.jpg\"/></figure><p>这个博弈里没有哪方有特别的优势，除了车毁人亡之外都是总体最优的。如果一个博弈有唯一的纳什均衡点就好预测了，但这里没有唯一的均衡点。这里甲乙双方是完全对等的，最优的结果是自己不认怂，对方认怂，可两边都如此的话，就必然是一个互不认怂的局面，看到最后一刻快要车毁人亡的一瞬间，谁更没有底气。</p><p>通常而言，这个时候需要检查一下互相的底牌筹码，比如中国对美国出口占总体出口多少，美国向中国出口占比又有多少。但这毕竟是最后一步，一力降十会硬碰硬，不好看又异常危险。在这个博弈结构里有更好的策略吗？</p><p>单从博弈的结构上看是没有的，因为双方的选择完全是对等的。但胆小鬼博弈有一个额外的解，即把有选择变成没选择。当一方没有选择的时候，另一方的决策也就确定了。如果一方只能认怂，那么另外一方必然就会死磕获得收益。相应的，如果一方只能死磕，则另外一方唯一理性的选择就是认怂。</p><p>回到我们的赌命赛车游戏中，要想胜利的做法是，当两边开始告诉互相疾驰的时候，把方向盘拆下来扔到窗外给对方看见，让对方相信我这里已经没有改变的可能性。这样对面的决策就没什么空间了，必然怂。不给自己选择的人反而会赢。</p><p>换言之，<b>让对方相信自己已经失控的一方，会赢</b>。</p><p>这听上去很疯狂，更疯狂的是，在机制不透明的决策过程中，拆方向盘这个动作具体行为是让对方相信自己疯了，彻底失控了，我这里就是想克制也是没办法了。</p><p>所以转换为：<b>让对方相信自己疯了的一方，会赢。</b></p><p>那中美两边谁看上去比较疯，比较失控？</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d02389c4266234b33b5b2633eb61408f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic4.zhimg.com/v2-d02389c4266234b33b5b2633eb61408f_r.jpg\"/></figure><p>看到网上沸沸扬扬骂特朗普疯子，蠢蛋，屁都不懂，表示要给特朗普上经济学基础课的义和团民们，只能让我佩服这工作确实到位。</p><p>当然胆小鬼博弈重点是让别人相信自己这里不会怂，大家争取的还是对方让一步的息事宁人，重新归于平静，都不希望真的车毁人亡。话要放狠，不能真的去撞，启动调查走流程什么的都可以，体现“制度优势”立马真的提高关税是很蠢很蠢的行为。</p><p>正确的姿势，无论对手看上去多不靠谱，不要相信对手是真的疯了。对方真的不给自己任何选择余地的证据要很强才行，坚持不怂是对的，但千万别真的下手，这个默契不能破。</p><p>（关于博弈论方面的，<a href=\"https://zhuanlan.zhihu.com/p/20479470\" class=\"internal\">勇于敢则杀，勇于不敢则活</a>里提到的耶鲁大学公开课了解一下）</p><hr/><p>就贸易战本身而言，局就是如此。但美国方面为什么要发动贸易战呢？为什么要挑事呢？是特朗普的个人情怀吗？显然不是的。</p><p>在所有关于这个话题的讨论里，我发现所有人讨论的主体单位都是国家，中国怎么这么样，美国怎么怎么样，中国想要什么什么，美国的目的是个啥啥啥。</p><p>说的好像一个国家是一个人一样，事情当然不会那么简单。一个国家，特别是大国，不是铁板一块的，也不是上下一心的，无论什么制度都如此。</p><p>每个人和组织都会根据自己的利益来行事，一个国家内部有不同的利益集团，全球化的过程中，我们看美国和中国都是收益的，但并不代表没人损失。</p><p>如果你是美国的资本家，手上有许多跨国公司的股权，那么将工作外包到中国的工厂去，你可以节约很多成本，提高资本效率。如果你是中国的工人，原来没有工打到变成加班注意别猝死也受益的，当然厂长本人和地方政府等一系列人比工人赚的还要多。可美国本土的工人在这场效率提升的“互惠”活动中是输家。</p><p>所以拿国家作为单位去考虑，中美的贸易是两利的，没事搞什么贸易战，纯粹是脑子抽。但当你把国家拆开来，拆成一个个利益集团，则全球化效率提升这个过程中是有人赢有人输的，不是简单的Win-Win的。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-715af3962c22eb1e65fe6596be4877fe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3500\" data-rawheight=\"2312\" class=\"origin_image zh-lightbox-thumb\" width=\"3500\" data-original=\"https://pic3.zhimg.com/v2-715af3962c22eb1e65fe6596be4877fe_r.jpg\"/></figure><p>美国的工人阶级（用这个词作为某组织的对手方感觉怪怪的）是美国政治急于改变现状的一股力量，要夺回被中国人“抢走”的饭碗。这样说来，川普是个大工头，给美国工人们找工作的吗？</p><p>如果这样假设，把矛头指向中国明显是找错对手，因为要转移工作的发起人主要是美国的资本家集团，提升企业的综合效率，中国因为效率高所以给中国，如果有其他地方效率好过中国，是不太会多顾忌面子问题的。故而是阶级矛盾，不是什么国别的斗争。要求和中国打贸易战完全是张冠李戴的。</p><p>换言之，就是和中国的贸易搞僵掉，跨国资本控股的公司也要去找其他有比较优势的地区，除非美国本体是除中国外的最有效率的地方，否则干掉中国的外贸何益于美国本国就业？</p><p>那既然如此，操的是哪门子闲心，吃饭睡觉外没事干打一顿豆豆？国家决策当然不会如此随意，川普能洞悉美国社会的深层次矛盾，在强手如林的竞争环境下，以政治素人的身份一举成功问鼎白宫，不是疯子也不是蠢货。自己就是大资本家的川普，也不是不知道资本家利益的点在什么地方。</p><p>再仔细回过来看川普的讲话，发起所谓“贸易战”的诉求是<b>减少贸易逆差</b>。当500亿美元没有能搞定的时候，就说要加1000亿。给人的感觉是数字上比较随意，细细想一下，贸易战应该是个结构性的东西，关于卖什么不让卖什么，买什么不让买什么，怎么会只关心总数额的大小。500亿的清单里是罗列得清清楚楚，什么行业什么商品，加个1000亿难道是所有商品都再*2吗？这是小孩子过家家吗？</p><p>唯一合理的解释是：<b>川普根本不关心具体是什么行业，什么商品。</b></p><p>既不是要给美国工人找工作，也不是要在具体某些行业某些商品上找优势，那关心的到底是什么？答案在一开始川普自己就明说了：<b>减少贸易逆差额</b>。</p><p>贸易顺差就是好，贸易逆差就是不好？现今距离重商主义经济学已经很多年了，这种老皇历已经没人翻了。那葫芦里卖的是什么药？</p><hr/><p>我的看法是，挑起贸易争端的根本动机不是工作岗位也不是行业壁垒，而是中国的外汇储备。故而给其他国家豁免，矛头单指中国，而不是所有有比较优势的国家。</p><p>中国正在积极去杠杆的过程中，货币的独立性在这个时刻尤为关键，如何在高速运动的列车上拆换轮子是一件高难度的精细活。我国的货币发行制度，人民币抵押物最大项依然是外汇储备（参考<a href=\"https://zhuanlan.zhihu.com/p/21263798\" class=\"internal\">关于货币最简单的逻辑</a>），外汇储备不仅仅是要满足日常的经常项开支，有其重大的货币政策稳定性的基石作用。</p><p>在这个节骨眼上，美联储开始了自己的加息进程和缩表计划（参考<a href=\"https://zhuanlan.zhihu.com/p/26027538\" class=\"internal\">缩表是什么鬼？</a>），也就是在全球范围内减少美元的供应总量并且提升美元的利率，这对于以美元作为发行基石的所有央行而言，就是一次被动的跟进缩表行为。去杠杆的过程中，货币发行的基础抵押物减少，是一种何等痛苦的实践。货币的供应不是简单的央行印印印，而是由抵押物发行的高能基础货币进行派生的信贷过程（参考<a href=\"https://zhuanlan.zhihu.com/p/21744876\" class=\"internal\">货币或许能无中生有，但财富不能</a>），<b>去杠杆最害怕的是货币供应的突然缩量，造成债务通缩螺旋，无异于釜底抽薪。（</b><a href=\"https://zhuanlan.zhihu.com/p/20620619\" class=\"internal\">关于债务结构最简单的逻辑</a><b>）</b>所以货币政策的主权如今生死攸关。</p><p>根据不可能三角（参考<a href=\"https://zhuanlan.zhihu.com/p/19953617\" class=\"internal\">有人兜底就安全了吗？瑞士央行风暴小议。</a>），当一国又要汇率稳定又要货币主权的时候，就必须要实行强硬的资本管制。事实也确实那么做了，很多技术细节做得粗糙又蛮横，但大尺度的决策上必须如此，外汇储备保卫战严防死守。</p><p>轰轰烈烈的外汇保卫战好歹算扛下来了，去年对美出口岁入5000亿美元，但外汇保卫战死守的3万亿还是3万亿。说明其他项下实际流出至少5000亿美元，全靠外贸顺差填。</p><p>说得再直白一点，外汇储备最重要的擎天柱，定海神针是中国逆天的外汇顺差，靠这一项的天量与高速增长，勉强填满了其他所有七七八八的窟窿。而货币发行的基础也赖于此，故而外贸顺差不仅仅是汇率稳定的基石和底线，亦是整个中国经济守住不发生系统性风险的王牌底牌。<b>外贸顺差从来没有像如今这样举足轻重。</b></p><p>川普要釜底抽薪，抽的就是这一条薪。</p><p>他是个直白人，一开始的政策目标就不是多少行业回归美国，就是要中国减少贸易顺差。也不关心具体什么行业什么商品，越多越好，加1000亿管他是什么行业。</p><p>对于美国而言，Made in China 大大降低了美国人的生活消费成本，打贸易战的代价是美国的物价会上升。特别是川普基本盘的非高收入人群最难受，但在给你们把工作从中国抢回来的口号中，不能忍受没有Made in China的变成了“工贼”。</p><p>是的，这个神奇的角度下，川普携着汹涌的民意实现了金融垄断阶级最需要的美元周期的运作。最后美工人忍受着生活成本上升且依然没多少产业回归，资本家阶级则顺利实现目标，<b>这里根本不是以国别作为单位的</b>。阶级斗争这个词曾经被以令人发指的程度被滥用，但并不代表阶级斗争不存在。</p><p>视角回到美联储，在美国就业率已经向好的情况下，美联储政策要盯的就只剩下CPI。如果贸易战打响，CPI走高则加息和缩表的速度幅度就会加大。</p><hr/><p>无论大国情结如何自我膨胀，天天我兔我兔的小粉红们如何情绪高涨，美元依然是当今世界的储备货币，人民币不是。人民币的发行基础依然有赖于外汇储备，在去杠杆的进程中，美元加息+缩表+减少中国的外汇顺差，根本不是什么阴谋，而是摆明的打劫。</p><p>造成如今这种被动局面的根本原则在于制度设计上，没有及早对货币发行制度过于依赖外汇储备有准备，而是把全部精力放在资本管制上。这是只看表面，不看实质的补锅法（厚黑学博大精深）。藏得越好，守得越牢，最后损失越多。</p><blockquote>将为胠箧、探囊、发匮之盗而为守备，则必摄缄縢、固扃鐍；此世俗之所谓知也。然而巨盗至，则负匮、揭箧、担囊而趋；唯恐缄縢、扃鐍之不固也。然则乡之所谓知者，不乃为大盗积者也？</blockquote><p>去杠杆的决心和动作都是令人惊艳的，由衷赞叹，五星好评。对于外部来的汹涌大招，我不在其位，不谋其政，就不讨论对策了，相信领导人有比我更好的办法。</p><p>最后，祝愿祖国渡过时艰，繁荣昌盛。</p><p></p>",
+                "comment_count": 285,
+                "image_url": "https://pic4.zhimg.com/50/v2-fbdc7883fe6b56778f531cc7cf7e0db5_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-fbdc7883fe6b56778f531cc7cf7e0db5_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-994cfd53d38a497f95ba0bf25a7f6f80_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-e1d94b0450fb53f05308ad62ae53ba38_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoHNjM1ODgyMSCtmqjWBSiwFTCdAkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIIMzU0MjE1ODQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "如果我们的敌人激烈的批评和反对我们，我们一定是做了什么非常正确的事情。 ----------------------------------------------------4月16更新 针对大家的评论集中回复一下 1，是否出自毛选？ 答：改写自毛泽东在一九三九年五月廿六日,为纪念中国人民抗日军…",
+                "created_time": 1522820910,
+                "id": 358323994,
+                "voteup_count": 8212,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "73bb8c170e2aa4e919de410b3f316bf1",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/358323994",
+                "question": {
+                    "created": 1521735988,
+                    "url": "http://www.zhihu.com/api/v4/questions/269538159",
+                    "title": "如何看待美国正式公布涉及 500 亿美元出口的 301 征税清单？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 269538159
+                },
+                "updated_time": 1523848159,
+                "content": "<p>如果我们的敌人激烈的批评和反对我们，我们一定是做了什么非常正确的事情。</p><p><br></p><p><br></p><p><br></p><p>----------------------------------------------------</p><p>4月16更新<br>针对大家的评论集中回复一下</p><p><br>1，是否出自毛选？<br>答：改写自毛泽东在一九三九年五月廿六日,为纪念中国人民抗日军政大学成立三周年所写的文章《被敌人反对是好事而不是坏事》：\"如若不被敌人反对，那就不好了，那一定是同敌人同流合污了。如若被敌人反对，那就好了，那就证明我们同敌人划清界线了。\"</p><p><br>2，按这么说，我们这么反对贸易战，美国人是不是也做了什么很对的事情？<br>答：双方都没错，美国在这个时间点上发起贸易战遏制中国，从国家战略的层面上来说绝对是正确的选择，再之后等中国完成了产业升级就什么都晚了，从美国人民的角度出发彼之仇寇，我之英雄，可以说做的确实很对。但是我也很不理解那些为美国打击中国幸灾乐祸的国人，到底是怎样的臀脑分离……<br><br>3，美国不是敌人！<br>答：美国都怼到脸上来了，还想逃避真相，我想这很明显是一种畏惧心理。为此我再借用毛泽东一句话：“第一条，坚决反对战争；第二条，如果帝国主义一定要打仗，我们就同它打。把问题这样想透了，就不害怕了。”<br><br>最后挂个人，我觉得和这种人没什么好讨论的:<figure><noscript><img data-rawheight=\"287\" src=\"https://pic1.zhimg.com/50/v2-c49bb0b7642fcba85cd89daaf9e4c009_b.jpg\" data-rawwidth=\"1242\" class=\"origin_image zh-lightbox-thumb\" width=\"1242\" data-original=\"https://pic1.zhimg.com/v2-c49bb0b7642fcba85cd89daaf9e4c009_r.jpg\"></noscript><img data-rawheight=\"287\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1242'%20height='287'&gt;&lt;/svg&gt;\" data-rawwidth=\"1242\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1242\" data-original=\"https://pic1.zhimg.com/v2-c49bb0b7642fcba85cd89daaf9e4c009_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-c49bb0b7642fcba85cd89daaf9e4c009_b.jpg\"></figure></p>",
+                "comment_count": 516,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkQQBBoIOTUyMTAzNzIgrs6R1gUolEAwhARAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMjIxNzI2NTdyCTM1ODMyMzk5NA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526609116,
+                "is_labeled": false,
+                "excerpt": "贸易战搞到现在，你一拳我一脚的，其实已经算是打起来了，只是还没打到要害。 这个过程中两边都不好过。A股还有郭嘉队可以信仰一下，美股就可怜了。<b>尤其川普今天又开始发推特骂亚马逊，搞得亚马逊又大跌几个点，华尔街受不了了，今天放话警告川普不要开启贸…</b>",
+                "excerpt_title": "",
+                "id": 35269194,
+                "voteup_count": 4015,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-072a3986b951fc38db7835ce55257539_{size}.jpg",
+                    "badge": [],
+                    "name": "投研帮",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "公众号：「投研帮」，各式各样的投资idea，只用大白话说",
+                    "url_token": "touyanbang",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-072a3986b951fc38db7835ce55257539_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/0c98220e4be89bae8e897818f5a32140",
+                    "gender": -1,
+                    "type": "people",
+                    "id": "0c98220e4be89bae8e897818f5a32140",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35269194",
+                "title": "再这么怼下去真要崩盘了",
+                "created": 1522751159,
+                "content": "<p>贸易战搞到现在，你一拳我一脚的，其实已经算是打起来了，只是还没打到要害。<br/></p><p>这个过程中两边都不好过。A股还有郭嘉队可以信仰一下，美股就可怜了。<b>尤其川普今天又开始发推特骂亚马逊，搞得亚马逊又大跌几个点，华尔街受不了了，今天放话警告川普不要开启贸易战，放开亚马逊：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b6865d82ce4b5e17a7ee4ff977f15f98_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"94\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic1.zhimg.com/v2-b6865d82ce4b5e17a7ee4ff977f15f98_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>前几天我说过川普和亚马逊的恩仇，其实归根结底还是利益。</p><p>川大爷的身家一年少了6个亿，福布斯排行从156名掉到248名，不爽是可以理解的。<b>这6个亿里面有很大一部分是因为实体零售被电商抢占了市场，导致房地产价值缩水。</b></p><p>所以川大爷恨亚马逊是情有可原的。但他用邮政局说事儿就真的是有点侮辱民众智商了。就好像淘宝成就了物流一样，你说物流公司亏钱，跟淘宝有关系吗？（我把数据列在亲友团里吧，不然篇幅太长了）</p><p>-----------</p><p>更惨的是特斯拉，真是福无双至祸不单行，最近坏消息不断。</p><p>特斯拉本身就是个特别有争议的话题，牛市里可以靠吹牛把估值吹上天，但<b>牛市只要不能持续，回归本质后人们很快觉醒，发现这根本就是一个没法赚钱的公司。</b></p><p>首先特斯拉承诺的每个量产目标和销售目标基本都没实现过。所谓“<b>下周回国贾跃亭，下月量产特斯拉</b>”。</p><p>而且现在卖的车也是卖一辆亏一辆，还要花纳税人的钱做补贴来烧钱。2012年以来已经烧了100亿美元，还欠着100亿的债，一分钱没赚过的情况下，市值却4,5百亿美元。靠的都是梦想，甚至幻想。</p><p>细节我就不说了，特斯拉的负面消息一直就没断过，只是投资者在装睡，叫不醒而已。现在大盘走坏了，大家才开始害怕。</p><p>-----------</p><p>总之整个科技行业家家都不太平。我也学盘面大仙们看看技术指标，<b>纳指周线级别的MACD已经背离了：</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-6148e12f828f4bc13b104f8048aeb932_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"313\" data-rawheight=\"284\" class=\"content_image\" width=\"313\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-2ac8acdd30a506bafae40e3eb368f911_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"152\" data-rawheight=\"175\" class=\"content_image\" width=\"152\"/></figure><p>均线看也是上涨趋势已经破坏，接下来不大跌也是宽体震荡了。再好的市场情绪也架不住川大爷整天狂怼。</p><p>不过技术指标只告诉你背离后有可能跌，没告诉你会跌多少。这背离后已经跌好几周了，会不会崩盘真的得看川大爷什么时候怼够。</p><p><b>唐纳德 · 怼 · 特朗普</b></p><p>-----------</p><p>不过今晚有个挺特别的事可以关注一下——Spotify上市，代码SPOT。</p><p>这个Spotify是瑞典的一个音乐媒体，付费用户都接近1个亿了。<b>腾讯曾经投资过它，当时的估值是190亿美元，算是名副其实的独角兽了。</b>现在肯定不止这个价了。</p><p>这个IPO特别之处在于，它特别佛系：</p><ul><li>不发行新股，不募资；</li><li>不用投行来包装上市；</li><li>不做路演，爱买不买；</li><li>不用承销商来托股价，价格全看市场供需。</li></ul><p><b>这就像是，开个店，不上新产品，不装修，不包装，不推广，不宣传。路边随便支个摊子，把家里的旧货往上一摆，谁爱买谁买，愿者上钩。</b></p><p>顿时感觉这公司酷毙了，也有点怀疑是不是没事儿闲的，不募资你来IPO干嘛？</p><p>不募资是因为它根本不缺钱（虽然一直亏损）。它的商业模式是用户订阅形式，订阅费都是预付的，公司先收到钱，但是利润却要摊到整个订阅期。所以现金从来不缺。</p><p>一般的IPO都是有投行去承销的，上市之前要好好包装一下，还要大肆宣传，最初还会托一下股价，确保在合理范围内稳定波动。</p><p>但Spotify不包装不路演不承销，省下一大笔费用。反正不为了圈钱，股价由市场决定。</p><p>既然不募资，也就没必要发行新股，就用现在已有的股票拿去卖。<b>除了一部分期权和腾讯投资的部分不能卖，其他股东手里的股票可以直接在二级市场上抛掉套现。</b>所以你其实可以说这其实不是IPO，而是赤裸裸的股东减持计划。</p><p>还有一个重要的原因，是公司之前发的可转债，有个特殊的条款，大概是公司<b>只要不上市，转股价每个季度都要下调</b>。下调到一定程度就会被转成股票来稀释现有股份了，所以为了避免股票被稀释，采取了这种随便上个市的方法。</p><p><b>这种不管不顾的上市方式，一定会造成股价非常剧烈波动，因为没人给你一个目标参考价，没人去维稳股价，全由市场供需定价。</b>所以前几天最好观察一下，不要无脑冲进去。</p><p>现在机构给的价格估算大概是200到225美元，按225美元算的话估值大概是6.6倍市销率，相比奈非的8.1倍还算是合理的。</p><p>今晚上市第一天，一起看好戏。</p><hr/><p>今天忙得没空找表情包了。话说，你们有没有好玩的表情包和搞笑图片多给我发点？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【投研帮】公众号推出的估值小工具——“股票体重秤”，你可以用它查询A股&amp;B股、港股以及美股三大指数成分股的历史5年估值情况。比如：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>港股输入“00700”—腾讯的历史估值；</p><p>美股输入“AAPL”—苹果的历史估值；</p><p>A股输入“000001”—平安的历史估值；</p><p>B股输入“张裕B”—张裕B的历史估值。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>除此之外，还可以查询各市场指数估值。比如：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>A股输入“消费”—中证消费指数；</p><p>港股输入“恒生地产”—恒生地产指数；</p><p>美股输入“标普能源”—标普能源指数；</p><p>其他各国输入国家名称—各国指数。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>不要小看这个小工具，尤其港美股数据，你在市面上找不到免费的（免费的只有当前估值，没有历史的）。这是投研帮的粉丝福利，请大家奔走相告，且用且珍惜。</p>",
+                "comment_count": 327,
+                "image_url": "https://pic3.zhimg.com/50/v2-5e9abfb7d4f26382ac2189307ee2c6f8_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-5e9abfb7d4f26382ac2189307ee2c6f8_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-6148e12f828f4bc13b104f8048aeb932_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoHNjI5NzcwNCC3rY3WBSivHzDHAkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIIMzUyNjkxOTQ="
+        }
+    ]
+}

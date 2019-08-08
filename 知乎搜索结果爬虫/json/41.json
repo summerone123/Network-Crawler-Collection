@@ -1,0 +1,241 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439584133.17019",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439526301.32&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439526301.32132"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1550631785,
+                "is_labeled": false,
+                "excerpt": "明天是客场，在华盛顿，两队又要硬着头皮去踢一场注定没有结果的扯皮球赛。比分预测0:0。所以，观众也麻木了，这种没有裁判的比赛，想看的人越来越少，不够刺激。据日本官方媒体《产业经济新闻》报道，中国正在抛售美元买入黄金。其实，日媒说的不专业，确…",
+                "excerpt_title": "",
+                "id": 57185624,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-0b7398bb3e59331fbfa779a87561c5fd_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-51c6df0cb35adf2c658d8c62c9b46e97_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "user_type": "people",
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/57185624",
+                "title": "央行为啥开始囤黄金了？揭秘央妈小金库的秘密",
+                "created": 1550631785,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>明天是客场，在华盛顿，两队又要硬着头皮去踢一场注定没有结果的扯皮球赛。比分预测0:0。所以，观众也麻木了，这种没有裁判的比赛，想看的人越来越少，不够刺激。</p><p>据日本官方媒体《产业经济新闻》报道，中国正在抛售美元买入黄金。其实，日媒说的不专业，确切的说我们是抛售美债买入黄金，而不是美元。因为这些贸易顺差流入的美元，通常都会在资本项下通过买美债形成逆差，让米国人赚资本项下的顺差。本来相安无事，正如同久盘必跌的道理，这种相对平衡终究被打破。</p><p>中国是啥时候开始买入黄金的捏？2018年底增加购买，因为之前2016年后由于国际金价的波动一直在控制买入量。按照2019年1月31日的数据，我国央行的黄金储备为1864吨，比去年同期高出12吨。</p><p>其实中国这轮不是带头的，这事还要从2017年德国要把黄金运回国说起。本来各国央行的黄金储备都不是放在自己家里，而是存在美国、伦敦、巴黎、瑞士。德国多次提出要把储备在美联储和英国的实物黄金运回国。为啥明明拿着存储黄金的收条就妥妥的事，让德国人这么谨慎要把东西搬回来呢？答案只有一个，不放心。华尔街资深爆料媒体说，德国人运走了他们存的的黄金，那拿走的箱子并不是当时存在联储金库里的箱子，数量是对上了，但东西不对（这种国家储备黄金每块都有数字编号，就像每个人名字一样↓）。这事本来过去快两年了，也没人注意到，德国人拿走黄金后也没再对外透露，可是全球央行的那些老炮们都起了疑心。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-51c6df0cb35adf2c658d8c62c9b46e97_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-51c6df0cb35adf2c658d8c62c9b46e97_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>很可能，美联储挪用了黄金来解决美国次债危机。毕竟，<b>美联储一直拒绝被审计</b>，鬼知道他们的账是否有问题。黄金可以给一国提供充足的流动性，这是一个学界公认的准则。<br/></p><p>这事就是天大的料了，说明美联储的根基——<b>美元的信用体系面临挑战</b>。再回过头来看世界黄金协会发布的统计，2018年全球央行及公共机构买的黄金量为651.5吨，比2017年增加了74%！1971年金汇兑本位制解体后，2018年该数字的最高水平。这又说明了：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、世界经济面临挑战；</p><p>2、美元信用体系面临挑战；</p><p>3、世界在质疑美国实际的债务水平。</p><p>如果，老大不和老二打架，没人敢怀疑老大的实力。打起来了才发现，老大早就怂了，美国经济并没有更好，相反，美国穷了。这就更可以解释，为啥美国从叙利亚撤兵，为啥美国开始卖石油而不是继续买石油（别和我拿页岩油量产说事，页岩油的开采成本依旧比直接打井贵），为啥特朗普想花57亿美金修个墙还被不断的抨击……<b>因为美国穷了</b>。</p><p>那么，世界警察穷了，管不了事了，会有什么后果？这个后果各国如何消化？各国精英阶层早就发现不对劲了，所以纷纷采取应对措施让货币的锚多元化。像中国这种经济基本面好的国家，主动采取改变发币机制，让人民币的发行基础越来越多的和财政总体债务水平相关，降低外汇占款在发行中的比重。此外，美元的信用水平降低为人民币国际化创造了良好的外部条件，各国政府会选择经济基本面更坚挺的国家货币和债券作为自己的储备。</p><p>中国都这么干了，俄罗斯、土耳其这些被美国欺负，制裁的国家也都跟着买黄金。我查了一下，日本《产业经济新闻》这家媒体的控股股东是富士集团，是历史悠久的右翼媒体，号称自民党的喉舌。由此可见，日本财团也在希望政府跟随中国的步伐清醒的认识到美元信用下降这一事实。看来日本也想明白了，无论是《广场协议》还是渐进式民主，美国人给中日开出的药方都是毒药。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普从未在推特上直说，美国债务水平已经高达22万亿美金，是美国政府的极限水平。如果特朗普不能说服国会同意上调政府债务上限，美元将面临生死危机。因为越来越多的国家意识到美元自己很可能会资不抵债，美国人现在的社会劳动生产水平在相当长的时间内都还不起这些债务，便会崩盘。这便是美元自己的明斯基时刻。</p><p>相反，在这个时间节点，中国人手上已经握了越来越多的筹码，可以不断的助攻射门，有底气踢场好球。甚至玩得起拉锯战，拖得起，而美国呢？</p><p>央妈囤黄金本身是利好实体经济，利好股市。这两天如果因为这场扯皮球赛导致的调整，可以忽略，继续持有低位的股票。农业板块有不少政策，但历来该板块都是奇葩爆雷不断，不是死了太多猪就是跑了扇贝，谨慎。科技这条主线逻辑，也许会贯穿下一个牛市，握着低筹码少折腾。</p>",
+                "comment_count": 13,
+                "image_url": "https://pic4.zhimg.com/50/v2-0b7398bb3e59331fbfa779a87561c5fd_hd.jpg",
+                "voteup_count": 22,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAwODM3ODIxIOmGs+MFKBYwDUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINTcxODU2MjQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1554472364,
+                "is_labeled": false,
+                "excerpt": "自2001年加入WTO以来，中国经济充分融入经济全球化，<b>“两头在外”（原料和市场在外、生产在内）</b>的经济模式炉火纯青，进出口规模急剧扩大，贸易顺差一路攀升，在很大程度上推动了近十几年来的经济高增长。数据显示，中国的贸易顺差在加入WTO当年仅为224亿美…",
+                "excerpt_title": "",
+                "id": 61531130,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-ada1c8d7b4d3dd7eb37fdb41ba4d9293_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-083e74560345f6a87ff82c75d3b45182_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-2412c0f23a558a502078811370926019_{size}.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "信托经理"
+                        }
+                    ],
+                    "name": "莫道春秋",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/2c2c9e7a758193403170fc6023410fcb",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "国事、财货、风月、桑麻",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-2412c0f23a558a502078811370926019_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "jiang-sir-94",
+                    "id": "2c2c9e7a758193403170fc6023410fcb"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/61531130",
+                "title": "对美贸易有多重要？——基于近年进出口数据的分析",
+                "created": 1554472364,
+                "content": "<p>自2001年加入WTO以来，中国经济充分融入经济全球化，<b>“两头在外”（原料和市场在外、生产在内）</b>的经济模式炉火纯青，进出口规模急剧扩大，贸易顺差一路攀升，在很大程度上推动了近十几年来的经济高增长。</p><p>数据显示，中国的贸易顺差在加入WTO当年仅为224亿美元，其后迅速攀升，在较长时间内（2014年至今）<b>保持3,000-5,000亿美元的年度顺差规模。</b></p><p>虽然近些年来，“<b>净出口”（贸易和服务顺差）在统计意义上对中国经济的推动作用（GDP=总消费+总投资+净出口）已不及加入WTO之初的十年，但是相当规模的贸易额及顺差对中国经济增长的贡献仍然不容忽视。</b></p><p>而我们回顾近年来中国对主要贸易对象的进出口情况后不难发现，<b>对美贸易的顺差占顺差总额的比例常年保持极高的比例</b>。对美贸易，无疑是中国近年来仍能保持高额贸易顺差的主要贡献力量。</p><p><b>一、</b> <b>近五年对美顺差：占顺差总额的七成</b></p><p>以海关总署2014-2018年年度进出口统计数据为基础，测算对美贸易顺差占中国近五年顺差总额的比例（见下表）。</p><p>数据显示，近五年来，<b>对美贸易顺差占中国年度贸易顺差的比例基本在70%左右</b>。而在刚刚过去的2018年，尽管中美经贸之争贯穿全年，但当年度中国对美贸易顺差仍达到创纪录的3,233亿美元，同比增长17.2%。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-083e74560345f6a87ff82c75d3b45182_b.jpg\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"170\" class=\"origin_image zh-lightbox-thumb\" width=\"432\" data-original=\"https://pic3.zhimg.com/v2-083e74560345f6a87ff82c75d3b45182_r.jpg\"/><figcaption>  2014-2018年中国对美贸易顺差统计</figcaption></figure><p>更为惊人的是，<b>2018年对美贸易顺差占中国当年贸易顺差的比例高达91.9%</b>。这意味去年中国对其他经济体的进出口贸易总体基本处于平衡或略有盈余状态，而主要的顺差额都是由对美贸易贡献。</p><p><b>二、</b> <b>对美顺差：顺差下行期的逆周期亮点</b></p><p>虽然对美贸易顺差甚巨，但中美贸易额占中国年度贸易总额的比例并不算太高。</p><p>2018年，中国外贸进出口总值4.62万亿美元，同比增长12.6%。其中，出口2.48万亿美元，同比增长9.9%；进口2.14万亿美元，同比增长15.8%。</p><p>而2018年，中美双边贸易进出口总值为6,335.2亿美元，同比增长8.5%。其中，出口4,784.2亿美元，增长11.3%；进口1551亿美元，增长0.7%。</p><p>就贸易额比例而言，<b>中美贸易额占中国进出口总额的比例不过13.7%（美国为中国第二大贸易伙伴，第一大贸易伙伴为欧盟），与顺差额占比91.2%形成鲜明对比。</b></p><p>同样不容忽视的是，2018年由于国内外经济形势变化，中国当年的贸易顺差额创2013年以来的新低（2013年，中国贸易顺差2,597.5美元），同比收窄高达16.2%。</p><p>在这样的背景下，中国对美顺差能够逆势增长17.2%，显得尤为难能可贵。</p><p><b>三、</b> <b>2019年：对美顺差延续扩大态势</b></p><p>进入2019年，中美经贸之争对两国贸易的负面影响依旧在持续，1月份两国贸易总额显著下降，但中国对美贸易顺差仍不改扩大态势。</p><p>海关最新数据显示。以人民币计价，2019年1月份，中国货物贸易进出口总值2.73万亿元，同比增长8.7%。其中，出口1.5万亿元，增长13.9%；进口1.23万亿元，增长2.9%；贸易顺差2,711.6亿元，扩大1.2倍。</p><p>其中对美国出口2,521.1亿元，增长1.9%；自美国进口637.1亿元，下降38.6%；对美贸易顺差1,884亿元，扩大31.2%。中美贸易总值为3,158.2亿元，下降10.1%，占中国外贸总值的比例11.6%。</p><p><b>在双边贸易总额下降、占外贸总值的比例仅为11.6%的情形下，中国对美贸易顺差占1月顺差总额的比例仍高达69.5%，基本为过去五年的中位数。</b></p><p>与对美单月高达1,884亿元的顺差相比，中国对世界其他主要市场的进出口情况则相形见绌：1月对欧盟贸易顺差881.6亿元、对东盟顺差503.2亿元、对日本逆差40.6亿元。</p><p><b>四、</b> <b>对美贸易及高额顺差之于中国的意义</b></p><p>试想，如果过去多年以来，中国对美贸易未形成如此高额的顺差，或是未来因中美经贸之争，顺差大幅收窄，对中国经济金融的影响几何？</p><p>如果没有对美的高额顺差，显然首先在统计意义上，净出口对中国经济的贡献将大为下降。</p><p>而更为重要的是在现实经济意义上，<b>如果失去了对美贸易的高额顺差，那对中国外汇储备的冲击不可小觑。</b></p><p>中国近年以来由于资本项下的逆差，外汇储备由高峰时期的约4万亿美元一路下行至目前的约3万亿美元。</p><p>假设在贸易项下也失去了以对美顺差为主体的收支盈余，那外储缩水速度也将更快，势必会对国际收支平衡、人民币汇率等产生较大的负面影响。</p><p>此外，除了高额顺差之外，中美贸易本身对中国经济增长的影响也举足轻重。</p><p><b>中国从美国进口大豆等大宗农产品 ，为人多地少、生产方式较为粗放的中国农业生产节约了大量的耕地资源和人力成本。</b></p><p><b>从美进口的航空航天、半导体、医疗机械、光学设备等高附加值产品和技术，具有较高的不可替代性，也是提升中国科技水平和国民生活品质的有效途径。</b></p><p>出口方面，美国是中国机电设备、家用电器和轻工消费品等劳动密集型产品的主要出口市场，对美出口在中国外贸出口额中占比约20%。</p><p>综合而言，美国是中国自加入WTO以来，产能消化以及农产品、高附加值产品与技术进口不可或缺的贸易伙伴。</p><p>对美贸易及持续的高额顺差，对中国多年以来的国内经济增长、国际收支平衡均起到了相当程度的支撑作用。</p>",
+                "comment_count": 16,
+                "image_url": "https://pic1.zhimg.com/50/v2-ada1c8d7b4d3dd7eb37fdb41ba4d9293_hd.jpg",
+                "voteup_count": 35,
+                "type": "article"
+            },
+            "attached_info": "Cj8QBxoJMTAxODAyODM4IKy7neUFKCMwEEAAUhF0b3BfYWN0aXZpdHlfcG9zdFoHMTAyMTIwOXIINjE1MzExMzA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1521865283,
+                "is_labeled": false,
+                "excerpt": "原文首发于rainierstore 西雅图雷尼尔 欢迎关注 2018年3月16日<b>要点</b><b>至少每年300亿～600亿美元针对中国产品的关税; </b><b>加强对中国在美投资的限制;</b><b>限制中国学生，学者和高管赴美访问或留学的签证</b>中美新冷战的第二波来袭背景介绍，我一直比较关注着中美之间不断升…",
+                "excerpt_title": "",
+                "id": 34892726,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-95a4ee21f83974c142ecedcee9eb4a0e_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-1e860ae37a612a105ba68c0135681c75_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-bd0dc15e6828fa688dc6408f11ac1532_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "ba70c34149e0464fed9b6b79df21c302"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/34892726",
+                "title": "美国的新冷战：600亿美元关税，限制留学生，访问学者签证！",
+                "created": 1521864528,
+                "content": "<p>原文首发于rainierstore 西雅图雷尼尔 欢迎关注 2018年3月16日</p><p><b>要点</b></p><p><b>至少每年300亿～600亿美元针对中国产品的关税; </b></p><p><b>加强对中国在美投资的限制;</b></p><p><b>限制中国学生，学者和高管赴美访问或留学的签证</b></p><h2>中美新冷战的第二波来袭</h2><p>背景介绍，我一直比较关注着中美之间不断升级的贸易冲突，写了几篇文章。希望能及时将一些信息传递给有需要的人，做好完全的准备。</p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3MjA5ODY1Mg%3D%3D%26mid%3D2658059409%26idx%3D1%26sn%3D5da2d074a2442621f5e3baa450f74411%26chksm%3D84b912a2b3ce9bb418011fe1f934826aa14da1c10bb6606c95901560791f1f35ca69ca1e02a3%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">突发：今天下午美国打响中美贸易战的第一枪</a>》<br/></p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3MjA5ODY1Mg%3D%3D%26mid%3D2658060289%26idx%3D1%26sn%3D5a864cf8d4f40c41b25a7ecc101babda%26chksm%3D84b91e32b3ce97246642ac42ba769feefca44307790faf2b727c3cbaec533eebdc7e3f80e1ea%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">特朗普给中国出了3道难题</a>》</p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3MjA5ODY1Mg%3D%3D%26mid%3D2658060955%26idx%3D1%26sn%3Dc5aa03d9d62d3ffc5a02c4f2e3ca24e2%26chksm%3D84b91ca8b3ce95be5b39516fc15db0f8b3695c9757d1badfed1c31f6cebdcebf6508b89631c1%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美国的新冷战：贸易战，全面拉开帷幕</a>》<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>最近中美之间的贸易冲突，进一步升级。路透社报道，美国正在考虑针对中国的科技产品征收<b>600亿美元</b>的关税。<br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1e860ae37a612a105ba68c0135681c75_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"533\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic2.zhimg.com/v2-1e860ae37a612a105ba68c0135681c75_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这个已经不是说一帮人瞎想想，而是已经进入政策制定阶段了。而这个政策的核心目的就是针对双平衡中的贸易赤字平衡</p><p>工作机会和资金的双回流，贸易赤字和财政赤字的双平衡。据白宫官员介绍，这些措施是旨在减少美国巨额贸易赤字政策的一部分。特朗普总统表示，他希望中国能够提出一项计划，将中国与美国的3,750亿美元商品贸易顺差削减1000亿美元。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而中方最近的举措让美方非常愤怒：<br/></p><ol><li>中国宣布2017年对美国的顺差增加了<b>10%。</b>是有史以来最高的一年。</li></ol><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-bd0dc15e6828fa688dc6408f11ac1532_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"312\" data-rawheight=\"321\" class=\"content_image\" width=\"312\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><ol><li>玩文字游戏。当发现有史以来最高的顺差让特朗普下不来台之后，改口又称顺差统计口径问题，其实没那么大。</li></ol><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-1fbdef62fb912e9b999f84d9959dbc7b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"626\" data-rawheight=\"220\" class=\"origin_image zh-lightbox-thumb\" width=\"626\" data-original=\"https://pic4.zhimg.com/v2-1fbdef62fb912e9b999f84d9959dbc7b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>所以美方酝酿出台第二波贸易战措施，正在考虑的措施包括：</p><ul><li><b>对中国产品每年至少征收300亿～600亿美元的关税。</b></li><li><b>加强对中国在美投资的限制; </b></li><li><b>限制中国学生，学者和高管赴美访问或留学的签证</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>白宫官员说，上周白宫与商务部，国防部，经济顾问委员会和美国贸易代表办公室的官员，详细讨论了这些选项。</p><p>另外除了这些单边措施之外，美国政府还在考虑向世界贸易组织提交一系列针对中国的案件，指控各种违反贸易规则的行为。<br/></p><h2>目标中国制造2025</h2><p>美国其实对那些产品增加关税，如何增加也是一头雾水，毕竟中国制造充斥着美国的大大小小商店。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-816f692059728d9a281204a5da408106_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-816f692059728d9a281204a5da408106_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>前几年在美国找一样不是made in china的很难</p><p>而前些年发布的《中国制造2025》报告，为他们指明了方向。所以关税会重点针对报告中的产品和技术。比如机器人，半导体和电动汽车在内的多个技术领域。所以以后中资公司想收购半导体公司，会困难很多。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了防止技术的输出与流失，美国还在考虑限制向在美国工作和学习的中国人发放的签证数量。另外也白宫正在讨论是否结束10年签证计划。但此类努力肯定会引起美国大学的强烈反对，因为美国大学严重依赖中国学生的收入。尽管如此，有些不需要通过议会的政策已经开始实行了，比如 CPT的以后会很难弄了。</p><figure data-size=\"small\"><img src=\"https://pic2.zhimg.com/v2-c1405e47b17bad7acacd0c6d3bdab015_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"1080\" data-rawheight=\"1690\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-c1405e47b17bad7acacd0c6d3bdab015_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在企业界方面，尽管美国大多数企业大力支持对中国在贸易方面施加压力。但也有许多公司都担心，征收关税会加剧中国的报复行为，并会增加美国企业的成本。</p><h2>小结</h2><p>最近美国推出针对性贸易政策的密度，强度越来越大，牵涉范围越来越广。可以看到美国政府现在的贸易政策的制定已经由鹰派全面接手了。</p><p>签证政策的变化和留学政策的变化可能对于普通人的影响特别大。现在的政策还没有完全推出来，还在制定阶段。很可能出台的最终版本政策是，把制造2025上的专业加入到和核，生化等敏感专业中去。 这样既不影响美国大学捞钱，又不担心技术优势流失。但是最后什么样，谁也无法说清楚。</p><p>最后建议手里没有10年签证的赶紧去办一个，10年签证快过期的去更新一下，有留学计划的，建议提前做好准备。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>怀最乐观的态度，做最坏的打算。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文参考：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//www.wsj.com/articles/trump-takes-aim-at-next-tariff-target-china-1521106203\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">wsj.com/articles/trump-</span><span class=\"invisible\">takes-aim-at-next-tariff-target-china-1521106203</span><span class=\"ellipsis\"></span></a> </p><p>Trump Takes Aim at Next Tariff Target: China</p><p>Trade measures against Beijing would also include investment restrictions and visa limits to convince China to stop pressuring U.S. firms to transfer technology</p><p class=\"ztext-empty-paragraph\"><br/></p><p>长按二维码关注我们。坚持篇篇原创。转发就是最大的支持！</p><p>欢迎关注西雅图雷尼尔 （rainierstore)</p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/ikxdRcbEf5sArYIm9xmY\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/ikxdRcb</span><span class=\"invisible\">Ef5sArYIm9xmY</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p><p></p>",
+                "comment_count": 3,
+                "image_url": "https://pic4.zhimg.com/50/v2-95a4ee21f83974c142ecedcee9eb4a0e_hd.jpg",
+                "voteup_count": 19,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjE0NzAzNiDQntfVBSgTMANAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM0ODkyNzI2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "已经公开的信息是不受美国出口限制的。所以，美国无法禁止开源软件出口。况且，代码随时都被复制到全世界各个角落了，根本也管制不了啊。要搞清楚一点，我们受制于人的是<b>服务和平台</b>，不是开源代码本身。每个技术人都知道，我们的教育和产业发展都极大受益于…",
+                "created_time": 1558354083,
+                "id": 689570417,
+                "voteup_count": 10,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/f6082ba53_{size}.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "清华大学 计算机科学与技术博士"
+                        }
+                    ],
+                    "name": "任晶磊",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "计算机科学与技术"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/b31297a5f055a40fe5870ddba726b07f",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "得之坦然，失之淡然，争其必然，顺其自然",
+                    "avatar_url": "https://pic2.zhimg.com/50/f6082ba53_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "basicthinker",
+                    "id": "b31297a5f055a40fe5870ddba726b07f"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/689570417",
+                "question": {
+                    "title": "美国能从法律上管制开源软件对华出口吗?",
+                    "url": "http://www.zhihu.com/api/v4/questions/269908321",
+                    "created": 1522010738,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 269908321
+                },
+                "updated_time": 1558354083,
+                "content": "<p>已经公开的信息是不受美国出口限制的。所以，美国无法禁止开源软件出口。况且，代码随时都被复制到全世界各个角落了，根本也管制不了啊。</p><p>要搞清楚一点，我们受制于人的是<b>服务和平台</b>，不是开源代码本身。</p><p>每个技术人都知道，我们的教育和产业发展都极大受益于开源软件，把污水往开源引很不厚道！“国产开源”“开源自立”都是扯淡，拿开源包装做自主可控的丑闻出了多少起了，当心有人要发“国难”财！</p>",
+                "comment_count": 17,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTU1NDQzNjg1IKOxiucFKAowEUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMjI1NDk1OHIJNjg5NTcwNDE3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "要是每个人都想着如何在RISC-V上面给Linux提交代码，移植编译器，移植编译现有的代码和项目，并且号召中国人都来交钱用，或许还有机会；如果每个人都想着骗一比投资，然后继续倚仗着指令集的问题，继续拘泥于电视机顶盒、空调遥控器、路由器、某个钻井设备…",
+                "created_time": 1525423504,
+                "id": 383176852,
+                "voteup_count": 39,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-b761c06848d2ee9d15646a86281dd0ff_{size}.jpg",
+                    "badge": [],
+                    "name": "立党",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "中文系"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/b6f0c45a4d0dc84f228977e0d70bd700",
+                    "gender": 0,
+                    "user_type": "people",
+                    "headline": "朋克",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-b761c06848d2ee9d15646a86281dd0ff_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "lidang",
+                    "id": "b6f0c45a4d0dc84f228977e0d70bd700"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/383176852",
+                "question": {
+                    "title": "RISC-V 能成为中国芯片弯道超车的机会吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274106611",
+                    "created": 1524279626,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274106611
+                },
+                "updated_time": 1525423504,
+                "content": "<p>要是每个人都想着如何在RISC-V上面给Linux提交代码，移植编译器，移植编译现有的代码和项目，并且号召中国人都来交钱用，或许还有机会；</p><p>如果每个人都想着骗一比投资，然后继续倚仗着指令集的问题，继续拘泥于电视机顶盒、空调遥控器、路由器、某个钻井设备的一个控制芯片，那就永远没有超车的机会。</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTk3MzcxMDkgkLuw1wUoJzACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTg4MDU0cgkzODMxNzY4NTI="
+        }
+    ]
+}

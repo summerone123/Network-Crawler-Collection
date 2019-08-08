@@ -1,0 +1,247 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5462.42942",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=5476.12521&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5476.12521"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "哈哈哈哈，FEDEX官方称自己每天1500万件交付，华为的寄件量一天我想往使劲高里估也不会超过1000件吧，华为三天内寄错了4件，哇，那如果华为没被针对，那出错概率都超过千分之一，就是每天全球最保守也寄错1.5万件。这水平的话，Fedex这哪里是快递，明明是漂…",
+                "created_time": 1559187571,
+                "id": 699855167,
+                "voteup_count": 2900,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-f9f491f8a3d83c9a26d8154d7aa5b1e3_{size}.jpg",
+                    "name": "鹏翱九天",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "鹏之大，需要两个烧烤架",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "li-yun-peng-24",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-f9f491f8a3d83c9a26d8154d7aa5b1e3_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/bdfce16682a1b6feec754fbfbdf92219",
+                    "badge": [],
+                    "id": "bdfce16682a1b6feec754fbfbdf92219"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/699855167",
+                "question": {
+                    "title": "如何看待华为称「联邦快递未经授权，把两个寄往中国的包裹转运至美国」一事?",
+                    "url": "http://www.zhihu.com/api/v4/questions/326518795",
+                    "created": 1559013290,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 326518795
+                },
+                "updated_time": 1559205801,
+                "content": "<p>哈哈哈哈，FEDEX官方称自己每天1500万件交付，华为的寄件量一天我想往使劲高里估也不会超过1000件吧，华为三天内寄错了4件，哇，那如果华为没被针对，那出错概率都超过千分之一，就是每天全球最保守也寄错1.5万件。</p><p>这水平的话，Fedex这哪里是快递，明明是漂流瓶公司啊！</p>",
+                "comment_count": 139,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkUQBBoJMTU3MzEzOTcxIPOgvecFKNQWMIsBQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDM0ODM1ODcxcgk2OTk4NTUxNjc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559181026,
+                "is_labeled": false,
+                "excerpt": "经过一周的“隔空互怼”，我们终于在今天迎来了中国主播刘欣与Fox主播翠西·里根（Trish Regan）的<b>“神仙辩论”</b>。 这场辩论还未开始就已经吸引了中外媒体和民众的关注，大家想看看到底是刘欣能辩赢这场“鸿门宴”，还是翠西更胜一筹。 昨天两人在推特上隔空…",
+                "excerpt_title": "",
+                "id": 67474894,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-1363be633bcef745663fbae0b2a4692e_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-6892f7656ba1d1c80866a32571539cb3_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-a583ba6ecbf6dbe6542ee91f0d26ddee_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-825f782641b2bda1317f444f9fa09691_{size}.jpg",
+                    "name": "留学生日报",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "百万中国留学生都在关注",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "liu-xue-sheng-ri-bao",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-825f782641b2bda1317f444f9fa09691_is.jpg",
+                    "is_org": true,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/e4a0b00c8c04bc16c0fed1563f1a0444",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "e4a0b00c8c04bc16c0fed1563f1a0444"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67474894",
+                "title": "全文来了：CGTN女主播约战FOX主播全程实况回顾",
+                "created": 1559181026,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6892f7656ba1d1c80866a32571539cb3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-6892f7656ba1d1c80866a32571539cb3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>经过一周的“隔空互怼”，我们终于在今天迎来了中国主播刘欣与Fox主播翠西·里根（Trish Regan）的<b>“神仙辩论”</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这场辩论还未开始就已经吸引了中外媒体和民众的关注，大家想看看到底是刘欣能辩赢这场“鸿门宴”，还是翠西更胜一筹。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>昨天两人在推特上隔空喊话，十分客气。但是刚刚的辩论现场却是硝烟四起，火药味十足。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>由于节目版权问题，CGTN无法对这场辩论进行实时视频直播，日报已经为大家准备了实况记录。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a583ba6ecbf6dbe6542ee91f0d26ddee_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic3.zhimg.com/v2-a583ba6ecbf6dbe6542ee91f0d26ddee_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a25d75e38fac802e945513574272d137_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"578\" data-rawheight=\"488\" class=\"origin_image zh-lightbox-thumb\" width=\"578\" data-original=\"https://pic4.zhimg.com/v2-a25d75e38fac802e945513574272d137_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>图源：推特</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-8a6741c49d06fad29e65672501089619_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"743\" data-rawheight=\"187\" class=\"origin_image zh-lightbox-thumb\" width=\"743\" data-original=\"https://pic2.zhimg.com/v2-8a6741c49d06fad29e65672501089619_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>早上7点，刘欣已经坐在演播室的后台，画好了一丝不苟的妆容，脸上带着职业且自信的微笑。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当央视的记者问到开场白决定怎么介绍，刘欣表示，没有特别准备，跟着感觉走。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>7点52分，刘欣步入演播室。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>8点10分，崔西开始在直播节目中开始介绍刘欣和本次的辩论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-cafca7a5897d4d712439112438921a46_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"650\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-cafca7a5897d4d712439112438921a46_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>北京时间8点26分26秒，中美主播对话正式开始。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>刘欣用谦逊不卑不亢的两句话进行了开场：非常感谢Trish，感谢你给我这次机会，从来没有想过能和你进行直接对话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>接下来刘欣不到30秒的开场白被Trish至少三次插话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>刘欣说明，自己在节目中阐述的观点仅仅代表自己的意见，而她欢迎不同的声音。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>刘欣：</b>很高兴翠西邀请我参加今晚的辩论。这是一次史无前例的辩论。我从没有想过我会有这样的机会去跟你直接对话，同时也跟美国的普通民众进行对话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>翠西：你可以评估一下中美两国在贸易战中的处境吗？你认为中美可能会达成某种协议吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>刘欣：</b>我并不知道。我也没有内部消息。我所知道的是中美双方的上次对话并不成功。我认为双方都在考虑下一步该怎么走。我认为中国政府已经很明确的表示了希望美国可以尊重中国谈判团队，不要在外部施加压力。这样很有可能会达成一个富有成效的协议。如果美方不尊重对话，那么可能会造成旷日持久的矛盾。我认为贸易战不是件好事。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>翠西：我也同意。我们现在谈一谈最重要的问题，中美知识产权问题。我们都知道窃取别人的东西是不对的。中国是WTO的成员，FBI有很多证据证明中国从美国窃取了很多机密，涉及金额达到上亿美元。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-31ea4c5aa4623b0cefcaf0150c7fd0a7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"671\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-31ea4c5aa4623b0cefcaf0150c7fd0a7_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>翠西：</b>美国有很多的公司在中国投资办厂，它们会受到很大的损失，我们谈到的问题是上亿美元的损失，而不是50美分</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>刘欣：</b>翠西，我认为你应该询问美国商人是否愿意到中国投资，取得利润。我认为他们会给出答案。迄今为止据我所知，许多美国公司在中国获利很好，其中大部人愿意继续在美国进行投资。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在，美国总统特朗普的行为使得这些投资行为变得有些困难，使得中美贸易的前景有些不确定。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不要否认有侵权。有任何版权问题或存在盗版甚至盗窃商业商业机密。我认为那是，需要处理的事情。而且我认为中国政府和中国人民以及我个人认为这是一个共识，因为如果没有版权保护，没有任何一个国家，没有个人可以变得强大，可以发展自己。所以我认为这是在中国人中非常明确的共识。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-37ce79a9a3d32bba2e309e00a95f9cb4_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"184\" data-thumbnail=\"https://pic1.zhimg.com/v2-37ce79a9a3d32bba2e309e00a95f9cb4_b.jpg\" class=\"content_image\" width=\"320\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>有些案例显示有个人和公司去偷窃。我认为这可能是世界各地的常见做法。然后，美国的公司一直看到对方因侵犯权利而互相侵犯。你不能简单地说因为这些案件正在发生，美国正在偷窃或中国正在偷窃，所有中国人都在偷窃。基本上这就是我写这个反驳的原因，因为我认为这种空白陈述真的没有用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>翠西：这个不仅仅是一个观点。这是基于多方面的报道，包括世贸组织的证据。我不否认这些我们已知的事实。我们都同意必须基于信任的基础上和别人做生意。并且你不想让别人偷窃你花费了数十年的有价值的信息。无论如何，中国在2017年要求科技公司为军队和政府工作。所以这不是单单一个公司。这可能是获得这项技术的一个机会。这是一个细微的差别。但我理解美国市场不欢迎中国进入导致中国感到沮丧。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我认为我们可以这么想，你有一种方法进入我们的市场，你必须与我们分享你一直在研发的先进的尖端技术。你觉得这样可行吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>刘欣：</b>我认为如果这是基于合作的话，如果这是基于互相学习的话，如果这是基于你付钱使用这些高科技的话，我觉得这绝对可行。为什么不呢？我们互相学习互相进步。我从美国老师、美国朋友那里学习英语；我仍然从美国编辑那里学习新闻。只要合法，我认为这没错。我认为每个人都需要这么做，让自己变得更好。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-1c00047561b324b448e536082293ca6f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"184\" data-thumbnail=\"https://pic4.zhimg.com/v2-1c00047561b324b448e536082293ca6f_b.jpg\" class=\"content_image\" width=\"320\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Trish：我认为我们所生活的世界是经济自由化，重视知识产权的。它是由一系列的法律控制的。所以如果我们想要彼此之间有那种信任，我们都需要遵守规则，遵守法律。但是我想你提出了一些很好的观点。现在让我来谈谈中国。 中国现在是世界第二大经济体。中国将在什么时候决定放弃发展中国家的地位?什么时候才能停止向世界银行借款？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>刘欣：是的，现在一直有人在讨论这个问题。我也听到了关于这个话题非常热烈的讨论，确实有人说中国已经变得如此之大。也有人问你为什么不承认你已经长大了，就像你在节目里也说过。中国是强大了，我们都想强大。但这取决于你如何定义发展中国家。对吧?如果你看看中国的总体规模，中国经济的总体规模。没错，我们是一个大国，但别忘了我们有14亿人口。这是美国人口的三倍多。所以如果你把世界第二大经济体划分为人均的GDP，我认为它还不到美国的六分之一，甚至不如欧洲一些比较发达的国家。所以你告诉我，我们应该把自己放在什么样的位置?</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这是一个非常复杂的问题，我们的人均收入非常少，但GDP总量是非常大的。所以我们可以做很多大事，全世界期我们能在世界各地做更多的事情。我们也正在这样做。我们正在为联合国事物作出贡献。我们是世界上对联合国人类维和任务贡献最大的国家。我们捐款和提供人道主义援助，因为我们知道我们必须成长。翠西，下面我们来谈谈关税问题。我看过你的一些评论，我很感激你认为中国可以降低一些关税。我想说的是，我完全同意你的看法。2006年，中国对美国商品征收的平均关税实际上是9.9%，几乎是美国征收关税的三倍。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-11d031ec1956ae98fb27a7d20a5c0b0b_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"199\" data-thumbnail=\"https://pic4.zhimg.com/v2-11d031ec1956ae98fb27a7d20a5c0b0b_b.jpg\" class=\"content_image\" width=\"320\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这你怎么看？你怎么想？我有一个不错的主意。 你不认为对于美国消费者来说，来自中国的产品会更便宜吗? 对于在中国的消费者来说，让来自美国的产品也会更便宜，不是更好。我觉得这是个很好的注意。我认为我们应该朝着这个方向努力。但是你知道你说过要基于规则、基于顺序。如果你想改变规则，就必须在双方达成共识的情况下进行。基本上我们谈论的关税不只是中国和美国之间的关税。我理解如果你降低中美之间的关税，那欧洲人、日本人、委内瑞拉人都会这样要求。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以这很难达成共识。美国为了自己的利益可以决定他们能在多大程度上同意或者在多大程度上决定他们可以做些什么。没有人拿枪指着他们的头，这完全是各国根据自身利益作出的决定。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-f28a861c98ae957e1635b92cd09a88cb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"647\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-f28a861c98ae957e1635b92cd09a88cb_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>翠西：就像规则将会改变规则。但同样，它必须是多国的和多边的影响。是的，你可以回顾看1974年的贸易协定，第3-1章，有一条规则允许美国利用关税来尝试影响中国的行为。所以你们是否窃取了我们的知识产权？我认为，在某种程度上，这也是回归到第一个问题。这是一种信任的问题。而且我听说你们在进行强制技术转让。我认为，一些美国公司可能犯了一些错误，他们忽视了短期内可能不得不放弃的东西。</p><p><b>刘欣：</b>不，不是这样的。为什么强制技术转让可能是原因之一呢？但是在资本主义国家，换种方式说，我想说的是知识转移，但不知怎的，你就换了种说法。</p><p><b>翠西：</b>我想说的是，你知道，你们的经济体系很有趣，因为，我们是资本主义体系，对吧?但这是国家控制的。跟我们谈谈这个吧。你如何定义它?</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>刘欣：</b>我们要把中国特色社会主义定义为市场决定资源配置的社会主义。基本上你知道，让市场成为我们想要的市场经济，但是有一些中国特色。一些国有企业在经济中发挥着重要作用，但作用可能越来越小。但是你们每个人都认为中国的经济是稳定发展的且一切都是国家控制的。一切都很稳定。但让我告诉你这不是真实的情况！如果你看一下数据，比如80%的中国员工受雇于私营企业。中国80%的出口是由私营企业完成的，而私营企业生产了这些产品。大约65%的技术创新是由私营企业完成的。而且这是一些影响我们生活最大的公司，例如一些互联网公司或者一些5g技术公司，它们是私营公司。所以，我们是有中国特色的社会主义经济，但并不是所有的事情都是国家控制的，国家运行不是这样的。我们实际上是相当混合和多样化的。我们让它充满活力，实际上我们国家也非常非常开放。</p><p><b>翠西：</b>好吧，我想你应该保持开放的心态。我认为，你知道，作为一个自由贸易的人，我认为这是我们要追求的方向。嗯，谢谢你。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>北京时间8点43分，刘欣和翠西的“辩论结束”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-4a4bb264d23dda5243fdea053e29437b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"682\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-4a4bb264d23dda5243fdea053e29437b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>没想到与刘欣的连线结束后，翠西来了个马后炮，间接的来了个评论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>她引用刘欣对专利问题的回答，偷换概念，试图引导让观众认为，刘欣承认了中国参与了知识技术的偷窃。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-1c00047561b324b448e536082293ca6f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"184\" data-thumbnail=\"https://pic4.zhimg.com/v2-1c00047561b324b448e536082293ca6f_b.jpg\" class=\"content_image\" width=\"320\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>此后，翠西还邀请了michael pillsbury，点评这次跨洋辩论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a4ea809cea21fa708371082b10dcafef_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"680\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-a4ea809cea21fa708371082b10dcafef_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Pillsbury称，他能感受到中美两方的共同目的都是希望能够共赢，达到零关税的共同目标。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于这场辩论网友的评论是：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>“刘欣完全赢了这场辩论”</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-c4afff7de855028227e2dadcf95dba9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"215\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-c4afff7de855028227e2dadcf95dba9c_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>“哈哈哈哈，翠西完全输了和刘欣的辩论”</p><p class=\"ztext-empty-paragraph\"><br/></p><p>“这根本不是一个辩论。翠西一直在问问题。刘欣巧妙的回答后，翠西就问下一个，也没有评论...可笑...是谁在读提词器啊～”</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-0b1421fc625b9ee24420ccfbcb3fea6e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-0b1421fc625b9ee24420ccfbcb3fea6e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-efb65aa2051b07ddb413b5e6a92ec46a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"924\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic3.zhimg.com/v2-efb65aa2051b07ddb413b5e6a92ec46a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>双方主播的实力和背景对比，刘欣拿到过世界英语演讲冠军，美国主播拿到过…选美冠军</p>",
+                "comment_count": 150,
+                "image_url": "https://pic4.zhimg.com/50/v2-1363be633bcef745663fbae0b2a4692e_hd.jpg",
+                "voteup_count": 475,
+                "type": "article"
+            },
+            "attached_info": "CkEQBxoJMTAzMTIzMjgxIOLtvOcFKNsDMJYBQABSEXRvcF9hY3Rpdml0eV9wb3N0WgcxMDA5NDM2cgg2NzQ3NDg5NA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559013399,
+                "is_labeled": false,
+                "excerpt": "路透社5月19日，爆出了全世界轰动的一则新闻：谷歌迫于美国政府压力，已暂停与华为的商业往来。5月16日，美国总统特朗普就签署了行政命令，美国商务部将华为技术有限公司及其在20多个国家的68家附属公司列入所谓的“实体名单”。此举将禁止华为在未经美国政…",
+                "excerpt_title": "",
+                "id": 67244160,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-18d839b97ab0306f0cc3ac6cccb5bb93_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-c87cbb652a2769ef0f0a0a365c69d393_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-717bb1cb77896778b2ec69323b9aa080_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-5f7012ab357a1a5e892dbdff822b36bc_{size}.jpg",
+                    "name": "海外仁居",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "hai-wai-ren-ju",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-5f7012ab357a1a5e892dbdff822b36bc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/7cd1df8e7eec1e4528746964f75000c7",
+                    "badge": [],
+                    "id": "7cd1df8e7eec1e4528746964f75000c7"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67244160",
+                "title": "谷歌封杀华为，泰国网友表示很！生！气！，后果很！严！重！",
+                "created": 1559013399,
+                "content": "<p>路透社5月19日，爆出了全世界轰动的一则新闻：谷歌迫于美国政府压力，已暂停与华为的商业往来。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-c87cbb652a2769ef0f0a0a365c69d393_b.jpg\" data-size=\"normal\" data-rawwidth=\"932\" data-rawheight=\"635\" class=\"origin_image zh-lightbox-thumb\" width=\"932\" data-original=\"https://pic4.zhimg.com/v2-c87cbb652a2769ef0f0a0a365c69d393_r.jpg\"/><figcaption>路透社报道截图</figcaption></figure><p>5月16日，美国总统特朗普就签署了行政命令，美国商务部将华为技术有限公司及其在20多个国家的68家附属公司列入所谓的“实体名单”。此举将禁止华为在未经美国政府批准的情况下，从美国公司购买零部件。</p><p>5月20日，周一，谷歌就宣布”遵从命令“，停止与华为部分业务合作，将不再提供除开源以外的安卓系统的支持。同日，微软和高通陆续宣布，将冻结与华为的商业往来。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-717bb1cb77896778b2ec69323b9aa080_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-717bb1cb77896778b2ec69323b9aa080_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1</b></p><p><b>谷歌的断供</b></p><p><b>对华为意味着什么</b></p><p>世界上的手机分为两种，一是苹果，二是安卓。几乎所有的国产手机都是安卓系统，而安卓却是归于谷歌旗下的，华为和Google可以说是千丝万缕的联系。如今谷歌的断供，对华为无疑重创：华为手机将无法更新安卓系统，新的华为手机可能无法再使用谷歌软件，包括Gmail、YouTube、Chrome浏览器、谷歌应用商店（Google Play Store）、谷歌地图等。</p><p>对于此事，谷歌新闻发言人说，该公司“正在遵从相关指令并研判影响”，但拒绝提供相关细节。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a7cb1ad716fa3ccbb3a4b1f873cbb3ed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-a7cb1ad716fa3ccbb3a4b1f873cbb3ed_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2</b></p><p><b>此消息一出</b></p><p><b>泰国网络谩骂声一片</b></p><p>使用华为手机的泰国网友表示十分不服，有网友表示自己一直是华为的粉丝，特别看重华为手机的摄像功能，美国突然搞这么一出，简直没有人道。不少网友纷纷站队支持华为，希望华为能够摆脱困境，赢得胜利，不管发生什么，自己都是忠实的华为铁粉。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-fb01e51abadb4f29710176414b8d7977_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"475\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-fb01e51abadb4f29710176414b8d7977_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-840d064b94663482092bb32ef9fa9871_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"308\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic2.zhimg.com/v2-840d064b94663482092bb32ef9fa9871_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-010e18ddc574f25823523d66ecd9a1fd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"476\" data-rawheight=\"491\" class=\"origin_image zh-lightbox-thumb\" width=\"476\" data-original=\"https://pic2.zhimg.com/v2-010e18ddc574f25823523d66ecd9a1fd_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b1557a5666afac8dedb1d1f68a29882a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"464\" data-rawheight=\"533\" class=\"origin_image zh-lightbox-thumb\" width=\"464\" data-original=\"https://pic3.zhimg.com/v2-b1557a5666afac8dedb1d1f68a29882a_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-13c9239665f96829c97ef192b0af8ac4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"350\" data-rawheight=\"367\" class=\"content_image\" width=\"350\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>“真想让中国代替美国，成为世界超级大国！我讨厌特朗普！”</p><p>“从来没有为哪个牌子，哪个系统站队，但这一次，希望华为能够摆脱困境，赢得胜利。”</p><p>“握着Y9的手微微颤抖”</p><p>“中国加油！我越来越讨厌美国了，我这辈子都不会嫁给西方人！”</p><p>“我爱华为！这是我用过最好的智能手机！加油！”</p><p>“越这样，越是要用华为”</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5f066d9ae2ede48a8caa4e20023a3d03_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"506\" data-rawheight=\"250\" class=\"origin_image zh-lightbox-thumb\" width=\"506\" data-original=\"https://pic4.zhimg.com/v2-5f066d9ae2ede48a8caa4e20023a3d03_r.jpg\"/></figure><p>“刚买了一个月”</p><p>“太小瞧中国了你”</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a5c4e8de1d1c0fb661eff5ac1f0cebd8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"244\" class=\"origin_image zh-lightbox-thumb\" width=\"503\" data-original=\"https://pic1.zhimg.com/v2-a5c4e8de1d1c0fb661eff5ac1f0cebd8_r.jpg\"/></figure><p>“我很喜欢华为机，但中国的软件、操作系统和浏览器真的能跟得上吗？”</p><p>“准备换百度代替”</p><p>“别搞了！我在用着呢，没钱买新的”</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3</b></p><p><b>华为泰国发表正式声明</b></p><p>5月20日，华为泰国通过官方脸书发表正式声明，针对路透社所报道的关于Google将停止与华为开展业务报道作出回应：</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-1335b3108e8d8f57729669ba74047964_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"496\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"496\" data-original=\"https://pic1.zhimg.com/v2-1335b3108e8d8f57729669ba74047964_r.jpg\"/></figure><p>“长久以来，华为已成为全球安卓系统开发与发展的重要组成部分，作为安卓系统全球范围内的主要合作伙伴，我们与全球开源平台密切合作，旨在开发有利于用户和整个行业的系统。</p><p>华为有信心继续为所有现有的华为智能手机和平板电脑产品提供安全软件更新服务和售后服务，涵盖世界各地已售出和等待售出的机型。</p><p>我们确信，将继续努力构建出一个安全可持续的软件系统，为全球用户提供最佳体验。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4</b></p><p><b>原来华为早就准备好了后招</b></p><p><b>多年备胎一夜“转正”</b></p><p>近十年来，华为在无线芯片上的投入累计超过10亿美元，而纵观手机芯片市场，很多国产品牌仍严重依赖国外科技公司高通、联发科技和展讯等。而华为早就有了长远的目光！</p><p>十年艰辛，只为一朝亮剑！</p><p>美国希望中国永远依赖美国的芯片和技术，却让华为为此研发备用芯片，倒逼了中国芯片产业的加速升级。这一次，华为不怕美国的芯片断供，因为我们有自己的芯片！</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4a748566351717ac2946fc83fe34252a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"952\" data-rawheight=\"479\" class=\"origin_image zh-lightbox-thumb\" width=\"952\" data-original=\"https://pic3.zhimg.com/v2-4a748566351717ac2946fc83fe34252a_r.jpg\"/></figure><p>而除了芯片，谷歌这次的“遵从命令”限制华为手机的安卓系统升级，也击不垮华为，自2012年开始，华为就开始规划自主研发的操作系统，“鸿蒙”系统很有可能将会是安卓系统的替代品！特别是正在使用华为手机的用户就能感受到，应用到华为手机中的方舟编译器，可以将安卓系统的性能提升数倍，而这个编译器很有可能就来自鸿蒙，那么完整的鸿蒙系统将会有多厉害？可以期待一下。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-f2db78f9e9d2c67c45328e85d779008b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"379\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic4.zhimg.com/v2-f2db78f9e9d2c67c45328e85d779008b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5</b></p><p><b>连华为都有备胎</b></p><p><b>我们常人更应该未雨绸缪</b></p><p>中兴被美国一禁，就瘫痪了，但华为被美国一禁，就拿出了海思备胎，就连华为自己的邮件都说，海思就是为极限状态下准备的备胎，一个未雨绸缪、研发成本高昂的备胎。</p><p>一个公司要有备胎，而我们常人也需要有备胎思维，不要把鸡蛋放在同一个篮子里，要学会给自己的财富找“备胎”。如何合理配置自己的资产，才能让它们的价值更大化，购置泰国房产势在必行！</p><p>更多海外房产详情资讯，请关注“海外仁居”！</p>",
+                "comment_count": 3,
+                "image_url": "https://pic1.zhimg.com/50/v2-18d839b97ab0306f0cc3ac6cccb5bb93_hd.jpg",
+                "voteup_count": 15,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMDcxOTAxIJfQsucFKA8wA0AAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjcyNDQxNjA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "先来看看联邦快递是家什么公司，根据维基百科记载，它是一家国际性<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E5%25BF%25AB%25E9%2581%259E%2522%2520%255Co%2520%2522%25E5%25BF%25AB%25E9%2580%2592\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">快递</a>集团，提供隔夜快递、地面快递、重型货物运送、文件<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E5%25A4%258D%25E5%258D%25B0%2522%2520%255Co%2520%2522%25E5%25A4%258D%25E5%258D%25B0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">复印</a>及<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%2589%25A9%25E6%25B5%2581%2522%2520%255Co%2520%2522%25E7%2589%25A9%25E6%25B5%2581\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">物流</a>服务，总部设于<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%25BE%258E%25E5%259C%258B%2522%2520%255Co%2520%2522%25E7%25BE%258E%25E5%259B%25BD\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美国</a><a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%2594%25B0%25E7%25B4%258D%25E8%25A5%25BF%25E5%25B7%259E%2522%2520%255Co%2520%2522%25E7%2594%25B0%25E7%25BA%25B3%25E8%25A5%25BF%25E5%25B7%259E\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">田纳西州</a>，是目前世界最大的快递运输公司之一。其诞生于1971年，由前<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%25BE%258E%25E5%259C%258B%25E6%25B5%25B7%25E8%25BB%258D%25E9%2599%25B8%25E6%2588%25B0%25E9%259A%258A%2522%2520%255Co%2520%2522%25E7%25BE%258E%25E5%259B%25BD%25E6%25B5%25B7%25E5%2586%259B%25E9%2599%2586%25E6%2588%2598%25E9%2598%259F\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美国海军陆战队</a>员Frederick W. Smi…",
+                "created_time": 1559028727,
+                "id": 697874849,
+                "voteup_count": 4378,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-160cc9d916291b3670a279d540666bbb_{size}.jpg",
+                    "name": "小边观点",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "武汉新世界珠宝金号有限公司 首席分析师",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "xiao-bian-guan-dian-66",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-160cc9d916291b3670a279d540666bbb_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/f5c6a05d572593952b9801c50371a45d",
+                    "badge": [],
+                    "id": "f5c6a05d572593952b9801c50371a45d"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/697874849",
+                "question": {
+                    "title": "如何看待网传联邦快递私自转运华为邮件，华为将审查与联邦快递合作关系一事？",
+                    "url": "http://www.zhihu.com/api/v4/questions/325807372",
+                    "created": 1558630742,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 325807372
+                },
+                "updated_time": 1559028727,
+                "content": "<p>先来看看联邦快递是家什么公司，根据维基百科记载，它是一家国际性<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E5%25BF%25AB%25E9%2581%259E%2522%2520%255Co%2520%2522%25E5%25BF%25AB%25E9%2580%2592\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">快递</a>集团，提供隔夜快递、地面快递、重型货物运送、文件<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E5%25A4%258D%25E5%258D%25B0%2522%2520%255Co%2520%2522%25E5%25A4%258D%25E5%258D%25B0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">复印</a>及<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%2589%25A9%25E6%25B5%2581%2522%2520%255Co%2520%2522%25E7%2589%25A9%25E6%25B5%2581\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">物流</a>服务，总部设于<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%25BE%258E%25E5%259C%258B%2522%2520%255Co%2520%2522%25E7%25BE%258E%25E5%259B%25BD\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美国</a><a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%2594%25B0%25E7%25B4%258D%25E8%25A5%25BF%25E5%25B7%259E%2522%2520%255Co%2520%2522%25E7%2594%25B0%25E7%25BA%25B3%25E8%25A5%25BF%25E5%25B7%259E\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">田纳西州</a>，是目前世界最大的快递运输公司之一。</p><p>其诞生于1971年，由前<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E7%25BE%258E%25E5%259C%258B%25E6%25B5%25B7%25E8%25BB%258D%25E9%2599%25B8%25E6%2588%25B0%25E9%259A%258A%2522%2520%255Co%2520%2522%25E7%25BE%258E%25E5%259B%25BD%25E6%25B5%25B7%25E5%2586%259B%25E9%2599%2586%25E6%2588%2598%25E9%2598%259F\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美国海军陆战队</a>员Frederick W. Smith在<a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E9%2598%25BF%25E8%2582%25AF%25E8%2589%25B2%25E5%25B7%259E%2522%2520%255Co%2520%2522%25E9%2598%25BF%25E8%2582%25AF%25E8%2589%25B2%25E5%25B7%259E\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">阿肯色州</a><a href=\"https://link.zhihu.com/?target=https%3A//wc.yooooo.us/wiki/%25E5%25B0%258F%25E7%259F%25B3%25E5%259F%258E%2522%2520%255Co%2520%2522%25E5%25B0%258F%25E7%259F%25B3%25E5%259F%258E\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">小石城</a>创立。</p><p>EMMMM，如果我国也有个美利坚式的国土安全局，一定会把这家企业圈进“安全隐患”的范畴里，毕竟创始人有别国军队背景~</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-4572dc0c5c4eb279761f1ab06dbf0700_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"439\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb\" width=\"439\" data-original=\"https://pic4.zhimg.com/v2-4572dc0c5c4eb279761f1ab06dbf0700_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='439'%20height='348'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"439\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"439\" data-original=\"https://pic4.zhimg.com/v2-4572dc0c5c4eb279761f1ab06dbf0700_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-4572dc0c5c4eb279761f1ab06dbf0700_b.jpg\"></figure><p><br></p><p>不过中国是开放市场，不像某些灯塔那样嘴上一套背地一套，审查比谁都严格，所以联邦快递在华的运营未受影响，甚至不少大型企业客户都选择了它。</p><p>然而，信任没有获得对等的信任。</p><p>华为周五对路透社表示，联邦快递（FedEx）近期将从日本寄往中国华为的两件包裹寄到了美国，并试图将另外两件从越南寄往华为亚洲其他地区办事处的包裹也转运到美国，这些行为都是未经授权的。</p><p>作为证据，华为还提供了联邦快递追踪记录的图像。</p><p>这就完全是不要碧莲了，亏它23号还出官方声明辟谣，说没这回事，结果被正主直接打脸。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-3f99cb09856221826e863208608fd190_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"510\" data-rawheight=\"649\" class=\"origin_image zh-lightbox-thumb\" width=\"510\" data-original=\"https://pic3.zhimg.com/v2-3f99cb09856221826e863208608fd190_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='510'%20height='649'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"510\" data-rawheight=\"649\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"510\" data-original=\"https://pic3.zhimg.com/v2-3f99cb09856221826e863208608fd190_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-3f99cb09856221826e863208608fd190_b.jpg\"></figure><p><br></p><p>我们不说别的，单是这种做法就违背了一个递送行业最基本的准则，你是美国企业不假，但你得先是一家做递送的美国企业，而且还是个国际性的集团公司，无视职责道德和商业信誉，让人们看清了到底是谁才可以操控本国的企业，是谁才能将本国企业当做武器去进攻别的国家。</p><p>再往美国最喜欢提的“国家安全”方面说，联邦快递这种做法就是实打实地威胁我国邮政安全，放在战时这就是敌对行为，负责人抓起来枪毙都没问题。</p><p>说句实话，自从特朗普政府开始对付华为起，世界人民对于美国的认知就一再被刷新下限，而在我国，公知多年用谎言辛苦编织的“自由灯塔”幻象，也被特朗普自己一把戳破。</p><p>什么自由贸易，什么平等交往，什么国际道义，什么契约精神，通通都是骗鬼的话。</p><p>如今，美国政府无所不用其极，以全方位、超限战的思维打击中国和中国企业，还凭舆论优势倒打一耙，栽赃我国企业配合政府作恶，其实只是印证了一句话而已：</p><p><b>一束光照进灯塔，灯塔里的肮脏龌龊被显现。于是，这束光便有了罪。</b></p><p></p><p></p>",
+                "comment_count": 194,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/80/v2-4572dc0c5c4eb279761f1ab06dbf0700_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-3f99cb09856221826e863208608fd190_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic4.zhimg.com/v2-4572dc0c5c4eb279761f1ab06dbf0700_200x112.jpg"
+            },
+            "attached_info": "CkUQBBoJMTU2OTUzNDc5IPfHs+cFKJoiMMIBQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDM0Njc3NTkycgk2OTc4NzQ4NDk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "海思现役从来没有看到同事们这么团结，大家都在努力做好手头的事情，没有诉求，没有借口，没有怨言，没有矛盾，18w人努力向前冲，有什么打不赢的？加班中位数，如下:整体来说，这次不仅仅是华为一家公司的困境，应该是中国崛起的必经之路吧。虽然压力很大，…",
+                "created_time": 1558798874,
+                "id": 695157852,
+                "voteup_count": 166,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "卡拉奇",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "狗一样求生存",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "qia-la-qi-95-10",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/87b5383eb2d67d6f0d723b3d6f1428a1",
+                    "badge": [],
+                    "id": "87b5383eb2d67d6f0d723b3d6f1428a1"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/695157852",
+                "question": {
+                    "title": "华为的胜算到底有多大？",
+                    "url": "http://www.zhihu.com/api/v4/questions/324953102",
+                    "created": 1558168061,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 324953102
+                },
+                "updated_time": 1559874173,
+                "content": "<p>海思现役</p><p>从来没有看到同事们这么团结，大家都在努力做好手头的事情，没有诉求，没有借口，没有怨言，没有矛盾，</p><p>18w人努力向前冲，有什么打不赢的？</p><p>加班中位数，如下:</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-5f5d0b028d9c90dc28ef0c67a02578dc_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1697\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-a0f88d9823a2c707bc586dd327687ff1_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-5f5d0b028d9c90dc28ef0c67a02578dc_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='1697'&gt;&lt;/svg&gt;\" data-rawwidth=\"1080\" data-rawheight=\"1697\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-a0f88d9823a2c707bc586dd327687ff1_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-5f5d0b028d9c90dc28ef0c67a02578dc_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-5f5d0b028d9c90dc28ef0c67a02578dc_b.jpg\"></figure><p>整体来说，这次不仅仅是华为一家公司的困境，应该是中国崛起的必经之路吧。虽然压力很大，但是大多是外在的，不是不能克服。</p><p>仔细回顾一下，我们的优势:</p><p>国民空前团结，万众一心，国内舆论没有受外媒影响。</p><p>国内的基础积累已经完成，无论封测，EDA，foundry都有了从0到1的突破。</p><p>国内芯片产业链整合很完整，几乎没有空白，如果晋华不被搞一下，国内几乎可以自产了。</p><p>国内市场巨大，占世界的30%左右。</p><p>总的来说，此次华为的封锁是中国芯片产业角逐世界芯片市场的号角而已。国内要技术有技术，要政策有政策，要市场有市场，要人心有人心，缺的是只是时间而已。</p><p>发令枪已经打响，10年后，美国芯片产业必将重创。</p><p>20190606 公司食堂门口 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-296d3c567880b9dd41ccd78a9e0a5eb5_b.jpg\" data-rawwidth=\"2735\" data-rawheight=\"1280\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-e01eeadc8d8fd484d130f010c92ae6ea_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"2735\" data-original=\"https://pic1.zhimg.com/v2-296d3c567880b9dd41ccd78a9e0a5eb5_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2735'%20height='1280'&gt;&lt;/svg&gt;\" data-rawwidth=\"2735\" data-rawheight=\"1280\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-e01eeadc8d8fd484d130f010c92ae6ea_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2735\" data-original=\"https://pic1.zhimg.com/v2-296d3c567880b9dd41ccd78a9e0a5eb5_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-296d3c567880b9dd41ccd78a9e0a5eb5_b.jpg\"></figure><p></p>",
+                "comment_count": 37,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/80/v2-f1c8e6c84926f7181c942b2df9d07da1_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-f738b1900c54c0fce1cf12def40f9ba2_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic4.zhimg.com/v2-f1c8e6c84926f7181c942b2df9d07da1_200x112.jpg"
+            },
+            "attached_info": "CkQQBBoJMTU2NDU5NDIzIJrEpecFKKYBMCVAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMzQ0ODc0NTlyCTY5NTE1Nzg1Mg=="
+        }
+    ]
+}

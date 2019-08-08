@@ -1,0 +1,246 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1474850720.12939",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1474117574.76&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1474117574.75902"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "这确实是一个方案，但有四个点还是转售绕不过去的，从弱到强依次为:1.转售肯定要被中间商加利润，抬高成本。即使中间商是自己人，但银行费用、单证费用、资金成本（如中兴直接拿货由于有过往交易记录可能付款方式上有比中间商更好的付款方式）等成本都会增…",
+                "created_time": 1524128601,
+                "id": 370891658,
+                "voteup_count": 20,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/01d9e29ae2ff6c4f973a5a7c7b93a73b_{size}.jpg",
+                    "badge": [],
+                    "name": "terry wang",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/9bcd5288975be0577da3cdaed756ed6a",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/01d9e29ae2ff6c4f973a5a7c7b93a73b_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "terry-wang-68",
+                    "id": "9bcd5288975be0577da3cdaed756ed6a"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370891658",
+                "question": {
+                    "title": "中兴（ZTE）被美国禁售，为何不偷梁换柱用别家公司进口再转售？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273902041",
+                    "created": 1524126883,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273902041
+                },
+                "updated_time": 1524131786,
+                "content": "<p>这确实是一个方案，但有四个点还是转售绕不过去的，从弱到强依次为:</p><p>1.转售肯定要被中间商加利润，抬高成本。即使中间商是自己人，但银行费用、单证费用、资金成本（如中兴直接拿货由于有过往交易记录可能付款方式上有比中间商更好的付款方式）等成本都会增加，这部分估计得有2%至少，多的话可能要4%-5%，当然对中兴体量这点儿成本不伤及根本;</p><p>2.中间商拿不到芯片商和操作系统的授权没有资格买，如关键的手机芯片高通，中间商要采购高通芯片得先和高通签个license协议（这协议主要是以后高通收提成费的依据），高通也不是随便就签，得调查验明对方的业务和产品，这关皮包公司就不好唬弄，签这个协议就要付高通上千万的授权购买费。以后高通每推出一款芯片还要再买平台的开发授权，每个芯片平台又是几百万的平台费，这些钱中兴可能都付过，换个转手公司就得重新交一遍; Google的安卓系统也是同理，要做国际市场就要和Google签协议，付费过认证，高通的芯片我了解的国内还是有些供应链公司已经和高通有协议有可以操作的空间，但Google的认证据我了解金额比高通收的少很多但比高通的审核更严，是绝不和非手机研发、生产、销售之外的企业签协议的，可找马甲操作的空间几乎没有。</p><p>3. 美国政府的监管风险，即便美企供应商都配合中兴通过中间商公司操作，但美国政府作为监管方一旦发现那家美企有间接给中兴供货的证据，以川普这种奸商性格还不把那家美企的竹杠敲的震天响，与其冒着无底线的被敲竹杠的政府监管风险，高通、Google这种大型美企恐怕不会为了中兴一个客户的小利而冒险。</p><p>4. 最后也是最大的风险就是中兴作为一家企业，他的行动都是商业行为，是要和各个市场对手竞争的，如果中兴中间用马甲转买，中兴商业竞争对手举报中兴中间商和供应商的积极性可能比美国政府自己调查还要高，到时候都不用FBI收集证据，除非中兴只在中国卖而不到英美市场去，不然总能找到逮着罚的机会。</p><p>当然这里不讨论中兴另起炉灶完全以一家新公司面目去经营，但中兴作为一个上市公司这样要舍弃更多，基本上等同于破产重组了。只要中兴这块牌子继续用，美国不解除这个制裁，那就存在上面的几个风险，到时候绑手绑脚的在海外市场竞争能撑下来的机会有多大就要好好评估了。</p>",
+                "comment_count": 1,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc0OTU3Njcg2bbh1gUoFDABQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTQyMzQxcgkzNzA4OTE2NTg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "对不同企业有不同的影响，大体上是利民政策。说个不同的角度：系统！！！这两周做内部系统、后台产品的兄弟们扎心了吧……5/1那天肿么切税率? 已下单未开票如何办? 已开票发生红票如何办?1张订单2个税率如何办?存货价值你还能准确分离进项税嘛?有没有满满的…",
+                "created_time": 1522764982,
+                "id": 357827699,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/c009fc6f27aac51a1237f03f03022cf6_{size}.jpg",
+                    "badge": [],
+                    "name": "终极魔法师",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/abb9b54838e6b6fe401dc98011e7d55f",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "B2B，大宗电商，产品技术，创业投资",
+                    "avatar_url": "https://pic3.zhimg.com/50/c009fc6f27aac51a1237f03f03022cf6_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "zhangxk",
+                    "id": "abb9b54838e6b6fe401dc98011e7d55f"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/357827699",
+                "question": {
+                    "title": "如何评价制造业增值税从17%调整到16%？",
+                    "url": "http://www.zhihu.com/api/v4/questions/270304736",
+                    "created": 1522282714,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 270304736
+                },
+                "updated_time": 1522764982,
+                "content": "对不同企业有不同的影响，大体上是利民政策。说个不同的角度：系统！！！这两周做内部系统、后台产品的兄弟们扎心了吧……5/1那天肿么切税率? 已下单未开票如何办? 已开票发生红票如何办?1张订单2个税率如何办?存货价值你还能准确分离进项税嘛?有没有满满的忧伤?",
+                "comment_count": 1,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUxMjAzNjMgtpmO1gUoBzABQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyMzQyOTU1cgkzNTc4Mjc2OTk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "转个朋友圈吧： 一个2b想装逼没准备好就问马云问题……槽点无数: - 我们用中文，这样节省时间（难道英语和日语不溜？），罗里吧嗦不直接说问题 - 主办方打脸说要用英文日文，这样同译才能工作 - 我以为他会说英语，结果用日文装，这日语也是醉了，结结巴巴…",
+                "created_time": 1524652751,
+                "id": 375996517,
+                "voteup_count": 10,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "e5b868cc062879acd4969a7b5c4bec26"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/375996517",
+                "question": {
+                    "title": "如何评价马云在早稻田大学的演讲？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274700177",
+                    "created": 1524645161,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274700177
+                },
+                "updated_time": 1524652751,
+                "content": "转个朋友圈吧：<br><br>一个2b想装逼没准备好就问马云问题……槽点无数:<br>- 我们用中文，这样节省时间（难道英语和日语不溜？），罗里吧嗦不直接说问题<br>- 主办方打脸说要用英文日文，这样同译才能工作<br>- 我以为他会说英语，结果用日文装，这日语也是醉了，结结巴巴半天表述不出意思，突然理解为什么一上来就中文<br>- 然后只问日本工作不好找，问马云有没有什么计划和办法？（what?这种水平和眼界，是得担心下这个问题)",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTg0Mjk4MDAgz7WB1wUoCjAFQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMzIwMTQ1cgkzNzU5OTY1MTc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523671549,
+                "is_labeled": false,
+                "excerpt": "<b>美国重返TPP颇有“围魏救赵”之意</b>枯木 据美媒报道， 12日美国总统特朗普已要求白宫首席经济和贸易顾问探索重新加入《跨太平洋伙伴关系协定》 (TPP)的可能，而在去年1月23日，特朗普上台不到一周，就正式签署行政命令退出了这项协定，从而兑现他的竞选承诺，…",
+                "excerpt_title": "",
+                "id": 35664130,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-6ae157e6e741a23496da73c0c4b9840c_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-99b1af3cf784ead0206d22759257cf9c_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-f29d08a320b83b03140c9d9d45592c3d_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-ee8c9bba0a439ea41511eed98a0cf873_{size}.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "法定代表人"
+                        }
+                    ],
+                    "name": "榆木斋",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/7fd103b8c96f36815741d0f3209e5ec2",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "胸中元自有丘壑，故作老木蟠风霜",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-ee8c9bba0a439ea41511eed98a0cf873_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "yu-mu-zhai-19",
+                    "id": "7fd103b8c96f36815741d0f3209e5ec2"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35664130",
+                "title": "美国重返TPP颇有“围魏救赵”之意",
+                "created": 1523671549,
+                "content": "<p><b>美国重返TPP颇有“围魏救赵”之意</b></p><p>枯木</p><hr/><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-99b1af3cf784ead0206d22759257cf9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"408\" data-rawheight=\"270\" class=\"content_image\" width=\"408\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>据美媒报道， 12日美国总统特朗普已要求白宫首席经济和贸易顾问探索重新加入《跨太平洋伙伴关系协定》 (TPP)的可能，而在去年1月23日，特朗普上台不到一周，就正式签署行政命令退出了这项协定，从而兑现他的竞选承诺，如今“吃回头草”被不少媒体称之为特朗普又一“打脸行为”。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-f29d08a320b83b03140c9d9d45592c3d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"690\" data-rawheight=\"390\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic2.zhimg.com/v2-f29d08a320b83b03140c9d9d45592c3d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普从去年1月20日宣誓任职美国第45任总统，成为全球唯一一个超级大国的“掌门人”以来，除了理所当然的政经版面头条外，还是娱乐版面的“超级网红”，从“特朗普式握手”、“间谍门”、“推特大V”，到对8个国家实施旅游禁令、退出《巴黎协定》、威胁摧毁朝鲜、承认耶路撒冷为以色列首都等等，狠话无数，也食言甚多，一系列虚虚实实的口无遮拦的行为，被有些美媒惊呼 “重新定义了总统职位概念”，可以说风头无两。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-478451034d6c32e69bcbc26082ab4704_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-478451034d6c32e69bcbc26082ab4704_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普的鲜明个性，异样行径，如此“任性”，如此“嚣张”，不但国际上受到广泛指责，而且让不少以前下属反目成仇，纷纷出书爆料，经常被欧洲以及其他国家媒体调侃，在国内就被不少网友制作成搞笑视频和表情包，调侃恶搞，一些媒体也是对其进行讽刺和挖苦，极尽能事。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a642e1dcb833d9c48519e7218e1809b3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"607\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-a642e1dcb833d9c48519e7218e1809b3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>就拿总统班底来说，特朗普上任一年多来，白宫幕僚更是犹如走马灯似的更换，刚上任不久，2月13日，前国家安全事务助理迈克尔•弗林去；7月21日，前白宫发言人斯派塞辞职；白宫幕僚长雷恩斯•普利巴斯(Reince Priebus) 7月28日下台；而7月31日上任的白宫通讯联络办公室主任斯卡拉穆奇在10天后就被炒；白宫前首席战略顾问班农也在8月18日不得不离开白宫；圣诞节前夕，包括白宫国内政策委员会副主任温弗里、美国国家经济委员会(NEC)副主席杰里米•卡茨、白宫副国家安全顾问鲍威尔以及白宫公共关系事务处宣传总监纽曼等人宣布辞职；2018年2月13日，美国白宫再起迎来重大调整，特朗普辞退现任白宫国务卿蒂勒森，美国国家安全顾问迈克尔•弗林(Michael Flynn)，在位23天后于2月13日下台；最为可怜的是美国联邦调查局（FBI）副局长麦凯布还有24小时退休，在3月16日深夜被特朗普炒了鱿鱼。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1ff1cbc496a88f5da1da98fd1b22d2c6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"607\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-1ff1cbc496a88f5da1da98fd1b22d2c6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>可以这样说，白宫骨干幕僚除了总统和副总统仍在，其他基本上都被换了一遍，特朗普成了“一个人在战斗”。再加上刚上任就遭到女子全球多场抗议，一年来同时卷入三个女人的婚外情丑闻诉讼，大骂非法移民是“罪犯”和“强奸犯”，广受非议，用焦头烂额来形容也不不为过。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-ff54166b135b737fe68dd85a9d3e5e4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"526\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"526\" data-original=\"https://pic2.zhimg.com/v2-ff54166b135b737fe68dd85a9d3e5e4d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>那么，特朗普究竟是一个什么人，其上任一年来政绩如何？我们经常看到的特朗普“焦头烂额”以及“频频打脸”是不是他的真实面目？究竟特朗普是一个口无遮拦的“疯子”，亦或是一个精明的“商人政客”？虽然不能一概而论，可是，大多都是表面现象，并非其真才实能，我们需要透过表面看本质。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-add673aba7d94a7bda2762bd36e3632d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-add673aba7d94a7bda2762bd36e3632d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普是一个没有政治经验的成功商人，不过话说回来，白宫从来不缺乏老牌的政客以及上层精英，以往的总统宝座角逐都是在这些人群中产生，能够从美国大选中逆势而上，执掌权柄，自然有其过人之处，其关键是特朗普抓住中下阶层的诉求，从而脱颖而出。因此，特朗普上任后为了信守承诺，保住票仓和支持率，自然会以这些阶层的利益为优先。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-dd2b06d910553a1af4c4b4c0840953d1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-dd2b06d910553a1af4c4b4c0840953d1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普首先是个商人，在商场鏖战多年，长袖善舞，言不由衷是商人本色，其商人特质决定了一切以“利”为重，以前是公司利益，当上总统后就是美国利益，为了获取利益，一切言行都是手段，为了利益，可以萝卜加大棒，为了利益，可以制裁与施惠。至于政治军事，都是为了经济牟利的工具，因此，特朗普完全抛开了以前的政治固有套路，经常出现“哗众取宠”的举动盖不为过。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a6146f9ba4cce5daaec0a214eb6e1396_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"530\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb\" width=\"530\" data-original=\"https://pic3.zhimg.com/v2-a6146f9ba4cce5daaec0a214eb6e1396_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-2b46b6d93b47f572e49f845e112b06c2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"583\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-2b46b6d93b47f572e49f845e112b06c2_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>平心而论，特朗普上任一年来，为美国人民还是做了不少好事，特朗普上任以来，他利用美国的霸权地位，强推美国优先、引导资金回流、努力振兴制造业，尤其是去年12月20日主导通过30年来美国最大规模减税法案，将企业所得税税率将从现在的35％降至21％；对美国企业留存海外的利润一次性征税，其中现金利润的税率为15.5％；推行“属地制”征税原则；降低个人所得税；提高美国企业竞争力，极大地刺激了美国经济。据沃顿商学院的预测显示，未来十年，减税将提高美国经济增速0.06至0.12个百分点。美国的减税举动的外溢效应，自然招致美国一些贸易伙伴的反对，然而，反对无益于经济，只好跟风，欧盟、英国、日本等组织和国家纷纷出台减税措施，以应对资本外流。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-59d88d880cb393634e1c5a2d96ca50fb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"251\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-59d88d880cb393634e1c5a2d96ca50fb_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>美国失业率</p><p>特朗普上任一年来，美国失业率为4.1%，是十七年来最低数字；其中，非裔美国人失业率是6.8%，是有统计的45年以来的最低水平；美国去年第三季度年度化增长率为3.2%，蓝领工人工资涨幅超过其他群体；美国去年的经济增长为2.3%，比特朗普上任前的2016年增长了1.6%。尤其是2018年1月18月，道琼斯指数收盘首次冲破26000点。这些，有些专家学者认为不应该归功于特朗普，可是，哪怕你说运气好也罢，政绩就在那里，谁也驳斥不了，而且民调虽然两极分化，然而民众支持率一直都在37%左右，虽然不高但十分稳定，这也看出特朗普铁杆拥趸还是有很多。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-186777cdca86af1f723559ef8e671843_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"702\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-186777cdca86af1f723559ef8e671843_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普抛开以往的一些政治套路，和一些传统盟友翻脸，也是利字当头，就拿日本来说，这个美国在亚洲的“跟班小弟”，以往两国打得火热，而特朗普一上任，就否决了TPP，主要是在过去几年的谈判中，美国没有得到更多的实惠，在劳工和农产品等一系列贸易谈判中受到日本等国抵制，特朗普自然毫不手软，祭出大棒，使得TPP成了11个小兄弟联盟。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-97cd0429ac3d21813c909b76673e5446_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"478\" data-rawheight=\"308\" class=\"origin_image zh-lightbox-thumb\" width=\"478\" data-original=\"https://pic3.zhimg.com/v2-97cd0429ac3d21813c909b76673e5446_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而对中国，更是软硬兼施，时而热情似火，让外孙女唱中文歌；时而抛出中国威胁论，出言不逊。最近更是磨刀霍霍，祭出对中国产品额外征收1000亿美元的关税，挑起贸易战争端，貌似贸易战一发而不可收拾，妄图想让中国同日本一样屈服。我方一方面对等征税，针锋相对，一方面呼吁美国慎重考虑后果，避免两败俱伤。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-beeaadb4c5d19b98c17d8e53b6c9c655_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"556\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb\" width=\"556\" data-original=\"https://pic2.zhimg.com/v2-beeaadb4c5d19b98c17d8e53b6c9c655_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，我们忽略了特朗普的商人本性，特朗普既然敢祭出征税大旗，自然是经过周密考虑，沙盘演练，经济模型测算，不会像某些媒体所说的色厉内荏、外强中干，毕竟，那些白宫智囊团、世界一流的经济研究所不是吃白饭的，“杀人一万，自损八千”并非我等才懂，比如贸易战刚一触发，当天中美资本市场合计蒸发10.5万亿元（A股2.17万亿，港股1.02万亿，美股7.31万亿）。美国进行一切施压的目的，仍然是获取更多的利益，降低贸易逆差，损失自然在合理范围。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-6d3538e37034f44c7f314c1f66b70525_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"483\" class=\"origin_image zh-lightbox-thumb\" width=\"704\" data-original=\"https://pic2.zhimg.com/v2-6d3538e37034f44c7f314c1f66b70525_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>不过，特朗普智囊团也是忽视了中国民众的决心以及中国人的韧性，想当年，我们一穷二白，还帮助朝鲜抵抗侵略者，多少人血洒疆场；我们三年困难灾害，饿死无数，依然是咬紧牙关还清外债。如今面对这点困难，咬咬牙自然会挺过去，要知道，世界的主流依然是经济与和平，经济上没有永远的敌人，只有永远的利益。因此，最终还是会回到谈判桌上，关键是，看谁挺得住，谁更有耐性。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-176d0d504886ce9b60ef4f56d98840b9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-176d0d504886ce9b60ef4f56d98840b9_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>如此一来，特朗普忽然转向APP的目的就会一清二楚，首先目的是用大棒恐吓日本，迫使日本臣服，在日本等国的强硬坚持下，把TPP搞成“跛脚联盟”，降低日本威信，挫伤他国积极性；进一步在美国对进口钢铝征收高关税的时候留了一手，没将日本列入豁免国家，如今重新审视TPP，自然是“胡萝卜”，让日本闻闻香味，要想“吃糖”，就要降低期望值，做出更多的让步。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a38358352b850a1d1064563603f1ff43_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-a38358352b850a1d1064563603f1ff43_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>第二个目的，就是对中国使用<b>“围魏救赵”</b>策略，给中国施压。贸易战一触即发，双方都公布了加税详细清单，然而各有偏重，针对性不一样。中国的应对大额产商品主要是农产品大豆，如果美国进入TPP，农产品没有关税限制，自然可以长驱直入，虽然日本等国需求没有中国多，毕竟可以增加出口市场，扩大贸易，减缓国内农业行业的压力，从而将中国应对措施部分化解。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-0eae20c7365898062b8b7bb7b4386807_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"422\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic4.zhimg.com/v2-0eae20c7365898062b8b7bb7b4386807_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>看得出，特朗普放出重新考虑TPP，一举多得，进可以在同日本等国谈判中更多获利，对中国进行惩罚征税，从而减缓票仓压力，获得国内支持；退可以在同我方谈判桌上增添砝码，以TPP要挟，从而获利。这依然是特朗普的一贯表现，作风夸张，行事多变，貌似疯癫，实则内敛，翻手为云，覆手为雨，作为一个几十年商场纵横的风云人物，对商战的嗅觉极为敏锐，谈判手段极多，底牌不少，自然不能小觑。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-477e2d045431899c59c35718641b7e93_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"386\" data-rawheight=\"386\" class=\"content_image\" width=\"386\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2018-4-14榆木斋</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b7ecd5393ffd3dc516ea0f9427eb6f4c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"71\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-b7ecd5393ffd3dc516ea0f9427eb6f4c_r.jpg\"/></figure><p></p><p></p><p></p>",
+                "comment_count": 2,
+                "image_url": "https://pic4.zhimg.com/50/v2-6ae157e6e741a23496da73c0c4b9840c_hd.jpg",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjQ1NTk5OSD9w8XWBSgCMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NjY0MTMw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "最新消息: 原文:估计不会，看下图，另外一家知名台湾企业的通告截图：停止向中兴出货。由于台湾厂有很多专利或者知识产权购买自美国，可能会被美国视为间接向中兴出口产品，因此台厂可能不愿意得罪美国。",
+                "created_time": 1524217068,
+                "id": 371789631,
+                "voteup_count": 11,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "079f29b596c7a0cf4423fbcf21083acb"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/371789631",
+                "question": {
+                    "title": "联发科是否会因为中兴被制裁而给中兴提供芯片？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273925154",
+                    "created": 1524137980,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273925154
+                },
+                "updated_time": 1524829961,
+                "content": "<p>最新消息:</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-74be9069c1bbab127361bcd5f3c58453_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1920\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-74be9069c1bbab127361bcd5f3c58453_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='1920'&gt;&lt;/svg&gt;\" data-rawwidth=\"1080\" data-rawheight=\"1920\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-74be9069c1bbab127361bcd5f3c58453_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-74be9069c1bbab127361bcd5f3c58453_b.jpg\"></figure><p><br></p><p><br></p><p>原文:</p><p>估计不会，看下图，另外一家知名台湾企业的通告截图：停止向中兴出货。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-3b36a1f2f8e25475432c40e99db5fabc_b.jpg\" data-rawwidth=\"672\" data-rawheight=\"72\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"672\" data-original=\"https://pic2.zhimg.com/v2-3b36a1f2f8e25475432c40e99db5fabc_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='672'%20height='72'&gt;&lt;/svg&gt;\" data-rawwidth=\"672\" data-rawheight=\"72\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"672\" data-original=\"https://pic2.zhimg.com/v2-3b36a1f2f8e25475432c40e99db5fabc_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-3b36a1f2f8e25475432c40e99db5fabc_b.jpg\"></figure><p>由于台湾厂有很多专利或者知识产权购买自美国，可能会被美国视为间接向中兴出口产品，因此台厂可能不愿意得罪美国。</p>",
+                "comment_count": 4,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-74be9069c1bbab127361bcd5f3c58453_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-74be9069c1bbab127361bcd5f3c58453_200x112.jpg"
+            },
+            "attached_info": "CkIQBBoIOTc2NTkyMDQg7Onm1gUoCzAEQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTQ3NTAwcgkzNzE3ODk2MzE="
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1471916296.29802",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1471117812.97&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1471117812.97129"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "首先要明白一件事，以色列和美国谁是主谁是次。阴谋论者说犹太人控制美国，所以以色列是主，这压根就是毫无依据地胡说八道。以色列建国是英法一力促成。因此，以色列开始的角色是英法走狗。1956年，纳赛尔宣布从英法手中收回运河，从而引发苏伊士运河战争，…",
+                "created_time": 1526375374,
+                "id": 392322740,
+                "voteup_count": 75,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "西西河的西瓜子",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/6bc1cdf1691f3280cf650d45d4dffc59",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "教书匠",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xi-gua-zi-6-89",
+                    "id": "6bc1cdf1691f3280cf650d45d4dffc59"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/392322740",
+                "question": {
+                    "title": "如何看待美国将大使馆迁到耶路撒冷？",
+                    "url": "http://www.zhihu.com/api/v4/questions/277171858",
+                    "created": 1526304426,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 277171858
+                },
+                "updated_time": 1526375374,
+                "content": "<p>首先要明白一件事，以色列和美国谁是主谁是次。阴谋论者说犹太人控制美国，所以以色列是主，这压根就是毫无依据地胡说八道。</p><p>以色列建国是英法一力促成。因此，以色列开始的角色是英法走狗。1956年，纳赛尔宣布从英法手中收回运河，从而引发苏伊士运河战争，英法伙同以色列进攻埃及，目的就是为了夺回苏伊士运河主导权。这时候，以色列就是英法走狗。</p><p>在这次战争中，美国威胁英国要中断援助，苏联威胁英国要核平伦敦，苏联跟叙利亚签署条约，把武装力量部署到了以色列隔壁。中国则在北京发动了百万人大游行，声援阿拉伯人民的正义行动。在三大强国的压力下，英法及其走狗以色列军队灰溜溜退回去了。</p><p>从此以色列发现自己的老大是个笨蛋，就此投靠了美国当马仔。</p><p>梳理完了历史，我们便可以直接指出此次事件的实质，那就是以色列要用自己的血，为美国佬的中东战略出力挡枪。</p><p>这件事必然挑起巴以问题激化，进而引发中东火药桶再次爆炸，这个局面，正是美国所希望的。在美军退出中东的局面下，美国可以以此平衡任何大国强权趁虚而入，取代美国主导中东事务的企图。</p>",
+                "comment_count": 22,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAxNDAwMzY1IM7H6tcFKEswFkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzg2OTM5MXIJMzkyMzIyNzQw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "谢邀。我另一个回答，可以用在这个地方。<a href=\"https://www.zhihu.com/question/62742979/answer/352728000\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">如何看待六小龄童痛批周星驰版西游：颠倒是非侮辱原著，应该向悟空道歉！？</a>中国历史上有不少这样的人物，他们满怀理想，有行动力，业务水平也很高，于是他们认为他们要站在比一般人高的地方，指导大家来做事。古代儒…",
+                "created_time": 1523151996,
+                "id": 361229451,
+                "voteup_count": 28,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "张居正",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/010436c7e2182c53ffc341c0126bae6f",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "业余写小说，黑色幽默为主。",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "zhang-ju-zheng-36",
+                    "id": "010436c7e2182c53ffc341c0126bae6f"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/361229451",
+                "question": {
+                    "title": "怎么看待专家提议削减好莱坞电影进口份额，《复仇者联盟3》首当其冲?",
+                    "url": "http://www.zhihu.com/api/v4/questions/271437625",
+                    "created": 1523115535,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271437625
+                },
+                "updated_time": 1523151996,
+                "content": "<p>谢邀。我另一个回答，可以用在这个地方。</p><a href=\"https://www.zhihu.com/question/62742979/answer/352728000\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">如何看待六小龄童痛批周星驰版西游：颠倒是非侮辱原著，应该向悟空道歉！？</a><p>中国历史上有不少这样的人物，他们满怀理想，有行动力，业务水平也很高，于是他们认为他们要站在比一般人高的地方，指导大家来做事。</p><p>古代儒家思想讲，民为贵社稷次之君为轻，同时也讲，君君臣臣父父子子，这不是矛盾吗，一边讲普通老百姓最重要，一边讲君父最重要。其实不矛盾，我们现在讲的儒家思想已经是经过改造的了，他实际的含义是，在等级体系之下，君父地位天然比臣子地位高，权力大，同时君父要爱护臣子。他是一种在地位权力不均等的情况下，劝诫统治者以较高的道德水平，对被统治者施行仁政，是一种施舍赠予。民国以后平权思想逐渐深入人心，但是文化并没有彻底根除。</p><p>这位专家，我不知道他是谁，但是我不认为他是万达影业老总。在中国人的道德观念里，金钱是可恶的，商人是没有政治地位的，他们的权利和义务，必须经由那些道德水平高尚的，心怀忧国忧民的统治者们来决定，偏偏当事人不能出来主张自己的权利。对于统治者来说，老百姓是愚昧的，是偏狭的，只考虑自己的利益，不能顾全局，不能把权利交给他们，而是要由统治者们来全盘考虑，至于说老百姓受到点损失，只是为了维持大局做的必要牺牲，老百姓必须要有毫不利己专门利人的觉悟。</p>",
+                "comment_count": 4,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTU3MzkxNTcg/Oil1gUoHDAEQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTk0MzY4cgkzNjEyMjk0NTE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524053157,
+                "is_labeled": false,
+                "excerpt": "点击上方▲蓝字关注我们，开始寻找<a href=\"http://aihehuo.com/blog/1608\">合伙人</a>！这一夜，中兴无眠。站在中美贸易摩擦的风口浪尖，中兴再次遭到美国商务部的制裁，长达7年的半导体元器件禁运对于依赖国外芯片的中兴来说，无疑是晴天霹雳！ 尽管中兴通讯在全球通信设备占10%的市场份额，在中国大…",
+                "excerpt_title": "",
+                "id": 35841160,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-c2e41d03cb62e800986a8338293ea016_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-5e651a4249cf84443b090321af81c6ad_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-9d977d1ec618c451c7b38d921a2d271e_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-7e9b1f2646bd4cd56c9ec8ab0032466c_{size}.jpg",
+                    "badge": [],
+                    "name": "石吟",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "电子商务"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/45ced2d022f654788673937dc835f131",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "<a href=\"https://link.zhihu.com/?target=http%3A//aihehuo.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">aihehuo.com</span><span class=\"invisible\"></span></a> 爱合伙「创业找合伙人平台」运营负责人",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-7e9b1f2646bd4cd56c9ec8ab0032466c_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "shi-yin-aihehuo",
+                    "id": "45ced2d022f654788673937dc835f131"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35841160",
+                "title": "7年芯片禁运刺痛中兴软肋！半导体产业究竟何时能够突围？",
+                "created": 1524053110,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7db98c3294284f69da8b007ac2fd752b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"80\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-7db98c3294284f69da8b007ac2fd752b_r.jpg\"/></figure><blockquote>点击上方▲蓝字关注我们，开始寻找<a href=\"https://link.zhihu.com/?target=http%3A//aihehuo.com/blog/1608\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">合伙人</a>！</blockquote><p>这一夜，中兴无眠。</p><p>站在中美贸易摩擦的风口浪尖，中兴再次遭到美国商务部的制裁，长达7年的半导体元器件禁运对于依赖国外芯片的中兴来说，无疑是晴天霹雳！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-5e651a4249cf84443b090321af81c6ad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-5e651a4249cf84443b090321af81c6ad_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>尽管中兴通讯在全球通信设备占10%的市场份额，在中国大陆的市场份额甚至超过了30%，然而在最关键的核心元器件智能芯片领域始终无法实现自给自足，对外贸易依存度占比8成而其中大部分来自美国，毫无疑问，在5G转型时代的关键时期，7年缺芯之痛给中兴造成的打击是致命的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>更棘手的是，目前核心元器件整体替代性较弱，某些零部件还可以找其他供应商「江湖救急」，但是像智能芯片这类的高科技元器件几乎很难找到其他的替代供应商。不得不说，这次严厉的制裁深深刺痛了中兴的软肋，如果短期内问题得不到解决，受损失的不仅是中兴，更是整个通信行业。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>诚信惩罚还是成心刁难？</h2><p>这样的结果既是意料之外也是情理之中。早在前年中兴就因为违反美国的出口管制政策遭到制裁，只不过当时的说法是出口限制，经过和解协商，支付高达8.9亿美元罚金后，事情才告一段落，但这一事件使得中兴内部也元气大伤。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9d977d1ec618c451c7b38d921a2d271e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic3.zhimg.com/v2-9d977d1ec618c451c7b38d921a2d271e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>直到昨天，美国商务部旧事重提。根据当时的和解协议约定，中兴承诺除缴纳罚金之外，还需要解除4名高级雇员的职务，并通过减少奖金或处罚等方式处罚35名员工，但中兴在3月份承认只解雇了4名高级雇员，并未对35名员工进行惩罚，因为这一「诚信」问题彻底激怒了美国商务部，才导致如今这样的局面。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不可否认，中兴在处理问题的时候的确有不当的地方，但对其实施7年封杀未免有点小题大做了。毕竟员工只是服从命令，该承担责任的高管该炒的炒了，该交的罚金也交了，美国是真的执着于中兴是否处罚了35名员工这一「诚信」问题上还是另有隐情？很明显，美国商务部是「醉翁之意不在酒」，名为因诚信问题惩罚中兴，实则给中国半导体产业一个「下马威」，增加中美贸易谈判的筹码。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-07846773bdd378cd353ac40aa9239cc1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic2.zhimg.com/v2-07846773bdd378cd353ac40aa9239cc1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>当然还有一个重要的原因，就是5G通信技术的博弈。众所周知，在5G技术以前欧美国家牢牢掌控3G、4G技术的话语权，直到2016年底在3GPPRAN第187次会议关于5G短码方案讨论中，华为的方案获得行业标准认可。这意味着未来在5G、6G甚至是7G通信技术上，中国企业的话语权越来越重要，这对于以高科技行业为主导的美国来说显然是奇耻大辱，于是先下手为强，打击中国通信领域巨头争取一定优势。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，不管是中美贸易摩擦还是率先发难中兴，美国终极目标是遏制中国制造2025，尤其是高端制造产业。半导体产业涉及到的智能芯片，元器件、光通信等大多数领域都是美国的优势产业，而半导体产业对中国来说既是至关重要又不能自给自足的产业，惩罚中兴不过是一个借口罢了，就算不是中兴也会是其他中国企业，恰好中兴撞在「枪口」上，封杀顺理成章。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>科技冷战下，中国缺芯更痛「芯」</h2><p>正所谓「伤敌一千自损八百」，中兴被制裁受伤的还有一众美国元器件供应商们，损失了一大客户不说，更重要的是对整个行业未来发展前景的担忧。要是中兴制裁事件升级演变成整个中国市场的元器件禁运，这该如何是好？尽管发生的可能性微乎其微，但目前中美贸易摩擦愈演愈烈，谁也不能保证未来会发生什么。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-555e6a9a869b63e14042cb807cc9a17d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"622\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb\" width=\"622\" data-original=\"https://pic2.zhimg.com/v2-555e6a9a869b63e14042cb807cc9a17d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这些年，全球芯片的技术一直牢牢掌握在三星、海力士，美光等科技巨头的手里，美国对高科技领域的技术封锁是路人皆知的，中国企业连和海外优秀的高科技公司进行技术合作的机会都很渺茫，更别说海外并购美国高科技公司了。在中国的半导体产业链中，一些技术含量很高的关键元器件几乎完全依赖美国供应商，例如通信基站，一颗芯片足以决定生死。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然国产芯片这两年涌现出像华为海思和小米坚果这样优秀的本土芯片供应商，在某些领域确实也取得了一些长足的进步，但放眼整个半导体产业链看去，中国芯片企业整体的薄弱程度可见一斑。半导体产业突围迫在眉睫，国产芯片要实现自主化还须软着陆，既要认清和欧美国家的技术差距，也要韬光养晦，坚持创新驱动发展，争取早日实现国产芯片自给自足，摆脱对欧美国家的依赖。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4887f455c66404a2786d4324bc2fe489_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"706\" data-rawheight=\"377\" class=\"origin_image zh-lightbox-thumb\" width=\"706\" data-original=\"https://pic2.zhimg.com/v2-4887f455c66404a2786d4324bc2fe489_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>换一个角度来思考，美国制裁中兴既是坏事也是好事，也许中兴短期内会承受巨大的损失，通信半导体行业会受到一波大冲击，但是长痛不如短痛，7年时间，我相信国产芯片将会以一匹黑马的姿态崭露头角，芯强则国强！「那些杀不死我们的，必将使我们更强大！」</p><p class=\"ztext-empty-paragraph\"><br/></p><p>半导体产业突围之日，就是中国制造2025崛起之时！</p><p></p>",
+                "comment_count": 13,
+                "image_url": "https://pic3.zhimg.com/50/v2-c2e41d03cb62e800986a8338293ea016_hd.jpg",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUyNjkwMSD26NzWBSgEMA1AAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODQxMTYw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526338455,
+                "is_labeled": false,
+                "excerpt": "<i>号称马桶上的皇帝溥仪也有迷妹，这是真的。这姑娘是婉容的表妹，叫完颜立童记，汉名叫王敏彤，是我见过晚清贵族女子照片里最美的（那时还没有修图软件）。有兴趣的亲可以去网上搜搜这位格格的照片，那才叫倾国倾城。如此高颜值的格格却因为迷恋溥仪一生未嫁…</i>",
+                "excerpt_title": "",
+                "id": 36853149,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-d69e5bfb1a0bd381fbe353af2e61ab9e_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-380d392a8a86544198297926779cfff8_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-e83c2cac809be5d0779b2dafd4f4a1dc_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "user_type": "people",
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36853149",
+                "title": "中兴风雨过后，市场必定晴空万里",
+                "created": 1526338455,
+                "content": "<figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-8764cdd9641c5f894bd716a049a4c3bb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p><i>号称马桶上的皇帝溥仪也有迷妹，这是真的。这姑娘是婉容的表妹，叫完颜立童记，汉名叫王敏彤，是我见过晚清贵族女子照片里最美的（那时还没有修图软件）。有兴趣的亲可以去网上搜搜这位格格的照片，那才叫倾国倾城。如此高颜值的格格却因为迷恋溥仪一生未嫁，然而溥仪自己却烦她到不行，即使皇帝能纳三妻四妾也发誓绝不娶她。王敏彤在家里排行老大，是长女，自然接受很好的礼仪教育。当时溥仪大婚的时候，她只有9岁。按照旗人拼爹拼祖宗的习俗，王敏彤其实比婉容的身份和血统要高贵，但人家已经是皇后了，她做妃子，家长是不同意的。据说曾经一次亲戚聚会，表格溥仪喝多了乱说话，王敏彤就误以为表哥喜欢自己，少女的春心就这样被撩拨了。别人眼里的皇帝，而对于她而言不过是邻家的大哥，她一生的所爱。</i></p><p>我昨天文章<a href=\"https://zhuanlan.zhihu.com/p/36808732\" class=\"internal\">富士康来了，喜忧参半</a>里关于新能源车的观点的第2条，有的小伙伴貌似没太理解，我就再明确一下。尽管博士去看了日本油电混合动力的车“表情凝重”但我依旧不认为我们会花钱去引进油电混合动力。写这些的是记者，而不是领导自己站出来说，都是臆断。我们能直接去发展纯电动的，就没必要花专利费在油电混合上，尽管他们确实在这一领域有优势。比如我家邻居有不少都买了特斯拉，我现在住的小区没有充电桩可以按，他们就去旁边的商场充（或是自己公司的地库），丝毫不影响使用。</p><p>大家有心思琢磨油电混合这种过渡技术，就是因为担心快充和续航能力。首先对于电池组的寿命保养而言，慢充是最好的，快充是一种应急需求。随着充电桩的普及和三元锂电技术的提升，这一问题可以得到有效改善；其次，中国高铁已经覆盖到50万人口的地区，未来家用轿车更多的是市内短途需求而不是自驾游需求。特殊需求的车辆，完全可以依靠租赁来满足，因此我不觉得续航能力是最重要的。而现在媒体过分的强调了这些，即使这样这些“薄弱”环节也会随着整个行业水平的提升而提高。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-380d392a8a86544198297926779cfff8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"556\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-380d392a8a86544198297926779cfff8_r.jpg\"/></figure><p>真正让中方惊叹的是，日本的的现代化程度。国人还陶醉在我们在经济总量上超越日本，而没能正视日本的工业基础、创新能力的优势。菠菜曾经去过一个日本三线小城市，叫姬路，估计很多国人都没听说过（我是去看姬路城堡的）。那里虽说比不上东京和大阪，但与日本一线城市之间的生活差异没有那么悬殊。坐JR很方便就能到达，另外公交和大城市一样，准点到你难以相信。姬路也有共享单车，还是政府出资搞的，使用很方便。给我的感觉，日本地域之间的经济差异不像国内那么大，国内的城镇化建设相对日韩来比还是落后的。</p><p>日本最可怕的不是油电混合技术，而是日本整体社会是高度文明和发达的。日本早就不是欧美的代工厂，他们已经从打工拿订单到自己研发制造，手里握着不少核心专利。而且其辉煌的80年代早就了坚实的工业基础，这都是值得我们学习的东西。目前日本老龄化社会严重，但国民人均比咱们要富裕的多，很高兴看到领导层已经能正视到差距了。感谢这次中美毛衣战，打醒了精英阶层，也打醒了民众。</p><p>回过头来说盘面，如我昨天预想的一样，富士通并没有给市场带来灾难性的冲击，今天还是收红的。今天最大的利好无外乎特朗普发的推特，说会尽快结局中兴的问题。他到底是不是好心帮助减少我国失业人口不知道（我认为更多的是保中兴救美国自己的产业，此处不展开了），但就中兴这种通讯设备巨头能重新复业绝对是对于市场的重大利好。因为不仅是芯片产业，而是整个受毛衣战影响的行业都能喘口气。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e83c2cac809be5d0779b2dafd4f4a1dc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1566\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e83c2cac809be5d0779b2dafd4f4a1dc_r.jpg\"/></figure><p>我必须要说，毛衣战对我国的影响并不会因此消退，这种心理上的阴影，面积很大。</p><p>下面说说我对接下来行情的一些观点：</p><ol><li>海南已经明确说了不会搞“黄赌毒”。当时我就一直在文章里反复说，不符合社会主义核心价值观的东西不用去参与。此处躲过赛马一劫的小伙伴记得给我点个赞，谢谢；</li><li>与富士康有业务往来的公司集体表现很积极，我不建议这时候盲目介入，除非本身的基本面逻辑很好。这个题材会有好几轮的炒作，类似去年的华大IPO；</li><li>通过这段时间，我在思考一个问题，中国股市最能抗风险的是哪类股票。从目前看是消费类，那些能把自己的商品卖给更多用户的企业，也就是说能够在人口红利上翩翩起舞的企业。电商也好、家电也好、医药也好，都是这个逻辑下的，因此在长期配置的账户里，要留至少一支消费类的公司来打底，起码业绩不会差；</li><li>市场依旧不具备特别强的操作性，除非你有做长线的决心。MSCI我还在观望，目前不想过早的下结论。每天都让我找出个亮点和股票，我觉得不太靠谱，毕竟不是点牛眼；</li><li>昨天看了菠菜文章<a href=\"https://zhuanlan.zhihu.com/p/36808732\" class=\"internal\">富士康来了，喜忧参半</a>买了钴相关个股的，记得飞本宝宝点个赞，最近身体不好，I need鼓励。</li></ol><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-9bcca061e7376d18f2ad95e2b7bdb7a9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1188\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-9bcca061e7376d18f2ad95e2b7bdb7a9_r.jpg\"/></figure><p>我坐过川航的飞机，就一次。那时候菠菜还是小青年，被公司派到重庆讲课，夜航飞到重庆发现雾太大，于是临时迫降到了成都。那个返回成都的短暂时光，我邻座的小哥一直和空乘嚷嚷要开手机打电话，那飞机抖得我咖啡都撒了，真叫一个刺激。然后捏，到了成都航空公司说安排住宿。我是等不及了，于是打了辆车走川渝高速赶着明早能完成公司给的讲课任务。然后呢，打的那车居然是“加气”的，我在北京都没坐过，总担心会出事。好不容易5点多开到重庆收费口，川渝高速居然封路了。我等到8点多才被放行。那一晚，真是终身难忘。从此我再也不买川航机票了，阴影太大。大家在为英雄机长点赞时，希望航空公司能自己有所反思，为啥你们的飞机出问题。</p><p>PS：家里着急，也曾给王敏彤先后订过两次婚事，都因乱世而无果。溥仪被特赦后回到北京，她以为自己又有了机会，可是溥仪向其母表示自己不像再娶旧式女子。3年后，溥仪与一位护士李淑贤结婚，大格格得知后大哭了一场。</p><p>有个比较搞笑的细节，王敏彤为了打动溥仪，已经50多岁了还去医院开了个处女证。估计溥仪知道了只会更烦她。这位晚清最美的格格晚年一直靠社会救济艰苦度日，据说后来很凄惨的死在养老院里，享年90岁。</p><p>王敏彤没有什么错，她做了一位旗人女性所有该做的，听从父母安排，保持很好的礼仪。只可惜，给她规定道德标准的那个王朝免亡了，她也随着那个逝去的帝国而凋零。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7f46c33903799883355c027e9006ea37_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"952\" data-rawheight=\"1100\" class=\"origin_image zh-lightbox-thumb\" width=\"952\" data-original=\"https://pic4.zhimg.com/v2-7f46c33903799883355c027e9006ea37_r.jpg\"/></figure><p>这里我想到了日本，不少人觉得日本国民素质高，这点我不否认。但问题是他们越来越欧洲化，老龄化问题也愈加严重。从日本的泡沫危机我们应该吸取教训，不要重蹈覆辙。就像这个故事里的大格格，自己做的很完美，赶上了帝国都没了，你再优秀也是为别人做嫁衣。</p><p>日本人想渔翁得利，而兔子只想收几件嫁衣，如此而已。</p>",
+                "comment_count": 8,
+                "image_url": "https://pic4.zhimg.com/50/v2-d69e5bfb1a0bd381fbe353af2e61ab9e_hd.jpg",
+                "voteup_count": 16,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjkzMjA4NiCXp+jXBSgQMAhAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2ODUzMTQ5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1525748784,
+                "is_labeled": false,
+                "excerpt": "一直以来，总有人拿误解来解释中美关系出现的某种变化。似乎是在说中国不能正确理解美国的意图，中国不能正确理解世界秩序和规则。言外之意就是中国由于误解误读而不遵守规矩。动态内参（dongtaineican）认为：不管这样的论调是出于什么心理和动机，这种观…",
+                "excerpt_title": "",
+                "id": 36574005,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-0f201edc46c528a2b83e6ae0234fb153_hd.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "96b5b2b9bfa463a9eec64861ac37f7d2"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36574005",
+                "title": "中国“误解”美国？美国有美国的神，中国有中国的仙！",
+                "created": 1525748785,
+                "content": "<p>一直以来，总有人拿误解来解释中美关系出现的某种变化。似乎是在说中国不能正确理解美国的意图，中国不能正确理解世界秩序和规则。言外之意就是中国由于误解误读而不遵守规矩。动态内参（dongtaineican）认为：不管这样的论调是出于什么心理和动机，这种观点都是大错特错的。</p><p>有人说，在经贸方面，美国理解的是对等原则或者是公平原则，而中方主流坚持的互惠原则。美国人老说中美经贸不公平，意即中国不遵守贸易规则造成了中美贸易的不公平。实际上是如此吗？</p><p>美国人要真的讲公平原则，那就不应当有美国优先一说。美国优先是这个世界最大的不公平，也是这个世界一切问题的根源之所在。美国的价值观是自由和民主，可是美国人却不给世界自由民主的选择发展道路的权利。美国人要真讲民主自由，就不会有文明的冲突。美国独霸世界的战略是对民主自由的最大破坏力。</p><p>现行的经济体系是由美国人制定和维护的，可是当今的美国却高举起反对全球化的贸易保护主义的大旗。<b>动态内参（dongtaineican）认为：发动贸易战，是贸易保护主义的极端表现，是对规则和体系的最大破坏，这是目前除了美国人之外全世界的共识。即使是与美国价值观一致的欧洲大国，都明言美国是在破坏现行体系和规则。难道全世界都和中国一样误读误解？</b></p><p>贸易本身就是互惠互利，没有互惠互利，要么就没有贸易，要么就是强买强卖。中国一直坚持互惠互利原则，这是最基本的也是最核心的贸易原则，这是最大的公平和对等。<b>从这一点来看，不是中国误解了美国，而是美国误解了中国。</b></p><p><b>就算中国目前的政策与现行的体系与规则有出入，就算是中国不遵守规则，可美国人不也同样不遵守规则吗？</b>美国一边采取对华高技术贸易禁运政策，一边又拒绝中国对美高技术领域投资。美国经常指责中国的外来投资政策不公平，可对中国的在美投资却以保护本国的名义设限。这是典型的贸易歧视和贸易不公。难道这是由于双方的误解？<b>既然美国人不遵守自已定的规则，中国何必要遵守？</b></p><p><b>都说中国是全球化的最大受益者。也就是说，中国经济的崛起得益于融入世界经济体系。既然如此，也就意味着中国很大程度上是接受并遵守了规则。</b></p><p>目前，中国对世界经济的贡献力已经是世界第一，大约是美欧日的总和。这也就意味着，世界接受中国融入体系是正确的选择。试想，如果中国的贸易政策起到的是破坏世界规则的作用，又怎么能对世界经济有这么大的贡献力。而<b>美国是世界第一大经济体，实力远超中国，手中又有金融和经济霸权。对世界经济的贡献力理应远大于中国。贡献力不如中国，这意味着什么？这恐怕意味着美国的不负责任，意味着美国正在疏离世界经济体系。</b>或者说美国经济的运行方向与世界经济不一致。这也就解释了特朗普为什么要大力采取贸易保护主义。</p><p>说起贸易保护，中国当然存在，世界各国也都或多或少的存在。不是中国不理解和不遵守贸易规则，而这恰恰是WTO强调的公平主义原则。</p><p>“WTO容许成员采取保障措施（safeguard），限制对外贸易，以保护本土工业免受外来产品威胁。”对此，各国都不同的保障措施和权利，即使是美国也有保障措施。多边贸易协定或双边贸易协定谈判之所以艰难，就是因为这个原因。美国之所以退出TPP，一个很大的原因就是因为一些贸易条款对美国不利。WTO对发展中国家有特殊和差别对待政策。中国是发展中国家，自然要享受这一待遇。可见，公平是相对的，没有绝对的公平。</p><p><b>西方国家一边承认中国在全球化进程的引领作用和地位，承认中国对世界经济贡献力，一边却又不承认中国的市场经济地位，这是典型的不公平和歧视。难道这也是中国的误解？</b></p><p>关于知识产权问题，美国指责中国对《中国制造2025》进行高技术补帖。而美国政府对高技术领域的研发投入却是全世界第一。<b>美国剑指中国高新技术制造，这意味着什么是世所共知，难道这也是中国误解不成？</b></p><p><b>有人说，中国认为美国采取的遏制中国崛起战略，也是误解。甚至是一种自卑狭隘的民族主义心理在作崇。美国只想让中国遵守规矩而已。对中国崛起有担心和疑虑，这可以理解。但因此而对中国进行战略围堵打压却无论如何不能接受。</b></p><p>台湾是中国的一部分，这美国也绝对承认。可美国采取的却是疏离和分裂中国统一的政策。美国承认南海是中国的领海，却非要保护对中国南海的侵占者。不但以自由航行的名义在南海挑衅，更经常肆无忌惮的侵犯中国南海十二海里主权。难道这也是中国的误解？</p><p>如果说中国的经贸政策与WTO规则还有不相适应的地方，如果说中国对WTO规则的理解还有出入，那么，<b>中国正在进行的深化体制改革就是在积极的融入遵守现行的体系，是为了更好的理解和遵守规则。至少说明中国在积极改进。如果是有误解，中国就不会这么积极的改革了。</b></p><p><b>动态内参（dongtaineican）认为：美国对中国才真正的有误解。中国崩溃论是一种误解误读，中国威胁论同样是一种误解误读。</b>美国人或者说西方难以理解的是，走在西方人看来是“错误道路”上的中国，为何能够取得人类发展的奇迹。难以理解，中国为何对自己的发展道路如此的执着和越来越统一意志。</p><p>其实，也不是有误解或不能理解，而是不愿意理解和不相信事实。这就是唯物主义和唯心主义的区别。<b>美国有美国的神，中国有中国的仙。西方的道路不一定适合中国，而中国道路也未必就适合美国。中国不会强求美国走中国道路，美国也莫逼中国走美国道路。</b>西方人总是固执的认定资本主义道路西方价值观是唯一的政治正确。如果中国取得了成功，就证明了西方道路和价值观不是唯一，或许更证明了西方道路的错误。这是无论如何不能接受的局面。这就是美国一直对中国进行战略打压的重要原因之一。</p><p>总之，动态内参（dongtaineican）认为：<b>美国目前实行的是典型的贸易保护主义政策，发起贸易战挑衅是在走极端的路线，是对世界贸易体系和规则的最大破坏。这一点中国肯定没有误解。</b></p><p>美国已经明言，中国的经济发展已经对美国国家安全构成威胁。这误解都难。<b>如果说中国对此次磋商中美国的要求还有误解，那等于说中国人都是白痴。</b>其实，<b>中美利益冲突的核心，就是意识形态和道路之争。这很明确，不会误解。</b></p>",
+                "comment_count": 0,
+                "image_url": "https://pic3.zhimg.com/50/v2-0f201edc46c528a2b83e6ae0234fb153_hd.jpg",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjgyMDUyOCCxqMTXBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2NTc0MDA1"
+        }
+    ]
+}

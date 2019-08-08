@@ -1,0 +1,267 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1453257078.89942",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1452905489.16&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1452905489.16224"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "最近我和媳妇一直在4S店看车，发现销售比之前印象中要热情多了，在跟做汽车销售的朋友聊天中也了解到，现在看车的人越来越少。中国的汽车市场高速发展了近30年。去年，中国的汽车销量达2900万辆，而美国仅为1700万辆。但是今年根据IHS的预计，中国汽车销量…",
+                "created_time": 1539789864,
+                "id": 512884173,
+                "voteup_count": 13,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/b7a31d635e37d1a4f30824b0325a3c72_{size}.jpg",
+                    "gender": 1,
+                    "name": "何先生",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/3079e532f4007a491a21f6889447456b",
+                    "badge": [
+                        {
+                            "topics": [
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "汽车",
+                                    "url": "http://www.zhihu.com/api/v4/topics/19551915",
+                                    "excerpt": "我国国家最新标准《汽车和挂车类型的术语和定义》(GB/T 3730．1—2001)中对汽车有如下定义：由动力驱动，具有4个或4个以上车轮的非轨道承载的车辆，主要用于：载运人员和（或）货物；牵引载运人员和(或)货物的车辆；特殊用途。",
+                                    "is_vote": false,
+                                    "introduction": "我国国家最新标准《汽车和挂车类型的术语和定义》(GB/T 3730．1—2001)中对汽车有如下定义：由动力驱动，具有4个或4个以上车轮的非轨道承载的车辆，主要用于：载运人员和（或）货物；牵引载运人员和(或)货物的车辆；特殊用途。",
+                                    "avatar_url": "https://pic1.zhimg.com/50/e803f3e7a832b035f9bd2dff87033133_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19551915"
+                                },
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "汽车发动机",
+                                    "url": "http://www.zhihu.com/api/v4/topics/19780325",
+                                    "excerpt": "汽车发动机是为汽车提供动力的装置，是汽车的心脏，决定着汽车的动力性、经济性、稳定性和环保性。根据动力来源不同，汽车发动机可分为柴油发动机、汽油发动机、电动汽车电动机以及混合动力等。常见的汽油机和柴油机都属于往复活塞式内燃机，是将燃料的化学能转化为活塞运动的机械能并对外输出动力。汽油机转速高，质量小，噪音小，起动容易，制造成本低；柴油机压缩比大，热效率高，经济性能和排放性能都比汽油机好。",
+                                    "is_vote": false,
+                                    "introduction": "汽车发动机是为汽车提供动力的装置，是汽车的心脏，决定着汽车的动力性、经济性、稳定性和环保性。根据动力来源不同，汽车发动机可分为柴油发动机、汽油发动机、电动汽车电动机以及混合动力等。常见的汽油机和柴油机都属于往复活塞式内燃机，是将燃料的化学能转化为活塞运动的机械能并对外输出动力。汽油机转速高，质量小，噪音小，起动容易，制造成本低；柴油机压缩比大，热效率高，经济性能和排放性能都比汽油机好。",
+                                    "avatar_url": "https://pic2.zhimg.com/50/15455a06e_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19780325"
+                                }
+                            ],
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "user_type": "people",
+                    "url_token": "he-xian-sheng-02-26",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/b7a31d635e37d1a4f30824b0325a3c72_is.jpg",
+                    "is_org": false,
+                    "headline": "汽车软件工程师",
+                    "type": "people",
+                    "id": "3079e532f4007a491a21f6889447456b"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/512884173",
+                "question": {
+                    "created": 1539744685,
+                    "url": "http://www.zhihu.com/api/v4/questions/298850642",
+                    "title": "如何看待9月，乘用车销量同比下降12%，中国汽车销售30年（可能）首次负增长？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 298850642
+                },
+                "updated_time": 1539789864,
+                "content": "<p>最近我和媳妇一直在4S店看车，发现销售比之前印象中要热情多了，在跟做汽车销售的朋友聊天中也了解到，现在看车的人越来越少。</p><p>中国的汽车市场高速发展了近30年。去年，中国的汽车销量达2900万辆，而美国仅为1700万辆。</p><p>但是今年根据IHS的预计，中国汽车销量将出现1990年以来的首次下降。</p><p>7.8.9月份，通用在中国的销量下降了近15%，大众9月在华销量下滑11%。中国市场是这两家公司的最大市场。</p><p>捷豹路虎因为9月在华销售下降了46%而打算停产两周。</p><p>种种迹象表明，汽车行业的寒冬已经来了。</p><p>鉴于这种现象，我也推迟了买车计划。</p><p>造成现在的原因，无非是：</p><p><b>中国经济放缓，中美贸易战不断升级和国内股市低迷，导致消费者信心降低。还有就是二手车市场的增长、网约车服务的快速普及以及汽油价格大幅上涨。</b></p><p>这些原因一起导致了汽车市场的低迷，传统的金九银十不在了。</p><p>我不觉得大家都是没钱了，而是都害怕寒冬来临，出于对国内经济的担忧，准备消费降级，省着点花。</p><p>除了这方面原因，还有就是大城市日益严格的摇号政策遏制了新车的增长，汽油价格不断上涨加大了养车成本，今年年初取消了实行了两年多的购置税减半刺激，购置税减半其实也提前透支了一部分买车的需求，到了今年刚好有买车意愿的人不多了。</p><p>但是，尽管汽车市场低迷，我觉得这只是暂时性的，不是长期性的，中国人民人均拥有汽车的量只有144，还远低于日本韩国，中国的汽车市场需求仍然大大的。</p><p>过了这个冬天，春天不会迟到。</p><p></p>",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTIzMzIyMzA4IKiond4FKA0wBUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyODY4NzYyN3IJNTEyODg0MTcz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "世界第三大经济体没了",
+                "created_time": 1522904128,
+                "id": 359080401,
+                "voteup_count": 56,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-a8a1ea5d6677bd474c8d4789452c4db1_{size}.jpg",
+                    "gender": 1,
+                    "name": "念缺一",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "高等树学"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/08fe9c1b9c02211fce23bc031b108c53",
+                    "badge": [],
+                    "user_type": "people",
+                    "url_token": "nian-que-yi",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-a8a1ea5d6677bd474c8d4789452c4db1_is.jpg",
+                    "is_org": false,
+                    "headline": "她们的刀剑会在我们的面前折断",
+                    "type": "people",
+                    "id": "08fe9c1b9c02211fce23bc031b108c53"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/359080401",
+                "question": {
+                    "created": 1522855922,
+                    "url": "http://www.zhihu.com/api/v4/questions/271111335",
+                    "title": "假使世界最大的两大经济体开战，战争会如何演变？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271111335
+                },
+                "updated_time": 1522904128,
+                "content": "<p>世界第三大经济体没了</p>",
+                "comment_count": 13,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUzNDgyMjQgwNiW1gUoODANQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTIyMDQ4cgkzNTkwODA0MDE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524399423,
+                "is_labeled": false,
+                "excerpt": "2005年人民币汇改和2010年人民币汇改，都是发生在中国外汇储备的量级剧增之后。 对一个稳态系统来说，只有外压才能促使其发生运转模式上的变化，有趣的东西就在于，中美从G2走向贸易战，其初始动因却来自中国自身增长的不可持续。 加入WTO就意味着加入全球…",
+                "excerpt_title": "",
+                "id": 35984841,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-04a235e538ef63d186792e2aebd9e905_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-6a5d9cf0dd3f49c1fb745791d023a419_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-1b2f44b9a62a83e4307f29d62b8d1782_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-9c6b1c4e2d4486479189f036f9c12585_{size}.jpg",
+                    "gender": 1,
+                    "name": "五花王",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "交通运输"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/e95e134206d1c0ac8fc3fc23e872d395",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "北京益安信资产管理有限公司 总经理"
+                        }
+                    ],
+                    "user_type": "people",
+                    "url_token": "nnnooo",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-9c6b1c4e2d4486479189f036f9c12585_is.jpg",
+                    "is_org": false,
+                    "headline": "证券金融/能源经济/历史地理/流行文化",
+                    "type": "people",
+                    "id": "e95e134206d1c0ac8fc3fc23e872d395"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35984841",
+                "title": "N4#1 太平洋的盖子",
+                "created": 1524399423,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-6a5d9cf0dd3f49c1fb745791d023a419_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"461\" data-rawheight=\"255\" class=\"origin_image zh-lightbox-thumb\" width=\"461\" data-original=\"https://pic2.zhimg.com/v2-6a5d9cf0dd3f49c1fb745791d023a419_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2005年人民币汇改和2010年人民币汇改，都是发生在中国外汇储备的量级剧增之后。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对一个稳态系统来说，只有外压才能促使其发生运转模式上的变化，有趣的东西就在于，中美从G2走向贸易战，其初始动因却来自中国自身增长的不可持续。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>加入WTO就意味着加入全球资本大循环，而全球资本大循环是不允许你偷鸡的，在这个意义上，中国迅速而强制积累的外汇储备就像三体最后程心留下的那五公斤物质一样，而自另一个角度来讲，外储实际上是全体中国劳动力的“剩余价值”。作为一个需要原始积累的资本集团，和近8亿人事实上的最终雇主，“CCP Holding ltd.（以下简称CH）”的危机感始终如一，毕竟它是资本主义大循环中的一个病毒。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>用班农的话讲，美国的资本集团阶层曾经认为CH是这体系里的益生菌，是“可以改造好的”，但时至今日，这个“寄生体”已经用五年的时间彻底，特别是在最近半年中以实际行动表示了自己的“另立操作系统”之意愿。它从未想过自己要变成WINDOWS的一个补丁或者成为一个跑安卓的智能机，而是固守着OSX，并不断迭代出iOS的各种循环，尽管可以兼容，但你要在我这里应用，就必须开放底层代码。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>你说这是小农经济吗？自力更生是不是能等同于自给自足呢？降低对外依存，一切体内循环，这本身就是根植于地理环境和文化内核中的趋向，“Yes We Can”，贸易城邦的那一套思维模式，在东亚落地至今不过150年而已，有没有生根至今存疑。更何况，从历史的角度来讲，所谓现代性在中国一直是被“排异”的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国经济现在出现了抵押物不足，信用坍缩的状况，这个原因便来自于“主体等差”。实际上，在目前的政治体系之下，自然人的信用扩张能力远高于有限责任模式的私人企业，贾总一家变成“老赖”便是如此，个人无限连带责任担保将私人企业主的“公司法有限责任”角色变为了笑话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>作为终极且事实上唯一的信用主体，CH当下陷入了一个显著的悖论当中，且日感窘迫：现金流难以为继，而内外循环均日渐堵塞，嫁接枝条与原始主干内部的兼容性不断冲突，故而我们看到了组织内部一些似乎难以理解的举措，而这些举措给了太平洋另一端的循环参与方特别显著的信号，就是玩不下去了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>过去二十年中，在中国形成了一个特殊的群体，如果用经典革命语言来定义，那就是“买办”，只不过这个阶层已经相当庞大，甚至其影响力已经远超1840年之后的任一个时期，这本身就是CH四十年参与国际分工和生产大循环的必然产物。在中国内陆组织和市场的生产服务边际成本降低至跨太平洋贸易以下之前，乃至“OBOR”沿线的边际成本能够降低到这个水平之前，一切试图给太平洋加盖子，虚与委蛇，口惠实非的举措，对CH来说实际上都是效用的损耗。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但CH自身内部是无数个小型集团，4000万各级管理层凝结成千百个地域、师承、山头，其表现出的整体行为是经过重重内部博弈，再辅以各式外压之后的一个极为扭曲的结果，其传导机制大约类似于搅拌混凝土。为了本地企业金主去跨省抓捕，倒是颇有镀金时代对岸的风范。带着羡慕嫉妒恨，CH不得不向对岸的师承一次又一次地拷贝、妥协和学习，就像一个灭佛之后改练太极的少林弟子一般，每当自己要走火入魔之时，便又想起了易筋经。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>复兴，复兴的是什么？帝国荣光还是万国来朝，是支配所有还是教化四方？以“终极文明”的疑虑来打量CH的目标，那自然是由内而外的寒战一个接一个，毕竟不能一言不合就几百枚战斧丢过去。如果2025再到2035，安卓就要像Symbian被最终放弃，五月花遗民们的地上天国和边民们的自由之乡亦要回缩到孤岛断崖的时刻，那不亚于从副国级变成了科员。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以，我就是要从你的演习编队里穿过去，来打我呀？</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1b2f44b9a62a83e4307f29d62b8d1782_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"1410\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-1b2f44b9a62a83e4307f29d62b8d1782_r.jpg\"/></figure><p></p><p></p><p></p><hr/><p></p>",
+                "comment_count": 1,
+                "image_url": "https://pic1.zhimg.com/50/v2-04a235e538ef63d186792e2aebd9e905_hd.jpg",
+                "voteup_count": 5,
+                "type": "article"
+            },
+            "attached_info": "CjkQBxoHNjU4NDMyOCC/+vHWBSgFMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaAzI3N3IIMzU5ODQ4NDE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1545964364,
+                "is_labeled": false,
+                "excerpt": "昨天我A上午走的还蛮好的，突然午后中石化（600028）立刻开盘急剧跳水，至收盘为止下跌超过6%。上午该股本来是1%的翻红，这样5000亿的盘子的上证50权重，突然一天内跌7%，大盘必然是受不了的。可以基本看到，指数下跌和中石化的走势基本一致。 问题来了，为…",
+                "excerpt_title": "",
+                "id": 53497087,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-c3a5af6ea45b5a8e40f7252e2178577b_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-204aea360b518e9cc612a836cd0db057_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-c903dfc10a6f128864a1090408a86736_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "gender": 0,
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "badge": [],
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/53497087",
+                "title": "从中石化的那根大阴线说起",
+                "created": 1545964364,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>昨天我A上午走的还蛮好的，突然午后中石化（600028）立刻开盘急剧跳水，至收盘为止下跌超过6%。上午该股本来是1%的翻红，这样5000亿的盘子的上证50权重，突然一天内跌7%，大盘必然是受不了的。可以基本看到，指数下跌和中石化的走势基本一致。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-204aea360b518e9cc612a836cd0db057_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"619\" data-rawheight=\"477\" class=\"origin_image zh-lightbox-thumb\" width=\"619\" data-original=\"https://pic4.zhimg.com/v2-204aea360b518e9cc612a836cd0db057_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>问题来了，为什么美股强力反弹的背景下中石化会跳水呢？</p><p>中石化下述公司联合石化（中国国际石油化工联合有限责任公司）两名高管被爆出来停职，原因是对国际油价下跌的趋势判断有误，对公司造成巨大损失。简单的说，本来应该看空油价的，结果他们拼命的下多单，油价持续下跌，于是公司一算账巨亏。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-c903dfc10a6f128864a1090408a86736_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"350\" data-rawheight=\"223\" class=\"content_image\" width=\"350\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这两位被停职的高管一位是联合石化的党委书记，一位是董事长都是石油行业的元老级人物，怎么会让联合石化在70元一桶的高位还持续做多呢？有点匪夷所思了。石油公司和航空公司一般为了抵御油价波动，更好的控制经营成本都会做一部分期货、期权产品，目的是套期保值。这里不得不说中石化之前的一桩往事，那是14年前2004年11月，中石化旗下子公司中航油，因为对油价预估不足，做反了，亏了5亿多美元。当时5名高管被起诉，而CEO陈久霖被判了刑。<br/></p><p>那么问题来了，公司是怎么做风控的？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、这事还在持续发酵中，但作为央企的子公司，本身和个体炒股不一样，不应该以投机为目的，而应该做套期保值；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、这次交易为什么没有走公司流程上报总公司？按理说正常的风控机制下到达一定亏损规模就要上报总裁。比如当年的中航油规定亏35万美金就要上报，50万美金就因该平仓。这就是该起事件定性的依据，<b>是否真的按照公司风控的要求操作了？如果没有是不是在用国家的钱下注？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、具体亏损的规模现在传说是几十亿美金（一说十几亿）。因为要补充保证金必然对母公司的现金流造成影响，股价下跌是正常反应。但对于中石化这样的大户来说，这个损失是可以摆平的。但<b>国家的钱是纳税人的钱，就是用来给这些人兜底的吗？笑话！如果不改变其内部风控机制、人事机制，这绝不是最后一起</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-793f404701d9cfeb0f50d785d2ccfae4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"538\" data-rawheight=\"707\" class=\"origin_image zh-lightbox-thumb\" width=\"538\" data-original=\"https://pic1.zhimg.com/v2-793f404701d9cfeb0f50d785d2ccfae4_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>几十亿美金是神马概念？那相当于几个小盘股市值总和。这些人难道不该严惩吗？我相信一定会追求其法律责任的。不敢最终亏损数字是多少，昨天中石化跌去了362亿市值是实锤。<br/></p><p>接下来说说原油的价格，美国页岩油页岩气产能逐渐增加，现在已经成了全球最大产油国。OPEC早已失去对原油价格的话语权，现在沙特的日产量已经低于美国，因此和美国叫板的筹码也在丧失。全球原油供给增加，需求受经济影响而下滑，油价必然会下跌。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-8301b16561a7e0604658d97a38ac72f6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"171\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-8301b16561a7e0604658d97a38ac72f6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>昨天盘面的情况如果把下跌的锅全都甩给中石化，也不对。因为中小板和创业板也在跌，很显然现在买盘不跟进，市场拉动不起来，赚钱效应基本没有。现在指数要围绕2500做个平台，我觉得持币过节和持股过节都可以。目前轻仓观望。</p>",
+                "comment_count": 15,
+                "image_url": "https://pic2.zhimg.com/50/v2-c3a5af6ea45b5a8e40f7252e2178577b_hd.jpg",
+                "voteup_count": 7,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAwMDE3MTE0IMyWluEFKAcwD0AAUhF0b3BfYWN0aXZpdHlfcG9zdHIINTM0OTcwODc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1545209780,
+                "is_labeled": false,
+                "excerpt": "从中兴到华为，再到美国商务部工业安全署 (Department of Commerce, Bureau of Industry and Security, BIS) 对中国封杀14个高科技领域。在 14 个政府考虑进行管制的类别中，包括了人工智能、芯片、量子计算、机器人、脸部和声纹辨识技术等，中国科技领域被…",
+                "excerpt_title": "",
+                "id": 52781280,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-12e9dcef1e198d925b6f35401f89c25a_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-f57a7060567729182954ae5fcad31e38_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-cace825e4528a5bf1abae81f386f2590_{size}.jpg",
+                    "gender": -1,
+                    "name": "seefarer",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0b162a488df046fc42d3b0de93adf6ba",
+                    "badge": [],
+                    "user_type": "people",
+                    "url_token": "seefarer",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-cace825e4528a5bf1abae81f386f2590_is.jpg",
+                    "is_org": false,
+                    "headline": "微信公众号--胜研集，公众号更新最快！",
+                    "type": "people",
+                    "id": "0b162a488df046fc42d3b0de93adf6ba"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/52781280",
+                "title": "华为渡劫，天使展翼！",
+                "created": 1545209780,
+                "content": "<p>从中兴到华为，再到美国商务部工业安全署 (Department of Commerce, Bureau of Industry and Security, BIS) 对中国封杀14个高科技领域。在 14  个政府考虑进行管制的类别中，包括了人工智能、芯片、量子计算、机器人、脸部和声纹辨识技术等，中国科技领域被围剿的论调比比皆是，笔者没有兴趣再次重复细节。笔者想讨论的是，如何杀出重围！</p><p>世界科技发展到今天这个地步，中国高科技领域，特别是集成电路领域，能不能展出天使之翼，冲破围堵，创造一片新天地呢？</p><p>要从科技发展的现状开始分析。</p><p>一面是市场，一面是技术。</p><h2><b>市场的领域，中国并不落后</b></h2><p>通信，中国5G步伐和世界同步，4G覆盖率已经领先全球，截止2018年第一季度末，我国4G基站数量已达339.3万个，4G网络规模世界第一，全世界一共4G基站不过500多万个。</p><p>工信部数据，截止2018年4月底，我国移动电话用户总数14.83亿，比去年底净增6541万，其中4G用户已达10.82亿，比去年底净增8481万，4G占比其实已达73％，深度覆盖城市和乡村。</p><p>除了新加坡这种城市国家，或者日本韩国这些岛国，土地面积狭小，人口稠密的地方，中国的人均基站密度绝对是吊打世界绝大多数地方的。虽然如果只考虑城市，或者大城市，可能大家都差不多。</p><p>由于基础建设的完善，中国在社交媒体，移动支付，云计算，网络视频，等数据应用领域，蓬勃发展，有些领域甚至已经超越发达国家的应用场景。这些都是不争的事实，没有必要过多讨论。</p><p>中国在应用技术领域也不落后世界。</p><p>电信设备商，中国的中兴华为，四分天下有其二。互联网领域BAT在世界上排名也许不高，但是总体不落后太多。</p><p><b>问题在与基础科技。</b></p><p>信息技术，第一个面对的是集成电路领域，第二个就是软件工具领域。</p><p>对于软件工具领域，说实话，很难评价，落后是事实，但是如何绕过壁垒，也许不如集成电路硬件领域那么急迫！</p><p>所以就聊聊集成电路领域是否可能有突破的可能？</p><h2><b>世界谋求技术转向</b></h2><p>世界现状毫无疑问是中国落后很多。但是绝大部分业内人员都在预测一件事，就是摩尔定律的极限。所有人都看到了，所以，所有企业都有应对，唯一明确的出路，是<b>3D封装</b>技术。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-12e9dcef1e198d925b6f35401f89c25a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb\" width=\"728\" data-original=\"https://pic3.zhimg.com/v2-12e9dcef1e198d925b6f35401f89c25a_r.jpg\"/></figure><p>3D封装号称是超越摩尔定律瓶颈的最大“杀手锏”，又称立体封装技术，是在X-Y平台的二维封装的基础上向z方向发展的高密度封装技术。具体3D封装的技术，这里就不讨论了，想讨论下各大企业的应对方式。</p><p><b>第一名肯定是台积电</b></p><p>台积电十年磨一剑，3DIC横空出世。</p><p>台积电在 2008 年底成立导线与封装技术整合部门 ( Integrated Interconnect and Package Development Division, IIPD )。台积电在 2008 年成立导线与封装技术整合部门后的第一个任务，是将超低介电层（Extreme Low-K Dielectric, ELK）导入 45/40 纳米工艺技术，接着突破导线与封装相关技术瓶颈，让第一批 GPU 和 FPGA 客户的产品顺利量产。</p><p>台积电在今年首度揭露一种全新的封装架构，同时也赋予一个独特字：“SoIC”（system-on-integrated-chips）。台积电掌舵 Integrated Interconnect &amp; Packaging 部门的副总余振华提到 SoIC 技术时透露，Wafer-on-wafer 接合的材料是个“billion dollars”的秘密!</p><p>同时，近期台积电首度揭露 SoIC 封装技术的最新进展时间表，将在从 2020 年起为台积电贡献营收，并将在 2021 年创造显著收入贡献。</p><p>回顾过往，台积电的封装技术之路是几经波折，先是提出 2.5D 版的 CoWos 技术，再提出横扫市场且独吃苹果的 InFO 技术，下一个要制霸的，是逼近 3D IC 层次的 SoIC 技术。</p><p><b>紧随其后的三星</b></p><p>三星（与台积电和GlobalFoundries一样）已经为复杂产品提供了许多封装解决方案，例如用于移动SoC的FOPLP-PoP和用于HBM2 DRAM芯片的I-Cube（2.5D）。明年三星将提供其3D SiP（系统级封装）解决方案，旗下三星电机重金投资面板级扇出型封装(Fan-Out Panel Level Packaging；FOPLP)技术。三星代工厂的3D SiP将成为业界首个用于异构3D SiP的技术之一（目前所有SiP都是2D）。</p><p><b>英特尔</b></p><p>业界首创逻辑芯片3D堆叠。</p><p>当地时间12月11日，在英特尔架构日上，英特尔高层管理人员、架构师和院士们展示了构建英特尔未来的众多下一代技术，在封装领域，英特尔宣布了业界首个3D堆叠逻辑芯片，名为“Foveros”的全新3D封装技术带来了3D堆叠的优势，可实现逻辑到逻辑的集成，英特尔推出的 Foveros 是业界首个真正的 3D 封装，可以把整个系统封进一颗芯片中，达成真正的 System in Package 概念，远比目前台积电与三星都在发展的 2D 或 2.5D 封装技术更为先进。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f57a7060567729182954ae5fcad31e38_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"740\" data-rawheight=\"416\" class=\"origin_image zh-lightbox-thumb\" width=\"740\" data-original=\"https://pic1.zhimg.com/v2-f57a7060567729182954ae5fcad31e38_r.jpg\"/></figure><p>首款Foveros产品将整合高性能10nm计算堆叠“芯片组合”和低功耗22FFL基础晶片。 英特尔称，它将在小巧的产品形态中实现世界一流的性能与功耗效率。</p><p>据称此封装技术可做到约1mm的超薄厚度，Raja还在现场秀出仅有12mm x 12mm尺寸的量产芯片。</p><p>Foveros为整合高性能、高密度和低功耗硅工艺技术的器件和系统铺平了道路，有望第一次将晶片的堆叠从传统的无源中间互连层和堆叠存储芯片扩展到高性能逻辑芯片，如CPU、图形和AI处理器。</p><p>因为设计人员可在新的产品形态中“混搭”不同的技术专利模块与各种存储芯片和I/O配置，该技术提供了极大的灵活性，并使得产品能分解成更小的“芯片组合”，其中I/O、SRAM和电源传输电路可以集成在基础晶片中，而高性能逻辑“芯片组合”则堆叠在顶部。</p><p>英特尔表示， Foveros将成为继2018年英特尔推出突破性的嵌入式多芯片互连桥接（EMIB）2D封装技术之后的下一个技术飞跃。</p><p>其他传统封测厂商也早就布局，这里就不一一浪费篇幅了。</p><h2><b>很关键的美国政府导向</b></h2><p>美国国防部高级研究计划局 (Defense Advanced Research Projects Agency，<b>DARPA</b>) 最近公布了获得电子复兴计划(Electronics Resurgence Initiative，ERI)提供的第一笔资金资助的科学家、公司和机构的名单。ERI是一项为期5年的、斥资15亿美元的计划，目的是在摩尔定律时代即将结束之际重塑美国电子产业。在公布的42个受资助项目中，有一个项目因得到大幅超出其他项目的资助金额而特别引人注目。</p><p>这个项目获得的资助金额高达6100万美元，其中，“利用密集的细粒度的单片3D集成技术变革计算系统”( Revolutionizing Computing Systems through Dense and Fine-Grained Monolithic 3D Integration)项目是其所包含子项目中获资做多的——所得资助金额近4000万美元。这个子项目的目标同样引人注目：利用单片3D集成技术，使得以用了数十年之久的旧制造工艺制造出来的芯片能与以目前最先进的技术所制造出来的芯片相媲美。</p><p>该项目基于麻省理工学院电子与计算机工程助理教授Max Shulaker及其在斯坦福大学的同事Subhasish Mitra和H.-S. Philip Wong开发的一种技术，该技术允许将碳纳米管晶体管和电阻式RAM存储器构建在普通CMOS逻辑芯片之上。</p><p>据称，<b>使用该技术的90nm制造技术可以打败7nm</b>。</p><h2><b>重要的是，中国呢？</b></h2><p>现在，看起来不缺设计，华为似乎在设计领域有所突破，旗下海思芯片对标高通不遑多让！国内还有新贵“平头哥”，风头正健的“寒武纪”，传统老匠“紫光展锐”，一起做大做强。但是，在制程领域，最强的也就是中芯国际，似乎还停留在20+nm层面，14nm的量产还在进行中。这一点确实落后时代不少，虽然进步明显。</p><p>但是在巨头蜂拥而入的封测领域，国内还是有第一阵营的企业来扛旗帜的。</p><p>长电科技在收购星科金鹏之后，在系统级封装和立体封装领域布局完整。</p><p>新加坡厂(SCS)拥有世界领先的Fan-out eWLB和高端WLCSP，Fan-out eWLB已经大规模量产七年，累计发货超过15亿颗。</p><p>韩国厂(SCK)拥有先进的SiP、高端的fcBGA、fcPoP;率先量产全球集成度最高、精度等级最高的SiP模组，拥有世界上最先进的用于高端智能手机的fcPoP倒装堆叠封装技术。</p><p>长电先进(JCAP)的主力产品有FO-WLP、WLCSP、fcBump，是全球最大的Fan-in WLCSP基地之一，年产量超过60亿颗;率先在业界提出Bumping中道封装概念，是中国最大的Bumping中道封装基地，可以提供包括铜凸块、锡凸块和金凸块的全系列服务;和JSCC配套提供倒装一站式服务，服务于众多顶尖国际客户;自主研发的Fan-out ECP技术进入规模量产，Fan-out ECP技术主要用于4×4以下封装尺寸，和SCS的Fan-out eWLB技术在封装尺寸上形成优势互补;率先在业界采用工业机器人手电筒生产自动化程度。</p><p>星科金朋江阴厂(JSSC)拥有先进的存储器封装，是SanDisk的优秀供应商;拥有全系列的fc倒装工艺，包括fcBGA、fcCSP;正在导入世界最先进的fcPoP技术，极大地提升JSCC的综合竞争力和服务中国高端客户的能力;能满足一个月10万片12英寸晶圆产能。</p><p><b>一句话，长电科技，在封装领域，可以和世界巨头一拼。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>以上说的都是废话！</b></p><h2><b>下面的内容才是关键！</b></h2><p>从投资金额看，MIT和斯坦福联合研究的3D封装项目所需要的投资额度不是很大，不过6100万美元，就是4亿人民币左右。中国封测领头羊，</p><p>长电科技2017年研发投入是7.8亿人民币，相当一部分由长电科技的封装国家实验室完成。看起来，似乎，长电科技在这个方面，和国际领先的差距不大，也许有一拼。收购的星科金鹏拥有eWLB（嵌入式晶圆级球栅阵列）、TSV（硅通孔封装技术）、3D封装、SiP（系统级封装）、PiP（堆叠组装）、PoP（堆叠封装），再加上收购后的持续研发。</p><p>在长电科技的年报中，我们可以找到关于高端封装技术的以下研发内容：</p><p><b>科技条件专项——通信用系统级封装产品项目</b></p><p><b>科技条件专项——通信用高密度球栅阵列封装</b></p><p><b>按压式指纹识别传感器系统封装模块的研发</b></p><p><b>基于 SiPRF 技 术的 TD-LTE／TD-LTE-Advanced／TD-SCDMA 基站射 频单元的研发</b></p><p>因此，有理由相信，长电科技，在追赶世界最先进封装技术的道路上，并不落后。</p><p>那么，在世界顶尖科技巨头<b>转向投入封装技术</b>来打破摩尔定律魔咒的同时，美国对中国科技企业的围堵，也<b>为中国芯片产业指明了方向</b>。</p><p>中国暂时没有intel 、三星，即使是台积电也不受中国控制，所以在制程封测一体，端到端领域的技术生产流程的每个环节的打通，确实无法和他们相比。因为无论紫光，华为，中芯国际，还是长电科技，都是独立的企业。但是有一条线，似乎已经把他们串了起来！那就是半导体产业投资基金，俗称大基金。</p><p>大基金现持有中芯国际18.3%的股份，长电科技19%的股份，中兴微电子，占股24%，2015年12月，大基金斥资45亿元入股紫光集团麾下紫光展锐。</p><p>所以，从持股结构上看，上游设计，中游制程，下游封测，都已经是一家人了。</p><p>上游设计代表的是国内市场的需求，</p><p>中游制程暂时受制于技术和设备的禁运，得不到很快的发展，</p><p>但是下游封测已经处于世界第一阵营。</p><p>从另外一个角度说，如果中芯国际和长电科技联合研发，在3D IC这个领域，完全有可能达到三星，intel类似的制程封装一条线的效果，虽然在技术代差上也许还有一定差距。</p><p>由于接二连三的国际围堵，中国科技企业重新认识世界分工，华为海思等国内领先设计公司也有需求寻找一条可靠的制造生产线。</p><p>大基金二期，如果再次串联华为，加注华为海思，助力扩大华为海思的市场份额，同时推进中下游制程封装一体化，那么，除了市场之外，<b>天使第二翼</b>将逐渐展露羽毛。</p><p><b>天使第二翼 = 紫光/海思+中芯国际+长电科技</b></p><h2><b>到底该如何推进？</b></h2><p>市场的需求是技术进步的唯一动力，中国两大市场，很突出。</p><p>第一，存储器市场。</p><p>存储器市场规模庞大，每年进口数量巨大，就不提了。中国已经布局良久，武汉新芯，合肥长鑫，福建晋华三箭齐发，必有一箭突破围堵防线。毕竟，这些都是亏得起的工厂，无敌的意志力。虽然福建晋华遭遇封锁，但是鸡蛋没放到一只篮子里，所以，成功的可能性极大。</p><p>第二，更关键的是市场是5G。</p><p>前文提到，中国4G基站占全世界一半多，意味着5G规模比例也是类似，说不定更有胜出。就智能终端而言，2017年中国智能手机出货量达到4.4亿部，而全世界不过7亿部。中国市场容量同样超过世界的一半。</p><p>基于5G技术的车联网，物联网，智慧城市等应用场景的开发，中国也并不落后。在华为，中兴被世界围堵的条件下，国内运营商更加倾向国产设备，提高国产设备替代率，也是时代提供的机会。</p><p>如果，在恰当的气氛引导下，在中国主流厂商（特别是华为）的倡导下，统一中国产业链需求，推进产业链上、中、下游融合。那么，天使的双翼都将展开丰满，终有腾空的一日。</p><p><b>领导者，华为当仁不让！</b></p><p>同时占据终端，基站，芯片设计等上游场景需求的全领域，华为出头，为上下游整合提供完整的需求定义，和技术发展指引，责无旁贷！</p><p>市场，无论运营商，政府，还是国民，都应该有所准备，去迎接破茧而出的幼年天使。虽然，可能还不成熟，不完善，某些领域说不定还有不小的差距，但是这是冲破牢笼的最佳捷径。</p><p><b>5G，不上也得上，这是天使第一翼！</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-6b10ee1ec8912083e076817b78ea05bc_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"28\" data-thumbnail=\"https://pic1.zhimg.com/v2-6b10ee1ec8912083e076817b78ea05bc_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-6b10ee1ec8912083e076817b78ea05bc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>相关阅读，更多贸易战：</b></p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU5ODYzNjI4Ng%3D%3D%26mid%3D2247485199%26idx%3D1%26sn%3Dfa482e221de69c10b355f11d717dc18c%26chksm%3Dfe40649ec937ed88971446c5a6c73cccdd2e97003cb86b05944285c99ffb2bf359810245a32e%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">全网最理信分析，宇宙第一大科技企业遭遇麻烦！</a>》</p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU5ODYzNjI4Ng%3D%3D%26mid%3D2247484494%26idx%3D1%26sn%3D65ff42a643adea3b6228e01230a873ab%26chksm%3Dfe4067dfc937eec99f886fb7aaa7fbae225905018719fc8117db0d5a90fdebbc967c9479d009%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">5G核心，天线与射频篇！</a>》</p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU5ODYzNjI4Ng%3D%3D%26mid%3D2247483929%26idx%3D1%26sn%3Df6ba7b41c9a21b43ec8c74448234a08a%26chksm%3Dfe406188c937e89e590833907f7a0cbc7b6609b42de7e97adcccbe6069faf7eab6004e70b2e3%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">5G产业链分类爆发力初探！</a>》</p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU5ODYzNjI4Ng%3D%3D%26mid%3D2247484702%26idx%3D1%26sn%3Ddcf9807a3dc0398766a008f377732ab4%26chksm%3Dfe40668fc937ef99676846447d03f75cfc82c3512f840fa120368560955b13afa41f3f7cd2da%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">剑指何方？史上最离奇的黑客芯片！</a>》</p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU5ODYzNjI4Ng%3D%3D%26mid%3D2247484638%26idx%3D1%26sn%3D0951de980fc46e4c6bccab01e6ddffc8%26chksm%3Dfe40674fc937ee590a5eb7bdefadba426cd48700b6bd0b8f7657fbf39c1d06479b859fe3cb13%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">蝶变！长电科技蛇吞象收购之----最后点睛！</a>》</p><p>《<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU5ODYzNjI4Ng%3D%3D%26mid%3D2247484203%26idx%3D1%26sn%3D2e3bc99f5edf022ed216f54c5658d23b%26chksm%3Dfe4060bac937e9acb289ededdfc27f713f0eefee5ce5db3f87d794c4b0e09d883809ec65811f%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">十年短史记（二）：芯片之思</a>》</p>",
+                "comment_count": 6,
+                "voteup_count": 12,
+                "type": "article"
+            },
+            "attached_info": "CjUQBxoIMTA3ODk2MTEgtI/o4AUoDDAGQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg1Mjc4MTI4MA=="
+        }
+    ]
+}

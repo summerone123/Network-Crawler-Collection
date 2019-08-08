@@ -1,0 +1,229 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1475153489.19556",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1474850720.13&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1474850720.12939"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-6c0de4b8f2a43a28739b1aa8354344b6_hd.jpg",
+                "updated": 1524904795,
+                "is_labeled": false,
+                "excerpt": "【导读】本周的科技圈依旧热闹：最后一家Apple Watch 专卖店即将关停；小米销量领跑印度市场……<b>Apple：无缘奢侈品，最后一家Apple Watch 专卖店即将关停</b>下月13日，位于东京新宿伊势丹百货的全球最后一家Apple Watch专营店将正式关闭。 三年前的现在，Apple…",
+                "excerpt_title": "",
+                "id": 36234238,
+                "voteup_count": 3,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-33a4abbba1113723defd5475e82b4769_{size}.jpg",
+                    "name": "爱回收",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "减法新生活",
+                    "type": "people",
+                    "user_type": "organization",
+                    "url_token": "ai-hui-shou-99",
+                    "is_advertiser": true,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-33a4abbba1113723defd5475e82b4769_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/763f59585d39320ed52841625d1922f1",
+                    "gender": -1,
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "763f59585d39320ed52841625d1922f1",
+                    "is_org": true
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36234238",
+                "created": 1524904795,
+                "content": "<p></p><blockquote>【导读】本周的科技圈依旧热闹：最后一家Apple Watch 专卖店即将关停；小米销量领跑印度市场……</blockquote><h2><b>Apple：无缘奢侈品，最后一家Apple Watch 专卖店即将关停</b></h2><p>下月13日，位于东京新宿伊势丹百货的全球最后一家Apple Watch专营店将正式关闭。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-922c6bebad80eb518dbaf03f5b2fbfc7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"790\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-922c6bebad80eb518dbaf03f5b2fbfc7_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>三年前的现在，Apple Watch 正式发售，为了打入时尚奢饰品市场，不仅在法国巴黎老佛爷等高端商场设柜，还一度推出像 18K 镀金表壳、爱马仕表带等限量版本，售价最高达到 12 万元。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-98cb70c8059cc02be8e6127bbd766860_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-98cb70c8059cc02be8e6127bbd766860_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>不过目前，Apple Watch 似乎已经找到了更合适它的定位：健身和健康。</p><h2><b>小米：领跑印度手机市场，中端手机受热捧</b></h2><p>近日，市场研究公司Counterpoint公布了2018年一季度印度智能手机市场份额的情况，数据显示，该季度小米在印度的份额创记录地达到了31.1%，三星以26.2%位居第二。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-def8af86db0c185b24318c6393e01c74_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"201\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic1.zhimg.com/v2-def8af86db0c185b24318c6393e01c74_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>有印度媒体指出：小米在印度市场上的大获成功，很大程度上归功于其在中端机（10，000卢比至20，000卢比，约954-1，908人民币）市场的出色表现。</p><h2><b>中美贸易战：iPhone 若在中国禁售，苹果将损失惨重</b></h2><p>近期中兴制裁案在中美两国掀起轩然大波，外媒也在假想，如果苹果在华遭禁售会怎样。</p><p>近日福布斯撰文指出，如果苹果在华遭禁售将失去 19% 营收，数额高达 460 亿美元，股价大跌并可能导致裁员 10-20%，将有多达 2.7 万人下岗。</p><p class=\"ztext-empty-paragraph\"><br/></p> <p class=\"ztext-empty-paragraph\"><br/></p><p>福布斯还认为，这 460 亿美元的市场空白受利最大的会是华为，它也将一跃成为全球最大的手机厂商。华为在2017年的手机出货量达到了1.53亿部，位居全球第三。</p><h2><b>联发科：深夜发声明，正申请对中兴通讯的出口许可</b></h2><p>此前有报道称，台湾“经济部”国际贸易局在其网站上发表声明称，已将中兴通讯、中兴康讯两家公司列入战略性高科技货品出口管制对象。</p><p>今日凌晨1时，台湾联发科技股份有限公司（联发科）发布微博称，正申请对中兴通讯的出品许可，以期尽快出货。<br/></p><p>原文如图：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-bbe7efc21cc2fc9cf6b68367e0864779_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"443\" data-rawheight=\"128\" class=\"origin_image zh-lightbox-thumb\" width=\"443\" data-original=\"https://pic2.zhimg.com/v2-bbe7efc21cc2fc9cf6b68367e0864779_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>高通：下调专利授权费 希望与苹果达成和解</b></h2><p>据科技新闻网站CNET报道，高通在本周三表示，将下调向手机厂商收取的专利授权费上限，并证实已下调了三星的专利授权费。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-703e4c12626b2b23774a78954f8cc718_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-703e4c12626b2b23774a78954f8cc718_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>高通CEO史蒂夫·莫伦科夫（Steve Mollenkopf）表示，他希望与高通最大的客户之一苹果达成和解。</p><p>莫伦科夫表示：“无论是通过法庭还是通过双方都满意的其他方式，无论如何都会有一个决定。如果幸运的话，将在今年年底前达成和解。”</p><h2>科技快讯</h2><p>- 4月23日，小米产业投资部合伙人潘九堂表示，下一代平板正在火热研发中。</p><p>- 4月25日，工信部发言人称：7月1日，将取消流量“漫游”费。</p><p>- 4月25日，雷军在小米 6X发布会上表示，小米硬件综合净利润率永远不超过5%。</p><p>- 4月28日，李彦宏夫妇向北大捐赠6.6亿元 用于前沿学术研究</p><p>- 4月29日起，北京市轨道交通全网（不含西郊线）实现刷二维码乘车。</p><p>（部分图片来源于网络，侵权删除）</p><hr/><p>以上就是本期《科技大事件》</p><p>祝大家假期愉快！</p><p></p><p></p>",
+                "comment_count": 1,
+                "title": "科技大事件：Apple无缘奢侈品；联发科已申请对中兴的出口许可…",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-6c0de4b8f2a43a28739b1aa8354344b6_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-922c6bebad80eb518dbaf03f5b2fbfc7_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-98cb70c8059cc02be8e6127bbd766860_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjY4NDI5OCDb5pDXBSgDMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTU5NTM0cggzNjIzNDIzOA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-a7f03cf9eb9e9b815bb262f4161f08af_hd.jpg",
+                "updated": 1524851939,
+                "is_labeled": false,
+                "excerpt": "中兴被美国封杀事件已经进入互相扯皮、耍赖的垃圾时间。这家中国第二，全球第四的通信设备供应商，在美国元器件供应商禁售元器件、软件、设备等技术产品的情况下，正面临灭顶之灾。国内舆论一片哗然，激动者号召抵制美国产品，阴谋论者曰怒斥美帝国忘我之心…",
+                "excerpt_title": "",
+                "id": 36210944,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/b0cafd22733c1e114692beccce789903_{size}.jpg",
+                    "name": "陈猛",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "公众号：吐槽的科学；腾讯网解构历史专栏《传世之城》作者。",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "chen-meng-80-31",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/b0cafd22733c1e114692beccce789903_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/55ceffe64e1a7da51ddc5e02a322ea2a",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "55ceffe64e1a7da51ddc5e02a322ea2a",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36210944",
+                "created": 1524851862,
+                "content": "<p>中兴被美国封杀事件已经进入互相扯皮、耍赖的垃圾时间。这家中国第二，全球第四的通信设备供应商，在美国元器件供应商禁售元器件、软件、设备等技术产品的情况下，正面临灭顶之灾。国内舆论一片哗然，激动者号召抵制美国产品，阴谋论者曰怒斥美帝国忘我之心不死，悲观理性派痛心疾首分析中美科技差距，乐观理性派认为塞翁失马焉知非福，此事或成国内自主研发的强大动力。若干年后待我们自研出高端芯片，岂不一血今日之耻？</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-925e419cf194ec3fdade56ac29b36ec3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-925e419cf194ec3fdade56ac29b36ec3_r.jpg\"/></figure><p>这些论调有些是义愤填膺，有些在煽动情绪，也有些是深刻反省，但这都不是我们今天要说的重点。当时当下，我只想问一句：如果中兴现在研发出了与高通等公司同一水平的芯片，是否它就和美国企业同样强大了？</p><p>光刻机是制造芯片的核心设备，目前最高端的国产光刻机加工精度为90nm，而世界顶尖水平为7nm。有些网友抱怨发达国家对我国进行技术封锁，高端技术不转让给中国。但在我看来，这种所谓的技术封锁，其实并不算特别严酷。</p><p>说起技术封锁，我第一个联想到的是著名科幻小说《三体》。三体人对地球人的技术封锁堪称无所不用其极，最后依靠打入敌人内部的云天明用极为艰涩的密码，才传递出一点消息：三体人有光速飞船。这条地球最出色的卧底传回来的消息，别说技术细节了，大方向都没有，但是地球人欣喜若狂。因为这说明了一个道理：光速飞船是可实现的。如果不知道这个消息，地球人在选择技术发展方向时，不知道要走多少弯路。云天明给地球人指明了方向，相对于无头苍蝇一样的盲目尝试，已经是莫大帮助了。</p><p>当然，中美两国的关系再怎么差，也比三体人与地球人强一些，这个例子只是用来说明：<b>相比于开拓者而言，跟随者不管多艰难，也都是相对容易的。</b>即便中兴现在研发出了媲美高通的芯片，也只是一个跟随者的角色，仍旧不具备顶级企业“引领行业进步”的觉悟和能力。企业如是，国家亦如是。所以无论是大骂美国限制技术转移的，还是意淫若干年后中兴迎头赶上一雪前耻的，都属于认不清客观事实的盲目热血。我们还正走在通往强大的道路上，这条路仍然任重而道远。</p>",
+                "comment_count": 0,
+                "title": "如果中兴研发出了高端芯片，就可以和美国企业一样强大了？",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-a7f03cf9eb9e9b815bb262f4161f08af_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-925e419cf194ec3fdade56ac29b36ec3_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjY3NDk3MCCWyY3XBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2MjEwOTQ0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-8e4d88ec03140fd6964978192486bb6e_hd.jpg",
+                "updated": 1524034743,
+                "is_labeled": false,
+                "excerpt": "本周最令大家唏嘘的一条新闻，莫过于中兴被美国商务部制裁, 如果制裁中兴的禁令最终和解谈判失败的话，那未来7年以内，中兴再也不能采用任何来自美国的零件和技术来生产产品了。根据非官方统计，中兴通讯大约有 20% 至 30% 的元器件由总部在美国的厂商供应…",
+                "excerpt_title": "",
+                "id": 35825393,
+                "voteup_count": 6,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-d2ff74da42466bcd896ac6e92878a6c8_{size}.jpg",
+                    "name": "睿博士",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "扎根电子行里20年的资深小学生 欢迎关注公众号：睿博士研发工程",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "rui-bo-shi-43",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-d2ff74da42466bcd896ac6e92878a6c8_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/ec27f2a4d619f94a2cf2837940ddcefb",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "ec27f2a4d619f94a2cf2837940ddcefb",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35825393",
+                "created": 1524034744,
+                "content": "<p>本周最令大家唏嘘的一条新闻，莫过于中兴被美国商务部制裁, 如果制裁中兴的禁令最终和解谈判失败的话，那未来7年以内，中兴再也不能采用任何来自美国的零件和技术来生产产品了。</p><p>根据非官方统计，中兴通讯大约有 20% 至 30% 的元器件由总部在美国的厂商供应，并且比较常用的零部件如高速 ADC/DAC、调制器、高性能锁相环、中频 VGA 等产品，大部分都要依赖于国外芯片厂商供应，暂时无法在国内获得同等替代品。<b>如果这一禁令生效的话，无疑会对中兴造成毁灭性打击。</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4b639ae65f9ab80c60cabe8655621f4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"434\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-d4b639ae65f9ab80c60cabe8655621f4_r.jpg\"/></figure><h2><b>如果你是中兴，你该怎么办？</b></h2><p>这两天也不断看到各路网友为中兴出主意的，目前看起来最“有效”的办法——坐吃等死。</p><p><b>用库存啊！</b></p><p><b>那库存用完呢？</b></p><p><b>想办法啊，总有人愿意卖的吧？还有淘宝呢！</b></p><p><b>熬几年，说不定川普就下台了。</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-170ae2c438743839d7d684fd55520b74_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-170ae2c438743839d7d684fd55520b74_r.jpg\"/></figure><p>虽然中兴此番被制裁让行业内掀起不小的波澜，作为中美贸易战的牺牲品，中兴真的是躺枪吗？至少我觉得不是。</p><p>作为电子行业内人，大家对&#34;<b>中美贸易只要打架，必定会搞高新产业</b>&#34;，作为国内排得上号的企业，中兴靠着进口器件、技术的支持活到今天，理应未雨绸缪，竟然没有Plan B去应对本次危机，实在让人咂舌。作为国人，由衷希望中兴能够成为一家真正的全球IT百强企业，而不是元器件和技术的搬运工。</p><h2><b>柿子先挑软的捏？</b></h2><p>为什么美国不先去搞华为？川普首杀中兴确实有先挑软柿子捏的嫌疑。</p><p>再来仔细看一下美国商务部长罗斯有关此次事件的声明。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-c50b81b8297fca83a1a548c13303f788_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-c50b81b8297fca83a1a548c13303f788_r.jpg\"/></figure><p>欲加之罪何患无辞，根据美国商务部给出的理由，之所以对中兴进行如此严苛的制裁，是<b>因为中兴违反了美国限制向伊朗等国出售美国技术的制裁条款</b>。 </p><p>这份禁令表述的是，<b>禁止美国公司向中兴销售零部件、商品、软件及相关技术</b>，有效期长达 7 年。</p><p>7年，对中兴来说，影响可能比想象中还要大。</p><p>对于中兴来说，<b>失去Android系统的使用权将是一次沉重打击，因为市场中的替代系统已经很少。</b>微软公司和惠普公司已经不再提供智能机操作系统。苹果公司的iOS系统只提供给自家设备。中兴也没有自主操作系统。唯一可能的替代系统就是三星电子的Tizen，但是该系统尚未流行开来，只支持少量应用。</p><p>由于供应链的高度全球化，如果不能从美国厂商手中购买零部件及相关产品，无论是产品开发、制造亦或是销售环节，中兴的业务将会受到全面的影响。</p><p>行业内人士分析称，通信设备所涉及的元器件数量众多、类型复杂，一旦其中的一颗芯片被禁运，整台基站设备都可能会受影响。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-61231f6d37035546976d554fb8f24209_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"542\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic2.zhimg.com/v2-61231f6d37035546976d554fb8f24209_r.jpg\"/></figure><p><b>美国轻描淡写一句话，就轻易扼住了中兴的咽喉。</b>恐怕没等到特朗普下台，中兴已经熬不下去了。此刻再看到中兴的标语，不免觉得应景，未来，确实等不了了。</p><p>作为国企，中兴应该没那么容易被杀死，上次拿中兴开刀，虽然花了11亿美元至少挽回了局面，希望这次“大出血”完了，中兴能够真的吃一堑长一智，尽快强大起来，成为中国抵抗美国“搞事”的盾牌，而不是美国要挟中国的筹码。</p><h2><b>受影响的不仅仅是中兴</b></h2><p>从更大的范围来看，作为全球通信基础设备供应商的中兴，此次也会引发一连串的蝴蝶效应。目前，中兴共占有全球电信设备市场约 10% 的市场份额，在中国的份额则高达 30%。一旦出现断供，将影响多地的运营商网络正常运行。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-fdb89b8adbf7ee1c7ff243ea5ea2beb3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic4.zhimg.com/v2-fdb89b8adbf7ee1c7ff243ea5ea2beb3_r.jpg\"/></figure><p>虽然<b>华为的硬件实力正在突飞猛进，海思最新的麒麟芯片可以和高通骁龙820一比高下</b>。但是覆巢之下，焉有完卵，在电子行业元器件不断缺货又遭遇中美贸易战的现在，所有电子企业人人自危，更何况一直受到美国特殊“照顾”的华为呢？</p><p>4月18日早，美国商务部已向华为公司发出行政传唤，要求华为提供过去五年向朝鲜、伊朗、叙利亚、古巴和苏丹出口的全部信息，配合美国对通讯技术出口限制的调查。旨在查明华为是否违反了美国的禁运，把美国技术专卖给了特定国家。传票已经送达华为在得克萨斯州的美国总部。</p><p>华为又将给出怎样的回复呢？期待华为的反击。</p><p><b>中国半导体当自强已经到了前所未有的紧迫程度，也被放到了史无前例的战略高度。</b>这次贸易战确实是对中国科技的一次考验，希望行业内的每个人，都能背负起中国智造的荣誉，危机不可能永远存在，但应当心中警钟长鸣，为中国智造崛起添一份力。</p>",
+                "comment_count": 0,
+                "title": "首杀中兴？中国半导体自主研发迫在眉睫！",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-8e4d88ec03140fd6964978192486bb6e_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-d4b639ae65f9ab80c60cabe8655621f4_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-170ae2c438743839d7d684fd55520b74_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUyMDY2NyC42dvWBSgGMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODI1Mzkz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "美国2008年面临的金融压力并没有我国现在的压力大。而且二战之后美国的金融一直都比较健康，起码比我国要健康很多。这个资本主义国家在前两百年里不是白混的。周期性的金融危机对他们来说是司空见惯的事情。美国人有足够的经验和资本来应对。而且金融/经济…",
+                "created_time": 1523619129,
+                "id": 366094259,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/451f6ef5270982ce7afb976c96ee5576_{size}.jpg",
+                    "name": "新虢姬",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "毁灭全人类！",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "xin-guo-ji",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/451f6ef5270982ce7afb976c96ee5576_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/58e3c3d8a6b3805e9965f9ed3d01bbf0",
+                    "gender": 0,
+                    "badge": [],
+                    "id": "58e3c3d8a6b3805e9965f9ed3d01bbf0",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/366094259",
+                "question": {
+                    "created": 1523511676,
+                    "url": "http://www.zhihu.com/api/v4/questions/272018949",
+                    "title": "美国在面对金融压力，并维持高福利制度，为什么经济能够复苏且势头很强？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 272018949
+                },
+                "updated_time": 1523619129,
+                "content": "<p>美国2008年面临的金融压力并没有我国现在的压力大。而且二战之后美国的金融一直都比较健康，起码比我国要健康很多。</p><p>这个资本主义国家在前两百年里不是白混的。周期性的金融危机对他们来说是司空见惯的事情。美国人有足够的经验和资本来应对。</p><p>而且金融/经济危机之后的复苏对发达国家来说是再正常不过的事情了。所以，奇怪的并不是美国而是中国。</p><p></p>",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTY2MjQwNzEguarC1gUoBzAFQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNzIzNTc0cgkzNjYwOTQyNTk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524233580,
+                "is_labeled": false,
+                "excerpt": "昨日，中兴通讯多年前违规对伊出口事件再次发酵，美国商务部以中兴未能履行和解协议中部分条款为由，宣布将禁止美国企业向中兴销售元器件，时间可能长达7年。去年3月，中兴刚刚与美国政府就出口管制调查事件达成和解，中兴认缴了8.92亿美元刑事、民事罚金及…",
+                "excerpt_title": "",
+                "id": 35933056,
+                "voteup_count": 5,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "灵山居士斗战胜佛",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "常识并不总是那么显而易见",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "zhang-kai-90-36-76",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/250f6406e9181a611fa69d079b64d6ba",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "250f6406e9181a611fa69d079b64d6ba",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35933056",
+                "created": 1524232910,
+                "content": "<p>昨日，中兴通讯多年前违规对伊出口事件再次发酵，美国商务部以中兴未能履行和解协议中部分条款为由，宣布将禁止美国企业向中兴销售元器件，时间可能长达7年。去年3月，中兴刚刚与美国政府就出口管制调查事件达成和解，中兴认缴了8.92亿美元刑事、民事罚金及留置美国商务部的3亿美元暂缓罚金。此次美国商务部再次发难的直接理由——中兴未能对35名员工做出减少奖金的处罚看似小题大做，但对中兴“多次虚假陈述”的认定则表示其绝不会轻易善罢甘休。</p><p>此次事件的后续发展大致有两种可能：一是“从轻发落“——美国商务部没收中兴的3亿美元暂缓罚金，中兴再次认罚并整改。这个裁决对中兴无伤大局，也可以说是最佳结果。二是美国商务部坚持对中兴的出口管制。由于中兴庞大产业链中的核心元器件大多来自美国，而且没有替代供应商，这一禁令对中兴而言几近灭顶之灾。从某一方面来讲，美方这一”流氓行径“的目的就是要置中兴于死地，下手之狠与所谓中兴违反和解协议的程度完全不成比例。联系当前中美贸易战的背景，美方这次对中兴下手绝非一孤立事件，就连美国财经界的评论员也大多持此观点。笔者认为，近来所谓美对华发动贸易战的说法并不准确，更准确的定义应是经济遏制战，常规目标是将中国的经济限制在一定的层次和规模，终极目标是迫使中国经济崩溃。虽然此次“中招“的是老二中兴而非老大华为，似乎已是万幸，实则是因为中兴在美国已耕织多年，割舍不下美国市场；而美国忌惮华为实力，屡屡设堵，华为多次叩其门而不得入。如今看来，华为反倒是塞翁失马，否则也极可能是进得去、走不掉。因此，中国政府对美国绞杀中兴的举动绝不能袖手旁观，否则此端一发将不可收拾，能达成上述第一种结果当然更好，如若不然就须果断启动应对措施。</p><p>中兴虽然在销售规模上远逊华为，但在研发实力和专利储备上并不弱于后者，如果就此沉沦，不管对行业还是对国家而言，各方面的损失将不可估量。笔者以为，如果美国对中兴下死手，中国政府可按以下步骤实施救助：</p><p>一、完全国有化。中兴本就是国有控股，无论是地方中兴新还是中央汇金主导，可按4月16日停牌前价格实施国有化退市，首先保全中兴的业务、组织架构及股民利益。</p><p>二、业务重组。将原有的基站、光通信、手机三大业务打包出售或资产置换，核心业务向芯片转型。中兴此次不可承受之痛即“缺芯“所致，正可借此实施产业升级，尽快在芯片领域展开研发重置以及资产并购。</p><p>三、打造国家平台。依托中兴成熟的研发团队管理经验，完全国有化后的中兴可升级为国家级“核高基“平台之一，国家可持续投入专项资金，逐步将其打造成国内的芯片设计、制造中心。</p><p>一个优秀的科技型企业，其核心竞争力永远在研发团队管理能力，其业务可以被肢解，只要能力还在，终有凤凰涅槃的一天。其实说白了，再高深莫测的技术，只要具备能力被激发的人才+充足的资金，很快实现突破也并非难事。好在后面这一条在中国根本不算个事，至于前面那一条，相信中兴也不差。（2018-4-18）</p>",
+                "comment_count": 0,
+                "title": "中兴的生死劫",
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjU2MzY5MyDO5efWBSgFMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1OTMzMDU2"
+        }
+    ]
+}

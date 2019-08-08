@@ -1,0 +1,233 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1447031486.24203",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1446561610.58&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1446561610.57869"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523238529,
+                "is_labeled": false,
+                "excerpt": "<i>这个清明节，菠菜和家人驱车去了易县。这里就是“风萧萧兮易水寒，壮士一去兮不复还”的发生地，不得不让人想起那位2000年前失败的英雄——荆轲。有人说他刺杀秦王失败是因为猪一样的队友秦舞阳心理素质不好，表情泄露了计划；有人说是太子丹的A、B两套方案…</i>",
+                "excerpt_title": "",
+                "id": 35436600,
+                "voteup_count": 3,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "type": "people",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35436600",
+                "title": "我依旧觉得，农业是接下来的机会",
+                "created": 1523228636,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7396917bfd8c3d6ce003cc7eec76d552_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><blockquote><i>这个清明节，菠菜和家人驱车去了易县。这里就是“风萧萧兮易水寒，壮士一去兮不复还”的发生地，不得不让人想起那位2000年前失败的英雄——荆轲。有人说他刺杀秦王失败是因为猪一样的队友秦舞阳心理素质不好，表情泄露了计划；有人说是太子丹的A、B两套方案让荆轲左右为难；还有人说是荆轲本身的武艺并不高强……总之，历史的真相如果不能发明时光机穿越也无从知道真相了，但如果荆轲刺杀成功，那么秦就不会统一六国了吗？</i></blockquote><p>整个假期，吃瓜群众都在看中美毛衣战的战况，晚上又看到特朗普在推特上透露的缓和迹象，又让大家摸不着头脑。6月底之前，这场仗是嘴炮呢，还是嘴炮呢，还是嘴炮呢？不过，尽管市场情绪会受美股暴跌的影响，但周二就很可能会出现转机。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-14ebadb6935b1d1634e651b46d9c26ce_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"130\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic3.zhimg.com/v2-14ebadb6935b1d1634e651b46d9c26ce_r.jpg\"/></figure><p>因为，博鳌亚洲论坛很可能会有超预期的消息出来，拭目以待。</p><p>在分析下周市场之前，我先说说大豆这个我曾经一直担心的农产品品种。中方终于强硬的回复了要对美国进口大豆加收25%的关税。我们星空群里有位高人@郑相宜童鞋，我看了她发表的观点，特别想贴出来给大家分享一下：</p><p>“我们假设这种情况，美国大豆成本一元，销售价两元，国产大豆成本四元，销售价三元，政府补贴一元，这样的话加税25%，结果是市场上还是卖2.5元的美国大豆。”</p><p>这位亲举这个例子，是想说明中方反击措施未必会直接伤害美国出口。不过，菠菜认为这个增加了的税最后买单的很可能是出口方和进口方共同，也就是说美国出口大豆的相关公司的利润会蒙受损失。</p><p>所以，对于接下来的市场机会，我首先依旧看好的是农业。不管毛衣战是否真的会真枪实弹的干，我国一定会更加强粮食储备，一定会加大农业的投资力度，一定会促进农业相关企业的发展。对了，看了菠菜上周文章选了农业龙头赚大钱的，记得点个赞，让我也为你高兴一下。</p><p>重要的都放在前面说完了，接下来，说说下周市场：</p><ol><li>高送转又出来新规，大家可以自己看一下原文。我的理解是没有一定业绩增长的公司高送转是不可以的。另外，重要股东减持或解禁面对这么大抛盘的，一年之内不能高送转。我从去年就说高送转这种资金推动的票我不看，看来方向是很明确的。远离；</li><li>万科的刘独董又写作文怼宝能。虽说宝能站出来说没有的事，但宝能自己出局万科目前市场上已经没有悬念。问题我是想知道，谁会来做宝能的换手盘？不管如何，万科的业绩很可能会超预期，但不建议中小投资者参战；</li><li>前面两条都是说的防风险，接下来我认为机会在医药和创业板。看一下美国新增的1000亿关税壁垒，主要是中国卖给美国的高端耗材、医药制品等。我不能苟同有些人说的我们国家在这些领域的技术领先，但是生产成本领先是有目共睹的。在这个板块，建议大家关注那些正在并购医院的生产型企业，就算没有毛衣战这码子事，这样的企业未来也会整合市场迅猛发展；</li><li>博鳌论坛这次有大老板发言，大家等着听的一个是国企改革的一些政策性东西，一个是自由港，还有就是怎么玩“合纵连横”，看看一带一路有没有进展；</li><li>一季度季报，那些利润增长迅速，超过20%，市盈率不太差的，最好是科技类的公司，一定要重视。如果是毛衣战影响到美股，再影响了A股导致的回调，可以果断买入这些公司。</li></ol><p>PS：开头的那个问题，我在荆轲塔溜达的时候想过。其实，太子丹只是想为燕国的灭亡争取点时间，即使秦始皇被杀了，秦国乱一段时间，燕国免亡的命运不会逆转。说给细节，他当时给了荆轲的A方案是不杀死嬴政，以死逼他退兵交出诸侯们那些被占领的土地。这种想法真是图样图森破了。但是，那场对决中，秦始皇做出了正确的判断，事后以最快的速度灭掉了燕国。我认为他的内心不是没有安全感，而是觉得燕当时的那届朝廷水平也就这样了。派刺客是没有办法的下策。</p><p>反观毛衣战，何尝不也是这样。双方都互捅一刀，看谁流血多先倒掉。今天传来了白宫内特朗普和其幕僚长凯特的争吵，凯特扬言要辞职。看来特朗普的团队内部分裂的原来越厉害，他已经隐约表示要牺牲美股来打毛衣战，反对的呼声一定会越来越高。这种下策，可以说是狗急跳墙吧。总之，这次国内的态度强硬还是说明我们今非昔比了，底气足了。</p><p>这次毛衣战对国内心里上影响如果想消除，只有迅速发展，迅速强大，包括农业和能源业。只有摆脱对进口的依赖才不会被人抓住小辫子。中国此刻的选择，和秦始皇当年是一样的，用最快的速度去发展。密切关注对美加收关税的行业，必是机会。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-8f3cbc810daab7ec973f713bf065e23c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"496\" data-rawheight=\"274\" class=\"origin_image zh-lightbox-thumb\" width=\"496\" data-original=\"https://pic1.zhimg.com/v2-8f3cbc810daab7ec973f713bf065e23c_r.jpg\"/></figure><p>国运和大盘一样，一旦形成趋势，不可逆。还怕啥？</p><p></p>",
+                "comment_count": 2,
+                "image_url": "https://pic2.zhimg.com/50/v2-d4183b6c00394a5ae08022d3621eaa39_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-d4183b6c00394a5ae08022d3621eaa39_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-14ebadb6935b1d1634e651b46d9c26ce_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-8f3cbc810daab7ec973f713bf065e23c_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjM2NDgwMSDcv6rWBSgDMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NDM2NjAw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1535867061,
+                "is_labeled": false,
+                "excerpt": "美国马里兰州安德鲁空军基地，细雨绵绵，川普来到这里搭机前往西维吉尼亚州，为共和党的中期选举拉抬选票，同时更为了保住自己的政治生命而拼命。当川普登上前往西维吉尼亚州的飞机时，在美国有两场法庭大戏，如双鬼拍门般威胁着他。 川普遭到双鬼拍门，三…",
+                "excerpt_title": "",
+                "id": 43335099,
+                "voteup_count": 89,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_{size}.jpg",
+                    "type": "people",
+                    "name": "捷克甜糖",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/097e844fdfb8462488c0af2a809c6265",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "yue-han-zao",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_is.jpg",
+                    "is_org": false,
+                    "headline": "搜索公众号“微观系列”，关注我 获取更多好文",
+                    "badge": [],
+                    "id": "097e844fdfb8462488c0af2a809c6265"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/43335099",
+                "title": "通俄门/通妓门，双鬼拍门，川普生命中最糟的一天",
+                "created": 1535867061,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-3b5614a054c416984645b302b5dbbd23_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"641\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"641\" data-original=\"https://pic4.zhimg.com/v2-3b5614a054c416984645b302b5dbbd23_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>美国马里兰州安德鲁空军基地，细雨绵绵，川普来到这里搭机前往西维吉尼亚州，为共和党的中期选举拉抬选票，同时更为了保住自己的政治生命而拼命。</p><p>当川普登上前往西维吉尼亚州的飞机时，在美国有两场法庭大戏，如双鬼拍门般威胁着他。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-9f4fd40b56b21cf41f72564ad746ba48_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"693\" data-rawheight=\"390\" class=\"origin_image zh-lightbox-thumb\" width=\"693\" data-original=\"https://pic1.zhimg.com/v2-9f4fd40b56b21cf41f72564ad746ba48_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>川普遭到双鬼拍门，三亲信背叛</p><p>双鬼是</p><p><b>通俄门，通妓门</b></p><p>三亲信是</p><p><b>川普最亲密的私人律师，科恩（已认罪）</b></p><p><b>川普竞选总干事，马纳福特（已定罪）</b></p><p><b>川普亲自任命的司法部长，塞申斯（不听话）</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-685ce299e0f836d1c16b8bf3a31dd0d6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-685ce299e0f836d1c16b8bf3a31dd0d6_r.jpg\"/></figure><p>川普亲密律师，科恩（左），婚外情对象（右）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们一个一个来说，先说与川普合作十多年，无论大事小事，丑事恶事全都交给他负责的，川普个人最信任的律师，科恩的背叛。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>川普有过两段婚外情艳史，其中已知的是两段</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一段是和美国色/情片女明星，丹尼尔斯</b></p><p><b>一段是和《花花公子》旗下的女郎，玛丽杜格尔</b></p><p>川普在有老婆的情况下和这两个女人同时发生婚外情，本来你发生婚外情，那只是你个人的道德伦理问题，并不牵扯到法律。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可在2016年，当川普要竞选美国总统的时候，他就必须要“摆平”这两个女人，让这两个女人闭嘴，别将自己“婚外情”的丑事给公布出去。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>因为我们知道，美国是一个新教国家，受到宗教影响，信徒们对于总统的个人品行极为看重</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果川普的婚外情被这两个女人给说出去了，那他一定会流失掉大量选票，也就不可能在2016年总统大选里打败希拉里而胜选。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>所以，让那两个女人闭嘴，是川普竞选时期的一项重要任务。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-64f3c88e7e0d8f63f18c5121a4026899_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-64f3c88e7e0d8f63f18c5121a4026899_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而负责让这两个女人闭嘴的任务，自然就落到他最信任的，十几年的合作伙伴，律师科恩身上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>科恩分别向这两个女人支付了13万和15万美金，共计28万美金，大概等于190万人民币的封口费。</p><p>然后这两个女人闭嘴了</p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是在竞选期间，川普呈现给选民的是一副好老公，好父亲，好外公的三好形象。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>大选结果，川普当选美国总统。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可现在问题来了，曾收了封口费的两个女人出来控诉川普有婚外情，根本就是欺骗美国选民</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而更严重的问题是，经过调查，当时支付给两个女人封口费的钱，是来自于川普的“竞选经费”。</b></p><p>这个问题就大了</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-cdd5a1cc23414e1441b9fa3f6d4e9def_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"479\" data-rawheight=\"272\" class=\"origin_image zh-lightbox-thumb\" width=\"479\" data-original=\"https://pic4.zhimg.com/v2-cdd5a1cc23414e1441b9fa3f6d4e9def_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>要知道，竞选经费是你的支持者给你的政治献金，而这政治献金就只能用在竞选活动上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>那现在你用这个“竞选经费”去支付自己两个情妇的封口费，这算“竞选活动”吗？</p><p><b>当然不算</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>用竞选经费去支付情人的封口费，直接违反美国《竞选资金法》</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>作为美国政治最重要的“总统大选”，其对于“竞选资金”的使用有着极为严格的规定，违反“竞选资金法”将直接威胁到川普的总统大位。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>面对这起可能威胁到政治生命的“通妓门”，川普在接受美国媒体采访时如此辩解道</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一开始我根本不知道封口费这件事，这是科恩自己去做的，而且我必须讲清楚，支付封口费的钱也是我后来自掏腰包的，根本不是用的“竞选经费”</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我必须重申一遍，封口费的钱是我自掏腰包的，绝不是“竞选经费”。</p><p>川普的意思很明白，就是</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>老子不知情</b></p><p><b>第一，我没叫科恩去支付封口费</b></p><p><b>第二，我知道他要支付封口费后，我是自掏腰包付的钱，根本没有用我的“竞选经费”去付钱。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d11f1a1a3ba39f67336a302dcf5887a8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-d11f1a1a3ba39f67336a302dcf5887a8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这是川普这边的说法</p><p>那他的亲密律师，科恩又是怎么说的呢？</p><p>科恩从忠臣，变成叛徒</p><p>主动向美国FBI投案自首后，以极快的速度和纽约联邦检察官达成认罪协议</p><p class=\"ztext-empty-paragraph\"><br/></p><p>科恩共承认8项罪名，还“暗示”其中的两项罪名，是受到总统川普的教唆和命令</p><p class=\"ztext-empty-paragraph\"><br/></p><p>科恩说，我受到一名“联邦选举候选人”的委托，在2016美国总统大选投票日前夕，向美国色/情片女明星丹尼尔斯，和另一位花花公子的女郎玛丽杜格尔，分别支付了13万和15万美元的封口费。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>虽然科恩用了“联邦选举候选人”这个说法，但谁都知道，这个候选人，指的就是川普。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>而且科恩还在后面说，他有12盘录音带，可以证明就是川普下令，让他去支付“封口费”的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>“通妓门”检察官目前正在加紧调查这些录音带，调查结果可能对川普很不利。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-f7c44822ad37e765fd8bb8545340a599_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"972\" data-rawheight=\"547\" class=\"origin_image zh-lightbox-thumb\" width=\"972\" data-original=\"https://pic2.zhimg.com/v2-f7c44822ad37e765fd8bb8545340a599_r.jpg\"/></figure><p>水门事件，尼克松辞职</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不过作为美国总统，川普还是会暂时没事</p><p>因为美国宪法里有明文规定，不允许美国司法部对在位总统提出刑事起诉，也就是说，只要川普还是总统，他就没事。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可在美国还有一条不成文的规定</p><p>“水门案”就是个典型</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>当年总统尼克松在总统大选的时候，为了赢选举，派出“特工”，在竞选对手的办公室里安装窃听器，偷拍重要文件。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>当事件爆发后，尼克松同样因为是总统而无法遭到起诉，但面对巨大的社会舆论压力，尼克松最后就因为羞愧而主动辞职下台。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在川普在美国，因为“通俄门”和“通妓门”一样受到巨大压力和舆论谴责，那川普会不会因为羞愧而主动下台呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>当然不会，川普的脸皮和他要建的“美墨长城”一样厚</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>反正只要我脸皮够厚，美国法律就拿我没办法。</p><p>除非国会来弹劾我</p><p class=\"ztext-empty-paragraph\"><br/></p><p>川普非但不为婚外情，感到羞愧，反而还认为美国不能没有我，美国决不能没有川普。</p><p>川普在采访最后说</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-92d75d98b6e23f9d7e19af1a76c9de53_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"744\" data-rawheight=\"566\" class=\"origin_image zh-lightbox-thumb\" width=\"744\" data-original=\"https://pic4.zhimg.com/v2-92d75d98b6e23f9d7e19af1a76c9de53_r.jpg\"/></figure><p>我实在无法理解，你们怎么会想弹劾表现这么杰出的一个人，我告诉你，如果我被弹劾了，美国股市会崩盘，市场会大乱，所有人都会变穷。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>因为你不用想也知道，你会看见难以置信的（糟糕经济）数字</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这说话风格，真的就是川普啊。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-8305d3319360aef438a3f24523bb328b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-8305d3319360aef438a3f24523bb328b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>双鬼拍门，第二鬼</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>通俄门</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>背叛亲信，2016年川普竞选总干事马纳福特</p><p>可以说川普能赢得总统大选，全靠他的竞选总干事马纳福特。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>因为川普这个人是个商人，也算个媒体人，他曾主持过美国一档收视率很高的综艺节目《谁是接班人》</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但川普是个政治门外汉，他从来没有参与过政治，当总统前什么政治职务都没当过，是个地地道道的政治小白，更对于大选一窍不通。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以就需要一个非常精通政治和大选的，能力非常强的人来辅佐他</p><p>而这个人，就是他的竞选总干事，马纳福特。</p><p>马纳福特是川普成功当选总统的头号功臣和心腹大将。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可此时，这位头号功臣，已然毫不犹豫的选择背叛川普。</p><p>马纳福特，在遭到马拉松式审讯20天后，被控8项罪名成立</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>包括银行诈欺，税务诈欺，利用海外秘密账户转移巨额资金</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-bf5620f8a853792172b9f76157f8f68b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"460\" data-rawheight=\"259\" class=\"origin_image zh-lightbox-thumb\" width=\"460\" data-original=\"https://pic4.zhimg.com/v2-bf5620f8a853792172b9f76157f8f68b_r.jpg\"/></figure><p>马纳福特</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这里必须要讲一下这位马纳福特的身份背景，实在是太妙了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>马纳福特是个典型的“政治掮客”，他开着一家有名的“政治游说公司”，这个“政治游说公司”的工作，就是帮私人企业与政府相关人员搭建关系，让政府做出对公司有利的政策。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而且马纳福特早在1988年就认识川普了，当时川普就找到马纳福特，让他来帮自己的公司进行“政治游说”。</p><p>而且马纳福特这个人真的是很厉害</p><p><b>各位可能不知道，这老兄曾经是乌克兰前总统，亚努科维奇，的首席政治顾问。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>亚努科维奇，相信大家都不陌生，2014年，当大多数乌克兰人民希望加入欧盟的时候，总统亚努科维奇却说，我们应该选择留在俄罗斯这边。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>结果直接导致当年的“乌克兰政.变”，政.变结果，亚努科维奇下台，连夜逃往俄罗斯避难。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而当时，和亚努科维奇一起逃到莫斯科，一起投入普京怀抱的，还有亚努科维奇的首席政治顾问，马纳福特。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-c5cd2772f0ce39ca144b2b2290e21039_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-c5cd2772f0ce39ca144b2b2290e21039_r.jpg\"/></figure><p>乌克兰前总统，亚努科维奇</p><p class=\"ztext-empty-paragraph\"><br/></p><p>乌克兰总统，俄罗斯总统，美国总统，这全都和马纳福特联系起来了</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>马纳福特先是乌克兰总统的特别顾问</b></p><p><b>然后又一起逃到莫斯科，投入普京怀抱</b></p><p><b>之后回到美国，成为了川普竞选总统的主要人物。</b></p><p><b>这其中的关系，惹人遐想</b></p><p>所以你马纳福特，是不是就是川普和俄罗斯搭建关系的秘密桥梁？是不是就是“通俄门”里的政治掮客，就让美国检察官高度怀疑了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>目前，马纳福特共遭到18项罪名的指控，其中有8项被定罪。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a6d7209f643083354b437009d544e6c3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-a6d7209f643083354b437009d544e6c3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而除了这8项被定罪的罪名外，下个月他还要在华盛顿面临“洗钱”和“非法游说”的官司</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>“洗钱”和“非法游说”可就更厉害了，这两项都是最高可以被判20年有期徒刑的重罪。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>那么，马纳福特会不会为了寻求减刑而出卖川普，主动供出川普和俄罗斯勾结影响美国2016大选呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这是现在全世界最关注的焦点，要是特朗普真的和普京勾结，那美国人民可能会爆炸。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>“通俄门”是绑在川普身上的最大炸弹，所以川普也在很多场合一再重申，“马纳福特案”并不是单纯的案件，他背后又高度的政治动机，是一场捕风捉影的政治迫害。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>也正因为该案背后的“政治动作”十分明显，现在就有人说，川普可能会使用总统的“特赦权”来赦免马纳福特</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>赦免了马纳福特也就等于他自己的麻烦减轻了一半。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-60de4779486ad93e806683ff8c388402_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"665\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-60de4779486ad93e806683ff8c388402_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>那这里就要提到一点，美国总统享有的两大特权</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一个是“豁免权”</b></p><p><b>一个是“特赦权”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>只要川普还是总统，就无法成为被告，被起诉</p><p>另外川普还可以使用“特赦权”，赦免马纳福特</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但美国法律又规定，“总统特赦权”只能用于“联邦法内的罪行”，而马纳福特涉及的多宗指控其实是“州法罪行”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以川普想要用“特赦权”，平息“通俄门”是很难的。</p><p>但川普还有另一个，可以平息“通俄门”的办法</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>就是施压“司法部长”，让司法部长去干涉“马纳福特案”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>那这里，我们的第三位背叛主角，就登场了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-dbd82dd3688877f70858460df7dab61b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"309\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-dbd82dd3688877f70858460df7dab61b_r.jpg\"/></figure><p>美国司法部长，塞申斯</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第三位背叛川普的亲信，由川普自己亲自任命的</p><p>美国司法部长，塞申斯</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>目前负责“通俄门”调查的是特别检察官“穆勒”，穆勒死死咬着川普不放，誓要将川普咬下马来。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>而美国的司法部长是有权开除“特别检察官”的，也就是说如果塞申斯站在川普这边，开除特别检察官的话</p><p class=\"ztext-empty-paragraph\"><br/></p><p>那川普的“通俄门”就要重新调查，到时候换一个有利于川普的新特别检察官，那川普“通俄门”的压力就会减少很多。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可现在的问题是，这个由川普亲自任命的，曾经最信任的司法部长塞申斯，直接“背叛”川普</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>他根本不理川普的要求替换“特别检察官”的命令，还是让穆勒继续负责通俄门调查。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这让川普特别头疼，可以说是芒刺在背。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-742253c002b1c29a3790681134aad63e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-742253c002b1c29a3790681134aad63e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>美国司法部长塞申斯面对来自总统川普的巨大压力的时候，在媒体面前表态</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>我，绝不低头</b></p><p><b>司法部不会向白宫低头</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>只要我还担任司法部长，司法部的作为就不会受到任何政治力量的不当影响，我要求的是法律公正的最高标准。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>我不会替换通俄门调查，特别检察官穆勒的位置。</p><p>第三名亲信，司法部长的背叛，使得川普开始计划让这个司法部长滚蛋。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们都知道，司法部长是川普自己任命的，而川普的任命也不全是按他的意愿可以随便让司法部长滚蛋的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-4786e22f7a71475856d2072aadb93f07_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"304\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-4786e22f7a71475856d2072aadb93f07_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>司法部长背后站着的是美国共和党，所以川普想要让塞申斯滚蛋，就必须得到共和党的默许。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在最新消息是，几位共和党大佬已经表态了，只要川普能帮共和党赢得期中选举，那共和党就默许川普让塞申斯滚蛋。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>政治游戏，一直是这样利益与利益相互捆绑的，川普和共和党相互利用，相互捆绑，川普帮共和党赢得期中选举，而共和党帮川普解决不听话的“司法部长”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>而一切的关键，全都在美国11月的中期选举。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-62670089b3e970ecb6bc5e74442f48cf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"451\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-62670089b3e970ecb6bc5e74442f48cf_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>其实美国的中期选举，看似是美国的选举，但这次对中国也影响巨大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>那是因为这次中期选举的胜败，与川普的政治生命关系重大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>共和党中期选举失败，川普政治生命受到严重威胁，随时可能被弹劾</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>民主党中期选举胜利，必定在国会发起对于川普的总统弹劾。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>川普如果被弹劾，那他现在所进行的所有政治动作，包括对中国的制裁，发动中美贸易战，这一切都将受到直接影响。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>而中美贸易战，又与你我生活息息相关，所以看起来这是美国的“中期选举”，但其实与中国人的生活也都有关系。</p><p>微信搜索，微观系列，获取更多好文</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-212ce68367cf05940275486a021ad21e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-212ce68367cf05940275486a021ad21e_r.jpg\"/></figure><p></p>",
+                "comment_count": 11,
+                "image_url": "https://pic4.zhimg.com/50/v2-163646504f7ad1a280fe907c16a8a870_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-163646504f7ad1a280fe907c16a8a870_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-3b5614a054c416984645b302b5dbbd23_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-9f4fd40b56b21cf41f72564ad746ba48_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHODY5MjAwNyC18a3cBShZMAtAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjEwNjQ0NnIINDMzMzUwOTk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "这么比较挺没劲的。说说我理解的航空发动机难在哪里吧。航空发动机难在系统复杂，设计边界窄（我是想说设计上要追求性能，不能留太多裕度，比如强度的安全系数，比如工作温度在材料的耐受温度边缘，比如气动上工作在接近不稳定的区域。概括来说有个名词叫精…",
+                "created_time": 1524262727,
+                "id": 372127174,
+                "voteup_count": 10,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/b6af27b3c5097772db84ded4a0f331dd_{size}.jpg",
+                    "type": "people",
+                    "name": "谢昌松",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/ace5bc196ddd4c68af58ae34b91bf2d4",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "xie-chang-song",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/b6af27b3c5097772db84ded4a0f331dd_is.jpg",
+                    "is_org": false,
+                    "headline": "你就在此地不要走动，我到前面探探路去",
+                    "badge": [],
+                    "id": "ace5bc196ddd4c68af58ae34b91bf2d4"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372127174",
+                "question": {
+                    "title": "半导体和发动机哪个更重要?",
+                    "url": "http://www.zhihu.com/api/v4/questions/265365156",
+                    "created": 1515550002,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 265365156
+                },
+                "updated_time": 1525984856,
+                "content": "<p>这么比较挺没劲的。</p><p>说说我理解的航空发动机难在哪里吧。航空发动机难在系统复杂，设计边界窄（我是想说设计上要追求性能，不能留太多裕度，比如强度的安全系数，比如工作温度在材料的耐受温度边缘，比如气动上工作在接近不稳定的区域。概括来说有个名词叫精益设计。），理论不完备。</p><p>相对来说，理论不完备是更本质的东西。比如，发动机上用到的很多方法、准则都依赖试验，因为系统太复杂了，影响因素太多，理论没法完备的描述系统。体现在实际工作中，常常很多专业表示算不准。其实试验也不一定都能模拟真实工作条件，比如最近美国西南航空风扇叶片疲劳断裂击穿机身这个事，所有发动机适航取证都要做包容性试验的，试验是将风扇叶片在高速运转中炸断，测试包容环能否将断裂的碎片包住。这么残暴的试验通过了，都无法保证真实飞行环境下没有碎片不包容的问题。</p><p>概括来说就是以上3点：系统复杂、设计边界窄、理论不完备。至于我们日常经常提到的需要长时间积累、大量资金投入等等都是上面这3点带来的。</p><p>还有一项值得提到的，由于上述原因，<b>这项工作组织起来很困难</b>。这不是一般意义上的技术问题，但更值得重视。管理其实还是科学，还是技术，管理的实施还是工程，专业性也还是很强的。我们目前表现出来的工作成绩我认为事实上是显著低于我们的技术能力的。会做的题不得分，是很遗憾的事情。</p>",
+                "comment_count": 6,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc3MjA2NzYgx87p1gUoCjAGQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIwNTc3NTY5cgkzNzIxMjcxNzQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524234120,
+                "is_labeled": false,
+                "excerpt": "贸易战开打以来中美互有来回，但都是小打小闹，并没有伤筋动骨。直到美国商务部突然宣布禁止本国企业向中兴供应处理器开始，中美之间真正的贸易战才开始，换句话说美国动真格的了，他们的优势开始凸显。 七年之内禁止向中兴销售芯片，导致的后果以及带来的…",
+                "excerpt_title": "",
+                "id": 35933533,
+                "voteup_count": 3,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/59f59a10e08ffad08971306b4c8f9175_{size}.jpg",
+                    "type": "people",
+                    "name": "大聪",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/1e4ccb5a51a5c40d07828f0b72409189",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "da-cong-29-91",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/59f59a10e08ffad08971306b4c8f9175_is.jpg",
+                    "is_org": false,
+                    "headline": "初出茅庐，烦心事很多，我想把它们说出来",
+                    "badge": [],
+                    "id": "1e4ccb5a51a5c40d07828f0b72409189"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35933533",
+                "title": "危机感！美国封杀中兴，除了反击我们还应该反思",
+                "created": 1524234121,
+                "content": "<p>贸易战开打以来中美互有来回，但都是小打小闹，并没有伤筋动骨。直到美国商务部突然宣布禁止本国企业向中兴供应处理器开始，中美之间真正的贸易战才开始，换句话说美国动真格的了，他们的优势开始凸显。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-8320adc99d57b9a7d45618a73449ebdf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"532\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb\" width=\"532\" data-original=\"https://pic4.zhimg.com/v2-8320adc99d57b9a7d45618a73449ebdf_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>七年之内禁止向中兴销售芯片，导致的后果以及带来的影响让人非常细思极恐，首先中兴会因为制裁遭受灭顶之灾，福布斯就预言中兴会在一个星期之内宣布破产，随之产生就会是上万人的失业；中国所有的手机企业、电脑企业的芯片都受制于美国，这次是中兴，下一个又是谁？第三、除了芯片命脉被美国把握外，操作系统命脉也受制于美国；最后就是七年的禁令针对的就是中国刚刚提出的“中国制造2025”，可以说制裁中兴是给中国的下马威。被美国按住高科技的命脉对我国产生的不利影响真的细思极恐。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-303a42a727d8827810c7f7f3a07ea3e3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"249\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-303a42a727d8827810c7f7f3a07ea3e3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，早在加入WTO之初我国就针对操作系统、芯片进行了有针对性的研究。但是芯片研究需要耗费大量的人力物力，与外国供应商所提供的芯片相比成本高得太多，对企业发展非常不利。因此经过多年的发展我们只掌握了中低端芯片、操作系统、发动机、集成电路的技术。通过这些产品，我们或许能应对美国联合欧洲对我们进行全面封杀，但是因此会造成我国通讯发展停滞，甚至倒退，科技企业也会很难因为去寻找替代产品陷入一段发展停滞期。由此产生的通讯代差对我们和美国的对抗非常不利。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国是典型的资本主义社会，典型的市场经济国家，典型的倡导自由贸易的国家，没有谁能想到美国政府会直接干预企业之间的交易。而对自由贸易盲目的信任、对市场缺乏危机感也是导致我们很多企业陷入这次危机的关键原因，“拿来主义”也限制了我们国家发展芯片产业。这也告诉我们所谓的自由贸易不可靠、所谓的平等不存在，唯有我们自己强大了，才能强行制造出非对称性平等，不受制于人才是平等，别人有求于我们才是平等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-de6ae2604dd079a5ab7e55513851e301_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"498\" class=\"origin_image zh-lightbox-thumb\" width=\"760\" data-original=\"https://pic2.zhimg.com/v2-de6ae2604dd079a5ab7e55513851e301_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这次美国制裁中兴我们能反击吗？能，所有人想到的第一个对象就是拿苹果开刀，诚然苹果在中国有非常大的市场，但是苹果的生产线在中国，制裁苹果将会有大量的工人下岗，杀敌800自损1000，需要有壮士断腕的勇气。除了苹果之外我们还可以制裁：通用、福特、IBM等，但是之后美国定会发动一干科技公司制裁中国，比如：IBM、思科、英特尔等等。但是在这场贸易战中美国失去市场，我们却失去了技术。一旦制裁开始，我国的所有企业寻找替代品还需要一段时间，通讯受制于人，细思极恐。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-ffdf6fea5a91b9ca942fce4ffa58621b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-ffdf6fea5a91b9ca942fce4ffa58621b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>当前美国还只针对中兴，这场战争会不会恶化我们也不得而知，当下我们还能硬刚吗？不能。我们又要使出老祖宗的“太极推拉”大打拖延战术，为中国科技企业的发展争取时间。希望这次事件能给中国科技企业一个教训，牢记“自力更生”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这次中美贸易战除了美国单方面制裁中国以外，还会有些苍蝇也会骚扰中国，比如：巴西，英国等。过去的这些年朝鲜不听话，越南、菲律宾、韩国有点跳，印度频繁找茬，俄罗斯受制于人难以脱身，巴铁受制于印度，传统好友古巴实力有限，因此我们并没有有实力的伙伴对付美国。昨天以前，我做梦也没想到巴西会对中国展开反倾销调查，毫无防备的捅了中国一刀，这也从侧面说明我们还很孤单，在全球一体化的当今世界，我们双拳难敌四手。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e38538f014006d0f7f4fb70b5766a6f2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"526\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb\" width=\"526\" data-original=\"https://pic3.zhimg.com/v2-e38538f014006d0f7f4fb70b5766a6f2_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们取得了长足的进步，我们体量大了，但是发展不平衡。中国梦、一带一路还没实现，我们的战略布局还没有成型，因此卧薪尝胆对于现在的中国依然适用。也许是是我太怂，我觉得中国现在有些“左倾”，望平心静气，精准发展短板，再低调发展十年，把命脉掌握在自己的手里面。</p>",
+                "comment_count": 1,
+                "image_url": "https://pic3.zhimg.com/50/v2-a8d15a139335f481fbbc6bd00489a6ab_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-a8d15a139335f481fbbc6bd00489a6ab_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-8320adc99d57b9a7d45618a73449ebdf_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-303a42a727d8827810c7f7f3a07ea3e3_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjU2Mzg4NyCJ7+fWBSgDMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1OTMzNTMz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "个人是很赞成公开信中的这句话的:联想的投票原则没有问题，执行也没有问题但是！联想走到今天这一步，本身是要负很大责任的！减配，或者同样配置美国的就要比国内的便宜，旭日旗事件到现在还没一个解释吧，国内和国外的差别对待的同时自身又要扛着爱国的旗…",
+                "created_time": 1526538624,
+                "id": 393950365,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "喵酱",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/747fd17ba1f785f19ae8eb251cf6145f",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "mao-jiang-36-48",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [],
+                    "id": "747fd17ba1f785f19ae8eb251cf6145f"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/393950365",
+                "question": {
+                    "title": "如何评价的柳传志发布的关于联想的5G投票公开信？",
+                    "url": "http://www.zhihu.com/api/v4/questions/277383513",
+                    "created": 1526447827,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 277383513
+                },
+                "updated_time": 1526538624,
+                "content": "<p>个人是很赞成公开信中的这句话的:联想的投票原则没有问题，执行也没有问题</p><p>但是！联想走到今天这一步，本身是要负很大责任的！减配，或者同样配置美国的就要比国内的便宜，旭日旗事件到现在还没一个解释吧，国内和国外的差别对待的同时自身又要扛着爱国的旗帜在国内卖产品，这些黑点累积到今天遇上了中美贸易战的背景下，加上有心人的宣传下，集中爆发了……</p><p>联想商业上是没有做错的，如果联想之前不扛着爱国旗帜卖产品，今天的解释完全没问题，联想如果之前没有进入政府的采购计划，这个说法也完全没问题，如果联想没有因为国家的支持活下来，这个说法也没问题，可惜，联想做的事只是符合商业上的操作，只是符合商业而已</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAxNjk2ODY1IIDD9NcFKAcwAEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzkxNjQ5OXIJMzkzOTUwMzY1"
+        }
+    ]
+}

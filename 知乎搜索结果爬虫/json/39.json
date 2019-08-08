@@ -1,0 +1,217 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439484733.55755",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439426929.29&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439426929.28884"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559705512,
+                "is_labeled": false,
+                "excerpt": "郭台铭6月2日提醒蔡英文：“贸易大战越演越烈，科技战争也同时上演。世界的经济将会在数月，甚至数周内产生急剧的变化，这一次可能发生比金融海啸还要大的问题，都有可能在短的时间出现，那么，我们政府有任何作为吗？”郭台铭发出的示警，应该不是危言耸听…",
+                "excerpt_title": "",
+                "id": 68108622,
+                "topic_thumbnails": [],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-d4f2084bbc88d2e4a7654fb2a5e129f4_{size}.jpg",
+                    "badge": [],
+                    "name": "阳明学社",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/53f542d39cddf9e6b98513e9f81806fa",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "儒者",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-d4f2084bbc88d2e4a7654fb2a5e129f4_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "yang-ming-xue-she",
+                    "id": "53f542d39cddf9e6b98513e9f81806fa"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/68108622",
+                "title": "郭台铭发出的示警不是危言耸听，但他对世界大变局的定性是错误的",
+                "created": 1559703236,
+                "content": "<p>郭台铭6月2日提醒蔡英文：“贸易大战越演越烈，科技战争也同时上演。世界的经济将会在数月，甚至数周内产生急剧的变化，这一次可能发生比金融海啸还要大的问题，都有可能在短的时间出现，那么，我们政府有任何作为吗？”</p><p>郭台铭发出的示警，应该不是危言耸听，他作为“圈内人”，有秘密渠道，消息很灵通，已经感受到暴风骤雨即将来袭的恐惧。革故鼎新，大变局的临界点或许真要来临了。</p><p>教育部发出对美留学预警，文化和旅游部发出谨慎前往美国旅游的警示，直接的理由是美方以“中国威胁”“中国渗透”为由，将正常的中美教育交流合作政治化，采取出境盘查、上门约谈等多种方式，骚扰赴美的中国公民。但在这个关头，民众更应该体会不好言说的那层意思。去年发生的孟晚舟事件，把西方世界那层伪善的面具给揭开了，各领域的优秀人才落在他们手里，很可能再次被扣押为“人质”，作为与中国谈判的筹码。</p><p>郭台铭认为，中国作为新崛起的大国必然要挑战美国的世界霸权，他预言“比金融海啸还要大的问题”正是由中美贸易战、科技战直接引发的，世界已经陷入了“修昔底德陷阱”。需要注意，郭台铭作为那个搞团团伙伙的小圈子中的成员，他的阶级立场决定了他对当下世界大变局的认识是有问题的。</p><p>中国坚定不移走和平发展、合作共赢之路，多次宣誓永远不会称霸，但美国一直在渲染“中国威胁论”。特朗普与美国前总统卡特电话聊天，直言不讳地说出了他内心的焦虑——担心美国被中国全面超越。中国再怎么强调“合则两利，斗则俱伤”，美国就是听不进去，为什么？因为美国奉行弱肉强食、赢者通吃的丛林法则，而中国倡导“包容普惠、互利共赢”的发展理念。自古有言：正邪不两立，善恶不并举，王业不偏安。再如《约翰福音》说：“光照在黑暗里，黑暗却不接受光”；“光来到世间，世人因自己的行为是恶的，不爱光倒爱黑暗”；“凡作恶的便恨光，并不来就光，恐怕他的行为受责备”。</p><p>当今世界面临百年未有之大变局，但中国绝不承认西方鼓吹的“修昔底德陷阱”，不认同“国强必霸”的陈旧逻辑。当下世界格局的演变确实以中美之间的矛盾冲突为主线，但中美之间爆发的冲突与斗争，其性质不是两国之间争夺世界的领导权。透过现象看本质，这场斗争其实不是两个“国家”之间的角逐，而是“善”与“恶”两种力量之间的博弈，是社会主义与资本主义两种社会制度之间的对决。</p><p>中国逐渐走入世界舞台的中央，要构建人类命运共同体，更要体会“王业不偏安”所蕴含的意思。这场斗争是全人类的解放战争，是光明与黑暗、正义与邪恶之间的终极对决，决定了全人类的命运，关系到人类社会未来的走向。这场善恶之战，不以人的意志为转移，必然要来，中国作为“带头大哥“，必须迎难而上，勇于担当。要驱散黑暗、粉碎阴谋，颠覆旧世界秩序，又要保持世界政治、经济的稳定性与连续性，降低“革命”带来的震荡，维护好各国人民的福祉。百年未有之世界大变局，是对中国的一次真正考验，需要仁以为己任的担当，临机决断的果敢，随机应变的智慧……</p><p>世界大变局会把每个人裹挟在其中，但只要不打上“兽”的印记，不做买办与五毛党，就要坦然面对大变局，热情迎接“新时代”的降临。心无愧怍（仰不愧于天，俯不怍于人），信步行来皆坦道。</p><p>“鬼子”的外围，是买办；买办的“下线”，是“五毛”。那个跨国阴谋家集团及其外围的买办组织最担心被清算罪恶，整日胆战心惊，惶恐不安。但它们总是想鱼死网破，想法设法把降临到它们头上的灾难，殃及更多无辜的人们。好莱坞喜欢拍摄末日大灾难的电影，就是它们内心黑暗的真实写照。</p><p>一战以后，跨国野心家集团把大本营从英国迁移到美国，“美国霸权主义”只是被借用的躯壳。如今，美国霸权主义与那个跨国野心家集团分裂为“二”了。特朗普政府虽然出尔反尔，比川剧变脸还快，让人捉摸不透，但相比那个满脑袋阴谋、一肚子坏水的跨国野心家集团，还是好对付多了。</p><p>特朗普政府要对谷歌、亚马逊、Facebook等美国科技业巨头动手，或许真是快要应验《启示录》的这句预言：“你所看见的那十角与兽，必恨这淫妇，使她冷落赤身，又要吃她的肉，用火将她烧尽”。</p>",
+                "comment_count": 4,
+                "voteup_count": 11,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMjYzOTUyIMTd3OcFKAswBEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjgxMDg2MjI="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558374010,
+                "is_labeled": false,
+                "excerpt": "<i>科技博主来蹭政治热度了</i>昨天收到了一个朋友的微信消息：<i>XX，请教你下，这次Google禁华为，到底是哪些功能不能用了？我没大看明白：一个是以后的OS都不更新？然后所有Google 的apps 都禁止下载？那访问呢，比如已经下好的apps？</i>为了防止消息不准确造成的错误…",
+                "excerpt_title": "",
+                "id": 66437585,
+                "topic_thumbnails": [],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "afead086ae16094a4b8d2270ad6b1ade"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66437585",
+                "title": "华为手机",
+                "created": 1558374010,
+                "content": "<blockquote><i>科技博主来蹭政治热度了</i></blockquote><p>昨天收到了一个朋友的微信消息：</p><blockquote><i>XX，请教你下，这次Google禁华为，到底是哪些功能不能用了？我没大看明白：一个是以后的OS都不更新？然后所有Google 的apps 都禁止下载？那访问呢，比如已经下好的apps？</i></blockquote><p>为了防止消息不准确造成的错误解读，我是等到了今天白天看了一圈新闻之后才打算写这个博文的。</p><p>首先回答下小伙伴的微信：</p><ul><li><b>哪些功能不能用</b>：Google play，GMS 等Google原生的app</li><li><b>以后的OS都不更新？</b>：不，按照现在的Android 开源授权，依旧会有更新，只是没有办法预览新系统。</li><li><b>所有的Google apps都禁止下载？</b>：应该是</li><li><b>访问已经下好的apps？</b>这点没有任何确认的消息，有可能已经存在的app可以继续使用，也有可能无法访问服务器了。</li></ul><p>接下来谈一谈短期与长期的影响。</p><h3>短期影响：</h3><p>对于国内来说，这个短期内几乎没有影响。毕竟国内用不了Google 全家桶这已是既定事实了，那官宣不支持也没有什么大影响。毕竟大部分服务在国内已经有了本土化的替代品。而从操作系统上来说，Android 是开源的，所以华为短期内依旧可以用Android，受益于Android生态。</p><p>对于国外来说，这个影响就比较大了。不能用Google 全家桶的Android 手机基本上就是一个只能打电话发短信的功能机了。而且在国外又缺少一套完整的可以替代Google 全家桶的生态，所以在欧洲等地，可以预见华为手机销量的下跌。</p><h3>长期影响</h3><p>长期来说，没有了官方合作关系，那么华为没法获得新系统的官方支持、预览等。适配等工作都需要正式版系统版本发布之后才能进行。换句话说，可能一加都已经用了半年的新Android，华为这边才适配好。另外Google也随时有可能更改开源授权来彻底禁止华为使用Android，所以长期来看对于华为影响还是很大的。</p><p>但是从好的方面来看，华为的技术独立准备的相当充分。方舟，海思芯片，自研OS等都表面了华为“高筑墙，广积粮，缓称王”的战略思想。也许经此事件，华为 OS会独立发展，成为第三大移动操作系统。</p><p>科学没有国界，但科学家有祖国。同样，技术无国界，但公司有国界。祝愿华为手机继续大卖，技术独立。</p><p><i>最后不替Google洗个地：你们知道Apache也对华为停止合作了么？</i></p><p></p>",
+                "comment_count": 18,
+                "voteup_count": 22,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoJMTAyODkyNzQ2IPrMi+cFKBYwEkAAUhF0b3BfYWN0aXZpdHlfcG9zdFoENzI2OHIINjY0Mzc1ODU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "谢约 <b>（一） 馒头是真的 </b> 贸易即生意，既然是生意，那么自有做生意的法则。比如，有输就有赢、有赔就有赚、以及既有合作当然也有争端。如果我们闲来无事，翻遍各个法院经济庭的卷宗，就会发现：因经济利益之争而打官司的案例，占据了各类经济案件的绝大部分…",
+                "created_time": 1524903489,
+                "id": 378368348,
+                "voteup_count": 13,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "5af617b831ba38ee0bce39893dc256d6"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/378368348",
+                "question": {
+                    "title": "从中美俄或者欧盟角度看中美贸易争端？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274495251",
+                    "created": 1524540859,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274495251
+                },
+                "updated_time": 1526011615,
+                "content": "<p>      谢约         </p><p></p><p><b>（一） 馒头是真的  </b></p><p>                                                 </p><p>贸易即生意，既然是生意，那么自有做生意的法则。比如，有输就有赢、有赔就有赚、以及既有合作当然也有争端。</p><p>如果我们闲来无事，翻遍各个法院经济庭的卷宗，就会发现：因经济利益之争而打官司的案例，占据了各类经济案件的绝大部分。更遑论，现在生意已经做到了国际层面，超越了国家的边界、贴上了国际的标签。因此，贸易在经济利益之争的基础之上，又增添了一项新的元素——国家利益。</p><p>于是，贸易就变得越发复杂了起来。举个例子：</p><p>2005年，美国得、新二州的企业将来自中国的维生素C制造商告上了法庭。理由是：中企涉嫌价格操控。这场官司一打就是13年，一审美方胜诉，二审中方胜诉，终审？Sorry，今年6月底才宣判，而在之前的各方，都不知道会有何种结果。</p><p>可能有人会问：“一场原本简单之极的官司，为毛要打那么久还没有一个结果？并且双方在13年的时间里打得如此艰难，也如”脱鞋上炕”般费劲？</p><p>因为这场官司触碰到了一个“关键词”——国际礼让原则。</p><p>这是啥子意思啊？老表。</p><p>意思是这样的：美方认为中企操控了维生素C的价格，但中方认坚持认为，此举是依据中国的法律、法规，作出的正常安排,因而不涉及对方的所指之控。</p><p>于是，负责此案的法官们因此犯了尴尬：中国的法律引用到美国，应不应当得到认同？本案中，中方企业所依据的中国法律法规，适不适用于美国法律对其“国际礼让原则”之条款，所作出的司法解释？</p><p>看看，原本只是一场涉及经济利益之争的官司，一旦打将起来立马就扩散到了要以哪国法律为基准的层面。由此可见，别说中美，就说全球的国际贸易，因为各种原因，“一言不和”就起争端的现象，就为不足为怪了。</p><p>真的，我说的是馒头。</p><p><br></p><p><b>（二）汇仁肾宝各方都需要</b></p><p><br></p><p>好吧，既然馒头是真的。那么，就题主所言：吃瓜人士又该如何从中美俄或欧盟的角度，去看待这些贸易争端呢？</p><p>众所周知，当前的国际贸易，已经形成了一条完整的价值链。在这条链条上，有资源材料输出方、有产品加工方，当然也有产品消费方。各方既分工明确，也相互穿插其间。如同男女办事：你中有我，我中有汝，离了谁，都搞不成事。或是换一种不太着调的说法——他们都是一条绳上的蚂蚱，但凡其中一只崩了，其它也跟着崩。</p><p>所以啊，无论是俄罗斯类资源输出国，还是那些坐等打火机、安全套、牙膏牙刷洗脸帕的欧洲人，也无论是中、美这两位最大的玩家。为了本国利益最大化，实际上他们中的任何一方，都不愿意看见贸易争端的发生和规模的扩大。大家唯有在链条上合作，才是最好的优先选项。因为只有你好、我好、大家才好。</p><p>什么？汇仁肾宝？嗯，我想各方都需要的。只不过现在的问题是......</p><p><br></p><p><b>（三）球了，这里需要理解什么叫 ”矛盾性结构“ 了。</b></p><p><br></p><p>简单分析到这里，我们是不是发现这里面出问题了？</p><p>一方面，参与国际贸易的各方都需要 ”汇仁肾宝“ 。但另一方面，如上文所述：一个维生素C的官司都要打13年，还没个准信！由此看，这就麻球烦了，出现矛盾。而且还是一组，在国际贸易过程中，天生自带的结构性矛盾。</p><p>所以啊，吃瓜民众只有在充分地理解并认识到这种结构性矛盾的背景之下，才能全面、理性地看待，各种国际贸易争端，包括中美。</p><p>然后呢？</p><p><br></p><p><b>（四）回答题主的问题咯。</b></p><p><br></p><p>问：如何从中美俄或欧盟角度看待中美贸易争端？</p><p>答：尽管上述各方都怕“秧及鱼池”而不愿意看到中美的贸易出现争端（有人趁机火中取粟不在本篇讨论之列）但因国际贸易中的结构性矛盾的存在。因此，这种争端难以避免，它会客观地出现。</p><p>你若再问：如何解决？</p><p>sorry，医生已经习惯了拿个听诊，成天在客户身上敲来打去，至于如何解决贸易争端？确实不知道。不过我有几个不着调调的想法，现分列如下：</p><p><br></p><p>第1</p><p>当初是哪个老几？提出了”囚徒困境“这个理论模型，尼玛又不给出个合理的解决方案。写信给相关部门，将这些货找出来约谈，给他们怒甩一锅，让他们来想办法。</p><p>第2</p><p>全面清理、整顿WTO。这个挨千刀的组织太不像话了：格老子在“国弱理难直”的国家面前，V5得要不要了滴，一旦遇到美帝这样的流氓国家，立马又怂得没了吊样。</p><p>第3</p><p>严肃地正告美帝：中美出现贸易争端很正常，这个不重要，重要的是，应该坐下来认真地谈，谈出一个双方都可以接受的方案。而不是动不动就搞些”既舞枪又弄棒“玩意， 这些把戏吓不倒中国人。</p><p><br></p><p>真的，我说的是馒头。</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTg4NjExMTAgwdyQ1wUoDTAAQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjc0NDE3cgkzNzgzNjgzNDg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558328823,
+                "is_labeled": false,
+                "excerpt": "我这篇文章，通篇闲碎，充满了平庸的生活味道。作为曾经的华为家属，我就想谈谈生活的小细节，从这些细节之中看到这家公司的个性与魅力。 可能写得比较随性杂乱，请各位读者多多包涵。 虽然我老公已不在华为工作了，但我们始终关注着这个伟大的公司。写这篇…",
+                "excerpt_title": "",
+                "id": 66357896,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-a6eb74b4c76d70e1d956a6b9ab8dd844_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-81d8877a0476d7533fb6dc6b96ac616f_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 0,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "edf79df0fc07acffb0781082dab3d44a"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66357896",
+                "title": "华为家属的幸福与哀愁",
+                "created": 1558328823,
+                "content": "<p>我这篇文章，通篇闲碎，充满了平庸的生活味道。作为曾经的华为家属，我就想谈谈生活的小细节，从这些细节之中看到这家公司的个性与魅力。<br/><br/>可能写得比较随性杂乱，请各位读者多多包涵。<br/> <br/>虽然我老公已不在华为工作了，但我们始终关注着这个伟大的公司。写这篇文章，也是因为最近的毛衣封锁，华为被推到风口浪尖而有感而发。<br/> <br/>那首先就从前段时间特别火爆的996这个角度开始谈吧。<br/><br/> <b><i>01  </i>华为的加班</b> <br/> <br/>我老公，一个曾经的资深华为员工，有多资深呢，华为从业10年+。<br/><br/>在我的记忆里，工作日周一到周五，他晚上9点到家是occasionlly，10点到家是always，11点到家是sometimes。华为默认每个月最后一个周六加班，按国家规定给双倍工资。<br/><br/>其他周六，他尽量不加班，留在家里陪我和孩子。当然有时候免不了会接各种电话。<br/> <br/>他的工作时间是他所在部门的正常水平，换句话说，大家都一样。赶项目的时候，有时候到12点。<br/> <br/>有些人会说，提高工作效率啊，不要磨洋工啊。别的公司我不敢说，华为这样的以结果为导向的，有极其严格考核流程和制度的公司，磨洋工的真没几个。有的话，早被踢出局或者自己承受不了离开了。<br/> <br/>狼性文化的公司会叫你来养老麽？<br/> <br/>我老公说后面几年已经好多了，他刚进公司那两年，非常拼，平均每月都会一次通宵，但年轻啊，精力旺盛，通宵之后继续上班，没事人一样。<br/> <br/>他是非常热爱工作的那一类人。但是到后来，随着年岁的增长，已经不能跟刚上班那会拼体力了。加班归加班，但会自我调节，保证健康。<br/><br/>写到这里，我想起刚谈恋爱那会，他会加班加到一半，赶着晚上八点多到我住处楼下等我一起去散步聊天，然后再回去继续加班干活。<br/>也幸亏我住得离华为近。<br/>突然有点小小的感动~<br/> <br/>他有个外地研发中心的同事，痛心疾首地跟他讲过这么个事，是关于孩子的，他的孩子当时大概四五岁了。这个同事是个把所有精力时间都投入在工作上的人，业绩很出色。<br/><br/>有次，他破天荒晚上回家早了些，进门的时候，孩子正在看电视，他期许着孩子看到自己后兴奋的表情，毕竟回来这么早比较少。<br/><br/>但是，孩子只是扭过头看了他一眼，然后继续看电视。<br/><br/>这个同事的原话是，“他看着我，那个眼神就像看一个陌生人。”他的心被深深刺痛了，我老公复述这个故事时，看得出来，他的心也被刺痛了。<br/> <br/><b>伟大的背后都是苦难。</b><br/> <br/>有些人工作是基于压力而迫不得已，而有些人工作真是出于热爱。<br/> <br/>不管怎么样，在华为好的一点是，工作会有明显的成就感。项目一旦成功，惠及的是以亿级的用户，这种落地实现的成就感，能鼓励员工持续坚持走下去。<br/> <br/>我个人很反感的是，很多其他公司总是叫嚣着学习华为的狼性文化，所谓学习狼性文化，就是表面上的希望员工加班，希望员工打鸡血去奉献。<br/> <br/>你怎么不学习管理制度、学习给钱力度、学习科技创新、学习核心点的东西呢。<br/><br/> <b><i>02  </i>华为的薪酬</b> <br/><br/>华为是个明星，为什么这么说，每年都会有关于它的各种大量的报道，或真或假。特别是关于薪酬的，网上各种版本都有。<br/> <br/>唯一不变的，就是华为员工的钱好像是大风刮来的，今天你说70万年薪，明天我就说80万，后天再来个110万，最夸张的一个，我听说是，百分之十的人年薪过五百万。<br/> <br/>我很想问下写这些文章的人，敢情这钱是你发的啊。你们再这么写下去，多少华为家庭要闹矛盾了呀。没有调查就没有发言权，你们晓得吧。<br/> <br/>华为内部员工对于这些文章基本是不看的，内部的bbs-心声社区上，有人吐槽说起这些文章，大家一笑置之。<br/> <br/>我简单透露一下。<br/>1）华为的薪酬体系是很复杂且完善的，从最初的13级开始，每升一级都有相应的薪酬、福利、股票的变化，就算相同级别的人，收入都不一样，它有一个波动范围。<br/><br/>研发系统还有T级，代表研发水平的专业度，升级要考试。<br/><br/>而且不同工作地点，薪酬也会考虑当地情况。<br/><br/>2）至于每年具体到手多少钱，这跟绩效考核相关。你打A跟打B，差别可大了。绩效非常重要重要！打C那做好走人的打算吧。<br/> <br/><br/>3）老员工的确拿钱多点，这在哪个公司都一样啊。而且因为手握一定数量的股票，股票分红每年就能入账一笔钱了。<br/><br/>4）针对老员工的如此情况，及鼓励新员工，华为新增了tup虚拟股票，并且升高了新招员工的月薪，以致出现了倒挂现象。<br/><br/>所谓倒挂，就是新招员工的薪水比入职两年的员工还高。　　<br/>这些在内部都引起过争议。<br/><br/>5）华为是非常赞赏奉献者的，是实打实的物质奖励，不来虚的。<br/>公司有个“向火车头倾斜”的口号。<br/><br/>所谓火车头，就是那些全身心奉献公司的A类员工，他们业绩出色，能力卓越，吃苦耐劳。<br/><br/>这些人，公司无比厚待他们，升职加薪福利股票远远超过其他人，给钱是没有上限的。<br/> <br/>6）华为有退休制度。员工一旦干满一定年限，到45岁，公司会给你养老。<br/><br/>就是说，你可以退休了，公司继续为你保留股票，每年公司按经营状况给你分红，一直到你over。<br/> <br/>一句话，华为舍得给大钱，招优秀的人进公司，但员工也要承受巨大的工作压力。<br/> <br/>总体而言，除了金融行业，估计没几家公司能跟华为竞争薪酬。<br/> <br/>但是，各位小编不能顶着华为舍得给钱的名号，就大笔一挥，年薪无止境啊。<br/><br/>就我了解的，除了华为、腾讯、大疆、金融行业等，在深圳工作七八年以上的普通人，年薪能达到四五十万，算混得非常不错的了，这里仅说主流职场。<br/><br/>而在华为，工作三年以下也很难达到这个数，还得继续往上加油干啊。<br/> <br/>我不知道为啥都喜欢说平均年薪、平均月薪这个数，这个压根没有参考性。<br/><br/>十八万人啊，平均下来整个数据都糊了，取个中位数可能还靠谱些。<br/> <br/><b><i>03   </i>华为研发人</b> <br/><br/>华为人戏称自己公司为菊厂，因为男员工占比实在太高，不知道女员工作何感想。坂田总部被戏称为马蹄山CBD（马蹄山是坂田的一个村）<br/><br/>这帮研发从不把自己看得有多高，他们非常接地气，自黑得厉害。是一帮略带土气的钢铁直男。<br/><br/>除了老公，我也有几个华为的朋友。他们都是非常专业的研发人员，我经常戏谑他们，一股浓浓的直男气息。他们会笑着追加一句，“直得不能再直了。”<br/>如果各位看官对这种陈述不满意，也请轻拍。<br/><br/>没办法，华为在龙岗坂田待得太久了，总没有腾讯那种坐落在南山核心区的时尚范。腾讯才四万多人。<br/><br/>可是你让这十几万华为人搬到南山去，绝对不现实，体量太大，华为主力是实业。现在大部分研发也转到东莞松山湖了。<br/><br/>华为业务主要to B，如果不是这些年，华为手机做得风生水起，估计除了深圳之外，普通大众也没几个知道华为。<br/><br/>实际上华为都成立三十多年了，手机只是其中一部分业务而已。<br/><br/>关于跟直男过日子：<br/><br/>我有时候跟老公吵架会气得胸闷。因为他超级会一条条摆逻辑跟你理论，就像他在编码在架构一样。<br/><br/>但有些事情不是逻辑的问题，而是情感无法接受的，甚至有时候只是宣泄而已，可对方不懂。<br/><br/>现在可能老夫老妻了，他学乖了很多。<br/><br/>关于直男的职场感悟：<br/><br/>他坦言，他掌握的各种技能，都是在工作中学会的，高压下，你必须鞭策自己进步。公司牛人也非常多，无形中标杆就会拔得很高。<br/><br/>他初入职场的这10年+，华为给了他非常好的基础，他感恩。<br/><br/>他们执行力非常强，被公司已经训练得非常专业而严谨。对于工作，有开头就必定有追溯有结果，凡事流程化制度化，绝不单纯依赖某个人员，对技术尊重而虔诚，做事尽心尽力。<br/><br/>他们边工作边不断吸收学习，华为有很好的学习条件，对个人的成长也有极大的促进作用。<br/><br/>华为是个巨无霸公司，但是，他的组织结构非常灵活，能根据市场状况随时调整。这是超级厉害的。真的，没几个大公司能做到。<br/><br/>市场反应缓慢、调头难是大公司的通病，但华为没有，他敏捷而高效。<br/><br/><br/>我作为曾经的华为家属，在老公加班迟迟不回的时候，在他压力很大形容消瘦的时候，确实心里很担忧很希望他能换份工作。<br/><br/>但是在他和一帮志同道合的同事攻克难关，颇有成就感的时候，就想着那他还是干着吧。<br/>真是矛盾的心态。<br/><br/>我跟一个华为员工的老婆交流过，我们的心态一样，最后的结论是，不管了，你爱咋咋地。但是，还是会时不时地忍不住对他叮嘱啰嗦，要求他多休息多锻炼。<br/><br/>好的是，我老公从来不会不耐烦，也许他把厌烦都藏在心里了吧。哈哈。<br/><br/>他是一个没有多少情趣但很可靠的男人。也许华为男大多如此吧。<br/><br/>下午的时候，我跟前面提到的那位华为女家属聊了会天，对于目前局势，她很淡然笃定。<br/><br/>真好。<br/><br/>华为华为，中华有为，华为必胜，中国必胜。<br/><br/><i>如需转载，请联系本公号，欢迎点赞转发朋友圈。</i><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-81d8877a0476d7533fb6dc6b96ac616f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"344\" data-rawheight=\"344\" class=\"content_image\" width=\"344\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><br/> </p>",
+                "comment_count": 0,
+                "image_url": "https://pic1.zhimg.com/50/v2-a6eb74b4c76d70e1d956a6b9ab8dd844_hd.jpg",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyODc1MDA2IPfriOcFKAQwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjYzNTc4OTY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558597944,
+                "is_labeled": false,
+                "excerpt": "5月23日，据路透社和日本NHK报道，日本松下公司表示，在美国决定禁止向中国科技巨头华为销售美国零部件之后，该公司正在暂停与华为的业务，并已经停止向华为技术公司销售部分组件，以遵守美国对华为公司的禁令。对此，松下公司在其中国官网发表声明称：目前…",
+                "excerpt_title": "",
+                "id": 66754065,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-3d4ad01c2e81bab90e1673144e403802_hd.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-ad500b3b78e24786424fd4c1ed02f7b8_{size}.jpg",
+                    "badge": [],
+                    "name": "丿秋风悲画扇",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "数理情報学"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/864235babcc47a23f819c1787ba8a6ba",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "悲劇というのは、美しい物を壊して見せることである",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-ad500b3b78e24786424fd4c1ed02f7b8_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "pie-qiu-feng-bei-hua-shan-39",
+                    "id": "864235babcc47a23f819c1787ba8a6ba"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66754065",
+                "title": "还好有松下！松下回应断供华为属不实之辞！",
+                "created": 1558597944,
+                "content": "<p>5月23日，据路透社和日本NHK报道，日本松下公司表示，在美国决定禁止向中国科技巨头华为销售美国零部件之后，该公司正在暂停与华为的业务，并已经停止向华为技术公司销售部分组件，以遵守美国对华为公司的禁令。</p><p>对此，松下公司在其中国官网发表声明称：</p><p>目前松下集团向华为公司供货正常，对于网络媒体上所提及的”断货“等表述均为不实之辞，“华为是松下一直以来的重要合作伙伴，我们将严格遵守松下所在国家和地区的相关法律及合规条例的基础上，持续向华为等中国客户销售商品和提供服务，在中国贡献松下集团的微薄之力，为中国事业发展添砖加瓦。”</p><p>松下发布声明后不久，华为也进行了回应。华为称松下是华为重要的合作伙伴，双方在多领域展开密切合作。松下集团与华为公司的所有业务合作持续正常开展。感谢松下集团对华为的一贯支持。华为也感谢所有长期以来支持华为业务发展的全球供应商伙伴。</p><p>同时，据彭博社消息，包括杭州大华、海康威视、商汤、旷视等公司均受到影响。</p><p>针对上述报道，旷视回应称：我们已经关注到国际媒体的相关报道，该报道内容尚未得到证实，具体情况还在核实中。</p><p>此外，据21世纪经济报道，美国国务院国际安全与防扩散局(Bureau of International Security and Nonproliferation)宣布对13个中国企业及个人实施制裁，其中包括友祥科技、浙江兆晨科技等10家企业以及3名个人。</p><p>声明要求任何美国政府部门不得向这些企业或个人采购任何服务、产品、技术，不得与这些人员订立任何服务、产品、技术采购合同，不得向这些企业与人员提供任何协助，暂停授予这些人员现有的所有许可。目前报道中所涉及的企业和个人尚未给予回应。</p>",
+                "comment_count": 3,
+                "image_url": "https://pic4.zhimg.com/50/v2-3d4ad01c2e81bab90e1673144e403802_hd.jpg",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyOTYyODM3ILiimecFKAQwA0AAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjY3NTQwNjU="
+        }
+    ]
+}

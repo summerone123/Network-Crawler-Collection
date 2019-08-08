@@ -1,0 +1,240 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1458244144.15006",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1457737346.25&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1457737346.25179"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1539991256,
+                "is_labeled": false,
+                "title": "做空美债的大庄家揭秘",
+                "excerpt": "这两天，机构不少人都在等待一个消息，就是美国财政部是否会把中国列为汇率操纵国。“汇率操纵国”这五个字可不是一个标签、牌坊之类面子和名分的事，而是假如是的话： 1、将该国排除在在美国政府采购供应地之外（卖东西给美国政府就必须绕道第三国）。本来…",
+                "excerpt_title": "",
+                "id": 47039596,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-1c7c196c19f7427754beec3fbf8a895f_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-9a1cfb3597ad2b0d543508ed34f866ab_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-1d6c7663ecb51c14bddf50d434690c34_250x0.jpg"
+                ],
+                "created": 1539826425,
+                "url": "http://zhuanlan.zhihu.com/p/47039596",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "gender": 0,
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "url_token": "xing-kong-cai-fu",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "badge": [],
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这两天，机构不少人都在等待一个消息，就是美国财政部是否会把中国列为汇率操纵国。“汇率操纵国”这五个字可不是一个标签、牌坊之类面子和名分的事，而是假如是的话：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、将该国排除在在美国政府采购供应地之外（卖东西给美国政府就必须绕道第三国）。本来美国政府不采购你的商品了，美国市场也会效仿；</p><p>2、禁止该国任何项目获取美国海外私人投资公司融资。这个问题就大了，比如某些PE就不能直接投资中国的项目，这里还包括一些已经谈好了即将等待批复的投资。美国人向来都是在资本项下赚中国顺差的，这点估计华尔街也不会同意；</p><p>3、呼吁国际货币基金组织（IMF）加强对该国的监督。这点对于人民币国际化非常不利，估计IMF刚把人民币加入SDR应该是已经评估过的了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-9a1cfb3597ad2b0d543508ed34f866ab_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"502\" data-rawheight=\"263\" class=\"origin_image zh-lightbox-thumb\" width=\"502\" data-original=\"https://pic4.zhimg.com/v2-9a1cfb3597ad2b0d543508ed34f866ab_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>TaiW某些学者这次一直坚定的认为美国财政部姆努钦会最后迫于特朗普的压力同意把中国列为汇率操纵国。姆努钦出身华尔街知名投行高盛，自然知道这里面的利害关系。从XX战以来，算是鹰派里比较温和的，总是出来唱红脸的角色。但是，总统特朗普有权力修改美国对于汇率操纵国的界定标准。为了节省篇幅，我就不列出2016年之后美国对于汇率操纵国的认定标准。你咋一看的第一印象一定和菠菜一样，感觉就像是给我国量身定做的一样。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>昨天紧张的空气再次传导到市场，A股昨天的反弹力度不大，至少没有美股强劲。那么今天可能会因为这个顾虑的解除持续反弹。今早的新闻都特别说了美国没有把中国列为汇率操纵国。这说明特朗普政府在对XX战的战术打法做重新的考量。放心，从战术上改变一点，在战略上美国依旧会把我们当做最大对手。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说个插曲，昨天接到之前一位朋友的电话，问我要不要把国内的保险和房子都卖了换成美元。这位朋友是个广东客家商人，我从和她的交谈中深刻的体会到对人民币继续贬值的担心。现在央行启动了逆周期因子调节汇率，本身的初衷是要稳汇率。如果美国把我们列为汇率操纵国并督促央行不再干预人民币汇率，那结果才是人民币随市场需求波动。可能最后的结果是中美两国以及我的那位朋友都不想看到的。我给她分析了汇率的可能变化，并告诉她大类资产配置是要考虑20年周期的，短期可能影响最多的是3-5年。她貌似听进去了，还和我说与她生意的一些东南亚小国都在储备人民币。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-27d481349b79b64581a5f4a8794dbac2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"566\" data-rawheight=\"82\" class=\"origin_image zh-lightbox-thumb\" width=\"566\" data-original=\"https://pic3.zhimg.com/v2-27d481349b79b64581a5f4a8794dbac2_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>顺着这位朋友的话题，可以看到被美国制裁的委内瑞拉已经在昨天宣布彻底放弃使用美元结算，改用人民币和欧元等货币。委内瑞拉不是在非洲，而是南美，重点是石油储备丰富的国家。这股抛美债，抛美元的浪超已经在全球多个国家掀起：</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>中国连续3个月减持美债，其中8月份减持了59亿美元；</li><li>日本公布的数据显示，8月份日本减持56亿美元美债；</li><li>俄罗斯基本清仓了美债（知道10年期美债是谁领头抛的了吧？）；</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>德国站出来代表欧盟表态，不仅要减少美元储备，甚至扬言要自己搞个结算系统独立在SWIFT之外（这个东西是全球银行间同业结算的系统，也就是只要你用美元结算，对方就有大数据）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美股刚反弹一天，美联储开了会表示要继续加息，美股又跌了。不是说好的美国经济向好嘛，聪明的资本貌似都在考虑撤离美股。美元主导的全球金融体系、贸易体系正在走向瓦解和分裂。特朗普的保守主义和孤立主义最终导致美国的盟友们都不断的开始反制裁。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有个知乎上的朋友在回复我的时候说到了一个观点，全球出现局部行业和地区的产能过剩，XX战会使得全球产业结构被迫调整，从这点看是有利于未来经济发展的。那么我国产业结构已经先行调整，可能过了2018年的严冬，经济触底后我们会迎来更加优化的结构。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-1d6c7663ecb51c14bddf50d434690c34_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"584\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>PS：盘面上关注供给侧改革有地方财政兜底的，以及科技类龙头公司。现在市场地位的时候不少好的并购也在悄悄进行。别总看不起咱们自己的科技公司没科技含量，有市场规模的公司通过并购以及政府搭台引进人才和技术。而这一切先从国有资本成为其二股东、三股东开始。#基本面那些事</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最近的救市政策越来越有意思了，黄世仁都不好当了，呵呵</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1aec5ca3c418a35d667f042eec68840d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"682\" data-rawheight=\"1293\" class=\"origin_image zh-lightbox-thumb\" width=\"682\" data-original=\"https://pic2.zhimg.com/v2-1aec5ca3c418a35d667f042eec68840d_r.jpg\"/></figure><p></p>",
+                "comment_count": 6,
+                "image_url": "https://pic4.zhimg.com/50/v2-1c7c196c19f7427754beec3fbf8a895f_hd.jpg",
+                "voteup_count": 28,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHOTUxNTI1MiD5xZ/eBSgcMAZAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQ3MDM5NTk2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1522982619,
+                "is_labeled": false,
+                "title": "观察丨少些“约架思维”,多点“共同体意识”",
+                "excerpt": "在中美经贸问题上，美国有着浓重的“约架思维”。对于美方“约架”，中国态度极为明确：<b>不想打贸易战，但也不怕打</b>。不想打，因为中国有命运共同体意识，中美经贸谁也离不开谁，一荣俱荣一损俱损。不怕打，因为中国底气足，有底线思维，有政策储备。欺诈讹诈…",
+                "excerpt_title": "",
+                "id": 35349855,
+                "topic_thumbnails": [],
+                "created": 1522982620,
+                "url": "http://zhuanlan.zhihu.com/p/35349855",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_{size}.jpg",
+                    "gender": -1,
+                    "name": "中国一带一路网",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/36eb424c507b2f772b4d3ffff5c25824",
+                    "url_token": "zhong-guo-yidai-yilu-wang",
+                    "user_type": "organization",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_is.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "is_org": true,
+                    "headline": "传递信息 沟通文明 合作共赢 （微信号：ydylgov）",
+                    "type": "people",
+                    "id": "36eb424c507b2f772b4d3ffff5c25824"
+                },
+                "content": "<p>在中美经贸问题上，美国有着浓重的“约架思维”。对于美方“约架”，中国态度极为明确：<b>不想打贸易战，但也不怕打</b>。不想打，因为中国有命运共同体意识，中美经贸谁也离不开谁，一荣俱荣一损俱损。不怕打，因为中国底气足，有底线思维，有政策储备。欺诈讹诈的招数，对中国行不通。现在行不通，以后更行不通。</p><p>世界范围内，究竟是“约架思维”有市场，还是“共同体意识”受欢迎？让我们看一个数据对比。3月23日，联合国人权理事会第37次会议以压倒多数，通过了中国提出的“在人权领域促进合作共赢”决议。投票结果是28票赞成、1票反对，满屏绿色的“Yes”，唯独美国那一票是红色的“No”。数据对比背后，是人心向背，是时代潮流。<b>赞成票投给了中国，投给了“合作共赢”，投给了“共同体意识”。</b></p><p>值得一提的是，中国提出的“在人权领域促进合作共赢”决议，呼吁各方在人权领域促进合作共赢，加强对话与合作，构建相互尊重、公平正义、合作共赢的新型国际关系，构建人类命运共同体。此系“两个构建”重大理念首次同时写入联合国决议。</p><p>中共十八大以来，习近平总书记提出了建设新型国际关系以及构建人类命运共同体的重大理念。在国际关系中，中国话语体系不断提升影响力、感召力、塑造力，受到国际社会高度重视和积极欢迎。在中共十九大报告中，习近平总书记进一步指出，要推动构建新型国际关系，推动构建人类命运共同体。这“两个构建”，为新时代中国特色大国外交指明了方向。</p><p>中国推动“两个构建”，既是对新时代发展对外关系思路的高度总结，也是出于对人类可持续发展的深刻思考。中国提出的“合作共赢”“共商共建共享”，相比“零和思维”“霸权意识”，高下立判，因而在世界范围较短时间内得到压倒性支持。“两个构建”理念同时写入联合国决议，更是毫无疑问地表明，中国关于新型国际关系和人类命运共同体理念，已得到国际社会最主流的政府间多边机构认同。事实一再证明，中国理念正在成为完善全球治理话语体系的新的重要来源。</p><p>理念只有落实于国际交往才会获得生命力。<b>“一带一路”是落实“两个构建”理念的重要平台，也是彰显“两个构建”光芒的重要载体。</b>5年来，“一带一路”建设受到超出想象的欢迎，成效显著。与此同时，中国对外贸易和利用外资结构优化，规模稳居世界前列。可以说，“两个构建”理念既通过中国自身实践被证明行之有效，也因为中国的推动正成为世界的信念和人类的实践。</p><p><b>双边关系、国际治理，唯有协同共鸣、求同存异，才能合作共赢。</b>回到中美经贸话题，中国赤诚相见，愿意合作共赢，共同打造命运共同体；而如果美国一直故意找茬，拒不领会中方好意，那也没办法。中美贸易战最终一旦开打，必将造成两国受损，世界受损。而美国，要为此负历史责任。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>更多精彩，请浏览<a href=\"https://link.zhihu.com/?target=https%3A//www.yidaiyilu.gov.cn/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">中国一带一路网</a></b></p><p><b>投稿邮箱：news@yidaiyilu.gov.cn</b></p><p><b>加入我们：hr@yidaiyilu.gov.cn</b></p>",
+                "comment_count": 1,
+                "voteup_count": 5,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjMzMDEzNSDcvZvWBSgFMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1MzQ5ODU1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "这是埃塞俄比亚的近年大豆产量。 中国除了跟巴西进口大豆以外，目前国内大豆需求还差1000万吨到1200万吨。 所以埃塞俄比亚这样的忠诚的友邦国家，一定会为了支持中国将全部的国民产量全部出口给中国（粗略乐观估算2017年埃国大豆产量10万吨） 埃塞俄比亚自…",
+                "created_time": 1536330632,
+                "id": 487401563,
+                "voteup_count": 25,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-98dfa4649b7ec1f6c36f709dd9c7269b_{size}.jpg",
+                    "gender": 0,
+                    "name": "橙橙",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "女德"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/d7294de059864ef7ff894f1e47db3059",
+                    "url_token": "chen-yan-81-70-29",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-98dfa4649b7ec1f6c36f709dd9c7269b_is.jpg",
+                    "badge": [],
+                    "is_org": false,
+                    "headline": "心下即知",
+                    "type": "people",
+                    "id": "d7294de059864ef7ff894f1e47db3059"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/487401563",
+                "question": {
+                    "created": 1536309074,
+                    "url": "http://www.zhihu.com/api/v4/questions/293745022",
+                    "title": "如何看待进口埃塞俄比亚大豆？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 293745022
+                },
+                "updated_time": 1536353052,
+                "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-43867fa4be48c9a6dc69bb07cad4bb1f_b.jpg\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-2c286435cdc7ebdf0c0f32f66adfadc2_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic2.zhimg.com/v2-43867fa4be48c9a6dc69bb07cad4bb1f_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='1334'&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-2c286435cdc7ebdf0c0f32f66adfadc2_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic2.zhimg.com/v2-43867fa4be48c9a6dc69bb07cad4bb1f_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-43867fa4be48c9a6dc69bb07cad4bb1f_b.jpg\"></figure><p>这是埃塞俄比亚的近年大豆产量。</p><p><br></p><p>中国除了跟巴西进口大豆以外，目前国内大豆需求还差1000万吨到1200万吨。</p><p><br></p><p>所以埃塞俄比亚这样的忠诚的友邦国家，一定会为了支持中国将全部的国民产量全部出口给中国（粗略乐观估算2017年埃国大豆产量10万吨）</p><p><br></p><p>埃塞俄比亚自己再从美国或者其他国家进口大豆填补国内所需？</p><p><br></p><p>同志们呐，如何发战争财？一要会站队；二要有能力源源不断从各种渠道拿到货。</p><p><br></p><p>埃国会是新兴的优秀的大豆二道贩子吗？让我们拭目以待！</p><p><br></p><p>如果埃国不能成为极为优秀的大豆二道贩子，以一己之力和巴西一道满足中国所需，后续大家势必会看到我国与其他国家陆续签订大豆进口协议。</p><p><br></p><p>不想发战争财的国家不是好国家！</p>",
+                "comment_count": 31,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-e1d94e02d33bb10cd4661dd54a4769d5_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic2.zhimg.com/v2-e1d94e02d33bb10cd4661dd54a4769d5_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTE4Njg3NzY5IIiXytwFKBkwH0AAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNzU1Mzk3NnIJNDg3NDAxNTYz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "一个是微观，一个是宏观，拿两者类比，作者脑袋是一泡屎？个人之所以用自己擅长的技能赚钱买自己不擅长的各类服务，细化分工，那是因为这些行为处于法律和道德的约束之下。放在国家层面，规则就是弱肉强食，把自己的命门放在别国手里，作者不知道是傻还是傻…",
+                "created_time": 1524276565,
+                "id": 372217117,
+                "voteup_count": 15,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-80a9f847cc659fd190ea0e42762cfeb1_{size}.jpg",
+                    "gender": 1,
+                    "name": "冷谦",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/f673a59d7c4f248d58335408c04fd75e",
+                    "url_token": "leng-qian-14",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-80a9f847cc659fd190ea0e42762cfeb1_is.jpg",
+                    "badge": [],
+                    "is_org": false,
+                    "headline": "不可置否",
+                    "type": "people",
+                    "id": "f673a59d7c4f248d58335408c04fd75e"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372217117",
+                "question": {
+                    "created": 1524103314,
+                    "url": "http://www.zhihu.com/api/v4/questions/273852020",
+                    "title": "如何评价“自给自足不是有志气，是穷，是傻”的观点？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273852020
+                },
+                "updated_time": 1524276566,
+                "content": "<p>一个是微观，一个是宏观，拿两者类比，作者脑袋是一泡屎？</p><p>个人之所以用自己擅长的技能赚钱买自己不擅长的各类服务，细化分工，那是因为这些行为处于法律和道德的约束之下。</p><p>放在国家层面，规则就是弱肉强食，把自己的命门放在别国手里，作者不知道是傻还是傻。。。</p>",
+                "comment_count": 3,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc3MzcxMTIg1brq1gUoDzADQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTMxMjkwcgkzNzIyMTcxMTc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "一开始以为是篇好文章，角度刁钻。可刚看到第二段，就发现作者思维混乱，前后矛盾了。第二段作者提出了该篇的中心论点“<b>人精通任何一项技能，都需要长时间的训练。这就是所谓的分工，分工越细，社会越富裕。</b>”下面作者举了个例子，拿一个个人来和中国社会做…",
+                "created_time": 1524148360,
+                "id": 371134974,
+                "voteup_count": 37,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/aadd7b895_{size}.jpg",
+                    "gender": 1,
+                    "name": "匿名用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/aadd7b895_is.jpg",
+                    "badge": [],
+                    "is_org": false,
+                    "headline": "",
+                    "type": "people",
+                    "id": "0"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/371134974",
+                "question": {
+                    "created": 1524103314,
+                    "url": "http://www.zhihu.com/api/v4/questions/273852020",
+                    "title": "如何评价“自给自足不是有志气，是穷，是傻”的观点？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273852020
+                },
+                "updated_time": 1524149446,
+                "content": "<p>一开始以为是篇好文章，角度刁钻。可刚看到第二段，就发现作者思维混乱，前后矛盾了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-b5f89b040c67b3a9bf0ea8fe2e323fb5_b.jpg\" data-rawwidth=\"1059\" data-rawheight=\"929\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1059\" data-original=\"https://pic3.zhimg.com/v2-b5f89b040c67b3a9bf0ea8fe2e323fb5_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1059'%20height='929'&gt;&lt;/svg&gt;\" data-rawwidth=\"1059\" data-rawheight=\"929\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1059\" data-original=\"https://pic3.zhimg.com/v2-b5f89b040c67b3a9bf0ea8fe2e323fb5_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-b5f89b040c67b3a9bf0ea8fe2e323fb5_b.jpg\"></figure><p>第二段作者提出了该篇的中心论点“<b>人精通任何一项技能，都需要长时间的训练。这就是所谓的分工，分工越细，社会越富裕。</b>”</p><p>下面作者举了个例子，拿一个个人来和中国社会做对比。上一句话不是还把人和社会分开来讲了吗，一个是个体一个是整体。下一段就把他们混为一谈了？</p><p>整篇文章，作者一直在偷换概念。</p><p><br></p><p>写到最后作者给出了当今中国唯一的出路——开放。</p><p>是的，要开放，要降低关税取消关税，用中国的优势与国外的优势互补。我仔细想了一下，优势互补？中国的优势？原来作者是想要开放中国的房地产交易，让更多的外国人来买中国的房子，这样我们就有钱去买芯片了。</p><p>是的，中东卖石油，中国卖房子。 </p>",
+                "comment_count": 11,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-b5f89b040c67b3a9bf0ea8fe2e323fb5_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-b5f89b040c67b3a9bf0ea8fe2e323fb5_200x112.jpg"
+            },
+            "attached_info": "CkIQBBoIOTc1NDAwMDcgiNHi1gUoJTALQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTMxMjkwcgkzNzExMzQ5NzQ="
+        }
+    ]
+}

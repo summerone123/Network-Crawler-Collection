@@ -1,0 +1,233 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1442790081.85571",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1442604932.78&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1442604932.78485"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "联想投票没有投错！理由一： 1、极化码的提出者Arikan是个土耳其人。最早是在07,08年他就发现了信道极化的现象，10年在TIT上的论文拿了那一年的IEEE信息论学会的best paper award一夜封神。LDPC的创始人Gallager是通信的祖师爷香农的学生，美国人。不论是LD…",
+                "created_time": 1527608628,
+                "id": 404701251,
+                "voteup_count": 10,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "smile85",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/16439833232c8f116c0189abeedd1c33",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "smile85",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "type": "people",
+                    "id": "16439833232c8f116c0189abeedd1c33"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/404701251",
+                "question": {
+                    "title": "联想5G投票事件为何才被热议？",
+                    "url": "http://www.zhihu.com/api/v4/questions/276861763",
+                    "created": 1526099446,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 276861763
+                },
+                "updated_time": 1527608628,
+                "content": "<p>联想投票没有投错！</p><p>理由一： 1、极化码的提出者Arikan是个土耳其人。最早是在07,08年他就发现了信道极化的现象，10年在TIT上的论文拿了那一年的IEEE信息论学会的best paper award一夜封神。LDPC的创始人Gallager是通信的祖师爷香农的学生，美国人。不论是LDPC码还是极化码，都不是华为首提的技术。因此最终选择哪个技术方案都和国家或者民族自豪感无关，这仍然是纯粹的利益问题。不能说华为的方案别的中国公司就该支持，华为找他们收专利费时是他们掏还是你们这些嚷嚷的看客掏？</p><p><br></p><p>　　2、具体是什么利益？专利。华为之所以推极化码是因为华为很早就开始在极化码上专利布局了。据我所知至少早在11年深研所那边就有人开始跟踪此技术。所以等到NR SI立项之初华为就开始推动极化码作为NR的FEC方案。而高通推LDPC也是因为他们在LDPC上布局很久。顺便再说一句，为什么从LTE就一直在用的turbo码到了5G却被排除在外？因为turbo是欧洲人主推的，华为高通吴蜀联合抗魏了。同理，其他公司支持哪个编码方案也是看他们在哪个技术上有积累，有机会吧他们自己的技术塞进去。或者是要看能从中获得多少好处。没有厂家会认为华为是中国公司所以就应该支持华为。没有公司跟钱过不去，重复，没有公司和钱过不去。</p><p><br></p><p>　　3、那么为什么会冒出那么多中国厂家支持华为？我不是RAN1的参会代表，所以当时那场干到凌晨3,4点的大战没有亲历。但是事后聊的时候，了解到的小道消息是华为在会前做工作，以减免专利费为条件换取他们在会上投票支持。还不懂的人我就把话说明白点：自己去翻RAN1历次会议的chairman notes看看那些支持华为的企业之前在RAN1写过几篇提案，参与会场讨论活跃程度如何。为什么那些平常根本不写提案不参与讨论的公司会突然站出来联署WF？再说的明白点：你看看小米、信威和普天。#86上还支持高通呢，#86bis就转为支持华为了。你觉得这是出于什么原因？我只能说，无利不起早。</p><p><br></p><p>所以，投票事件就是华为策划的一场针对高通的狙击战，顺手踩死联想更好。以上转发专业贴 实则华为为了踩联想 因为5G芯片 联想首发！Zuk 回归！.   </p><p><br></p><p>理由二：</p><p>来源：三易生活3elife</p><p><br></p><p>一件已经在2016年就被盖棺定论的事情，近日随着几篇知乎上的文章，再度吸引了大量“吃瓜群众”的关注，诸如“5G标准上，联想为什么不给华为投票”一类的“惊悚”标题，也成为了外界关注的源头。</p><p><br></p><p>但是我们在详细阅读了这些文章之后，却发现作者有大量使用专有技术名词的情况下，有着“带节奏”的嫌疑。</p><p><br></p><p>而在这篇文章的准备阶段，我们三易生活也专门联系了高通、华为、联想三方。截至发稿前，高通和华为并未就此事件进行回应，联想方面相关人士则表示，“希望业界不要在这个狭隘的层面上评价创新技术”。</p><p><br></p><p>首先，3GPP不是霸权组织，更没有阴谋论</p><p><br></p><p>首先，和某些“阴谋论者”的看法不同，5G标准的制定组织3GPP，在华为无线网络标准专利部部长万蕾博士（她同时也是华为5G标准Polar码方案主要贡献者之一）看来，是一个公正、透明、团结和技术性极强的组织。</p><p><br></p><p>万博士曾这样评价3GPP：“技术是没有国界的，3GPP之所以成功，就是归功于它的国际化，它的罗马论坛式的技术辩论是推动技术优化趋于完善的核心机制。衷心祝愿3GPP的全球化的民主精神源远流长……”</p><p><br></p><p><br></p><p>作为这种“透明公开”的直接体现，3GPP每一次的会议都有详细的记录可供公开查询——当然，会议纪要是全英文的，而且动辄数万字之多。这确实给了一些人断章取义的机会，但作为一家合格的IT媒体，我们三易生活的编辑也是耐着性子仔仔细细地看完了2016年8月（第86次）、2016年10月（第86次b）和2016年11月（第87次）三次英文会议纪要……终于得以将整场事件以较为明晰的顺序，呈现在大家眼前。</p><p><br></p><p>2016年8月第一次会议：三种标准被提出，技术争论很激烈</p><p><br></p><p>关于5G移动宽带 信道编码的三大标准，争论的源头来自于2016年8月的3GPP第86次会议。在这次大会上，LDPC、Polar和Turbo三种编码方案被正式提出。</p><p><br></p><p><br></p><p>从官方会议纪要中，我们可以看到此时三大阵营的支持方和后来流传的并不一样。为了让大家看得更清楚，我们稍微统计了一下：</p><p><br></p><p>LDPC方案（第一次会议）：高通牵头，支持者包括三星、诺基亚、中兴、联发科、英特尔、夏普、vivo、OPPO、小米，以及美日韩的主要电信运营商。</p><p><br></p><p>Polar方案（第一次会议）：华为牵头，支持者包括华为海思、中国移动、中国联通、展讯、以及少数欧洲和美国的电信运营商</p><p><br></p><p>Turbo方案（第一次会议）：LG牵头，支持者包括爱立信、NEC、法国橘子电信（这货在Turbo和Polar上两头下注）等少数代表</p><p><br></p><p>值得一提的是，很多人以为3G、4G时代是高通独霸天下，其实不然——3G、4G时代采用的反而是5G时代“小众”的Turbo编码方案，当时的LDPC还处于完善期，而Polar更是还在理论阶段……</p><p><br></p><p>在这场被很多媒体忽视了的第一次会议上，各方并没有进行表决。但却发生了非常热烈的技术讨论。</p><p><br></p><p>有趣的是，从3GPP的会议记录来看，实际上高通、三星、华为、中兴、LG等也都并非固执于自己的“阵地”，而是同时参与了多个方案的技术评估和讨论。这背后的原因，除了3GPP本身浓厚的技术氛围外，其实也因为在5G时代，大家基本上都是在技术和专利上“多方下注”。</p><p><br></p><p>比如高通既有LDPC的部分专利，也有Polar的部分专利，反之，华为主导Polar，也同样参与了LDAC的建设。“你中有我。我中有你”，并不像3G、4G时代那样存在着明确的专利墙或者独占情况。</p><p><br></p><p>2016年10月第二次会议：投票开始，联想出场？</p><p><br></p><p>在这次的会议上，上次提出的三种5G编码方案的技术争论仍然在持续，但是和第一次会议相比，第二次会议发生了大量的“变故”。</p><p><br></p><p><br></p><p>▲三个阵营相互“挑刺”的密密麻麻的记录……</p><p><br></p><p>其一，是三种方案的支持者开始相互攻讦，从单纯炫耀自身技术的先进性，变成了指责其他方案的技术短板，在这个过程中，LDPC的确在技术层面上占据了上风。</p><p><br></p><p>其二，是三种方案本身的支持者阵营发生了很大的改动，具体来说如下：</p><p><br></p><p>LDPC方案（第二次会议）：华为、高通、NTT、三星、爱立信、LG、NEC、索尼都为之站台</p><p><br></p><p>Polar方案（第二次会议）：只剩下了华为、华为海思</p><p><br></p><p>Turbo方案（第二次会议）：已经基本没有支持者了</p><p><br></p><p>在各方唇枪舌剑一番之后，会议的议题就此发生了关键性的改变：从到底是要哪一种5G数据编码方案，变成了大家到底需要几种5G数据编码方案。而这一次，也正是在网上被传得神乎其神的“第一次投票”。</p><p><br></p><p>这个时候，各方阵营再次发生了奇怪的分裂：</p><p><br></p><p><br></p><p>1．只需要LDPC：爱立信、索尼、夏普、诺基亚、三星、英特尔、高通、联想、富士通、摩托罗拉移动，再加上几家日韩为主的电信运营商</p><p><br></p><p>2．只需要Polar：华为</p><p><br></p><p>3．需要LDPC，但也兼顾Turbo码：LG、IMT、NEC、富士通、法国橘子电信</p><p><br></p><p>4．需要LDPC，但也兼顾Polar码：中兴、联发科、努比亚、小米、OPPO、展讯、再加上其他几家。</p><p><br></p><p>由于“唯Polar派”只有华为一家，到了实际的投票阶段，华为主动弃权。此时阵营1和阵营4几乎旗鼓相当，最终的结果是两边暂时各让一步：初步决定在5G数据传输的“长码”部分使用LDPC，同时留下了一部分“短码”空间待定。至此，LDPC可说是小胜一场。</p><p><br></p><p>在这次的投票中，联想是否有表态支持LDPC？显然是有的，但是从整个阵营分部来看，这种表态对于投票结果是否有决定性影响呢？应该说，没有。至于为什么笔者敢肯定没有，大家只要知道3GPP的投票并不是“一人一票”，而是有权重的概念，应该就能明白了。</p><p><br></p><p>2016年11月第三次会议：尘埃落定，团结的胜利</p><p><br></p><p>在上一次的会议中，已经决定了5G移动宽带的数据传输部分部分采用LDPC方案，从而留下了两件事待定，一是数据信道中，“剩下的部分”采用何种方案，另一点则是除了数据传输之外，用于网络控制的信道采用何种方案。</p><p><br></p><p>由于LDPC在前一次的会议中，已经拿下了5G移动宽带数据信道的大部分份额，因此，在剩余的“短码”部分，竞争就变得异常激烈了。这一次，除了没什么存在感的Turbo码阵营之外，LDPC和Polar码阵营都拉上了大量“盟友”，概括如下：</p><p><br></p><p><br></p><p>LDPC方案（第三次会议）：三星、阿尔卡特朗讯、上海贝尔、爱立信、英特尔、三菱电子、摩托罗拉解决方案、NEC、诺基亚、KDDI、高通、夏普、SK电信、NTT Docomo、T-Mobile、Verizon……总共约33家</p><p><br></p><p>Polar方案（第三次会议）：华为、华为海思、宏碁、ADI、贝尔移动、博通、中国移动、中国电信、中国联通、联想、Marvell、联发科、摩托罗拉移动、努比亚、OPPO、东芝、vivo、小米、中兴……总共59家</p><p><br></p><p>可以看到，由华为主导的Polar方案这次明显是有备而来，而且联想也的确在这一轮投票给了华为没错。但是，由于Polar的支持者们所占的投票权重不够高，因此最终结果还是由LDPC码拿到了5G移动宽带数据信道的全部份额。</p><p><br></p><p>这样一来，Polar码唯一的希望就只剩下5G移动宽带控制信道一途。在最终的这一次表述和投票中，中国企业（包括联想以及其他的全球盟友们）展现了真正的团结。对于这段历史，来自中国台湾省的数名参会代表有着生动的描述：</p><p><br></p><p><br></p><p><br></p><p>其实，从技术上来讲，5G数据信道追求的是传输速率，主要都是大型封包，这一块LDPC的性能的确有明显优势（这也是为何第一次投票，LDPC极其顺利拿下数据信道长码部分的原因）。</p><p><br></p><p>而对于5G控制信道来说，本身传输的数据量小，比起速度更注重可靠性，就恰好是Polar码的拿手部分了。</p><p><br></p><p>最终，Polar码在本身有技术优势，加上中国厂商们的集体支持下，成功被确立为5G移动宽带控制信道的国际编码标准。</p><p><br></p><p>这，就是近日又被炒作起来的，2016年3GPP三场会议的完整过程。</p><p><br></p><p>★★★</p><p><br></p><p>关键问题来了，联想扮演了怎样的角色？</p><p><br></p><p>用最简单的一句话概括的话，其实联想在整个三场会议中，基本上没起到什么作用。它并没有独自发表技术成果。也没有独自为某一个标准站台。</p><p><br></p><p>而从三次投票的结果来看，联想参加了全部的三次投票，在第一次投票（究竟一种还是多种编码制式）的时候投给了LDPC，之后的两次投票（数据信道短码制式、控制信道制式）中则全部投给了Polar。</p><p><br></p><p>总结一下就是：联想在大家都不看好Polar的时候，选了高通和华为当时都力挺的LDPC，而在中国企业团结起来支持Polar的时候，也跟着一起挺了一把华为。</p><p><br></p><p><br></p><p>这个结果，其实就能看出和互联网上疯传的某些说法，其实是有着很大的差异的。</p><p><br></p><p>就在今日早间，联想官方发表了正式回应，主要表明两点：</p><p><br></p><p>① 联想及旗下的摩托罗拉移动，在相关投票上所投的都是赞成票；</p><p><br></p><p>② 联想一直支持中国5G技术的发展，并全力推动5G技术和相关产品的研发。</p><p><br></p><p>或许，比起单纯的diss联想或者旧事重提，这样的结论更加真实客观，无疑也更加有趣!</p><p>理由三： 我已经找到华为造谣贴鼻祖了 全文把矛盾焦点放在联想身上 只谈否定票 不谈赞成票 把一群老百姓牵着鼻子走！  3GPP 不是投票选举 ！不按投票定胜负！按权重比！同时 所有投票是按赞成人数决定 而不是按反对人数决定！这就是华为公关偷梁换柱的地方！希望有头脑的能看清楚！在各方唇枪舌剑一番之后，会议的议题就此发生了关键性的改变：从到底是要哪一种5G数据编码方案，变成了大家到底需要几种5G数据编码方案。而这一次，也正是在网上被传得神乎其神的“第一次投票”。</p><p><br></p><p>这个时候，各方阵营再次发生了奇怪的分裂：</p><p><br></p><p><br></p><p>1．只需要LDPC：爱立信、索尼、夏普、诺基亚、三星、英特尔、高通、联想、富士通、摩托罗拉移动，再加上几家日韩为主的电信运营商</p><p><br></p><p>2．只需要Polar：华为</p><p><br></p><p>3．需要LDPC，但也兼顾Turbo码：LG、IMT、NEC、富士通、法国橘子电信</p><p><br></p><p>4．需要LDPC，但也兼顾Polar码：华为 中兴、联发科、努比亚、小米、OPPO、展讯、再加上其他几家。</p><p><br></p><p>由于“唯Polar派”只有华为一家，到了实际的投票阶段，华为主动弃权。这一轮明显高通LDPC碾压华为L+p 方案！联想就一个打酱油的！第一轮支持华为的就几家他同意免专利的国产厂商！高通 诺基亚 三星 夏普的权重比碾压你国内小企业！第二轮华为争取到的厂家比第一轮多了将近两倍！一样输了！反推就能知道 第一轮必须输！                                        理由四：</p><p>你的理解是这样的？人家技术无国界解释的是为什么长码投高通！高通LDPC 已经用了20年！华为的polar 还没在现实中应用过！而且还增加技术成本！ 目前来讲，polor是唯一达到香农极限的编码。但是，还是有缺点的。</p><p>一般来说，通信过程中，信道是不对称的。至少传输速率不对称。如果非要对称，用分时复用那套，是做不到实时连接的。</p><p>还有信噪比中的噪声骚扰也是一个问题，做到抗干扰，就要加入很多额外的验证手段。这样降低了polor的低复杂度的特点。而且这个短码需要重新铺制新的基站芯片，这个不便宜。相比LDPC这种成熟的解决方案。成本高。</p><p>再者大部分厂家都是支持LDPC作为主码标准，所以polor就只能作为控制信道的短码标准。现在还不成熟～～这个才是主因。说我是爱国投华为呢？还是说希望技术更先进投高通！在华为更擅长的短码制式和控制信道 联想都投了华为polar！联想何罪之有？这个会议是为了制定5G国际标准 你华为用爱国绑架联想 是想让全世界通行的5G标准落后十年？ </p><p>总结： 我从未见一个企业有华为卑鄙！剽窃就算了！跟中兴海外打官司索要巨额赔偿就算了！还赶着中兴刚被制裁不久罚了巨额赔款之后落井下石！这次又来黑联想！ 这个投票事件导火索是怎么来的 你知道吗？华为挑出来的！这么复杂的技术问题 老板姓肯定看不懂 会都开了两年了 结果也板上钉钉两年了 这个时候翻出来！全英文的会议纪要！谁会把两年前的事翻出来？赶在联想重新做回手机 国内首发5G 的档口！华为买水军黑联想 ！还扣上了卖国贼的罪名！联想在LDPC上是有一定专利的！最后两轮牺牲自己专利投华为的polar专利！最后被华为反咬一口 说投高通就是卖国！这么恶劣的商业竞争！会成为中国营销史上最大的反面教材！</p>",
+                "comment_count": 12,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAzNjUyMTIwILTqtdgFKAowDEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzgwMDQxN3IJNDA0NzAxMjUx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic3.zhimg.com/50/v2-948d4b1b77cea9f1e9c003338e44bebd_hd.jpg",
+                "updated": 1543445376,
+                "is_labeled": false,
+                "excerpt": "在澳大利亚以安全性为由拒绝华为参建本国5G领域之后，新西兰在昨日也以同样名义对华为说NO 先是大肆制裁中兴，再以安全罪名围猎华为，眼见中国在下一代技术革命的崛起速度，美帝真的很焦虑，确实很不安。美帝为抢占5G领域制高点，打压中国制造，脏水开泼这…",
+                "excerpt_title": "",
+                "id": 51110858,
+                "voteup_count": 33,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "type": "people",
+                    "id": "478c6d458f33d698368f3b02e2badab4"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/51110858",
+                "created": 1543444269,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b45bc0c828ca4a9d35f34fe882247ed4_b.jpg\" data-rawwidth=\"1024\" data-rawheight=\"666\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic1.zhimg.com/v2-b45bc0c828ca4a9d35f34fe882247ed4_r.jpg\"/></figure><p>在澳大利亚以安全性为由拒绝华为参建本国5G领域之后，新西兰在昨日也以同样名义对华为说NO</p><p class=\"ztext-empty-paragraph\"><br/></p><p>先是大肆制裁中兴，再以安全罪名围猎华为，眼见中国在下一代技术革命的崛起速度，美帝真的很焦虑，确实很不安。美帝为抢占5G领域制高点，打压中国制造，脏水开泼这屡试不爽大招再次摆上台面。养尊处优的美国人逻辑就是，我是老板，全世界为我打工。什么？你一个中资背景公司想要搞技术当龙头获得行业话语权？国企背景，国家安全性问题，隐私保护问题考虑，哪条莫须有罪名不能置你于死地？想跟我争？这孙子要来分美利坚人民的大饼？纽约时，CNN,CNBC,Bloomberg，大家都给我上，先骂三天三夜，上个餐前小吃，把舆论煽动起来，商务部国防部再开始弄他，先弄到他服为止，把罚款交了再说。过去几十年，美帝就是光着膀子横着走，身兼三职，全球道德评论员，法官跟警察，想不横都太难</p>",
+                "comment_count": 9,
+                "title": "制造舆论，美国围猎华为",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-948d4b1b77cea9f1e9c003338e44bebd_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-b45bc0c828ca4a9d35f34fe882247ed4_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjUQBxoIMTA0MTkxODYgra783wUoITAJQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg1MTExMDg1OA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "行业怎么样不说，但是对于你个人来说建议看看这两张图。 然后第二个来了 两张图说的是同一个人 转自微博曹山石",
+                "created_time": 1524107774,
+                "id": 370596515,
+                "voteup_count": 171,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-edc9c045c18aca3382cbf1949ea87fa0_{size}.jpg",
+                    "badge": [],
+                    "name": "Merlin Lee",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/e757114ee04c3c0c2607a5143acaa677",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "merlinlee",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-edc9c045c18aca3382cbf1949ea87fa0_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "type": "people",
+                    "id": "e757114ee04c3c0c2607a5143acaa677"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370596515",
+                "question": {
+                    "title": "2018年4月中兴遭受制裁会使ee行业得到国家重视，进而从业人员待遇变好吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273740255",
+                    "created": 1524024558,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273740255
+                },
+                "updated_time": 1524108937,
+                "content": "行业怎么样不说，但是对于你个人来说建议看看这两张图。<br><figure><noscript><img data-rawheight=\"1936\" src=\"https://pic1.zhimg.com/50/v2-c97f8145415dda3adbfd281168222aec_b.jpg\" data-rawwidth=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-c97f8145415dda3adbfd281168222aec_r.jpg\"></noscript><img data-rawheight=\"1936\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='960'%20height='1936'&gt;&lt;/svg&gt;\" data-rawwidth=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-c97f8145415dda3adbfd281168222aec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-c97f8145415dda3adbfd281168222aec_b.jpg\"></figure><br>然后第二个来了<br><br><figure><noscript><img data-rawheight=\"2079\" src=\"https://pic1.zhimg.com/50/v2-e84ff51067aa6b468666235db07b3166_b.jpg\" data-rawwidth=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-e84ff51067aa6b468666235db07b3166_r.jpg\"></noscript><img data-rawheight=\"2079\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='960'%20height='2079'&gt;&lt;/svg&gt;\" data-rawwidth=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-e84ff51067aa6b468666235db07b3166_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-e84ff51067aa6b468666235db07b3166_b.jpg\"></figure><br><br>两张图说的是同一个人<br><br>转自微博曹山石",
+                "comment_count": 39,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-c97f8145415dda3adbfd281168222aec_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-e84ff51067aa6b468666235db07b3166_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic1.zhimg.com/v2-c97f8145415dda3adbfd281168222aec_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoIOTc0NDIyNDcg/pPg1gUoqwEwJ0AAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzEwNjM5MnIJMzcwNTk2NTE1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "如今知乎上各种鼓吹微电子制造业的春天要来了，我真不知道这些人中有几个真是在业界搬砖。作为土博出身的一线砖工及我的同事都表示：啊哈哈，这股春风千万别像30年前那样把现有的成果全吹没了就不错了。整个EE行业从EDA工具到测试设备再到制造设备、耗材对…",
+                "created_time": 1524045895,
+                "id": 370087826,
+                "voteup_count": 130,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "唐老鸭",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/faf0cc1bf75fe4434dd902b504a63c4f",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "tang-lao-ya-94",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "type": "people",
+                    "id": "faf0cc1bf75fe4434dd902b504a63c4f"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370087826",
+                "question": {
+                    "title": "2018年4月中兴遭受制裁会使ee行业得到国家重视，进而从业人员待遇变好吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273740255",
+                    "created": 1524024558,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273740255
+                },
+                "updated_time": 1524059080,
+                "content": "<p>如今知乎上各种鼓吹微电子制造业的春天要来了，我真不知道这些人中有几个真是在业界搬砖。</p><p>作为土博出身的一线砖工及我的同事都表示：啊哈哈，这股春风千万别像30年前那样把现有的成果全吹没了就不错了。</p><p>整个EE行业从EDA工具到测试设备再到制造设备、耗材对美国、日本、欧洲的依赖是全方位的，长期不好说，但短期绝对是剧痛，从业人员首先要考虑的是饭碗。</p><p>问题出在那里？</p><p>从上世纪80年代中期开始一直到2006年核高基项目启动这20多年对于我国电子、微电子产业绝对是弯路！</p>",
+                "comment_count": 85,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoIOTczNDk4MjIgx7Dc1gUoggEwVUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzEwNjM5MnIJMzcwMDg3ODI2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524110396,
+                "is_labeled": false,
+                "excerpt": "特朗普政府对中兴的制裁，给中国这家5G领军企业带来了毁灭性冲击。这一制裁的本质，显然是为了狙击中国的5G战略，是美国遏制中国在具体产业和企业层面的进一步延伸。<b>这足以说明类似中兴这类高新技术企业的进步，已经开始威胁到美国的主导地位，折射出了美国…</b>",
+                "excerpt_title": "",
+                "id": 35862899,
+                "voteup_count": 19,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-640b2a5654c4523365ab456d07e53f06_{size}.jpg",
+                    "badge": [],
+                    "name": "杭子牙",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/d9e7d1047d95bb02f96dcffbe70659a5",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "hang-zi-ya-91",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-640b2a5654c4523365ab456d07e53f06_is.jpg",
+                    "is_org": false,
+                    "headline": "华语媒体总编",
+                    "type": "people",
+                    "id": "d9e7d1047d95bb02f96dcffbe70659a5"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35862899",
+                "created": 1524110396,
+                "content": "<p>特朗普政府对中兴的制裁，给中国这家5G领军企业带来了毁灭性冲击。这一制裁的本质，显然是为了狙击中国的5G战略，是美国遏制中国在具体产业和企业层面的进一步延伸。</p><p><b>这足以说明类似中兴这类高新技术企业的进步，已经开始威胁到美国的主导地位，折射出了美国政治和产业社会对中国崛起的焦虑。</b></p><p><b>但同时它也提醒中国，中美在核心产业和关键领域依旧还有相当差距。在很多关键领域，还被美国卡着脖子，还要长期持续努力。</b></p><p>所以，让“中国已全面超越美国”的鸡血和亢奋先见鬼去吧！中国终究要超越美国，我们要有超越的自信，但在超越的过程中，首先不要头脑发热。</p><p>因为中美的结构性矛盾，以及中国崛起对美国造成的压力，中美已经在实质上到了“修昔底德陷阱”的边缘。</p><p><b>可以预见，随着中国进一步崛起，美国遏制中国的战略一定会更加严厉，花样也会不断翻新，中美冲突一定会越来越多，越来越激烈。</b></p><p><b>这就决定了美国遏制中国，中兴肯定不是最后一个，经贸也不是唯一的领域，台湾问题必定会越来越突出，南海也会风波不断，另外还有其它领域，也会不断被美国激活。</b></p><p>对中国的战略定力和斗争策略，这绝对是历史性的考验。</p><p>在和美国的博弈过程中，中国一定要有信心、有耐心、有策略，要在博弈的过程中，尽快完成在各个关键产业链中的布局，尽快掌握核心技术和高端制造能力。</p><p><b>要认识到尽管技术没有意识形态，但掌握这些技术的国家却都有各自的国家利益和意识形态。</b></p><p><b>所以，不要完全迷信国际产业分工，要在积极加入和利用国际产业分工的同时，尽快往产业链条的上游移动，要努力把整条链条中的关键和基础环节，尽可能掌握在自己手里。</b></p><p>中国崛起注定不会一帆风顺，现在就已经到了最具挑战性的、翻越美国这个山头的时候。这可能需要二三十年，乃至五六十年，甚至更久。</p><p>在和美国的这场世纪博弈中，只要中国人内部团结，不头脑发热，不犯颠覆性错误，政经与社会发展变革的蓬勃活力不被窒息，胜利的烟花最后一定会属于中国。</p><p><b>（有关这次美国制裁中国的直接诱因，中兴到底卖了什么美国禁运的东西给伊朗，以及又是谁出卖了中兴，这些我都在微信公众号“杭子牙”的相关跟帖评论中有详细说明，感兴趣的可以搜索并添加，参与讨论。）</b></p><p></p>",
+                "comment_count": 2,
+                "title": "中兴不是最后一个，但烟花一定属于中国",
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjUzNTYyMSC8qODWBSgTMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjEwOTU3NHIIMzU4NjI4OTk="
+        }
+    ]
+}

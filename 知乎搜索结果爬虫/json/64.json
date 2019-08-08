@@ -1,0 +1,236 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440639110.65983",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1440530748.97&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440530748.96693"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "定睛一看 2018年的问题。。。卧槽 预言家啊",
+                "created_time": 1558345621,
+                "id": 689455317,
+                "voteup_count": 15,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-237117c24ed624e83bcb2dbd65102b68_{size}.jpg",
+                    "gender": -1,
+                    "type": "people",
+                    "name": "苟苟辣么可爱",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/46d50095d0368592364668b932264691",
+                    "url_token": "gou-gou-la-yao-ke-ai",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-237117c24ed624e83bcb2dbd65102b68_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [],
+                    "id": "46d50095d0368592364668b932264691"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/689455317",
+                "question": {
+                    "title": "为什么华为手机从2018年5月10日起用不了谷歌商店了？",
+                    "url": "http://www.zhihu.com/api/v4/questions/277614825",
+                    "created": 1526593990,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 277614825
+                },
+                "updated_time": 1558345621,
+                "content": "<p>定睛一看 2018年的问题。。。卧槽 预言家啊</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTU1NDIyODE0IJXviecFKA8wAEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzk2Nzk2N3IJNjg5NDU1MzE3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524386083,
+                "is_labeled": false,
+                "title": "中兴事件如何发展？",
+                "excerpt": "<b>中兴事件如何发展？</b> 最近，热门的中兴事件激起许多议论。爱国偏左的，认为这是好事，可以激发我们集中力量造芯片；爱国偏右的，认为我们可以和美国对着干，我们不供应美国造芯片的稀土；看热闹的吃瓜群众，不觉得事大，说还有华为、小米没受制裁，这些人唯…",
+                "excerpt_title": "",
+                "id": 35979776,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-0c76fb4d0e62ee797a130f5af40c7834_hd.jpg"
+                ],
+                "created": 1524386083,
+                "url": "http://zhuanlan.zhihu.com/p/35979776",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-f768cdf8fe49c686d568f7ce64886be8_{size}.jpg",
+                    "gender": 1,
+                    "type": "people",
+                    "name": "mahh999",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/f3c72c0daa026e537c1caa6ed95c2065",
+                    "url_token": "mahh999-2",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-f768cdf8fe49c686d568f7ce64886be8_is.jpg",
+                    "is_org": false,
+                    "headline": "我喜欢胡思乱想，但不胡说八道。",
+                    "badge": [],
+                    "id": "f3c72c0daa026e537c1caa6ed95c2065"
+                },
+                "content": "<p><b>中兴事件如何发展？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>   最近，热门的中兴事件激起许多议论。爱国偏左的，认为这是好事，可以激发我们集中力量造芯片；爱国偏右的，认为我们可以和美国对着干，我们不供应美国造芯片的稀土；看热闹的吃瓜群众，不觉得事大，说还有华为、小米没受制裁，这些人唯恐天下不乱；积极分子刚看过“厉害了，我的国”，心理不免有一些落差，觉得我们的国家并没有吹嘘的那么强大。</p><p><b>顶级芯片属于高端产业，目前只有少数几个发达国家可以造，而我们是发展中国家，造不出来，符合常理，完全没有必要妄自菲薄。</b>芯片只是电子产业众多零件中的一个，没有一个国家能全部造出所有零件，并形成产业化。发展中国家制造简单的、容易的，发达国家制造复杂的、有难度的，只是分工不同，也是市场自然选择的结果。就像没文凭的，你就当工人，有博士文凭的，你就搞研究。不管是当工人，还是搞研究都是工作，只是分工不同而已。虽然分工不同，但他们是平等的，没有贵贱之分。有人非要把他们分出贵贱，认为工人贱，非要让他们搞研究，这不是胡闹吗？</p><p><b> 我们应该客观的看待中兴事件。首先，中兴违约在前，美国惩罚在后，要承认是中兴的不对。其次，要看到正值中美贸易大战前夕，美国有获取谈判筹码之意。最后，要有自信。在现在的世界格局中，美国离不开我们，我们也离不开美国，正如核心所说，要共建人类命运共同体。</b></p><p><b>   不要悲观，天塌不下来。最后的结局肯定是我们缴纳巨额的罚款，在贸易谈判中作出巨大让步。反正我们有的是钱，钱能解决的问题不是问题。</b></p><p>   我们还是世界老二，不会像日本一样掉到老三的位置，该吹的也要照样吹，不能因为一个小小的芯片，就丧失了原来的乐观精神（坏笑）。</p><p>   有人说，我们不让步，我们和美国对着干。你有这样的想法，只能说，你是一个小老百姓。如果你站的高，从全局的角度考虑，肯定不会有这样的想法。我们有车，我们有房，我们有核心，我们天下太平，我们莺歌燕舞，我们为什么要对着干？就像一个大富豪，儿子被人绑架了，他想到的肯定是花钱赎人，而不是报警和盗贼对着干，李嘉诚就是例子。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>   更多内容，扫描二维码，关注微信公众号“根性学研究会”。</p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/ojgfB03EIxBcrQlk922w\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/ojgfB03</span><span class=\"invisible\">EIxBcrQlk922w</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p><p></p>",
+                "comment_count": 2,
+                "image_url": "https://pic2.zhimg.com/50/v2-0c76fb4d0e62ee797a130f5af40c7834_hd.jpg",
+                "voteup_count": 11,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjU4MjM0MiCjkvHWBSgLMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjExMjAzNnIIMzU5Nzk3NzY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558519671,
+                "is_labeled": false,
+                "title": "美国电信业世纪大并购有新进展 是否将为逐梦5G放弃反垄断？",
+                "excerpt": "去年4月，美国第三、四大移动运营商<u><b>T-Mobile</b></u>和<u><b>Sprint</b></u>经过多年谈判，终于宣布将达成合并协议，双方的交易规模预计达到260亿美元。二者若能成功合并，新公司将管理接近1.3亿用户，一举超过AT&amp;T成为美国第二大电信商。 合并的消息公布后，美国司法部等监管机构…",
+                "excerpt_title": "",
+                "id": 66653116,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-1b594c1b9e1f0573790787b943c9ea41_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-1a1d3af024117bb8c6fc586e32bcd264_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-f1afb6c666d8b9ec6e96f49e7f453e2c_250x0.jpg"
+                ],
+                "created": 1558519671,
+                "url": "http://zhuanlan.zhihu.com/p/66653116",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-ab1a36535d6770e51f26cca7fb2808a5_{size}.jpg",
+                    "gender": -1,
+                    "type": "people",
+                    "name": "觅罗宝",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/4c74c74e0efea52bb317dfa7c0cc1d94",
+                    "url_token": "mi-luo-bao",
+                    "user_type": "organization",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-ab1a36535d6770e51f26cca7fb2808a5_is.jpg",
+                    "is_org": true,
+                    "headline": "一个跨境投资的新事物",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "4c74c74e0efea52bb317dfa7c0cc1d94"
+                },
+                "content": "<p>去年4月，美国第三、四大移动运营商<u><b>T-Mobile</b></u>和<u><b>Sprint</b></u>经过多年谈判，终于宣布将达成合并协议，双方的交易规模预计达到260亿美元。二者若能成功合并，新公司将管理接近1.3亿用户，一举超过AT&amp;T成为美国第二大电信商。<br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-1a1d3af024117bb8c6fc586e32bcd264_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"869\" data-rawheight=\"483\" class=\"origin_image zh-lightbox-thumb\" width=\"869\" data-original=\"https://pic1.zhimg.com/v2-1a1d3af024117bb8c6fc586e32bcd264_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>合并的消息公布后，美国司法部等监管机构就开始了反垄断调查。实际上早在2011年，AT&amp;T就试图吞下T-Mobile，最后因未能通过反竞争审核而告终。</p><p>去年6月，T-Mobile和Sprint正式向美国联邦通信委员会（FCC）提交合并申请，双方承诺将在合并后投资400亿美元在5G领域，三年内建立一个覆盖97%美国人口和85%农村人口的先进5G网络，六年内覆盖99%的美国人口和90%农村人口，并在网络建设期间不提高价格。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f1afb6c666d8b9ec6e96f49e7f453e2c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"770\" data-rawheight=\"469\" class=\"origin_image zh-lightbox-thumb\" width=\"770\" data-original=\"https://pic1.zhimg.com/v2-f1afb6c666d8b9ec6e96f49e7f453e2c_r.jpg\"/></figure><p>就在近日，该并购案有了新进展。FCC主席Ajit Pai表示，他将向委员会建议批准T-Mobile和Sprint的合并，以加速美国的5G网络建设。消息一出，两家公司股价大涨。T-Mobile股价上涨近7%，创盘中历史新高；Sprint更是飙升27%，创下近一年内盘中新纪录。</p><p>FCC主席Ajit Pai认为，这两大电信巨头的合并将有助于填补美国农村地区的数字鸿沟，同时能为美国社区提供更多的移动和宽带网络接入选择，形成更好的无线网络覆盖，以助力美国在这场全球瞩目的“军备竞赛”中处于领先地位。</p><p>虽然美国联邦通信委员会有望通过这桩“世纪大并购”，司法部门的反垄断调查仍在继续。两家公司在此方面问题上尚未满足美国政府的要求，但目前并无明确的偏向。有分析师认为，在得到FCC主席的支持后，该交易“似乎很有可能”通过反垄断审核，因为历史上美国司法部反垄断部门从未与FCC有过意见不合。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-552859e86bc38833c89e95d0370629cd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1017\" data-rawheight=\"508\" class=\"origin_image zh-lightbox-thumb\" width=\"1017\" data-original=\"https://pic2.zhimg.com/v2-552859e86bc38833c89e95d0370629cd_r.jpg\"/></figure><p>在当前中美通信技术竞争加剧、贸易摩擦升级的背景下，5G网络的战略性意义对美国来说不言而喻。中国在该领域的发展势头迅猛，受美国实体管制的华为在5G技术方面已领先竞争对手两三年，且与俄罗斯、欧洲部分国家的合作并未受美国影响。而特朗普曾在公开场合表态，美国一定要赢得5G竞赛，为此可以不惜代价地调动力量。</p><p>在这样充满危机的时间点，是逐梦5G，还是考虑合并后的行业垄断、大规模裁员，美国的下一步棋如何走值得持续关注。</p><p><b>收并购</b></p><p>继收购以太网控制器研发公司Aquantia后，全球领先的无晶圆厂半导体公司<u><b>Marvell</b></u>（NASDAQ:MRVL）又将收购GlobalFoundries旗下负责特定用途集成电路业务的全资子公司<u><b>Avera Semi</b></u>，具体交易金额并未披露。</p><p>葡萄牙电力公司<u><b>EDP</b></u>（ELI:EDP）与法国能源巨头<u><b>Engie</b></u>（EPA:ENGI）签署了谅解备忘录，双方将成立50/50合资公司，通过合并部分风力资产及项目管道，以拓展在欧洲、美国以及亚洲地区的离岸风力发电项目。</p><p>总部位于爱尔兰的健康服务集团<u><b>UDG Healthcare</b></u>（LON:UDG）将以8860万美元收购美国波士顿的医疗咨询公司<u><b>Putnam Associates</b></u>，并以1770万美元价格接手了英国医疗政策咨询公司<u><b>Incisive Health</b></u>。</p><p><b>投融资</b></p><p>澳大利亚SaaS在线设计提供商<u><b>Canva</b></u>在最新一轮的融资中收获7000万美元，据外媒报道，参投方包括美国风投General Catalyst和成长基金Bond Capital。Canva的整体估值已超过25亿美元。</p><p>美国开放式支付平台<u><b>Marqeta</b></u>近日已完成2.6亿美元E轮融资，领投方为Coatue Management。参与本轮融资的投资方包括Visa、高盛、ICONIQ、Spark Capital等。目前Marqeta估值接近20亿美元。</p><p>美国西雅图披萨连锁店<u><b>MOD Super Fast Pizza</b></u>已完成1.5亿美元融资，投资方为私募公司CD&amp;R。本次获得的资金将用于新店扩张，公司计划于五年内完成1000家门店的目标。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-aa9420cdb051f934c801aee39f90b8c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-aa9420cdb051f934c801aee39f90b8c5_r.jpg\"/></figure>",
+                "comment_count": 0,
+                "image_url": "https://pic2.zhimg.com/50/v2-1b594c1b9e1f0573790787b943c9ea41_hd.jpg",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyOTQwNTM2IPe+lOcFKAIwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjY2NTMxMTY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559191116,
+                "is_labeled": false,
+                "title": "因美国制裁华为淡定回怼的霸气总裁任正非，说过哪些金句名句？公众号：电影台词精选",
+                "excerpt": "我44岁的时候， 在经营中被骗了200万， 被国企南油集团除名， 曾求留任遭拒绝， 还背负还清200万债。 妻子又和我离了婚， 我带着老爹老娘弟弟妹妹在深圳住棚屋， 创立华为公司。 我没有资本、没有人脉、没有资源、没有技术、没有市场经验， 我唯有勇敢向前…",
+                "excerpt_title": "",
+                "id": 67001002,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-caa60dada017ed04f78540ba8c166284_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-3965b8f3742dfd50760af23188cd4628_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-f36b333551b193cbaa806e524bf0fe00_250x0.jpg"
+                ],
+                "created": 1558792348,
+                "url": "http://zhuanlan.zhihu.com/p/67001002",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-a66cf9eaa4bc55978777aba9559bda13_{size}.jpg",
+                    "gender": 1,
+                    "type": "people",
+                    "name": "电影台词精选",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/3a22fafc1b8ab3f9d5fa89866bec2869",
+                    "url_token": "dian-ying-jiu-ju",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-a66cf9eaa4bc55978777aba9559bda13_is.jpg",
+                    "is_org": false,
+                    "headline": "关注公众号“电影台词精选”每日更新：台词、语录、截图",
+                    "badge": [],
+                    "id": "3a22fafc1b8ab3f9d5fa89866bec2869"
+                },
+                "content": "<p>我44岁的时候， </p><p>在经营中被骗了200万， </p><p>被国企南油集团除名， </p><p>曾求留任遭拒绝， </p><p>还背负还清200万债。 </p><p>妻子又和我离了婚， </p><p>我带着老爹老娘弟弟妹妹在深圳住棚屋， </p><p>创立华为公司。 </p><p>我没有资本、没有人脉、没有资源、没有技术、没有市场经验， </p><p>我唯有勇敢向前， </p><p>我用了27年把华为带到世界500强，行业世界第一的位置。 </p><p>我不觉得跌倒可怕，可怕的是再也站不起。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-3965b8f3742dfd50760af23188cd4628_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-3965b8f3742dfd50760af23188cd4628_r.jpg\"/></figure><p>动用备胎，体现了自主创新，但不想孤家寡人，我们的朋友遍天下，不能伤害朋友，方舟子可能不理解我们的战略。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f36b333551b193cbaa806e524bf0fe00_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-f36b333551b193cbaa806e524bf0fe00_r.jpg\"/></figure><p>对于个人来讲，我没有远大的理想，我思考的是这两、三年要干什么，如何干，才能活下去。我非常重视近期的管理进步，而不是远期的战略目标。活下去，永远是硬道理。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-077e0ef2afbd255a0da689a7d96fede7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic4.zhimg.com/v2-077e0ef2afbd255a0da689a7d96fede7_r.jpg\"/></figure><p>华为不轻易允许资本进来，因为资本贪婪的本性会破坏我们的理想的实现。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-529d98481828fd1f67b17c2dc765b672_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-529d98481828fd1f67b17c2dc765b672_r.jpg\"/></figure><p>华为就是一只大乌龟，二十多年来，只知爬呀爬，全然没看见路两旁的鲜花，不被各种所谓的风口所左右，只傻傻地走自己的路。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6fa8c2ef9878aeed7d2f038bc933c863_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic4.zhimg.com/v2-6fa8c2ef9878aeed7d2f038bc933c863_r.jpg\"/></figure><p>华为没有哲学，我本人也不学哲学，我认为华为所有的哲学就是以客户为中心，就是为客户创造价值。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-411ab2ae753310d64ac432fd5de9eff8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-411ab2ae753310d64ac432fd5de9eff8_r.jpg\"/></figure><p>毛泽东会打枪吗？谁见过毛泽东打枪？他要打枪恐怕要打到自己的脚趾头上。但是毛泽东会运动群众，会运动干部。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-3e5670bee70e79aa1bdd4fafffe0d796_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-3e5670bee70e79aa1bdd4fafffe0d796_r.jpg\"/></figure><p>什么叫成功？是像日本那些企业那样，经九死一生还能好好地活着，这才是真正的成功。华为没有成功，只是在成长。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6be036aee5162ee4faaf3efe0d1d791b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic4.zhimg.com/v2-6be036aee5162ee4faaf3efe0d1d791b_r.jpg\"/></figure><p>十年来我天天思考的都是失败，对成功视而不见，也没有什么荣誉感、自豪感，而是危机感。也许是这样才存活了十年。我们大家要一起来想，怎样才能活下去，也许才能存活得久一些。失败这一天是一定会到来，大家要准备迎接，这是我从不动摇的看法，这是历史规律。——任正非</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-10ad5c6d2f0d58ef8733470a08f8916b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic4.zhimg.com/v2-10ad5c6d2f0d58ef8733470a08f8916b_r.jpg\"/></figure><p>我们牺牲了个人、家庭，是我们为了一个理想，在最高点上，我们和美国有冲突，但最终还是要一起为人类做贡献。——任正非</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-1b7dcaaef46a352c3e23b7115148dd63_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"314\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-1b7dcaaef46a352c3e23b7115148dd63_r.jpg\"/></figure><p></p>",
+                "comment_count": 1,
+                "image_url": "https://pic1.zhimg.com/50/v2-caa60dada017ed04f78540ba8c166284_hd.jpg",
+                "voteup_count": 12,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMDE3Nzg1IJyRpecFKAwwAUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjcwMDEwMDI="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "斗胆献几条计吧。 1.房产税尽快推出，事不宜迟。房价在某种程度扭曲了国人的价值观。国家必须要对现有的激励机制和资金流向进行<b>纠偏</b>。没有说房地产和互联网经济不对，只是这两样占据了太多资源和人才，挤压了实体经济的空间。2.高校的集成电路专业，教材和…",
+                "created_time": 1524150536,
+                "id": 371163819,
+                "voteup_count": 42,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/e20e8de91ea3e7e5feed93153847eb71_{size}.jpg",
+                    "gender": 1,
+                    "type": "people",
+                    "name": "北野文",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/20ba4563ffc73d0e4bfaf03c0a9c06da",
+                    "url_token": "zhong-yi-wen-4",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/e20e8de91ea3e7e5feed93153847eb71_is.jpg",
+                    "is_org": false,
+                    "headline": "有没有合适的主公",
+                    "badge": [],
+                    "id": "20ba4563ffc73d0e4bfaf03c0a9c06da"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/371163819",
+                "question": {
+                    "title": "美国对中兴的进口封锁会促进中国半导体行业的繁荣吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273783222",
+                    "created": 1524044576,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273783222
+                },
+                "updated_time": 1524239997,
+                "content": "<p>斗胆献几条计吧。</p><p><br></p><p>1.房产税尽快推出，事不宜迟。房价在某种程度扭曲了国人的价值观。国家必须要对现有的激励机制和资金流向进行<b>纠偏</b>。没有说房地产和互联网经济不对，只是这两样占据了太多资源和人才，挤压了实体经济的空间。</p><p>2.高校的集成电路专业，教材和实验都要课改。</p><p>3.国内的芯片企业不能再闭门造车了，比如FPGA芯片及EDA工具，就可以在高校推广，一定要用起来，实话说，高校也不需要太高端的芯片，多搞点国产芯片的电子设计竞赛，国家出钱(花不了几个钱)，大家来找茬，芯片和软件哪里不好用的，<b>反馈</b>给国产芯片公司，这点很重要，慢慢改进，憋内功。如果国产芯片慢慢起来了，可以替代一些国外低端芯片，就有可能在一些场合被国内的公司采购，整个就会<b>良性循环</b>。国内芯片公司才有资金去招人研发下一代产品。政府的扶持也可以慢慢退出。</p><p>4.扶持芯片创业公司，减税，减租金，对实力强的<b>个人</b>，提供衣食住行全方位补贴。补贴一定要严格甄别，防止骗补。</p><p>5.挖人。</p><p><br></p><p>说了这么多，国产芯片和软件只有被大量使用了，才有性能提升的快速迭代。</p><p>国产芯片公司才能扩张，高校的相关专业毕业才有出路。</p>",
+                "comment_count": 44,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc1NDUyMTYgiOLi1gUoKjAsQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTE1OTcwcgkzNzExNjM4MTk="
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441061815.38726",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1440946019.34&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440946019.33541"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558694236,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-c3cf7da39281b99cd2caa6ae0f57bc57_{size}.jpg",
+                    "type": "people",
+                    "name": "七月在线",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/df4bdff852df84e5c9917d7f396bba95",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "julyedu.com",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-c3cf7da39281b99cd2caa6ae0f57bc57_is.jpg",
+                    "is_org": false,
+                    "headline": "国内领先的人工智能教育平台",
+                    "badge": [],
+                    "id": "df4bdff852df84e5c9917d7f396bba95"
+                },
+                "is_labeled": false,
+                "excerpt": "原作者：铜灵 转载自：量子位（QbitAI)开源平台要开始闭源了？在美国封杀华为，谷歌停止与华为相关的业务和服务之际，有网友发现，全球最大的代码托管平台Github，用户协议上写着：<a href=\"http://GitHub.com\">http://GitHub.com</a>、GitHub Enterprise Server和您上传的任何一个产品上…",
+                "id": 66902347,
+                "voteup_count": 5,
+                "created": 1558694236,
+                "url": "http://zhuanlan.zhihu.com/p/66902347",
+                "title": "所有程序员的自由，要被美国政府封杀？",
+                "content": "<blockquote>原作者：铜灵<br/>转载自：量子位（QbitAI)</blockquote><p>开源平台要开始闭源了？</p><p>在美国封杀华为，谷歌停止与华为相关的业务和服务之际，有网友发现，全球最大的代码托管平台Github，用户协议上写着：</p><p><a href=\"https://link.zhihu.com/?target=http%3A//GitHub.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">GitHub.com</span><span class=\"invisible\"></span></a>、GitHub Enterprise Server和您上传的任何一个产品上的信息都可能受美国出口管制法律的约束，包括美国出口管理条例（the EAR）。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-9ad80fb78f581327e99763fa50e7a684_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1518\" data-rawheight=\"306\" class=\"origin_image zh-lightbox-thumb\" width=\"1518\" data-original=\"https://pic1.zhimg.com/v2-9ad80fb78f581327e99763fa50e7a684_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h3><b>△</b> Github协议截图</h3><p>GitHub上的开源代码受美国出口管制了？</p><p>事情没有这么简单。</p><h2><b>“有了做特工的感觉”</b></h2><p>有代码出口管制相关规定的不只GitHub一家，Apache开源软件基金会（ASF）官网上也有类似的内容。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-070fa487895e1391c24c9ba2be285940_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1778\" data-rawheight=\"796\" class=\"origin_image zh-lightbox-thumb\" width=\"1778\" data-original=\"https://pic1.zhimg.com/v2-070fa487895e1391c24c9ba2be285940_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>也就是说，Apache基金会开发的产品是通过公开论坛在线协作完成的，通过美国的中心服务器进行分发。因此，美国出口法律法规也适用于Apache许可证。</p><p>Apache许可证在开源项目中已经被广泛应用，GitHub又是最大的开源平台。一来一去均被发现有出口管制声明，这让网友有些慌了。</p><p>有知乎网友调侃说，瞬间觉得去github上抄代码竟然有了做特工的感觉，可能“<b>孤胆英雄</b>”说得就是自己了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-728e9d9f4d9539d20e8e6240896dc879_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"227\" data-rawheight=\"222\" class=\"content_image\" width=\"227\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>有知乎网友表示，任何时候都“不能把鸡蛋放到一个篮子里”，任何时候都需要有备份方案，并且已经开始把代码同步托管到别的托管平台了。</p><p>也有匿名用户分析称，Apache的声明更像是免责条款。</p><blockquote>只要经过任何第三国的个人，把开源软件fork一下，重新编译，并以另一个名字流出，就可以绕开出口管制条例。</blockquote><p>其实，GitHub上的这条协议并非最近才加入的，其协议中的企业服务版块（GitHub Enterprise Server）标注，不得出售、出口或再出口到清单中的国家已经包含古巴、伊朗、朝鲜、苏丹与叙利亚。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9717d54d566e3dda1a69a06a572cd6ae_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1552\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb\" width=\"1552\" data-original=\"https://pic3.zhimg.com/v2-9717d54d566e3dda1a69a06a572cd6ae_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然目前还没有将中国列入在内，但条例中写到“可能会有所变化”。</p><p>那么问题就是，目前协议中的这则说明，究竟意味着什么？会对广大用户产生怎样的影响？如果使用不当会不会有法律风险？</p><p>来听听业内人士的分析。</p><h2><b>放下心来</b></h2><p>引发热议后，“开源社”随后发布文章《专家解读：开源软件项目是否会被限制出口？》中，台湾开放文化基金会法制顾问，开源社法律咨询委员会成员林诚夏做出进一步解读。</p><p>林诚夏分析称，开源软件，只要不涉加解密技术，不会被美国出口管理条例(Export Administration Regulation) （EAR）管制，但涉及加解密者则会被管制。</p><p>林诚夏分析说，EAR中的规定的正确理解方式是：</p><p>美国人、美国公司将软件出口至美国境外，或在美国境内提供给外国人作为出口的预备行为，必须申请取得许可。</p><p>但符合公开可及(Publicly available)标准的软件不在EAR管制范围，不需要申请许可。</p><p>同时，公开可及软件虽不需许可，但若涉及不公开可及的加解密技术，仍然必须申请许可。</p><p>在接受CSDN采访时，林诚夏表示，完全不用担心主流软件被闭源的事情发生，除非美国大局修改出口管制条例，否则这种设想不会发生。</p><p>林诚夏还表示，GitHub上的多数开源软件皆为公开可及并能后续散布，出口上不需要申请许可。</p><p>而受这条规定影响的，可能以企业居多。</p><p>如果企业想采购后在公司内部部署并使用产品，需要受到出口管制的制约。开源社区几乎没有影响。</p><hr/><p><b>技术无国界。</b><br/><b>但一项技术太被依赖，迟早会被当做武器。</b></p><h2><b>毕业季福利</b><br/></h2><p>原价800元的Python入门课程</p><p>现在限时免费！没有任何要求，直接领取就可以！</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-659a7cf75edb7984b17bb631bc9c9ba4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-659a7cf75edb7984b17bb631bc9c9ba4_r.jpg\"/></figure><p>任何疑问，教师团队随时解答</p><p>虽然是免费课，但教师团队可没有缩水，依旧是BAT高级专家配合顶级高校硕士进行教学。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-1af0291a9267aa6f42ee3c4fa71955fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1007\" data-rawheight=\"569\" class=\"origin_image zh-lightbox-thumb\" width=\"1007\" data-original=\"https://pic1.zhimg.com/v2-1af0291a9267aa6f42ee3c4fa71955fc_r.jpg\"/></figure><h2>立刻微信搜索公众号“<b>七月在线实验室</b>”</h2><p>回复“Python”开始学习</p><p>划分为授课时间以及自由提问答疑阶段，每节课都特意留下练习题，让大家去实践，以此辅助大家去消化所学知识。</p><p>我们始终相信，只听不用，一辈子也学不会，只有手把手协助大家去实践，才能真的学会东西。</p><p>每天更新干货，帮你踏入AI领域成为技术leader。</p><p>应届生学员转行拿到52万年薪，大量学员转行后拿到30-40万年薪！</p><p>讲师均由各大公司技术leader和国内外顶级高校博士组成！</p><p>马上开始学习，和“前辈们”一样进入心仪公司，夺取高薪，成为人生赢家。</p><p>也许你面试时的考官就是七月在线的讲师/学员！</p>",
+                "comment_count": 3,
+                "image_url": "https://pic3.zhimg.com/50/v2-0b6973a02219a42e0fbfcd816d469dd8_hd.jpg",
+                "excerpt_title": "",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-0b6973a02219a42e0fbfcd816d469dd8_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-9ad80fb78f581327e99763fa50e7a684_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-070fa487895e1391c24c9ba2be285940_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "Cj0QBxoJMTAyOTk1NzY4INySn+cFKAUwA0AAUhF0b3BfYWN0aXZpdHlfcG9zdFoFNjkwMDlyCDY2OTAyMzQ3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526458531,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-3d15eb8f9f1408ef9e53fdd884312377_{size}.jpg",
+                    "type": "people",
+                    "name": "明说明言",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0105df04789283e9fc54cfff5d179696",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "ming-shuo-ming-yan",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-3d15eb8f9f1408ef9e53fdd884312377_is.jpg",
+                    "is_org": false,
+                    "headline": "北邙地质研究者",
+                    "badge": [],
+                    "id": "0105df04789283e9fc54cfff5d179696"
+                },
+                "is_labeled": false,
+                "excerpt": "最近联想中兴的事情沸沸扬扬，中兴事件就像一个大锤狠狠砸在了所有中国人的心里，它告诉我们，没有核心技术，受制于人的结果就是任人宰割！联想事件我并不清楚它的真实性，但假设证实为真我也不会有什么意外！因为，决定一个企业的归属从不在于它的注册地、…",
+                "id": 36923658,
+                "voteup_count": 63,
+                "created": 1526458531,
+                "url": "http://zhuanlan.zhihu.com/p/36923658",
+                "title": "从联想中兴事件你能想到什么",
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a957b32ec3212f7e823704cfd14a79d2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"340\" data-rawheight=\"225\" class=\"content_image\" width=\"340\"/></figure><p>最近联想中兴的事情沸沸扬扬，中兴事件就像一个大锤狠狠砸在了所有中国人的心里，它告诉我们，没有核心技术，受制于人的结果就是任人宰割！联想事件我并不清楚它的真实性，但假设证实为真我也不会有什么意外！因为，决定一个企业的归属从不在于它的注册地、它创立者的国籍、又或者它的股东是谁，决定它的立场和归属的从来都是它的核心利益在哪里。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-6f8326b5f1af600eac424502efb6331a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-6f8326b5f1af600eac424502efb6331a_r.jpg\"/></figure><p>企业是为获取利润为目的而诞生的，它的利润来源在哪里，它的核心利益就在哪里。我们都知道企业分为经营型企业和生产型企业。对于没有什么核心技术的经营型企业来说，往往它的市场在哪里，它的立场便就在哪里；生产型企业相对复杂得多，因为现在是全球分工的时代，任何一个大型企业几乎都是全球配置、上下游分工。几乎没有哪一家生产性企业能掌握完整的产业链，即使强如三星掌握了面板、内存、闪存的绝对优势地位；它的系统依然来自美国，它的光刻机依然要靠荷兰ASML。对于生产型企业来说，谁的产业完整性越大、谁占据产业链上游，谁的话语权就足。很明显的，如果一家生产型企业的核心技术全部依靠它人又或者产业链的上游都被人掌控，那么就是阎王叫你三更死了，这样的企业的立场如何不是不言而喻的吗？饭碗端在别人手里，自然要听别人的话。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-3dbb1074ecd9a638c4f43a8a9ef15a15_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"365\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-3dbb1074ecd9a638c4f43a8a9ef15a15_r.jpg\"/></figure><p>反而像阿里腾讯之类的企业，它们的大股东是谁又有什么意义呢？它们的市场主要在中国，它们的研发核心在中国。难道孙软银能叫阿里背叛国家？他凭什么？以撤资威胁？国内泛滥的资金欢迎得很。</p><p>其实不仅仅对于企业来说如此，对于国家来说更如此。我们经常说韩国一边在中国市场赚大钱，一边却站在美国一边到处给我们使绊子。这对于我们来说当然是白眼狼，但对韩国来说却是迫不得已。在韩的美军基地自然是主因，另一个重要原因在于韩国仅仅是美国制造产业链的一个组成部分，日韩都的确拥有优势的产业并在一些方面占据了绝对地位。但这远远不够，他们国家人口太少，市场太小，并没有能力形成完整的产业链，它们的许多核心技术和产业链上游都由美国把持。所以失去中国市场的确丢失了一大利润，但如果忤逆美国的意志，那么等待它的结果只有死亡。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说到这里我们要深深的感激老一辈的共和国缔造者们，是他们在吃不饱穿不暖的情况下依然给我们留下了一个相对完整的制造产业链。使我们在极度困难的时候被封锁依然能坚持下来，也使得我们即使技术没有那么先进、在许多产业链的上游都不占优势，但相对完整的产业链使得我们能够抵御任何风险！中兴事件自然是个教训，让我们知道我们还有多少不足，让我们知道我们下一步要做什么！但是，也不要因此而妄自菲薄，如果中国如此容易被击溃，美国又何须害怕中国的竞争？又何必现在才动用这种手段？</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-921655112436b8ca6eaedae90c416c50_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-921655112436b8ca6eaedae90c416c50_r.jpg\"/></figure><p>一些面对美国贸易战自卑的人经常说我们不过是欧美高端产品的组装工厂而已，和美国对抗是没有胜算的，还是投降吧，妥协吧。这自然是不对的，而且他们不知道中国的这个组装厂就是一个极大的筹码，并不是像一些人简单的认为想搬走工厂就能搬走的。中国为了缔造这个巨型的工厂以满足全球需求付出了多少努力，岂是说搬就能搬的？中国每三年消耗的水泥等于美国一百年使用量的总和！全球近一半的钢铁、铜、铝、橡胶等等和两亿农民工们数十年汗流浃背的努力才建成这些港口、机场、道路、才有能满足这么巨大生产需要的发电厂、水厂！这还不说建国前三十年的扫盲、后三十年数十万亿投资教育、组织训练才有的合格的产业工人。别的不说，就说要建立一个大型的港口即使以中国的效率也要以十年计算，换做别的国家又如何？即使美国能把那几十个国家以像中国组织各省一样动员起来，想要完全摆脱中国的产业供应链，他都最少需要三十年以上！更别说现实中他们这些国家还是矛盾重重？这个巨大的供应链优势远远比韩国在面板或闪存内存这些细节方面的垄断大得多，也比日本在零部件上的优势大得多！中国经过自己的努力二十年内或许就能掀翻日韩的某些零部件技术优势，但除了中国之外的所有国家加一起努力三十年内也无法替换中国在全球产业链上的作用！这才是日韩美国为什么只敢在局部恶心中国而不敢完全掀台的原因！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>砥砺前行，脚踏实地！用一句主席的话做结尾，“让那些内外的反动派在我们面前发抖罢,让他们去说我们这也不行那也不行罢,中国人民的不屈不挠的努力必将稳步地达到自己的目的！”</p><p></p>",
+                "comment_count": 8,
+                "image_url": "https://pic1.zhimg.com/50/v2-1092de1311b4c22863e8b88079cf0dfa_hd.jpg",
+                "excerpt_title": "",
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-1092de1311b4c22863e8b88079cf0dfa_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-a957b32ec3212f7e823704cfd14a79d2_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-6f8326b5f1af600eac424502efb6331a_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjk2MDQzOCCj0e/XBSg/MAhAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2OTIzNjU4"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558504756,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-0a8c3a4a744d65cdf344f5feb8806dcb_{size}.jpg",
+                    "type": "people",
+                    "name": "车车同学",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/631f27fb25f71f6b4fedcd25cd814b3d",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "che-yuan-xiang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-0a8c3a4a744d65cdf344f5feb8806dcb_is.jpg",
+                    "is_org": false,
+                    "headline": "一款为汽车经销商量身订做且高效分享车源和资讯的APP",
+                    "badge": [],
+                    "id": "631f27fb25f71f6b4fedcd25cd814b3d"
+                },
+                "is_labeled": false,
+                "excerpt": "原创 autocarweekly文｜江小花2016年，当华为董事长任正非被记者问及，华为这样的巨无霸企业为什么不上市的时候，他说：因为我们把利益看的不重，就是在为理想和目标而奋斗。如果上市了，股东们看着股市那边有几十亿元、几百亿元可赚，逼着我们横向发展，那…",
+                "id": 66606883,
+                "voteup_count": 4,
+                "created": 1558504756,
+                "url": "http://zhuanlan.zhihu.com/p/66606883",
+                "title": "中国汽车圈有没有任正非",
+                "content": "<p>原创 autocarweekly</p><p>文｜江小花</p><p>2016年，当华为董事长任正非被记者问及，华为这样的巨无霸企业为什么不上市的时候，他说：因为我们把利益看的不重，就是在为理想和目标而奋斗。如果上市了，股东们看着股市那边有几十亿元、几百亿元可赚，逼着我们横向发展，那华为就去不到“无人区”了。<br/>昨天，当已经被看作中国商界最板扎的爷们的任正非再一次面对记者如此提问的时候，他仍然重复了这番说辞。而如今，我们对这番话的理解，却有了不一般的感受。<br/>任正非说，华为已经连续几年分红达到30%，他一再告诫利润做的太高了，会导致战略积累不够。我们如今已经知道，除了领先世界两三年的5G技术，华为的战略积累，还在于为极限生存环境所做的准备。<br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-60de626f234f506a6c7e0b82b61202a8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-60de626f234f506a6c7e0b82b61202a8_r.jpg\"/></figure><p><br/>很难想象，一家围绕市值管理，围绕一些投资人出身的企业家时常放在嘴边的股东利益等财务数据为核心的企业，会有一群技术精英，可以淡泊到把全副精力放在打造可能永远也用不上的技术防空洞上。<br/>不仅是在中国，即便是美国，通用、福特这样的巨头型车企，也是在任正非所谓的横向发展之后，才变得庞大而平庸的。财务高官每每被任命为CEO的企业，无人区怎么会不是禁区，企业又怎么会不肉食者鄙。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-e5bdfb3c74ede00410f979b6d820f5f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"38\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-e5bdfb3c74ede00410f979b6d820f5f7_r.jpg\"/></figure><p><br/>任正非在昨天，美国又继续追加对华为的追杀筹码之前，接受了记者访问。在我看来，他并不是出来收割赞美，也不是出来聚拢名义支持华为的，而是出来扑火的。<br/>有意思的是，这个火不是美国烧过来的火，而是国人对华为的空前热情。在舆论一边倒的要给华为封神的当口，任正非嗅到了比美国禁售更大的潜在风险，否则以他的性格，这次恐怕不会现身。<br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-8c6bdd5b8b89fba4b3cd2c6cf533efb9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-8c6bdd5b8b89fba4b3cd2c6cf533efb9_r.jpg\"/></figure><p><br/>他大致说了三层意思。<br/>其一，我现在吊儿郎当的，所以华为没事，我们不怕，尤其是5G，领先多着呢；<br/>其二，美国很多企业是华为的好朋友，也是中国的好朋友，政客一时发飙不会改变这些，大家也要理性对待，以后还要一起玩耍的；<br/>其三，支持华为也要理性支持，不要把买华为手机跟爱国划等号，华为是一家全球化企业，希望整个行业的生态圈保持健康，稳定，不要一家独大。这简直是商界类似于战后美国马歇尔计划级别的境界。<br/>任总的这番答记者问，只怕是起不到让外界成全他他恪守低调务实信条的作用，还会因此多圈暴多粉。因为听到他说的这些话之后，连我这样在前两天还颇不为“备胎公开信”所动的死理性派，都有点把持不住了。<br/>这些表态，很多企业家在顺风顺水的时候，都说得出来，无非是对形势的长期看好，对企业的信心十足，对行业的家国情怀，以及自己的谦虚谨慎、不骄不躁的作风。<br/>但是任正非这时候来这样说，便实实在在有了些猝然临之而不惊，无故加之而不怒的大勇之风了。上海人讲话：绝对模子！北京人讲话：牛逼！唯愿华为经此一役后，仍能按照任总的愿望，在通往理想的无人区的道路上，不受干扰的独立发展。这话也只能这样表达了，任总应该懂的。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-e5bdfb3c74ede00410f979b6d820f5f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"38\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-e5bdfb3c74ede00410f979b6d820f5f7_r.jpg\"/></figure><p><br/>好了，马屁到此结束。科技圈有如此企业家，作为汽车媒体，我还是对科技同行们深表羡慕的。<br/>这两天的事情，总不免让我胡思乱想，如果汽车企业有朝一日也要来面对极限生存环境了，咱们也能有华为这样的企业，任正非这样的企业家站出来吗？<br/>当然，两个行业有很大的不同。汽车作为工业等级更高、全球化协作更彻底的制造业部门，并且中国市场巨大到无法忽视，国外政客要找出个好办法来封杀中国哪一家或者几家强势汽车企业，恐怕要比特朗普的芯片任性来的难。<br/>毕竟如果不给中国企业供货，博世、爱信、安波福这些巨头恐怕财报一时就没法看了，像三菱这样披着整车外衣，靠出口发动机，拿着技术转让费过日子的车企恐怕都要活不下去。<br/>但是我们且不论这些，只是假设万一哪天类似于华为这种极限生存状态发生在中国车企身上，谁又能挺身而出，如华为，如任正非这般扮演孤胆英雄的角色呢？<br/>是不知道能不能在徐留平手下弘毅的长子一汽？还是这几年让人刮目相看的李书福的吉利？是全球50强的上汽？还是永不倒的长城？<br/>我脑子里浮现出的，竟然首先是几个已经淡出公众视线的老汽车人。比如长安汽车的老厂长尹家绪，不夸张的说，长安汽车在2013年自主品牌集体走衰的年份逆势飘红，一举突破中国车企从来没有达到过的年产销百万的格局，技术和产品的底子，是尹家绪扎牢的。这一点，如今地位如日中天的接班人徐留平也不会否认。中国汽车第一家依靠正向研发爆发的企业，竟然是长安，这是尹家绪这位老军工人，倔强地带来的意外。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-00c81b27114bfd79a9ec98516d55b5cf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-00c81b27114bfd79a9ec98516d55b5cf_r.jpg\"/></figure><p><br/>和尹家绪类似的老汽车人，还有左延安，在他的时代，江淮曾经是一家技术特点和经营思路都十分务实和有特点的企业，左延安强硬的性格，给江淮带来了很扎实的产线和技术底子，作为老本一直被继任者们吃到了2016年。可惜的是，两家企业的思路初创者的思路并没有得到很好的延续，长安没有顺着尹家绪的倔强，把企业推向更鲜明的价值感立身的大道，半推半就又不合时宜的打起了价格战，江淮更是凋零的让人心疼。<br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-6707f06a44f7e0719a850c5717ac1ae8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"477\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-6707f06a44f7e0719a850c5717ac1ae8_r.jpg\"/></figure><p><br/>还有一位老人是上汽的前任董事长胡茂元。虽然，在胡茂元的任内，上汽自主品牌没有如今的热火朝天，但是这位工人出身的上海人，有着国有车企领导人中最好的国际化视野和最开放的心态。他充分利用国际资源，将上汽打造成了中国体系最完整，产业部门最齐全、完善的汽车企业。上汽乘用车在2016年之后产销大幅激增，但是从发展理念和开放格局上细看，竟是“小”了不少。<br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e44fd33cd3a18fc81dc460ed3bf7a230_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-e44fd33cd3a18fc81dc460ed3bf7a230_r.jpg\"/></figure><p><br/>这些老汽车人，如果如私营企业那样没有冰冷的退休红线，能按照自己的格局和意志多干二十年，我们不知道几家企业会呈现出怎样的发展格局。但是，体制内的企业特点，决定了或许依托强大的资源，和有魄力的领导，在一时之间可以孕育出华为般强悍的企业，但绝难走出任正非这样的理想和目标的看门人。<br/>在国有车企的现役领导者中，我最认同的是奇瑞的尹同跃。这位带着一般兄弟，从一汽回到安徽老家芜湖创办奇瑞的技术流掌门，是一位很有意思的车企董事长。<br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-273762d8e97441cf0d1ac5f597dad555_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"425\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-273762d8e97441cf0d1ac5f597dad555_r.jpg\"/></figure><p><br/>作为董事长，他在获取政府支持方面能力一流，但在企业管理，特别是领导层协调方面则相当普通。然而，在奇瑞早年短暂的领跑自主汽车之后，即便经历了各种机构膨胀、资金短缺、宫斗不止等等负面影响，奇瑞却依然保持着自主品牌中技术领先者的地位，即便与整合了沃尔沃的吉利相比，也并不逊色，从产品和技术持续性上来说，奇瑞仍然是中国车企叫板合资企业的主力。<br/>芜湖去过好几次，尹同跃从青丝到白发，最喜欢的招待媒体朋友的方式，仍然是拉着你到芜湖工厂里面，对着改良的生产线，讲讲奇瑞最近获得的新技术、新工艺。这时候的尹同跃，是他最开心的样子。尽管没有任正非管理企业那种带着军人风格的坚定和强势，但是在他熟悉的技术方面，追赶国际先进的孜孜以求，尹同跃和任正非的理想与目标，并无二致。而这也是两家安徽车企，起点一低一高，发展轨迹却是大相径庭的原因。这也是尽管奇瑞在人事上这些年乱象频出，有些观感还颇不好看，我也从没低看过这家车企一眼的原因。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-e5bdfb3c74ede00410f979b6d820f5f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"38\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-e5bdfb3c74ede00410f979b6d820f5f7_r.jpg\"/></figure><p><br/>很多人会来把吉利和华为做一些对比，这和吉利这几年的销量猛增无关。如今的吉利，在国内坐拥先进的杭州湾研发中心，手握领先的CMA架构，以及PMA电气化专用平台，欧洲放着五大设计中心，五大造型中心，全球雇员近7万人，其中很多都是从各大顶级汽车品牌流入，不乏大师级汽车人。<br/>不久前，在杭州湾举办的龙湾论坛上，很多老一辈对吉利从前的技术水平嗤之以鼻的专家，在参观了杭州湾研究院之后，都真心表示，应该重新认识吉利。<br/>在汽车之外，李书福还收购了美国的泰利飞行汽车、丹麦盛宝银行，组建了包括曹操专车在内的吉利科技集团，以构建未来大交通出行的产业格局。<br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2f142f416196b4086a5d8143ef6ea3e3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-2f142f416196b4086a5d8143ef6ea3e3_r.jpg\"/></figure><p><br/>李书福和任正非最相似的一点，是坚持全球化的开放的发展思路，在这方面，李书福的尝试甚至可以说更加有特点，这是汽车产业自身的特点和复杂性决定的。汽车企业在世界各国，都不仅是纳税和就业大户，大多数还有着国宝级企业的情感加持，通过收购、入股，从而实现技术和资源的协同发展，资本并不是最关键的因素。<br/>而正是在这一点上，吉利具备国内其他车企很难比拟的能力，这也让吉利一定会成为中国汽车行业支持与捍卫全球化的旗手。若有一天，遭遇华为同款极限坑，李书福当能说出任正非同款的外国企业朋友论。<br/>不过是不是能做到不煽，能不能说出买华为可不等于支持华为，也不等于爱国这样的醒世恒言，还真是说不好。要是换了一向爱煽的比亚迪，或是如今的上汽乘用车，那话恐怕就更好听了，绝对跟这俩品牌的车主驾驶风格一样，别人一打灯，他就踩油门。<br/>当然，我们最希望的，还是当我们的车企在面对极限生存环境的时候，能有一些如华为一般，还能比较淡定的说，我们的技术储备足够。任正非的所有底气，也来自于此。<br/>尽管今时今日，似乎作为传统制造业，汽车并不会成为大国外交博弈的正面战场，但是汽车行业正在深刻转型，未来汽车业比拼的可能是软件，传感器，还有芯片。这也是中国车企信心满满要弯道超车的主战场，而你的这片战场，可有备胎可用？</p>",
+                "comment_count": 0,
+                "image_url": "https://pic3.zhimg.com/50/v2-f28a222cec519c09eb1d2730292473f7_hd.jpg",
+                "excerpt_title": "",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-f28a222cec519c09eb1d2730292473f7_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-60de626f234f506a6c7e0b82b61202a8_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-8c6bdd5b8b89fba4b3cd2c6cf533efb9_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyOTMwMjU5ILTKk+cFKAQwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjY2MDY4ODM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524060666,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-56ee552a98a5ddf2b0451707f3041674_{size}.jpg",
+                    "type": "people",
+                    "name": "TechPower科技力",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/25d7c0867137a99353ea235be02f3155",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "techpowerke-ji-li",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-56ee552a98a5ddf2b0451707f3041674_is.jpg",
+                    "is_org": true,
+                    "headline": "让科技更好地服务人类（techpower-tm）",
+                    "badge": [],
+                    "id": "25d7c0867137a99353ea235be02f3155"
+                },
+                "is_labeled": false,
+                "excerpt": "<b>导语</b>：在当前中美贸易战硝烟持续的背景下，美国突然宣布对中国通信运营商中兴发起了史上最严的制裁措施。而评估中兴的业务版图可以看出其对美国供应商的严重依赖，尤其芯片领域，中兴也将因此在可能的七年禁罚中损失惨重。从中美当前在科技领域的博弈来看，…",
+                "id": 35843429,
+                "voteup_count": 17,
+                "created": 1524060666,
+                "url": "http://zhuanlan.zhihu.com/p/35843429",
+                "title": "制裁中兴阻遏华为：特朗普打压下的中国5G“头号玩家”还能否夺取未来技术话语权？",
+                "content": "<figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4c7222caaf97b5b17a1b8faadb185506_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"203\" data-thumbnail=\"https://pic3.zhimg.com/v2-4c7222caaf97b5b17a1b8faadb185506_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-4c7222caaf97b5b17a1b8faadb185506_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>导语</b>：在当前中美贸易战硝烟持续的背景下，美国突然宣布对中国通信运营商中兴发起了史上最严的制裁措施。而评估中兴的业务版图可以看出其对美国供应商的严重依赖，尤其芯片领域，中兴也将因此在可能的七年禁罚中损失惨重。从中美当前在科技领域的博弈来看，制裁中兴，阻遏华为将成为美国扼制中国5G技术和相关科技领域全面崛起的杀手锏。中兴，很可能将成为中美5G博弈的第一个牺牲品，华为会是下一个吗？</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f1674c30cc1fa43b0cf9712ec09d3784_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-f1674c30cc1fa43b0cf9712ec09d3784_r.jpg\"/></figure><h2><b>全面封杀中兴：错在何处？</b></h2><p>继3月23日特朗普针对所谓“301调查”的结果，对中国发起600亿美元的“惩罚性”关税措施开始，中美贸易战的硝烟已经持续了27天。这一过程中，中美贸易战的规模不断升级，让中国在美国经济的制裁下尽快屈服似乎是特朗普坚持奉行的“信念”。但结果并不理想。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>4月16日晚，美国商务部发布公告称，<b>美国政府将禁止中兴通讯向美国企业购买敏感产品</b>，声称中兴通讯曾向美国官员作虚假陈述。这一制裁禁令将持续7年，意味着直到2025年才能解除对中兴的全面出口限制。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-3076f8cdee0a95e992ba3cef6e9461fb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-3076f8cdee0a95e992ba3cef6e9461fb_r.jpg\"/></figure><p>来自外媒的报道显示，这一制裁措施在美国联邦通讯委员会的首轮投票中获得了全票通过，并在草案中重点陈述了华为和中兴对美国国家信息安全的严重威胁。另一方面，来自美国商务部的制裁声明中，中兴此次受制裁原因在于其对美国政府“撒了谎”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2016年，中兴因在未获得美国政府许可的情况下违规向伊朗和朝鲜出口通信设备而遭受美国商务部的出口限制。去年3月，中兴承认其违反美国对伊朗的制裁措施并接受8.9亿美元罚金和3亿美元的附加处罚。作为认罪的附加条件，美国政府要求中兴解除涉及相关事件的4位资深员工，并对35名员工进行处罚。在后期的执行中，美国认为中兴的惩罚措施并不到位，并且向美国联邦官员进行了虚假陈述。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国商务部的制裁声明“貌似”有些小题大做了，“欲加之罪，何患无辞”。与其说“错”在中兴的“虚假陈述”，倒不如说<b>美国制裁中兴的真正原因在于特朗普意欲扼制中国在技术领域的全面崛起。</b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a901ab74ca72e3644c13baeaf96bdc1d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"310\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-a901ab74ca72e3644c13baeaf96bdc1d_r.jpg\"/></figure><p>当前，以量子通讯和5G技术为代表的新一轮科技革命的到来，让中美之间的大国关系变得摩擦频生，尤其是科技领域，为了取得未来世界的话语权，<b>5G技术等高新技术将是中美重新定义全球科技格局的一个开端</b>。而在全球通信领域，华为和中兴都是5G技术的头号玩家，美国政府希望通过制裁华为和中兴而继续保持其在通信和5G领域的垄断地位才是中兴和华为屡受打压的根本原因。</p><h2><b>下一个制裁目标：华为？</b></h2><p>就在美国商务部发起对中兴的制裁后，美国的铁杆盟友英国也发布了对中国华为和中兴通讯产品的警告声明，英国国家网络安全中心警告电信行业不要使用中兴的设备和服务。并称，“在现有电信基础设施内使用中兴和华为的设备和服务将对英国的国家安全构成风险。”</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4d4ba1bd4903b516b94a31b328ba96c6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-4d4ba1bd4903b516b94a31b328ba96c6_r.jpg\"/></figure><p>这也让外界对中国整体通讯业务的海外形势表示担忧，作为全球通信设备和智能终端的两大巨头，在5G领域，华为和中兴在积极布局，而此前不久，华为即将上市的5G产品获得了来自欧盟的全球首张CE-TEC（欧盟无线设备指令型式认证）证书。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可以说，在特朗普上台后，全面的扼制中国科技的崛起成为其政治和经济策略的重要一环。而面对中国科技巨头在5G领域的咄咄逼人，<b>美国对于保持科技领先地位和优先话语权的担忧最终导致了其对两国经济和科技合作领域开刀</b>，所以说，中兴受到制裁乃意料之中，美国所谓的“虚假陈述”只是“欲加之罪”。最终的大棒仍然是落在了中国科技企业的增长上。而<b>与中兴业务范围相似的华为成为美国技术制裁打击的下一个目标的风险正在增加</b>。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-ff156e0f7d91386e0ac043cfde11d7c8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"353\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-ff156e0f7d91386e0ac043cfde11d7c8_r.jpg\"/></figure><p>图| 美国对全球5G技术的竞争力评估</p><p>今年年初，美国共和党议员提交相关法案，呼吁美国政府部门和正在使用华为设备的供应商终止合作，并声称此举是为了美国国家安全。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不仅如此，原本打算年初进军美国市场并与美国通信运营商AT&amp;T合作的华为Mate10也正美国政府的政策阻拦下举步维艰。同样在通信产品领域，相比于爱立信和索尼等通信巨头，中国企业在美国频受打击显示了美国一贯的双重标准，而中国5G技术的崛起正是这种不公待遇的终极原因！</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-937d2be150e68dc99041541e78fa73ff_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-937d2be150e68dc99041541e78fa73ff_r.jpg\"/></figure><p>当前，面对市场的担忧和关心，华为轮值董事长徐直军表示：“作为华为来讲，我们聚焦把自己的事情做好，不管遇到什么困难，聚焦把自己的事情做好，才能更好的生存和发展。”</p><h2><b>中兴业务堪忧，华为芯片短板：中国“芯”的惨痛教训！</b></h2><p>在美国发起对中兴制裁后，中兴通讯尚于停牌状态，并发表声明正在评估实践影响，与各方积极沟通以寻求解决方案。<i>（有报道称中兴已与谷歌公司展开接触）</i></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6a436c37b5f81653b125e8114faf000b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-6a436c37b5f81653b125e8114faf000b_r.jpg\"/></figure><p>受中兴制裁消息的影响，“芯片股”表现强劲，受国产芯片的强烈预期，各大国产“芯片股”均出现了不同幅度的上涨。这一方面反映了对国产芯片的强烈期待，也暴露了中兴业务对美国芯片和相关供应商的严重依赖，<b>这种依赖极易成为贸易摩擦中的致命软肋</b>。当前的中兴正是如此。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此次禁令令中兴业务全线告急。其中，电信设备运营业务占到中兴目前业务约 60%，其中包括 FPGA、基带芯片、服务器芯片、光模块等在内的关键组件主要来自美国供应商，占中兴采购比例的 30%-40%，国内自主产品的替代能力十分有限。我国高端光芯片尚无国产化能力。基带芯片、服务器芯片也好不到哪去，主要从博通、英特尔进口。甚至可以说，没有高通，中兴业务将全线告急。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但芯片研发需要长周期的科研攻关，在目前情况下，虽然会激发国产芯片的研发进程，但无法解决当前燃眉之急。中国“芯”正在成为中国高技术产业崛起的关键领域！<b>如何研发出具有国际标准和性能的芯片，如何形成中国自有的芯片产业，迫在眉睫！</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6f6f898d815af89027b0c4bbab20505b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-6f6f898d815af89027b0c4bbab20505b_r.jpg\"/></figure><p>在探索中国芯的道路上，华为似乎为中国芯片产业的崛起指明了方向，一方面，为了应对来自美国受制于美国芯片的压力，华为积极研发自家芯片，麒麟960,970已经在性能上表现出了很高的水准；另一方面，来自华为全球分析师大会上徐直军的表态同样重要，华为不会为了进军芯片产业而研发新品，华为全球业务格局不允许华为产品全面走华为芯片的道路，差异化布局和用户体验更重要。但无论如何，有了自家的芯片技术，中国企业出海终究是不怕的。</p><p><b>总结</b></p><p>在中美贸易战持续紧张的状态下，美国对中兴和中国企业使出的芯片杀手锏，不仅将使贸易对抗的形势进一步升级，也将严重影响相关领域的中美企业。布局5G，最终达成技术话语权，中国企业需要做的还有很多，提高自身硬科技实力才是硬道理。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-6f050abe199d9dde15ef823f18abf670_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"43\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-6f050abe199d9dde15ef823f18abf670_r.jpg\"/></figure><p>作者 | 马斌辉</p><p>审校 | 杨子彤  </p><p><b>致敬科技未来 | 分享才是热爱</b></p><p><b>TechPower科技力</b></p><p><b>热爱因科技而发生</b></p><p></p><p></p>",
+                "comment_count": 17,
+                "image_url": "https://pic1.zhimg.com/50/v2-91cc49162ac641db10f883ae1525eb5d_hd.jpg",
+                "excerpt_title": "",
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-91cc49162ac641db10f883ae1525eb5d_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-f1674c30cc1fa43b0cf9712ec09d3784_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-3076f8cdee0a95e992ba3cef6e9461fb_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUyNzgwNiD6o93WBSgRMBFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODQzNDI5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524108640,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-9255593e1b3fab50891111c784de10b9_{size}.jpg",
+                    "type": "people",
+                    "name": "并购界的零零易",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0b9af27d028a56b69b9cc3a911b24101",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "bing-gou-jie-de-ling-ling-yi",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-9255593e1b3fab50891111c784de10b9_is.jpg",
+                    "is_org": false,
+                    "headline": "投融资并购",
+                    "badge": [],
+                    "id": "0b9af27d028a56b69b9cc3a911b24101"
+                },
+                "is_labeled": false,
+                "excerpt": "特朗普政府在美国时间4月16日宣布，将禁止美国企业向中国电信设备制造商中兴通讯出售任何电子技术或通讯元件，因该公司违反了在被认定非法向伊朗出售货品后，与美国政府达成的协议。这一禁令为期长达7年，直到2025年3月13日。同时，英国国家网络安全中心也…",
+                "id": 35861288,
+                "voteup_count": 11,
+                "created": 1524108641,
+                "url": "http://zhuanlan.zhihu.com/p/35861288",
+                "title": "中兴之殇：美国缺心? 中国缺“芯”!",
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7129615f553e864d5d55a7e2e9256913_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"225\" data-thumbnail=\"https://pic4.zhimg.com/v2-7129615f553e864d5d55a7e2e9256913_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic4.zhimg.com/v2-7129615f553e864d5d55a7e2e9256913_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普政府在美国时间4月16日宣布，将禁止美国企业向中国电信设备制造商中兴通讯出售任何电子技术或通讯元件，因该公司违反了在被认定非法向伊朗出售货品后，与美国政府达成的协议。这一禁令为期长达7年，直到2025年3月13日。同时，英国国家网络安全中心也发出新的建议，警告电信行业不要使用中兴的设备和服务。 </p><p>在群情激愤中，贸易战的火烧到了高科技服务领域。足以见得，特朗普政府在中美贸易战上的周密计划和执行性。而且可以预见，这不会是终点。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b9b4fee2a4fcf27cc89582cf5915fba5_b.jpg\" data-size=\"normal\" data-rawwidth=\"385\" data-rawheight=\"259\" class=\"content_image\" width=\"385\"/><figcaption>中国对美国征税领域及美国对中国征税领域对比图</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>值得一提的是，对于此次案例分析中提到的“贸易战的核心”，以及对中国跨境投融合作带来的影响及应对措施，可以关注<b>4月19日晚</b>易界和国浩律师上海事务所合伙人——余承志律师的在线课程，余律师在线为大家共同<b>分享特朗普治下，美国CFIUS审查、贸易争端动作频出对中国跨境投融合作带来的影响及应对措施。想参与的读者可联系微信：DealGlobe_Admin。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>贸易战的关键</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>有人说中兴事件是有历史原因，也有人认为是中美贸易战的战火延续。其实两者皆有。更有人指责特朗普政府的“缺心眼”，认为特朗普是在意气用事，其实也错了。本轮中美贸易战显然是特朗普政府精心策划的结果。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中美贸易战爆发的原因在于中美贸易逆差，解决这个问题这也是特朗普在竞选总统时做出的一个承诺：<b>要求中国降低美对华贸易赤字1000亿美元，进一步开放市场。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-0f7cffb81acaab7b443b94a533c4c04b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"379\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-0f7cffb81acaab7b443b94a533c4c04b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>中美贸易战的关键，是修复美国国家机器参数失灵的问题，也即是宏观账户上双赤字的问题。</b> </p><p>天风证券首席经济学家刘煜辉3月份解读中美贸易战时有一个说法：对于中美贸易之间这么大的顺差，短期内不可能打出一个结果。美国人抡起贸易大棒想要什么东西呢？ <b>实际上美国想要的是中国巨大的互联网经济网络，14亿人有效地连接在一起，人和人连接、人和物连接、物和物连接。5G的升级，在国家力量支持下，中国人在这个方向上领先欧美半个身位，所以美国进入不了这个市场会很吃亏。</b>中国对美国的GAFA树立壁垒，美国必然也对中国的华为、<b>中兴</b>以及其他产业树立高墙，短兵相接，他现实需要得到的就是这块。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不出半个月，中兴事件就印证了这一点。而且足以见得美国政府在中美贸易战上的决心远比想象的要强。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>中兴凉了？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>4月16日晚消息一出，中信保诚基金和长信基金率先大幅下调其估值。随着事件进一步发酵谨慎的基金公司大幅下调中兴通讯股价，下调幅度接近20％即两个跌停！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4023799bfc1843fe82c41b5912cb6bb5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"495\" data-rawheight=\"140\" class=\"origin_image zh-lightbox-thumb\" width=\"495\" data-original=\"https://pic2.zhimg.com/v2-4023799bfc1843fe82c41b5912cb6bb5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>当前的中兴颇有一种凉凉的感觉。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>做最坏的打算，如果中兴没能与美国商务部之间将斡旋无法达成和解，将如何？券商机构对此做出以下预期：</p><ul><li><b>订单交付、回款受影响或面临客户侧罚款</b></li></ul><p>中信证券表示，由于中兴的基带芯片、射频芯片、存储，大部分光器件均来自美国，短期内影响重大。已有订单的交付、回款都会受到影响，是否会因为延迟交付导致客户侧的罚款需要根据披露的进一步信息判断。而高速光芯片部分依然依赖进口，博通、英特尔的基站基带FGPA、服务器芯片目前没有替代品，总体看来中兴通讯上游可替代性较弱。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>同时国际投行Jefferies也表示由于缺乏美国零部件将导致中兴公司错过发货以及失去订单并将中兴通讯评级下调至落后大盘，将该公司2018/2019年度收入预测分别下调13.5%和7.6%</p><ul><li><b>供应链中断</b></li></ul><p>中兴对美国相关的技术和上游元器件的依存度非常之高，30%的组件要靠美国的高通、英特尔、微软等提供。并且，这些组件例如高速AD/DA、调制器、高性能锁相环、中频VGA等产品，<b>根本没有国产芯片厂商可提供替代品。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>野村证券表示，由于在短期内难以找到替代零部件供应，如果禁令在整个七年内实施，中兴的供应链可能会中断</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中金公司同样认为，中兴有1-2月零部件存货，如果不在1-2月内再次达成和解，会影响通信设备和手机等业务的正常生产与销售</p><ul><li><b>影响5G 网络推进</b></li></ul><p>事实上中兴占全球电信设备市场约10%的市场份额，占中国电信设备市场约30%市场份额。中兴是中国第二大通信设备制造商。在一些底层基础设施（如5G）相关的技术投入和研发上，中兴是国内最重要的几家公司之一。如果中兴无法正常生产，对当前的全球和中国的运营商网络建设带来一定影响，并有可能影响未来5G 网络的推进。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>中国缺“芯”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国在芯片、元器件领域仍然较为弱势。3月23日，IC Insights公布全球2017年Fabless芯片公司情况。美国企业占全球份额约53%，加上即将迁回美国的新博通，美国占比约69%，可谓一家独大。中国内地2017年全球占比约11%，低于中国台湾地区的16%，排名第三。其中还包括华为、海思、中兴微电子与大唐半导体的自用芯片，除去这些，中国芯片只能占比5%-6%。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>数据显示，中国每年需要进口2300亿美元芯片，而且连续多年位居单品进口第一位。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-54a9a5437240354e93b326e1144e2ccd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"350\" data-rawheight=\"269\" class=\"content_image\" width=\"350\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>中国的芯片技术，中国核心集成电路国产芯片占有率多项为0。除了移动通信终端和核心网络设备有部分集成电路产品占有率超过10%外，包括计算机系统中的MPU、通用电子系统中的FPGA/EPLD和DSP、通信装备中的Embedded MPU和 DSP、存储设备中的DRAM和Nand Flash、显示及视频系统中的Display Driver，国产芯片占有率都是0。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-6ddd5ec8cda62e405e82787e858d8440_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"445\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"445\" data-original=\"https://pic1.zhimg.com/v2-6ddd5ec8cda62e405e82787e858d8440_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>目前，国内的集成电路产业设计、制造、封装三业并举，制造可以去代工，封装测试与美国的差距也不是很大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>差距最大的地方在于设计，由于国产芯片起步晚，技术壁垒高，研发投入不足，缺乏更新迭代的机会，难以抗衡已经成熟和低成本的芯片。现在国内芯片设计主要还是依赖国外。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此次事件倒逼国产升级替代，反映了上游核心元器件国产替代的重要性。更关键是，中国的高端制造业几乎都有类似的伤痛。未来的中国，基层硬技术的创新，远比商业模式的创新、追逐风口赚热钱来的更为迫切。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-017537bbce5de6263e95af04702082f3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"754\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-017537bbce5de6263e95af04702082f3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzA4MTcyMTIzMw%3D%3D%26tempkey%3DOTUzX0hRT3RYRSs0QTB0amplK2pFZ1Z0ZFhBSzVtUkFiWkJfbHRiN1BscUhOS2gxcFFncE9wT0toU192b1p2SDh1OUE5VHJmWFZUUk5OdERnYzlCblhCaHdhdFBTVmUxMG1VOVFWMTVfZTlqMHFNdG9wVzN6Zm9tZVR3ZU8yZ0hTcTgyRE14Zm43aDJDWTlOTXdlVGZyX1Ziek91aWxwbXJjUk5rTFhjUkF%252Bfg%253D%253D%26chksm%3D0478bbde330f32c898b567d906f51b2b93a8527450a29d5735bf6ff777801d59b09855df834e%23%23\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">阅读原文</a> <a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzA4MTcyMTIzMw%3D%3D%26tempkey%3DOTUzX0hRT3RYRSs0QTB0amplK2pFZ1Z0ZFhBSzVtUkFiWkJfbHRiN1BscUhOS2gxcFFncE9wT0toU192b1p2SDh1OUE5VHJmWFZUUk5OdERnYzlCblhCaHdhdFBTVmUxMG1VOVFWMTVfZTlqMHFNdG9wVzN6Zm9tZVR3ZU8yZ0hTcTgyRE14Zm43aDJDWTlOTXdlVGZyX1Ziek91aWxwbXJjUk5rTFhjUkF%252Bfg%253D%253D%26chksm%3D0478bbde330f32c898b567d906f51b2b93a8527450a29d5735bf6ff777801d59b09855df834e%23%23\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">投诉</a> </p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/0UwRFeDEKShVKaR2bxlV\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/0UwRFeD</span><span class=\"invisible\">EKShVKaR2bxlV</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p>微信扫一扫<br/>关注该公众号</p><p></p><p></p><p></p><p></p>",
+                "comment_count": 1,
+                "image_url": "https://pic2.zhimg.com/50/v2-4ec781b8c490742b74873c2bcd31f329_hd.jpg",
+                "excerpt_title": "",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-4ec781b8c490742b74873c2bcd31f329_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-b9b4fee2a4fcf27cc89582cf5915fba5_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-0f7cffb81acaab7b443b94a533c4c04b_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUzNDk2NyDhmuDWBSgLMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODYxMjg4"
+        }
+    ]
+}

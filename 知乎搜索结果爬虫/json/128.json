@@ -1,0 +1,277 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1469937598.96414",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1469320365.47&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1469320365.47376"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1530437269,
+                "is_labeled": false,
+                "excerpt": "刚才翻阅微信中收藏的一些关于中美贸易争端的一些文章，那些缺乏专业背景的文章几乎全被封掉了！正如我前段时间的文章“阶段总结，中美贸易争端，中国的差距在哪？”所说：“差距3.缺乏对新技术带来的新传播方式的管理策略，特别是对盲目膨胀的民族主义的正…",
+                "excerpt_title": "",
+                "id": 38769732,
+                "voteup_count": 3,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "wudai028",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/e6f4b62927e1f9bbea0b00cd10d99491",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "wudai028",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "教授",
+                    "badge": [],
+                    "id": "e6f4b62927e1f9bbea0b00cd10d99491"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/38769732",
+                "title": "终于对这类人动手了！",
+                "created": 1530437269,
+                "content": "<p>      刚才翻阅微信中收藏的一些关于中美贸易争端的一些文章，那些缺乏专业背景的文章几乎全被封掉了！正如我前段时间的文章“阶段总结，中美贸易争端，中国的差距在哪？”所说：“差距3.缺乏对新技术带来的新传播方式的管理策略，特别是对盲目膨胀的民族主义的正确疏导。智能手机的发展与普及，以及手机与传播技术的结合，已经彻底改变了过去我国单一的主流媒体传播方式。自媒体的兴起，手机信息的互传已经深入民众。当遇到一些热点国际问题，一些商业行为故意蹭热点，吸引眼球，他们也熟悉一些套路。”<br/>“    特别是一些纯属公司或个人的自媒体，为了吸引眼球蹭热点打着‘军事热点’、‘国际战略’等。为了商业目的和点击率，他们当然知道很多国民需要那种豪情万丈的文章。加上一些扩帖、顶帖手段，很快能传播，但这些文章除了全部是虚吹外，如果从专业、科学、严谨角度分析无任何价值，但因为里面掺杂了吸引人的民族情结在里面，很快就能传播。”<br/>这类文章一般都没有署实名或无法查到实名（后台能否查到是另一回事）！一个简单的道理：既然能够写出高水平、高专业的文章，并且文章能够大量传播！这可以为作者传播名气，为什么连姓名都不敢落下？！而且这些文章并不是属于需要隐姓埋名的那种。<br/>       一些属于非常专业领域的问题，可一些人凭自己的一知半解或片面理解或哗众取宠，就写出远远超出专业方面的文章，误导公众。最近几年流行的有：购买国货就是爱国！美元霸权论！中国购买美国国债是汉奸！美国降息、提息都是阴谋！货币阴谋、石油阴谋，让人感觉整个世界都是针对中国的阴谋！可想而知这些言论对国民的误导有多深！<br/>      当前有关部门终于认识到了这类文章的危害，所以动手整治！直接封号、关闭文章！<br/><br/>策划经济学奠基人、时间终极问题研究者、广安满屋飘香酒业法人：吴粲</p>",
+                "comment_count": 1,
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNzY3NzM3NyCVveLZBSgDMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM4NzY5NzMy"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526427100,
+                "is_labeled": false,
+                "excerpt": "众所周知，中国企业“走出去”几乎成为了近年来全球资本市场最强劲的超级风暴，而中国企业家和中国企业对世界的影响也早已上升到“改变世界格局”的地步了。不过，当中国人轰轰烈烈走向世界的时候，却有很多西方人不习惯，甚至是不高兴了。 今年二月份，中…",
+                "excerpt_title": "",
+                "id": 36898347,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-239b54562313ac609928845e340bfe67_{size}.jpg",
+                    "type": "people",
+                    "name": "郎言志",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/8e7592fb8bc2db2a2ac0352eea41b977",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "liusilang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-239b54562313ac609928845e340bfe67_is.jpg",
+                    "is_org": false,
+                    "headline": "正视中国，平视世界——公众号郎言志 liusilang520",
+                    "badge": [],
+                    "id": "8e7592fb8bc2db2a2ac0352eea41b977"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36898347",
+                "title": "吉利在德国被罚1000万欧元，德国官员：不能让中国车开进德国！",
+                "created": 1526427101,
+                "content": "<p>众所周知，中国企业“走出去”几乎成为了近年来全球资本市场最强劲的超级风暴，而中国企业家和中国企业对世界的影响也早已上升到“改变世界格局”的地步了。不过，当中国人轰轰烈烈走向世界的时候，却有很多西方人不习惯，甚至是不高兴了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-bf8b764e36075e23dad0ba65b708b377_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"510\" data-rawheight=\"270\" class=\"origin_image zh-lightbox-thumb\" width=\"510\" data-original=\"https://pic4.zhimg.com/v2-bf8b764e36075e23dad0ba65b708b377_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>今年二月份，中国的吉利集团斥巨资在欧洲的德国收购了“全球第一大汽车集团戴姆勒”的10%股份，一时间搅得西方人不得安宁，欧美各大新闻头条都以“中国人来了”的口吻大肆攻击，当时有很多西方民众以及重要的社会人物都站出来表示：我们就要被中国人买了，我们不能让中国资本控制我们。</p><p>在一片的舆论压力与对自身利益的综合考虑下，德国相关部门迅速采取了阻扰措施。近日，德国联邦金融监管局宣布：<b>中国吉利收购戴姆勒一事，疑似未遵守相关规定，将被处以1000万欧元的罚款（约合7800万人民币，或者为年营业额的5%）。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-683c00955c23f3c905629beb53235380_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-683c00955c23f3c905629beb53235380_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>事实上，在今年2月份的时候，吉利集团的李书福就收购问题和戴姆勒董事会进行了最后阶段的谈判，双方的谈判非常顺利，德国戴姆勒集团代表各方都一致同意了吉利集团的收购，并且在23日当天见证了李书福和戴姆勒公司的签字仪式，而且双方随后立即向全球发出了通报，宣布中国吉利成为戴姆勒集团的第一大股东。</p><p>然而，就是这样一个看似再正常不过的资本交易，却因为买主是“中国人”的特殊身份，而激起了千层浪，各大西方媒体开启了“中国资本要控制世界”的谬论攻击，德国政府官员和工业系统管理高层也纷纷表示：不合法，交易不合法！<br/></p><p>对此，有欧洲华人商业媒体刊文表示：<b>一家经历过无数次国际资本交易的戴姆勒集团，偏偏就这次交易不合法，只能怪中国人运气不好吧？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-72e42f1daeb17f6cf0caff489498b276_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-72e42f1daeb17f6cf0caff489498b276_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>不过，作为两家具有国际影响力的大企业，做事情自然是周到的，于是找不出从哪里下手的德国联邦监管局得出了这样一条结论：<b>你们吉利内部股东意识上同意这次收购，因此你们应该在22日就要对外宣布这件事了，可是你们等到了23日签了合同才告诉我们，这是不可以的。</b></p><p>什么？？？如果将联邦监管局的所有“废话”总结起来，那就是：<b>你们要在事情发生之前告诉大家将要发生，而不是在签了合同之后才说你们收购了。</b>如果诙谐地调侃，可以翻译成：<b>你们中国人有未卜先知的能力，既然知道第二天肯定顺利收购，你们就要提前告诉我们，这样我们可以提前给你们搞破坏。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-3ef07f42711286249fbde9af7fd49f26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic3.zhimg.com/v2-3ef07f42711286249fbde9af7fd49f26_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>对此，吉利集团表示了严重抗议，吉利总裁李书福表示：<b>我们只是提前通了气，收购细节没谈妥，根本就不知道能不能签署合同，给你们披露个啥？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-33e382234d4a1200acc70176f2da43bc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"495\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb\" width=\"495\" data-original=\"https://pic1.zhimg.com/v2-33e382234d4a1200acc70176f2da43bc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>此外，让人难以理解的是，因为实在没有地方找破绽阻扰吉利的收购行为，德国联邦特意为了吉利的收购拟了一条新的法律，新的法律直戳吉利收购案，但可笑的是——<b>吉利收购戴姆勒是2月份的事，该法规是5月份出的！</b>换言之，我2月份办的事，你5月份除了条新的规定说我违规。对此，海外华人媒体《Euro news》刊文表示：“所以中国人来和你们做生意，还得提前算一卦，看看你们未来的法律是啥？先不说这比交易来得晚了三个月的法律有多奇葩，就这1000万欧元的罚款，德国的大老爷们直接抢不就好啦？”</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-5d2b528cfc62e773f7766f040a97e8ba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"446\" data-rawheight=\"394\" class=\"origin_image zh-lightbox-thumb\" width=\"446\" data-original=\"https://pic3.zhimg.com/v2-5d2b528cfc62e773f7766f040a97e8ba_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>大概是连自己都觉得太离谱，所以德国联邦金融管理局发言人说话非常疲软：<b>“此事是否执行，我们再仔细看看”</b>。也就是说，德国人自己心里也没底。</p><p>不过，不管怎么样，我们都为德国人这种“后来的法规惩罚前朝的事”的精神点赞，真的是前无古人后无来者。</p><h2>相关链接：这些年西方人对中国企业的那些“黑手”<br/></h2><blockquote>1：“不能让中国的车开进德国”！<br/></blockquote><p>其实，吉利的收购挫折并不是德国人对中国汽车的第一次抵制行为，出于对本国的汽车行业的保护政策，此前德国相关负责人就曾试图阻扰中国新能源汽车的进口。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-511fda35e1c368833a082558770798e1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"543\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb\" width=\"543\" data-original=\"https://pic2.zhimg.com/v2-511fda35e1c368833a082558770798e1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>作为全球领先的新能源大国，中国抢占了新能源汽车的高点，所以在2016年前后，部分德国城市开始引进中国的电动公交车，而2017年上半年，德国则开始进口中国的小型新能源汽车。出现这一原因，是因为按照德国目前的研发技术，其本土新能源汽车，最早得到2019年才能进行商业生产。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-091039d347d55ac81756afc65e23ddfa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"382\" class=\"origin_image zh-lightbox-thumb\" width=\"549\" data-original=\"https://pic3.zhimg.com/v2-091039d347d55ac81756afc65e23ddfa_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>对此，不少德国人表示了抗议，甚至是上街游行，他们认为“买中国车”是德国人的耻辱，甚至有高层官员公开叫嚣：再不努力，中国车就要开进德国的城市了！</p><blockquote>2：“把中国手机赶出去，拒绝中国电子产品”</blockquote><p>中国的电子产品性价比很高，在海外基本上都是一经发布，就抢占了大量的市场，这也引发了不少西方国家的担忧，因为他们不愿意将这一块蛋糕让给中国人。于是，像美国、澳大利亚这些国家，就先后以“国家安全”为由，直接将中国的华为等电子企业拒之门外了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-3c7a26d10f9951f30655ec738e106bcf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"392\" data-rawheight=\"123\" class=\"content_image\" width=\"392\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-dd05e8bd2e0646681df12796ea8bbf03_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"365\" data-rawheight=\"124\" class=\"content_image\" width=\"365\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>结语：</h2><p>面对中国经济的复苏与资本的崛起，西方的神经显然是敏感并且抵触的，正所谓“一山容不得二虎”，所以中国企业在未来“走出去”的道路上必定还会经历更多的困难险阻。在此，我们希望我们的民族企业，可以坚守“以技术为核心”的原则，不断突破自我，砥砺前行，以中华民族的不畏惧精神，向世界证明：中华之崛起，不可阻挡；中国之复兴，不可阻挡！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9e65cfd8261d46a337015bf321b96e7e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"571\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb\" width=\"571\" data-original=\"https://pic3.zhimg.com/v2-9e65cfd8261d46a337015bf321b96e7e_r.jpg\"/></figure><p></p>",
+                "comment_count": 5,
+                "image_url": "https://pic4.zhimg.com/50/v2-9fa387bb9a98da1f202669228662bc04_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-9fa387bb9a98da1f202669228662bc04_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-bf8b764e36075e23dad0ba65b708b377_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-683c00955c23f3c905629beb53235380_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjk1MDI3MCDd2+3XBSgCMAVAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTcyODA2cggzNjg5ODM0Nw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524439136,
+                "is_labeled": false,
+                "excerpt": "中兴这个事，还有些余音袅袅，我需要今天说一下。因为后台很多朋友都和我继续在讨论，有的表示担忧，有的开始乐观，我总结了一些有代表性的问题说一下我的观点：中美双方终究还是坐到了谈判桌前，不管这事暂时是什么结果，但对于中兴公司这个预期，不太可能…",
+                "excerpt_title": "",
+                "id": 35993705,
+                "voteup_count": 4,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "type": "people",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35993705",
+                "title": "中国芯片行业的希望，可能在这些公司",
+                "created": 1524439137,
+                "content": "<figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7396917bfd8c3d6ce003cc7eec76d552_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>中兴这个事，还有些余音袅袅，我需要今天说一下。因为后台很多朋友都和我继续在讨论，有的表示担忧，有的开始乐观，我总结了一些有代表性的问题说一下我的观点：</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1ac9c04a42e9a3c68663e0796f115b4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"799\" data-rawheight=\"666\" class=\"origin_image zh-lightbox-thumb\" width=\"799\" data-original=\"https://pic2.zhimg.com/v2-1ac9c04a42e9a3c68663e0796f115b4d_r.jpg\"/></figure><ol><li>中美双方终究还是坐到了谈判桌前，不管这事暂时是什么结果，但对于中兴公司这个预期，不太可能会有根本性改变。因为中兴在2017年违反美国出口管制法案，去年3月份已经认罪，但这一年来不仅没有执行和解时的承诺。假如从国家层面协调，可能放宽处罚禁令，比如可以继续采购美国芯片，但中兴要是想重回美国市场还是很难的。建议大家还是短期回避相关上下游企业；</li><li>华为是被猪一样的同行牵连的，但不是从最近才发生的这个件事，只是在这个节点这里发酵了。华为既然已经宣布了退出美国市场，恐今年的业绩还是会有些许的影响。但如果政府出来救只救一个，二择一的话，还是会选华为。还好，华为本身没上市，只是上下游相关企业留意一下回避就好了；</li><li>回答一下，倾全国之力推动芯片事业是否也是徒劳的？这么说吧，给中国设置技术壁垒的东西太多了，从航母到动车，从建国初的两弹一星到导弹飞机，哪样没向中国人保密过？只要找到关键的人，吸引回国内没什么事会难道中国人。投钱不是没用，是光投钱就是没用。人家一剑封喉了，这里涉及一个未来生存问题，我相信在不久的将来我们会生产中正在的中国芯；</li><li>我文章一直说的是商用芯片，而没有提及军用芯片。在军用芯片这个领域我们可以自主生产，虽不是说我们生产出的是世界最好的，但是可以满足现在的使用需求。一旦军民融合，军工民用，这里还是有商机的；</li><li>就芯片行业本身来说，一定会出现板块分化。我们团队@股市郑道老师的观点我很认同，会哭的孩子有奶吃。我们没有那种世界龙头，甚至连排号都费劲，那么股市的炒作逻辑就是谁能得到扶持。既然是不计成本的发展，自然会有个资金投向的问题，那么就会带动上下游相关公司的订单，业绩，资本就会涌入。找到上下游直接受益的具体企业才是王道（受目前网络监管，我们只能帮大家到这了）。</li></ol><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7dc330d14ee43050bda749c5e59f7d87_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"989\" data-rawheight=\"539\" class=\"origin_image zh-lightbox-thumb\" width=\"989\" data-original=\"https://pic4.zhimg.com/v2-7dc330d14ee43050bda749c5e59f7d87_r.jpg\"/></figure><p>下面说具体的行业细分：</p><ol><li>芯片设计，除了我前面文章<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NDk4NDcyMQ%3D%3D%26tempkey%3DOTUzXzQwM2d6M20zS0JiV25kN1hoUGQzbXhXUEx3RG5WTXROektxc2FtY3JaVHRrc093Y2hndGs0T0F1bXFKUHc2TnBRWG5XNVBwZjltVXBqa1hZRGtOM2hoaHFhMXZtU3Q5RGhPbFNPOW5TbllvMWVET1owODlrUUxzWEl4U0Jjd1h6RGozb0RuajVQX3pfU014WVdwaXNlbC1UZ0E1UGloMWxlUi1mcEF%252Bfg%253D%253D%26chksm%3D048000ab33f789bdc8f934fb6f6f6b269cedaf88d2db5bcca03ba6e76f648f0e16cf79e8b139%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">中兴，谁的救赎？</a>提到的华为（其实是华为海思）外，还要中科院系统的和清华系统的几个公司，市场增长速度迅猛。虽说是在现有母版上的优化和改良，但就商业行为来讲，我们能派得上用处，可以替代就是好兆头；</li><li>光刻机，我们虽然造不出13纳米级的，但听说长春已经能能造出32纳米级的。是否通过了测试，我心里仍存疑虑，但这种技术进步的速度在中国已经是惊人的；</li><li>封装和封装测试，这个领域的技术壁垒我个人认为不是很高，国内已经有几家公司可以达到世界水平。在现在这么大利好的刺激下，可能市场份额还会扩大，其实这部分我认为是最能体现确定性业绩增长的，因为只是一个拿到订单的问题。毕竟技术研发什么时候能实现突破并且能商用，还有点运气的成分，是不可控的；</li><li>芯片材料供应商，一般就是单晶硅、多晶硅的生产厂商，这里有一部分和光伏材料的供应商重合，大家可以自己找找，比较容易找到龙头。</li></ol><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b3a1a37dad05ebe813f32a23401c1e4a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"422\" data-rawheight=\"538\" class=\"origin_image zh-lightbox-thumb\" width=\"422\" data-original=\"https://pic3.zhimg.com/v2-b3a1a37dad05ebe813f32a23401c1e4a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最后，如果我提供太多标的，其实让大家看的眼花缭乱反而是没有太大意义的。这里就安利几个：中科曙光（603019）、紫光国芯（002049）、中航光电（002179）。以上不构成推荐，仅供参考。</p><p>关于下周的市场，小金童鞋突然成了一个听话的孩子，难道这不是一个重要的信号吗？除了能缓和中美毛衣战，中韩关系也会有所改善。但毛衣战的影响，我觉得今年一年都会持续。目前市场上求稳，我还是主推医药板块。理由是这个板块既有基本面转好，又有资金介入，另外强者恒强，龙头比较容易把握。</p><p>现在指数依旧充满变数，不建议抄底蓝筹、券商、周期股，另外炒地图的雄安和过气的海南建议慎重。不知道能买什么，建议休息远离。</p><p>市场什么时候会有大行情，建议大家留意成交量的缩量情况，量一旦见底，反弹就会跟上，目前是没有。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-c6d03829686f43f0dbf145c85ceca110_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"396\" data-rawheight=\"353\" class=\"content_image\" width=\"396\"/></figure><p></p>",
+                "comment_count": 2,
+                "image_url": "https://pic3.zhimg.com/50/v2-17b973101641371597ebcec8b1eb764c_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-17b973101641371597ebcec8b1eb764c_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-1ac9c04a42e9a3c68663e0796f115b4d_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-7dc330d14ee43050bda749c5e59f7d87_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjU4Nzg1NyDhsPTWBSgEMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1OTkzNzA1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1521910223,
+                "is_labeled": false,
+                "excerpt": "<b>&#34;由苹果在加利福尼亚设计，中国组装&#34;</b> <b>美国负责脑力工作，中国负责体力工作。</b> The battle for digital <b><i>supremacy数字领域霸主争夺战</i></b> How to <b><i>engage</i></b> and how not to 应不应战/如何接招？不接招又如何？ DESIGNED by Apple in California. Assembled in China…",
+                "excerpt_title": "",
+                "id": 34910925,
+                "voteup_count": 3,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-09b14d76ac66f7e03df2d0bb02f63d24_{size}.jpg",
+                    "type": "people",
+                    "name": "迷路的指南针",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/bf9061aa5e1b9c50f4b3152cdfd6ce9d",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "zhao-che-50",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-09b14d76ac66f7e03df2d0bb02f63d24_is.jpg",
+                    "is_org": false,
+                    "headline": "与世界和解，跟自己死磕。",
+                    "badge": [],
+                    "id": "bf9061aa5e1b9c50f4b3152cdfd6ce9d"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/34910925",
+                "title": "《经济学人》Leaders 180317翻译",
+                "created": 1521910083,
+                "content": "<p><b>&#34;由苹果在加利福尼亚设计，中国组装&#34;</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>美国负责脑力工作，中国负责体力工作。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>The battle for digital <b><i>supremacy数字领域霸主争夺战</i></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>How to <b><i>engage</i></b> and how not to 应不应战/如何接招？不接招又如何？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>DESIGNED by Apple in California. Assembled in China”. <b>For the past decade </b>the words <b><i>embossed</i></b> on the back of iPhones have <b>served as<i> shorthand</i> for</b> the <b>technological bargain </b>between the world’s two biggest economies: <b>America supplies the brains and China the brawn</b>. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>“加州设计中国组装”。过去的十年中，这些刻在iPhone手机背面的字暗含着全球两个最大经济体之间的技术博弈：美国负责脑力，中国负责体力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【小结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p>由苹果手机这一人人都熟悉的电子产品引入中美科技的博弈，可谓以小见大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>supremacy/su&#39;prɛməsi/至高，无上权利</i></b></li><ul><li><b><i>the position in which you are more <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/powerful\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">powerful</a> or <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/advance\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">advanced</a> than anyone els</i></b></li><ul><li><b><i>例句：Japan’s unchallenged supremacy in the field of electronics.日本在电子领域无可动摇的霸主地位。</i></b></li></ul><li><b><i>注意这个词和潮牌“supereme/sə&#39;prim/”词根相同，但拼写和发音不同</i></b></li></ul><li><b><i>engage/ɪn&#39;ɡedʒ/答应，保证；从事；交战；啮合</i></b></li><ul><li><b><i>这里是对应标题battle，取的“应战”的意思。</i></b></li></ul><li><b><i>embossed/ɛmˈbɔs/装饰，浮雕【GRE】</i></b></li><li><b><i>shorthand/&#39;ʃɔrthænd/ 速记</i></b></li><ul><li><b><i>但这里是另一个含义：a shorter but less <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/clear\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">clear</a> way of saying something,对某件事的委婉说法</i></b></li><ul><li><b><i>例句：He’s been ‘relocated’, which is shorthand for ‘given a worse job a long way away’.他被调岗，重新安置了。现在工作地点很远，工作也没有以前好了。</i></b></li><li><b><i>本文含义是把“加州设计中国组装”解读成了“中国没有设计能力”的委婉说法，跟下一段开头“Not any more&#34;形成对比。</i></b></li></ul></ul><li><b><i>brawn/brɔn/发达的肌肉</i></b></li><ul><li><b><i><a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/physical\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">physical</a></i></b> <b><i><a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/strength\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">strength</a>, especially when <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/compare\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">compared</a> with <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/intelligence\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">intelligence</a> 体力，尤其用来跟智力做对比</i></b></li><li><b><i>brain和brawn发音相近，是英语“押头韵”（alliteration/ə,lɪtə&#39;reʃən/）的写作手法</i></b></li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句型</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>For the past decade 过去的十年当中</b></li><li><b>A served as shorthand for B A 是B的委婉说法</b></li><li><b>technological bargain 科技博弈</b></li><li><b>America supplies the brains and China the brawn. 美国负责脑力，中国负责体力</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>Not any more. China’s world-class tech giants, Alibaba and Tencent, <b>have market values of </b>around $500bn, <b>rivalling</b> Facebook’s. China has the largest <b>online-payments </b>market. Its equipment is being exported across the world. It has the fastest <b><i>supercomputer</i></b>. It is building the world’s most <b><i>lavish</i></b> <b><i>quantum-computing</i></b> research centre. Its forthcoming satellite-navigation system will compete with America’s GPS by 2020. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在不是这样了。中国世界级的科技公司阿里和腾讯市值约5000亿美元，可以和facebook一争高下。中国的线上支付市场世界最大。中国的设备出口全球。中国有最快的超级计算机。中国正在建设世界造价最高的量子计算机研究中心。中国即将研制成功的卫星导航系统在2020年将同美国的GPS一同竞争。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【小结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过中国各种世界领先的成绩，说明现在中国国力跟十年前已经不可同日而语，侧面说明了美国和其他国家的危机感。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>supercomputer/&#39;supɚkəmpjutɚ/ super+computer超级计算机</i></b></li><li><b><i>lavish/&#39;lævɪʃ/丰盛，浪费【雅思】【托福】</i></b></li><li><b><i>quantum-computing量子计算机</i></b></li><ul><li><b><i>a very <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/advance\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">advanced</a> and <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/powerful\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">powerful</a> type of computer that is being developed, which uses the <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/principle\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">principles</a> of <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/quantum\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">quantum</a></i></b> <b><i><a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/mechanic\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">mechanics</a> 使用量子机械原理设计，运力强大的高级计算机</i></b></li></ul><li><b><i>forthcoming /ˌfɔrθ&#39;kʌmɪŋ/即将到来的，唾手可得的</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>have market values of 市值为...</b></li><li><b>rivalling 与...一较高下</b></li><li><b>online-payments 线上支付/移动支付，注意中间有个连字符</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>America is<b><i> rattled</i></b>. An investigation is under way that <b>is expected to</b> conclude that China’s theft of intellectual property has cost American companies around $1trn; <b><i>stinging</i></b> tariffs may follow. Earlier this year Congress <b>introduced a bill</b> to stop the government doing business with two Chinese telecoms firms, Huawei and ZTE. Eric Schmidt, the former chairman of Alphabet, Google’s parent, has warned that China will overtake America in artificial intelligence (AI) by 2025. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国感受到了危机。美国正在着手进行一项调查，旨在指控中国窃取了美国 公司价值1000亿美元的知识产权；严苛的关税（<u>惩罚</u>）可能紧随其后。今年早些时候，国会引入了一项法案，要求政府停止与华为和中兴这两家中国电信公司的业务往来。Eric Schmidt，Google母公司Alphabet公司前总裁，已经发出警告言论称，到2025年，中国将在人工智能（AI）领域赶超美国。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【小结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国紧张的种种表现，从政府到科技公司无不如此，中国的飞速进步，让美国感受到了深深的压迫感。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>rattle/&#39;rætl/咯咯，喋喋不休，慌张</i></b></li><ul><li><b><i>1）if you <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/rattle\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">rattle</a> something, or if it rattles, it <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/shake\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">shakes</a> and makes a <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/quick\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">quick</a><a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/series\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">series</a> of short sounds 东西振动发出的短促高频的声音</i></b></li><li><b><i>2）if a <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/vehicle\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">vehicle</a> rattles somewhere, it <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/travel\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">travels</a> there while making a rattling sound汽车运行时发出的声音（比如汽车在马路刹车的声音）</i></b></li><li><b><i>3） informal to make someone lose <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/confidence\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">confidence</a> or become <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/nervous\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">nervous</a>让某人失去信心或感到紧张</i></b></li></ul><li><b><i>stinging/ˈstɪŋɪŋ/刺人的，激烈的</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句型</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>is expected to 达到...目的</b></li><li><b>introduced a bill 宣布法案</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>This week President Donald Trump abruptly <b>blocked</b> a $142bn <i><b>hostile</b></i> <b>takeover </b>of Qualcomm, an American chipmaker, by Broadcom, a Singapore-<b><i>domiciled</i></b> rival, <b><i>citing</i></b> national security fears over Chinese leadership in 5G, a new wireless technology. As so often, Mr Trump has identified a genuine challenge, but is <b><i>bungling</i></b> the response. China’s technological rise requires a strategic answer, not a <i><b>knee-jerk </b></i>one. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>本周美国总统特朗普突然拒绝了交易额为1420亿美元，新加坡芯片制造商博通收购美国竞争对手高通的收购案。总统认为这次收购案有阴谋，声称国家安全受到5G，这种新型无线科技技术引领者--中国 的威胁。和通常一样，特朗普已经确定这是明目张胆的挑战，但他的回应却并不高明。中国的技术崛起需要以战略应对，而不是听从应激反应。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【小结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过特朗普针对博通高通收购案的应对，来说明在面对来自ZG威胁时，美国的反应过于单一和缺乏战略思考。水只能顺势疏导，堵的话，迟早会爆发。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>hostile/&#39;hɑstl/【GRE】</i></b></li><li><b><i>domiciled/&#39;dɑmə&#39;saɪld/定居的，Singapore-domiciled 这里指总部位于新加坡</i></b></li><ul><li><b><i>用英语介绍华为，可以说Shenzhen-domiciled，逼格比“located”高级不是一点点</i></b></li></ul><li><b><i>cite/saɪt/引用，举例</i></b></li><li><b><i>bungling/&#39;bʌŋɡliŋ/粗劣、笨拙的</i></b></li><li><b><i>knee-jerk/&#39;ni:dʒə:k/膝跳反射</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>block takeover of 拒绝对...的收购</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>The motherboard of all wars  战争的母版</b></p><p>To understand what America’s strategy should be, first define the problem. <b>It is entirely natural for </b>a continent-sized, rapidly growing economy with a culture of scientific inquiry <b>to</b> enjoy a technological renaissance. Already, China has one of the biggest <b><i>clusters </i>of </b>AI scientists. It has over 800m internet users, more than any other country, which means more data on which to<b><i> hone</i></b> its new AI. The technological advances this brings will <b><i>benefit countless people</i></b>, Americans among them.For the United States to seek to keep China down merely to <b><i>preserve its place in the pecking order</i></b> by, say, further <b><i>balkanising</i></b> the internet, is a recipe for a poorer, <i><b>discordant</b></i>—and possibly warlike—world.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>要理解美国的战略，首先要定义问题所在。对于美国这一领土面积接近一个大洲，经济快速增长并带动科技文化繁荣的国家来说，想要享受科技文艺复兴带来的红利实属国之常情。中国已经成为了AI科学家最大的聚集地之一。中国有8亿网民，这个数字比其他任何国家都多，这意味着有更多的数据可以打磨新人工智能技术。技术的进步会使包括美国人在内的无数人受益。美国通过诸如分裂互联网的方式打压中国，其原因无非是想维持自己的经济地位。这会导致世界更加贫穷、无序，并可能引起战争。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【小结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国的人口红利成为了收集数据的天然土壤，与欧洲英法德和美国相比，体量足够大的数据库无疑会使得AI越来越聪明，人工越来越智能。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>motherboard/&#39;mʌðɚbɔrd/底板，母版</i></b></li><li><b><i>clusters/&#39;klʌstɚ/一团，一群</i></b></li><li><b><i>hone/hon/磨刀，想念【GRE】</i></b></li><ul><li><b><i>to <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/improve\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">improve</a> your <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/skill\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">skill</a> at doing something, especially when you are already very good at it. 改进某方面的技能，尤其是在你本来已经擅长的领域。可以翻译成时下付费学习领域流行的“精进”</i></b></li></ul><li><b><i>pecking order /ˈpɛkɪŋ/  + /&#39;ɔrdɚ/ 社会等级，社会地位</i></b></li><ul><li><b><i>wiki传送门：<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Pecking_order_theory\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">en.wikipedia.org/wiki/P</span><span class=\"invisible\">ecking_order_theory</span><span class=\"ellipsis\"></span></a></i></b></li></ul><li><b><i>balkanising 原型balkanise，巴尔干化</i></b></li><ul><li><b><i>Balkanization, or Balkanisation, is a pejorative <a href=\"https://link.zhihu.com/?target=https%3A//dict.eudic.net/dicts/en/Geopolitics.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">geopolitical</a> term, originally used to describe the process of fragmentation or division of a region or state into smaller regions or states that are often hostile or uncooperative with one another.指一个地区不断分裂，彼此充满敌意，不愿意合作的状态</i></b></li></ul><li><b><i>discordant/dɪs&#39;kɔrdənt/不和谐的，不一致的</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句式</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>It is entirely natural for sb. to do sth 某人做某事来说，是人之常情</b></li><li><b>clusters of 一团，一群（同类事物）</b></li><li><b>benefit countless people 使无数人受益</b></li><li><b>preserve its place in the pecking order 维持现有地位</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>Yet it is one thing for a country to dominate televisions and toys, another the core information technologies. They are the basis for the manufacture, networking and destructive power of advanced weapons systems. More generally, they are often subject to extreme network effects, in which one winner establishes an<b><i> unassailable</i></b> position in each market. This means that a country may be squeezed out of vital technologies by foreign rivals <b><i>pumped up</i></b> by state support. In the case of China, those rivals answer to an oppressive authoritarian regime that increasingly holds itself up as an alternative to liberal democracy—particularly in its part of Asia. China insists that it wants a win-win world. America has no choice but to see Chinese technology as a means to an unwelcome end.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国还在电视和玩具领域领先，这也需要核心信息技术。这些是制造业，网络，破坏力和先进武器系统的基础。而且经常受制于极端网络效应：一旦一个国家在某个特定市场站稳脚跟，地位便牢不可破。这意味着一个国家可能由于外国国家力量支持下，在关键技术中出局。（由于众所周知的原因，此段略。）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【小结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>unassailable/ˌʌnə&#39;seləbl/攻不破的</i></b></li><li><b><i>oppressive/ə&#39;prɛsɪv/压抑，残暴【GRE】</i></b></li><li><b><i>regime/re&#39;ʒim/政权，社会制度【GRE】</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>pumped up激发</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>The question is how to respond. The most important part of the answer is to remember the reasons for America’s success in the 1950s and 1960s. Government programmes, intended to</p><p>surpass the Soviet Union in space and weapons systems, <b><i>galvanised</i></b> investment in education, research and engineering <b><i>across a broad range of </i></b>technologies. This ultimately <b><i>gave rise</i></b></p><p><b><i>to Silicon Valley</i></b>, where it was <b><i>infused</i></b> by a spirit of free inquiry, vigorous competition and a healthy capitalist incentive to make money. It was <b><i>supercharged</i></b> by an immigration system that welcomed promising minds from every corner of the planet. Sixty years after the <b><i>Sputnik</i></b> moment, America needs the same combination of public investment and private enterprise <b><i>in pursuit of</i></b> a national project.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>问题（<u>的关键</u>）在于如何回应。回应最重要的部分是要牢记美国在上世纪50、60年代成功的原因：国家规划，在太空和武力系统领域超越苏联，教育领域加大投入，研究的技术范围非常广阔。环境自由，竞争激烈，资本形成良性循环，这些是导致硅谷最终崛起的原因。硅谷蓬勃发展是由吸引全球人才的移民制度保证的。苏联卫星时刻60年后，美国在打造国家项目的过程中，也需要将公共投资和私企结合起来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【小结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p>总结上个世纪美国繁荣的原因，告诉美国如果能够重现当年的自由竞争，就有可能重新当年的繁荣景象。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>galvanise/&#39;ɡælvənaiz/镀锌，使...激动</i></b></li><li><b><i>infuse/ɪn&#39;fjuz/灌输，注入</i></b></li><li><b><i>supercharged超动力的</i></b></li><li><b><i>Sputnik /&#39;spʌtnɪk/ （苏联）人造卫星</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>across a broad range of横跨多领域</b></li><li><b>gave rise to Silicon Valley 硅谷崛起的原因</b></li><li><b>in pursuit of 追逐，打造</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Why use a scalpel when a hammer will do?杀鸡焉用宰牛刀？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>The other part of <b>the answer is to</b> update national-security safeguards for the realities of China’s potential digital threats. The <b><i>remit</i></b> of the Committee on Foreign Investment in the US (CFIUS), a multi-agency body charged with screening deals that affect national security, should be expanded <b>so that</b> minority investments in AI, say, can be scrutinised as well as <b><i>outright</i></b> acquisitions. Worries about a supplier of critical components do not have to result in outright bans. Britain found a creative way to <b><i>mitigate</i></b> some of its China-related security concerns, by using an evaluation centre with the power to dig right down into every detail of the hardware and software of the systems that Huawei supplies for the telephone network. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>另一种回应要升级国家安全防护，以应对中国未来数字领域崛起带来的威胁。负责审理威胁国家安全交易的综合机构--美国外资投资委员会（CFIUS），其工作范围应该扩大，以便可以像审查其它案件一样审查为数不多的人工智能案件。对关键部件有所担忧情有可原，但没有必要全面限制。英国建立了一个评估中心，深入审查华为供应电话系统软件和硬件的每一个细节，以一种缓和的方式处理中国相关的安全问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>scalpel/skæl&#39;pɛl/解剖刀【GRE】</i></b></li><li><b><i>remit/&#39;rimɪt/免除，宽恕，缓和，移交【GRE】</i></b></li><ul><li><b><i>该词条下有两个含义，一个是免除，但这个意思显然不符合语境。</i></b></li><li><b><i>真正的含义是它第二个意思：British English formal the particular piece of work that someone has been officially asked to <a href=\"https://link.zhihu.com/?target=https%3A//www.ldoceonline.com/dictionary/deal\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">deal</a> with，是“职责”、“工作范围”的意思，其后面的动词expanded“扩大”可以跟“职责”对应，也证实了这一点（British English英国常用，TE就是英国的报刊，也是一个证明）。</i></b></li><li><b><i>学英语尤其是中文不常用的含义，查字典一定要彻底，争取查一次就记住一次，学习这件事，对自己认真点总不会错。</i></b></li></ul><li><b><i>outright/&#39;aʊtraɪt/完全，彻底，当场</i></b></li><li><b><i>mitigate/&#39;mɪtɪɡet/缓和</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句型</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>the answer is to ...的答案</b></li><li><b>so that 以便</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>Set against these standards, Mr Trump falls short on every count. The Broadcom decision suggests that valid suspicion of Chinese technology is blurring into out-and-out protectionism. Broadcom is not even Chinese; the justification for blocking the deal was that it was likely to invest less in R&amp;D than Qualcomm, letting China seize a lead in setting standards. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>针对这些标准，特朗普每一步都算错了。美国对博通案的决议暗示着对中国的正当调查已经逐渐变成了彻头彻尾的保护主义。博通甚至都不是中国公司，拒绝收购交易的裁定，很可能是因为收购后投入研发的费用比收购前要低，这就给了中国行业领先、建立标准的机会。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>out-and-out 彻底的adj. </i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句型</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>blur into 模糊的</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>Mr Trump has reportedly already rejected one plan for tariffs on China to compensate for forced technology transfer but only because the amounts were too small. Were America to <b>impose duties on</b> Chinese consumer electronics, for example, it would harm its own prosperity without doing anything for national security. An aggressively anti-China tack has the obvious risk of a trade tit-for-tat that would leave the world’s two largest economies both <b>worse off</b> and also more insecure. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>新闻报道特朗普拒绝通过关税计划来强制赔偿技术转让，其原因仅仅是因为交易金额过低。如果美国向中国的诸如电子产品等商品收税，则会影响美国经济繁荣，对国家安全也没有任何益处。激进的反中国策略风险很大，很可能引起贸易冲突，不利于世界上两个最大的经济体发展，增加不确定因素。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句型</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>impose duties on 对...加税</b></li><li><b>worse off 恶化</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>Mr Trump’s approach is defined only by what he can do to <b><i>stifle</i></b> China, not by what he can do to improve America’s prospects. <b>His record on that score is <i>abysmal</i></b>. America’s federal government spending on R&amp;D was 0.6% ofGDP in 2015, a third of what it was in 1964.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普的政策只能通过扼制中国来实现，而不是他能够为改善美国前景做出何种努力。特朗普之前处理类似事情的经历就非常糟糕。美国联邦政府2015年在研发上的投入占GDP比值为0.6%，这个数字只有1964年的三分之一。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>stifle/&#39;staɪfl/窒息vt.vi.；后膝关节n. </i></b></li><li><b><i>abysmal/ə&#39;bɪzməl/深不可测的，糟透的adj. 【GRE】</i></b></li><ul><li><b><i>例句：For all that, India&#39;s relations with the countries that ring it are abysmal.尽管如此，印度与其周边国家的关系只能用糟糕透顶来形容。</i></b></li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句型</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>one&#39;s record on that score is 某人之前在某件事上的表现</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>Yet the president’s budget proposal for 2019 includes a 42.3% cut in <b><i>non-defence</i></b> <b><i>discretionary </i></b>spending by 2028, which is where funding for scientific research sits.He has made it harder for skilled immigrants to get visas to enter America. He and some of his party <b>treat</b> scientific evidence <b>with <i>contempt</i></b>—specifically the science which warns of the <b><i>looming</i></b> threat of climate change. America is right to worry about Chinese tech. But for America to turn its back on the things that made it great is no answer. </p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是美国总统2019年的预算提案中，截止到2028年，科研基金所在的非国防弹性预算消减了42.3%。特朗普此举抬高了高端人才进入美国的门槛。他和他的政党对科学依据持轻蔑态度，尤其是与隐现的气候变化相关的科研（<u>成果</u>）。美国对中国科技有所担忧是合情合理的。但是美国拒绝能够让自己强大的事物，并不会对警惕中国有任何作用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>生词</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b><i>non-defence/nɔn-dɪˈfɛns/非国防的adj.</i></b></li><li><b><i>discretionary \t/dɪ&#39;skrɛʃə&#39;nɛri/ 任意的，无条件的adj.</i></b></li><ul><li><b><i>上面两个词连起来是“非国防弹性预算”的意思，相关链接如下：<a href=\"https://link.zhihu.com/?target=https%3A//www.cbpp.org/research/federal-budget/policy-basics-non-defense-discretionary-programs\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">cbpp.org/research/feder</span><span class=\"invisible\">al-budget/policy-basics-non-defense-discretionary-programs</span><span class=\"ellipsis\"></span></a></i></b></li></ul><li><b><i>contempt /kən&#39;tɛmpt/轻视，轻蔑 n. </i></b></li><li><b><i>looming/&#39;lʊmɪŋ/ 海市蜃楼n.;隐约的 adj.;逼近v. ，这里是“隐约”含义</i></b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>句型</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>treat something with contempt 藐视某事</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>【总结】</p><p class=\"ztext-empty-paragraph\"><br/></p><p>《经济学人》Leaders文章一项以公正著称，先描述结果，中间描述结果产生的原因，最后部分给出解决方案，给事件定性。中美贸易近几天不断升级，这里面确实有中国不断强大，美国作为霸主感受到威胁和不安的原因，但两国作为世界经济最重要的两只力量，唯一合作共赢才是唯一出路。不然美国的汽车谁来买？苹果、微软谁来买？美剧电影谁来看？14亿人口是一个巨大的消费市场，对外汇的增长起着至关重要的作用。全球化大背景下，各国经济交流不断加深，美国如果不顾中国和其他国家反对，一意孤行，那么可预见的未来里，“分则两败”是唯一的可能。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关注vx【<b>迷路的指南针</b>】，帮你完成今年的英语提升计划！</p>",
+                "comment_count": 0,
+                "image_url": "https://pic1.zhimg.com/50/v2-53035c8b453b21d13c63ae37eb57b526_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-53035c8b453b21d13c63ae37eb57b526_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjE1NDMxNyDDgtrVBSgDMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTU5MTYycggzNDkxMDkyNQ=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "茅股在招股说明书以及年报上都有详细说明，倘若真得希望去了解，请去股份公司官网投资者关系栏目下载年报阅读。 苏格兰麦芽威士忌生产者每年会进口法国、澳大利亚的大麦用于生产。全球啤酒生产者每年大量使用美国种植的谷物、啤酒花用于酿造活动。",
+                "created_time": 1524542006,
+                "id": 374806356,
+                "voteup_count": 21,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-5364fbf2fded74bfe71b1594c472792f_{size}.jpg",
+                    "type": "people",
+                    "name": "镜阳秋",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/3e046da9e6cb44380bc51d5f5e42eb8f",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "jing-yang-qiu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-5364fbf2fded74bfe71b1594c472792f_is.jpg",
+                    "is_org": false,
+                    "headline": "一盏寒浆信远斋，海淀长忆莲花白",
+                    "badge": [
+                        {
+                            "topics": [
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "酒",
+                                    "introduction": "酒，中国汉语词汇，音jiu。英文：wine,Alcohol酒的化学成分是乙醇，一般含有微量的杂醇和酯类物质，食用白酒的浓度一般在60度（即60%）以下（少数有60度以上），白酒经分馏提纯至75%以上为医用酒精，提纯到99.5%以上为无水乙醇。酒是以粮食为原料经发酵酿造而成的。我国是最早酿酒的国家，早在2000年前就发明了酿酒技术，并不断改进和完善，现在已发展到能生产各种浓度、各种香型、各种含酒的饮料，并为工业、医疗卫生和科学试验制取出浓度为95%以上的医用酒精和99.99%的无水乙醇。由于酒的盛行，犯罪率急剧上升。喝酒让人容易麻痹，不清醒从而进行失去理智的行为。",
+                                    "excerpt": "酒，中国汉语词汇，音jiu。英文：wine,Alcohol酒的化学成分是乙醇，一般含有微量的杂醇和酯类物质，食用白酒的浓度一般在60度（即60%）以下（少数有60度以上），白酒经分馏提纯至75%以上为医用酒精，提纯到99.5%以上为无水乙醇。酒是以粮食为原料经发酵酿造而成的。我国是最早酿酒的国家，早在2000年前就发明了酿酒技术，并不断改进和完善，现在已发展到能生产各种浓度、各种香型、各种含酒的饮料，并为工业、医疗卫生和科学试验…",
+                                    "is_vote": false,
+                                    "url": "http://www.zhihu.com/api/v4/topics/19551636",
+                                    "avatar_url": "https://pic4.zhimg.com/50/v2-6c81fc6d7bccd460d7060b49b651ef5c_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19551636"
+                                },
+                                {
+                                    "is_black": false,
+                                    "name": "威士忌",
+                                    "introduction": "<ul><li>初步编辑中，有争议和建议欢迎留言在<a href=\"https://zhuanlan.zhihu.com/p/23145262\">https://zhuanlan.zhihu.com/p/23145262</a>；</li></ul>",
+                                    "excerpt": "初步编辑中，有争议和建议欢迎留言在https://zhuanlan.zhihu.com/p/23145262 ；",
+                                    "is_vote": false,
+                                    "url": "http://www.zhihu.com/api/v4/topics/19585323",
+                                    "avatar_url": "https://pic3.zhimg.com/50/e3e774cf4_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19585323"
+                                },
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "葡萄酒",
+                                    "introduction": "葡萄酒是以葡萄为原料酿造的一种果酒。其酒精度高于啤酒而低于白酒。营养丰富，保健作用明显。有人认为，葡萄酒是最健康最卫生的饮料之一。它能调整新陈代谢的性能，促进血液循环，防止胆固醇增加。还具有利尿、激发肝功能和防止衰老的功效。也是医治心脏病的辅助剂，可预防坏血病、贫血、脚气病、消化不良和眼角膜炎等疾病。常饮葡葡酒患心脏病率减少，血脂和血管硬化降低。",
+                                    "excerpt": "葡萄酒是以葡萄为原料酿造的一种果酒。其酒精度高于啤酒而低于白酒。营养丰富，保健作用明显。有人认为，葡萄酒是最健康最卫生的饮料之一。它能调整新陈代谢的性能，促进血液循环，防止胆固醇增加。还具有利尿、激发肝功能和防止衰老的功效。也是医治心脏病的辅助剂，可预防坏血病、贫血、脚气病、消化不良和眼角膜炎等疾病。常饮葡葡酒患心脏病率减少，血脂和血管硬化降低。",
+                                    "is_vote": false,
+                                    "url": "http://www.zhihu.com/api/v4/topics/19555489",
+                                    "avatar_url": "https://pic1.zhimg.com/50/cb9aabba8_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19555489"
+                                },
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "啤酒",
+                                    "introduction": "啤酒是以大麦芽为主要原料，大米为淀粉类辅料，并加啤酒花，经过液态糊化和糖化，再经过液态发酵而酿制成的。其酒精含量较低，含有二氧化碳,富有营养。它含有多种氨基酸、维生素、低分子糖、无机盐和各种酶。这些营养成分人体容易吸收利用。啤酒中的低分子糖和氨基酸很易被消化吸收，在体内产生大量热能，因此往往啤酒被人们称为“液体面包”。1L12°Bx 的啤酒，可产生3 344kJ 热量，相当于3~5 个鸡蛋或210g面包所产生热量。一个轻体力劳动者，如果一天能饮用1L 啤酒，即可获得所需热量的三分之一。",
+                                    "excerpt": "啤酒是以大麦芽为主要原料，大米为淀粉类辅料，并加啤酒花，经过液态糊化和糖化，再经过液态发酵而酿制成的。其酒精含量较低，含有二氧化碳,富有营养。它含有多种氨基酸、维生素、低分子糖、无机盐和各种酶。这些营养成分人体容易吸收利用。啤酒中的低分子糖和氨基酸很易被消化吸收，在体内产生大量热能，因此往往啤酒被人们称为“液体面包”。1L12°Bx 的啤酒，可产生3 344kJ 热量，相当于3~5 个鸡蛋或210g面包所产生热量。一个…",
+                                    "is_vote": false,
+                                    "url": "http://www.zhihu.com/api/v4/topics/19560155",
+                                    "avatar_url": "https://pic1.zhimg.com/50/2db9e9aeb_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19560155"
+                                }
+                            ],
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "id": "3e046da9e6cb44380bc51d5f5e42eb8f"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/374806356",
+                "question": {
+                    "title": "茅台总不至于是美国高粱酿造的吧？哪些中国酒是美国高粱酿造的？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274219290",
+                    "created": 1524363387,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274219290
+                },
+                "updated_time": 1524552188,
+                "content": "<p>茅股在招股说明书以及年报上都有详细说明，倘若真得希望去了解，请去股份公司官网投资者关系栏目下载年报阅读。</p><p><br></p><p>苏格兰麦芽威士忌生产者每年会进口法国、澳大利亚的大麦用于生产。全球啤酒生产者每年大量使用美国种植的谷物、啤酒花用于酿造活动。</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTgyMDgwOTAgttT61gUoFTACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjEzMDE4cgkzNzQ4MDYzNTY="
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439159661.28441",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439137365.31&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439137365.30564"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1533189165,
+                "is_labeled": false,
+                "excerpt": "这是该系列的第二期节目，第一期点击下方链接可以看 <a href=\"https://zhuanlan.zhihu.com/p/38434194\">日本的风光，衰落与平静 | 美国人生气了</a> 上次讲到日本货在美国横行霸道，搞得美国“民不聊生”，随后美国使用一系列威胁手段，威胁日元升值。恰逢日本当局也有升值日元的意愿，于是促成了一场在纽约曼哈…",
+                "excerpt_title": "",
+                "id": 41118389,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-9aabd00d51c89492183471477948607b_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-88e4921104901165920d89669d8e2085_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-e50349b7ae0cffff671d3694b65292fd_250x0.jpg"
+                ],
+                "title": "日本的风光，衰落与平静（第二期）| 威逼利诱",
+                "url": "http://zhuanlan.zhihu.com/p/41118389",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_{size}.jpg",
+                    "badge": [],
+                    "name": "捷克甜糖",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "搜索公众号“微观系列”，关注我 获取更多好文",
+                    "url_token": "yue-han-zao",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/097e844fdfb8462488c0af2a809c6265",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "097e844fdfb8462488c0af2a809c6265",
+                    "is_org": false
+                },
+                "created": 1533189166,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-88e4921104901165920d89669d8e2085_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"642\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"642\" data-original=\"https://pic2.zhimg.com/v2-88e4921104901165920d89669d8e2085_r.jpg\"/></figure><p><br/>这是该系列的第二期节目，第一期点击下方链接可以看</p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://zhuanlan.zhihu.com/p/38434194\" class=\"internal\">日本的风光，衰落与平静 | 美国人生气了</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>上次讲到日本货在美国横行霸道，搞得美国“民不聊生”，随后美国使用一系列威胁手段，威胁日元升值。</p><p>恰逢日本当局也有升值日元的意愿，于是促成了一场在纽约曼哈顿广场酒店举行的美、日、英、法、西德五国峰会。</p><p>峰会上五国签署了协议，史称“广场协议”。</p><p>广场协议的核心目的，用一句话来概括就是</p><p>——四国汇率升值，美元贬值，最终达到四国减少出口，扩大内需，多买美国商品的目的。</p><p>本期接着带大家回顾，日本上世纪八九十年代到底发生了什么。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e50349b7ae0cffff671d3694b65292fd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"306\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-e50349b7ae0cffff671d3694b65292fd_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>“广场协议”签署后，各国就“积极配合”升值本国货币的动作，本国货币的升值，也就等于美元贬值。</p><p><b>美国想要美国人少买外国货</b></p><p><b>美国想要外国人多买美国货</b></p><p>美国人打着自己的算盘，日本人当然也拿出自己的算盘拨啊拨啊的，尽最大可能将损失降低到最小。</p><p>日本是美国马前卒没错，可马前卒也不想任人宰割啊。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是日本人想出了两个办法来应对</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-c4aab5fc926eb8fa56636146cf19d4b6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-c4aab5fc926eb8fa56636146cf19d4b6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一个办法叫，挤毛巾战术</b></p><p>当时日本政府决定提高日元汇率，那日本的生产企业肯定知道自己要过苦日子，可日本企业也挺坏的，用了一招叫做“挤毛巾”的战术。</p><p>什么叫“挤毛巾战术”呢？</p><p>简单讲，就是像我们挤毛巾一样，拼尽全力挤干毛巾里的最后一滴水分。</p><p>日本人那“耿劲”上来了，谁也挡不住。</p><p>我举两个例子来让大家直观了解一下，什么叫“挤毛巾战术”。</p><p>在丰田的零件工厂，年轻小伙子在操作数控机床时将防护罩门全打开了，但工厂的要求是只能拉开一半，拉开到头能伸进去的宽度。</p><p>一旁的老师傅狠狠的训斥年轻人</p><p><b>你知道你把防护罩门全部打开要浪费几秒钟吗？你一个人一次浪费几秒，一年下来是多少时间你知道吗？</b></p><p>你的操作证明你根本没认识到节约生产时间，降低生产成本的重要性。</p><p>因为一次浪费了几秒钟的操作，工人就被如此训斥，这就是挤干最后一滴水的“挤毛巾战术”。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-3ce1e386706b51106cba15cf2e50215d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"590\" data-rawheight=\"373\" class=\"origin_image zh-lightbox-thumb\" width=\"590\" data-original=\"https://pic2.zhimg.com/v2-3ce1e386706b51106cba15cf2e50215d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>还有个例子，在数控机床生产厂，当时生产一个零件以后会直接用喷压枪将零件上的切削液给吹掉。</p><p>可采用“挤毛巾战术”后，工厂禁止了这样的做法，切削液不能够被白白的浪费掉，必须严控喷枪将切削液吹到回收利用的装置中，进行再次利用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>你能看到，浪费个几秒钟，浪费几滴切削液，这些在生产过程中极为细小，极为细小的东西，当时在日本都抓的很紧。</p><p>为什么日本生产厂要抓的那么紧呢？</p><p>因为日本人精啊</p><p><b>日本人知道日元升值后自己产品的竞争力会下降，那怎么办呢？我不可能对产品降价做亏本买卖啊。</b></p><p>那唯一的办法，就是自己来节约成本吧。</p><p>从各个方面，各个小到你难以想象的方面，用“挤毛巾战术”挤出公司的利益。</p><p>另一个办法叫，中国市场</p><p>挤毛巾固然可以节约生产成本，从鸡毛蒜皮的细节里抠出利润来，但鸡毛蒜皮终究是鸡毛蒜皮，要想真正的解决问题，要想大幅降低成本来抵消日元升值带来的竞争力下降，就必须另寻出路。</p><p>而那个出路，就是海外市场。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>之前给大家写过一篇讲抗日战争后，中日恢复邦交和交流的文章，相信不少朋友看过。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-da4779afe95bca8f7c48b1d4639a4bbc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"374\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-da4779afe95bca8f7c48b1d4639a4bbc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1978年邓访日后，中日之间的关系就进入一段蜜月期，这主要是因为当时中日两国都相互需要。</p><p>中国改革开放刚起步，需要大量外国投资</p><p><b>日本日元升值，产品竞争力在海外市场持续下滑，需要廉价的劳动力及厂房和税收来降低生产成本，从而提升日本产品的竞争力。</b></p><p>于是中日两国在各自利益的驱动下一拍即合，日本大举投资中国，中国为日本提供各项优惠措施及大量的廉价劳动力。</p><p>如此一来，中日两国是各取所需了。</p><p>只不过大家在这里要注意一个滞后性的问题</p><p><b>没错，投资中国市场对日本降低成本有着极大好处，但这个成本的降低有着一个循序渐进的过程，不是我今天投资，明天成本就降了的，至少要两三年时间，投资中国的好处，才能显现出来。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-649480ca0593e4d99143a03d64ecce03_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"372\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-649480ca0593e4d99143a03d64ecce03_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>击败美国的日本推土机，小松</p><p>时间来到1986年，距离“广场协议”签署才过去一年，日元就已经升值了20%，如此快速和高幅度的升值，对于日本以出口为导向的企业来说是“难以承受之重”</p><p>当时日本政府自己做过一份报告，报告主要讲日本各行各业所能接受的汇率极限。</p><p>根据行业不同，所能接受的极限也不同。</p><p><b>纺织和钢铁业所能接受的极限是1美元兑180日元</b></p><p><b>造船业的极限是1美元兑175日元</b></p><p><b>电子产业的极限是1美元兑170日元</b></p><p><b>汽车产业的极限是1美元兑155日元</b></p><p><b>这就很有意思了，美国人最最恨的日本汽车，却是最能抵抗汇率升值的行业。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-5ea92bf60a1805cdb319dd94a988d7de_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"404\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-5ea92bf60a1805cdb319dd94a988d7de_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>中曾根康弘（左）</p><p>可日元还在不断的升值，日元升值直接导致出口衰退，作为贸易立国的日本来说，贸易衰退就直接意味着经济衰退。</p><p>日本政府越来越不安了，尤其是国内反对党的指责和批评，给了中曾根康弘政府以极大压力。</p><p>选民的声音也从</p><p><b>“广场协议的策划者”，“有魄力的政治家”</b></p><p>转变成了</p><p><b>“葬送日本制造业的卖国贼”</b></p><p>这下日本执政者真的慌了，试想，如果日本的制造业真葬送在自己手里，那是多大的罪啊，葬送日本制造业，首相还不切腹谢罪？</p><p>于是日本政府开始了补救措施，思来想去，补救的措施只有一个</p><p><b>降息</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a73d926626d800f7829134585a2313fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"404\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-a73d926626d800f7829134585a2313fc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>简单讲讲降息的作用</p><p>降息作用主要两点</p><p><b>一，借钱成本低了，鼓励企业借钱，扩大投资</b></p><p><b>二，货币吸引力下降，抛售日元，汇率下跌</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>结合上面讲到的东西，大家会发现此时“降息”非常符合日本政府的需要。</p><p><b>首先，日本企业在中国大量设厂，不断加大海外投资降低生产成本。</b></p><p><b>那“降息”就能减少日本企业的借钱成本，更鼓励他们对外投资。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>其次降息能够打压汇率，让日元别那么一路往前爆冲，也适当贬贬值。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有这两点契合度那么高的好处，日本政府果断降息。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-68584995fdecae26db3fdf2f09429940_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"534\" data-rawheight=\"277\" class=\"origin_image zh-lightbox-thumb\" width=\"534\" data-original=\"https://pic1.zhimg.com/v2-68584995fdecae26db3fdf2f09429940_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>1986月1月30日，日本宣布将银行利率从5%降低到4.5%。</p><p><b>这看似轻描淡写的一笔，却是开启日本失落20年的重要伏笔。</b></p><p>第一次降息效果不明显，于是仅仅过了两个月就降了第二次。</p><p>可这第二次力道还是不够，四个月后又降了第三次。</p><p>当时，日本的决策层非常相信唯有降息才能救日本，才能将日本这架以出口贸易为主的马车，从悬崖边拉回来。</p><p>于是在第三次降息后，仅仅过了三个月，迎来了第四次降息。</p><p>最终日本在一年的时间里，搞了五次降息</p><p><b>1986月1月，4.5%。</b></p><p><b>1986年3月，4%</b></p><p><b>1986年4月，3.5%</b></p><p><b>1986年10月，3%</b></p><p><b>1987年2月，2.5%</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-071ddfb939178c9e3e2a78b053542f48_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"407\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-071ddfb939178c9e3e2a78b053542f48_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>然而就是这样拼了命的降息，想要对抗日元升值带来的影响，也没用。</p><p>日元兑美元在1987年4月的时候，正式突破了1美元兑换150日元的警戒关口。</p><p>为什么日元还是遏制不住的拼命往上升呢？</p><p>这里有两个主要原因。</p><p><b>第一个原因是，1986年的美国经济出乎意料的差，美国对外贸易赤字总额，来到了创纪录的1450亿美元，但美国1986年的GDP增长，却只有2.9%。</b></p><p><b>这就意味着美国必定会继续实行“弱美元政策”以增加美国货的竞争力。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d0c88d60864e88d8e8833c93af1c0649_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"455\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-d0c88d60864e88d8e8833c93af1c0649_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第二个原因是，日本国内的“外汇炒家”，遍地开花。</b></p><p>有一个小孩子都懂的道理，就是当日元升值，美元贬值成为一种大概率事件时，那市场上的外汇交易商们，就会蜂拥而至的买日元，抛美元。</p><p>在广场协议签署仅仅一年后，<b>日本东京的外汇市场规模就已经暴增了300%</b>，各种大大小小的银行，证券，保险公司，蜂拥而入的进入外汇市场。</p><p>当时东京的大街小巷流传着这样一个段子。</p><p><b>世界上最容易赚钱的生意是什么？</b></p><p><b>炒外汇呀。</b></p><p><b>你只要买日元，卖美元就行了，闭着眼赚钱。</b></p><p><b>当然，偶尔美元还是会升升值的，但终究还是要往下跌的。</b></p><p><b>为什么呢？</b></p><p><b>因为美国不允许它往上升，美元一升，美国完蛋。</b></p><p><b>软弱的美元，软弱的美国。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-92f864db84b148c1d3d1c04ee9ae6925_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"233\" class=\"content_image\" width=\"300\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>二战后日本的实际统治者，麦克阿瑟（右为日本天皇）</p><p>美国有个习惯，就是一旦自己经济不好，他就习惯去找别人的毛病，虽然日本的炒汇商人笑话美国是</p><p><b>软弱的美元，软弱的美国</b></p><p>但美国还是日本的实际“掌控者”。</p><p>民间流传着</p><p>软弱的美元，软弱的美国</p><p>但在东京政治圈内，却流传着另外一句话，这句话自从美国占领日本后，就是每个日本政客都知道的，且必须牢记的，即</p><p><b>亲美政府不一定长寿，但反美政府一定短命</b></p><p>换句话说，日本执政者是不可能和美国对着干的，万一有哪个不懂事的首相敢，美国有一百种办法让他下台。</p><p>所以你要日本政府和美国敌对是绝不可能的，日本政府能做的，就是背地里做些小动作来糊弄美国。</p><p>可美国人哪有那么好忽悠，世界上诺贝尔经济学奖有多少个美国人啊。</p><p>美国很快给日本政府下了一道死命令。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-3a7cb409de9afc4601bab1c48a9017c8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"551\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb\" width=\"551\" data-original=\"https://pic1.zhimg.com/v2-3a7cb409de9afc4601bab1c48a9017c8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>你要扩大内需，你政府要拿出钱来做大量投资，另外你要给人民减税。</p><p><b>日本那位同意“广场协议”的首相中曾根康弘，向美国人诉苦，减税可以做到，可扩大内需，日本政府也没钱。</b></p><p><b>美国人哪吃你这一套，美国CIA何等机构，你日本有几斤几两他门清。</b></p><p>你日本有钱，你就是不肯拿钱出来“扩大内需”。</p><p>在美国的政治压力和威逼利诱下，日本开始搞钱“扩大内需”，满足美国人要求。</p><p><b>当时日本一年增加了1万亿日元的税收，里面可以拿出5000亿来。</b></p><p><b>另外，还能出售195万股NTT股票，可以弄个5.6万亿日元。</b></p><p><b>还有能出售JAL日航公司的股权来筹资5000亿。</b></p><p>那日本人他又搞小动作，明明有大概6万多亿可以拿出来，他就给你弄一半，只想弄3.5万亿作为政府财政的补充预算。</p><p>可美国人会同意吗？</p><p>而且如果现在回过头看，当时日本政府应该更早的拿出这笔3.5万亿日元来扩大内需。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d44d5043c120b0f96b8ffd3b03c229bc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"368\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-d44d5043c120b0f96b8ffd3b03c229bc_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>日本横滨港</p><p>为什么呢？</p><p>因为日元不断升值，日本出口受到影响，而影响则主要集中在中小企业上，那些日本大型企业虽然也有影响，但他们有着各种方法来将影响降到最低（如我上面几段讲的方法）。</p><p>而大家都知道，日本有很多“匠人”，还有很多中小型企业，这些企业规模不大，但却是日本经济的重要组成部分。</p><p><b>受到日元冲击影响最大的，就是这些中小企业。</b></p><p>日本政府此时绝对应该拿出钱来帮助和拯救这些中小企业。</p><p>但是日本政府拿钱出来救中小企业的步伐，慢了。</p><p>等到了后来，日本政府决心拿钱出来给中小企业救助时，这些中小企业都拿着政府的“救助”，去炒股了（这是后话，下一期会讲）</p><p>而现在，美国的话，日本不愿听，但没法不听。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-7beb13c65708f1a1df93f70be2c99e05_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"222\" class=\"content_image\" width=\"388\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>日元升值，对于中小企业的打击是毁灭性的，那对于大企业呢？</p><p>我们先来看一段汇率和利润的关系</p><p><b>当1美元兑240日元时</b></p><p>假设，日本车海外售价10000美元，利润率10%，卖一辆，日本车企赚1000美元</p><p>汇率换算后</p><p><b>也就是240X1000=24万日元。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>那现在，日元升值了</p><p><b>当1美元兑120日元时</b></p><p>同一辆车，10000美元，利润率10%，日本车企赚1000美元</p><p>可这1000美元的利润</p><p><b>就变成了120X1000，12万日元。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这样一讲大家应该很方便理解，为什么日元升值，对出口打击那么大了吧。</p><p>当然上面的数字都是虚构的，但是汇率和利润的联系是这样的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-43371eb3b893a8face7d151d01351c0d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"618\" data-rawheight=\"336\" class=\"origin_image zh-lightbox-thumb\" width=\"618\" data-original=\"https://pic2.zhimg.com/v2-43371eb3b893a8face7d151d01351c0d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>根据日本经济企划厅在1987年和1988年做的企业调查显示，</p><p>对企业来说，能够盈利的汇率是多少。</p><p><b>在1987年，日本各大企业能够盈利的汇率平均值是，1美元兑175日元。</b></p><p><b>而到了1988年，这个平均盈利的汇率值，变成了1美元兑140日元。</b></p><p><b>其中大多数企业，在1美元兑130日元时，依旧能盈利。</b></p><p><b>14%的企业甚至能够在1美元兑120日元时盈利。</b></p><p>这一结果，出乎意料。</p><p>之前日本一直说啊，日元升值会沉重打击日本出口，会让大量日本企业陷入困境。</p><p><b>但实际上，根据这项日本政府的调查结果显示，日本企业的状况是不好，但也没那么糟，中小企业是糟了点，但大企业的抗日元升值能力还是比较强的。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-87de3112ff919f74bc2a6e295ea9f18c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"236\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>美国人还是不了解日本人啊，这里举两个例子，来说明日美两国企业的一大不同，也曾侧面说明了，日本企业，为什么那么能扛。</p><p>当年美国的汽车零部件公司卡尔特零件，被日本生产的零件打的经营困难，不得不开始大量裁员，减少研发经费。</p><p>而这一大量裁员，在卡尔特零件所在的罗姆镇引发了大规模的抗议，工厂员工和家人围住工厂，并且在强大工会的带领下，<b>那些没被裁员的员工也罢工，加入到抗议队伍。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-ca27e8f03c59693800685e3e2ef60518_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"392\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-ca27e8f03c59693800685e3e2ef60518_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>不久后，日本同一类公司，大阪生产汽车零件的日通工厂，因为日元升值而利润锐减，但日本人的做法，和美国人大相径庭，日本他不是什么大规模裁员。</p><p>而是雇佣更多临时工，同时对正式员工实行减工资，减福利，以此来将利润减少的损失降到最低。</p><p>日本厂的这种行为，要是放在美国，美国人早就炸锅了，甚至可能拿枪跟你拼命。</p><p>可在东亚文化圈中，尤其是在日本</p><p><b>日本人对于公司有一种要“共渡难关”的信念，公司困难，所有人都节衣缩食，我也应该如此，这是日本人的文化。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而且大家也都知道，日本可能是全世界跳槽率最低的国家，一个人从毕业起就在一家工厂或者公司干到退休的大有人在。</b></p><p>但美国文化就是，什么？老板要解雇我们，要减我们工资？</p><p><b>找工会，和他干</b></p><p>强大的工会立马组织起所有员工来对抗老板</p><p><b>日本人这种“共渡难关”的精神，在小企业身上有，在跨国大企业身上一样有。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-00ccd29e8ebbeeb9a07599f2d133445f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"356\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-00ccd29e8ebbeeb9a07599f2d133445f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>好了，现在日本政府听了美国人的话，先升值日元，又通过一年五次的不断降息，来降低企业的借贷成本，进一步帮助企业渡过难关。</p><p>接着，日本政府来了个大杀招。</p><p>6万亿刺激计划。</p><p><b>1987年中旬，中曾根康弘宣布《政府景气对策》</b></p><p>景气对策的主要内容有两点</p><p><b>1，减税一万亿日元</b></p><p><b>2，五万亿日元的公共事业投入。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这6万亿刺激计划，不免让人联想到当年的“4万亿”</p><p>那这6万亿投下去，会在日本国内引起什么轩然大波呢？</p><p>请看日本的衰落第三期，金融原子弹</p><p class=\"ztext-empty-paragraph\"><br/></p><p>微信搜索，微观系列，获取更多好文</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-c9354897d1b541acca01680e8991021f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-c9354897d1b541acca01680e8991021f_r.jpg\"/></figure><p></p>",
+                "comment_count": 3,
+                "image_url": "https://pic4.zhimg.com/50/v2-9aabd00d51c89492183471477948607b_hd.jpg",
+                "voteup_count": 96,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHODE5OTI0OSCuuIrbBShgMANAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjEwNjQ0NnIINDExMTgzODk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558123078,
+                "is_labeled": false,
+                "excerpt": "（本故事纯属虚构） 1、很久很久以前，A公司和R公司都是某行业的龙头，合计起来占市场份额70%，双方都憋着一口气要把对方干掉，这样就可以独享财富。A公司明白光靠自己努力是不够的，所以联合了那时很弱小的C公司，一起对抗R公司。为什么选C公司呢？虽然C公…",
+                "excerpt_title": "",
+                "id": 66178560,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-be01aa2a10c1424f10e729b7449b4235_250x0.jpg"
+                ],
+                "title": "A公司和C公司的故事",
+                "url": "http://zhuanlan.zhihu.com/p/66178560",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-4677def2a569e92d365ef53fc39d8101_{size}.jpg",
+                    "badge": [],
+                    "name": "Jason不跪",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "如果你看完我的专栏，你会喜欢它",
+                    "url_token": "zhang-jun-89-40-31",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-4677def2a569e92d365ef53fc39d8101_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/7c2126b691bd206f2683a7992cacb108",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "7c2126b691bd206f2683a7992cacb108",
+                    "is_org": false
+                },
+                "created": 1558123078,
+                "content": "<p>（本故事纯属虚构）<br/></p><p>1、</p><p>很久很久以前，A公司和R公司都是某行业的龙头，合计起来占市场份额70%，双方都憋着一口气要把对方干掉，这样就可以独享财富。</p><p>A公司明白光靠自己努力是不够的，所以联合了那时很弱小的C公司，一起对抗R公司。</p><p>为什么选C公司呢？虽然C公司那时的行业份额不到1%，但是与R公司是邻居，一个302，一个301，平时员工吃午饭的时候，都会聚集到楼下的员工餐厅里，桌子都是拼在一起的，彼此说话都得扯着嗓子，热闹极了。</p><p>这桌人说：哎，你听说了吗？A公司又研发了一款新产品，号称能颠覆整个行业啊！</p><p>那桌人接茬：我也听说了，下午我准备给老板汇报，昨天还熬夜做了一份“一起窒息”的PPT。</p><p>消息串来串去，突然有一天R公司的门上就挂着“结束营业”的牌子。</p><p>C公司跑去A公司领功：</p><p>A：你想要什么奖励？</p><p>C：我们公司太小了，业务发展的不好，我想做一些外贸的生意，可以以后多发一些订单给我做吗？</p><p>A：可以的，给谁不是做呢！这样，我们公司的股东有一家金融关联H公司，你们买原料啥所需要的资金可以找他们去想办法投资，我先打个招呼。</p><p>C：这么神奇吗！</p><p>C公司谢过就走了。A公司给H公司拨通电话：</p><p>“是我，对，这是一块肥肉，他们有人工，工资便宜，所以我们采购价不贵。而且他们答应了，赚来的钱会投到我们的P2P产品里，嗯，他们不知道P2P的本金要不回来。”</p><p>C公司回去后也开了高管会议：</p><p>“这一次是我们的天赐良机。A公司不仅给订单，还给周转资金，当然，我也提了一些可持续的建议，比如派送我们公司的重点培养青年员工去C公司实习深造，将先进的工艺技术、财务制度、资本设计、管理体系都带回来，他们答应了，你们在座的想想看，这些我们都会了，那公司终归有一天也能成为行业老大，但在此之前，大家千万不能有一些懈怠，注意，闷声发大财。”</p><p>（同时，试想一个分切双画面）A公司给H公司的电话结尾：</p><p>“他们想派人来学习，说明他们有想法，没事，我安排‘特殊’的教材教他们，我们可不能再树立一个R公司了。”</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-be01aa2a10c1424f10e729b7449b4235_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"724\" data-rawheight=\"409\" class=\"origin_image zh-lightbox-thumb\" width=\"724\" data-original=\"https://pic2.zhimg.com/v2-be01aa2a10c1424f10e729b7449b4235_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2、<br/></p><p>就这么过了20年。</p><p>按照双方之前的约定，都获得了自己想要的收益：</p><p>A公司获得了便宜的进口商品，H公司获得了高额的投资回报，而他们旗下P2P资金池不断壮大。</p><p>C公司则靠着员工们的努力，和A公司在行业资源上的“协调”，已经快速成长为资产规模仅次于A公司的大型企业了。</p><p>这时，很多喜欢博眼球的媒体就开始挑事，连续发布了很多有关A公司或C公司的“心理活动”报道，比如，在A公司的酒会上，问高管怎么看待C公司的崛起，他回答：</p><p>“正是因为我们给与C公司的帮助，他们才能走到今天，我们是永远的朋友。”</p><p>然而记者回去后写：A公司高管醉后吐真言，C公司没有实力，全靠我们帮衬。</p><p>然后，又跑到C公司的酒会上，问A公司怎么看。A公司说：</p><p>“我们都立志于把这个行业做好做大，应该说，双赢是我们彼此更看重的关系。”</p><p>记者又写成：C公司觉得A公司已经离不开它。</p><p>一场刻意又不刻意的“修昔底德陷阱”就慢慢发酵。</p><p>A公司跑去问H公司怎么办？</p><p>H公司说：我们在他们那里获得了足够的利益，只要能控制住它，别人写什么就让他写好了。</p><p>用什么控制呢？</p><p>H公司说，如果我是一个国家啊，那就是军队咯，但我们是公司，只有用行业法律。协会、行政机构都是我们的代理人，每年我们付了那么多钱在他们身上，我们随时可以修改法律来牵制他们所供应商品的品质。你别忘了，C公司还有很多高管的个人存款都在我们的P2P里面，这是我们当初签订的私下协议，每一次采购的价格，我们都压到最低，然后提取一小部分作为支付给他们高管的服务费，为了避免曝光，就放在我们P2P里面投资。如果我们公布了这份清单，他们的员工肯定不干，C公司也自然瓦解了。</p><p>A：可是我们现在大部分的货的原料都是从C公司采购的，万一他们停供怎么办？</p><p>H：他们会停供吗？会，当他们找到另外的客户这个有可能发生。所以，你现在要做几件事情。第一，问C公司收取服务费，随便找个名目，比例不要大，看看他们愿不愿意支付，如果愿意，那么代表外面的传闻是假的，如果不愿意，哼，这个时刻早晚要到来；第二，赶快找代替商品，最好是C公司周边的，你知道我们H公司不仅投资了C公司，也投资了它周边的几个小公司，很有潜力，但你不要一下子摊牌，慢慢来，你要给我时间处理掉在C公司的剩余投资；你收服务费，他们肯定会算，说其实是A公司自己在承担，没关系，你要的是其他供货商，不要静态的看问题，这个事情本来就是动态的。第三，和行业协会几个盟友保持好关系，这点很重要，现在你做的并不好，我知道你们公司现在存在的问题，作为一家上市公司，要一直维持这么高的股价是不容易，而且我也知道股东会上，你们已经提出了转型，回归以实业，这非常好，要知道跟别人买货永远会受到牵制，自己做就能降低这个风险。</p><p>A：嗯，你能不能抽走在C公司投资的资金，这样他们就没有充足的资金可以运营了。</p><p>H：我说了，你要给我时间，现在抽走，C公司会立即停产，而且我也一下子抽不走。听我说，现在还没有到真正要决裂的时候，你先看看他们愿不愿意支付服务费，如果不能，就像我说的，要么是意愿问题，要么是能力问题，也就是C公司没有看上去那么有钱，你要分析，不能鲁莽。</p><p>A：好的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、</p><p>B公司是另一个行业的大佬，在隔间听到了A和H所有的交流，等A走后，才抽着雪茄在沙发上坐下。</p><p>B：这回闹得挺凶啊！</p><p>H：嗯，也是好事情，这和我们管理公司一样，一个太过于平静的团队是不利于公司发展的，我们的职责就是制造矛盾，让他们彼此竞争，让他们彼此消耗，只有在这种境况下，他们才会源源不断的向我们支付利润，他们才会期求我们借更多的钱给他们。当然，借的钱是要偿还的，用他们公司未来的发展作为抵押。这样的话，他们的员工或许会察觉，或许会不满，没关系，即使员工发现了，那也只会苛责自己的公司或对方的压榨，永远不会有人察觉到利润流向了何方。</p><p>B：媒体的报道做得很好。不管谁赢，我们都能大赚一笔。</p><p>H：C公司比较容易对付，毕竟是家族企业，一人说了算；而A公司现在有点难对付，股东会和董事会竟然破天荒的站在了一起，实在没想到，我们已经控制了A公司的财政大权，本来C公司的财政大权也即将到手，偏偏此时A公司要清算讨债，哎，坏我们的好事，太可惜了。</p><p>B：他们以为他们在下棋，然而下棋的规定其实是我们定的。</p><p>H：当然，实力上还是A公司强，但我教了C公司去联合CX，CX是一个小无赖，让他跑去A公司闹事，给他点教训。我也教了A公司联合C公司周边的几个小公司弄弄技术交流，吓吓C公司不要太过分。你看，我们编造了未来的新闻，他们还要跑过来问我们怎么办，多有趣啊。</p><p>B：说起来，我们的虚拟系统还是要快点进行，以防有一天受到现在想不到的威胁。要有王牌，A公司的代理人们和背后的权力，现在是我们的王牌，能保护我们，但我们要做好另外的准备。</p><p>H：好的，还有就是你们研发长生不老的技术进展到什么阶段了，我们投入了那么多钱下去，该有点水花了吧。</p><p>B：放心，最多还有10年。已经完成80%，到时候你不要嫌自己活得太长啊。</p><p>H：哈哈，干杯，为了永生！</p><p>B：为了永远的财富！</p><p>（完）</p><p>本故事纯属虚构，上面的图片与故事无关，只是为了美观。</p><hr/><p>更多文章关注公众号《南半球聊财经》</p>",
+                "comment_count": 13,
+                "voteup_count": 25,
+                "type": "article"
+            },
+            "attached_info": "Cj4QBxoJMTAyODM1MjQ3IMak/OYFKBkwDUAAUhF0b3BfYWN0aXZpdHlfcG9zdFoGMTIwMDA4cgg2NjE3ODU2MA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1540947950,
+                "is_labeled": false,
+                "excerpt": "一个国家的进出口贸易，既反映出一个国家的经济水平、产业结构，也反映出一个国家的发展方向。一个国家的经济实力和发展空间并不能简单地从贸易顺差和逆差来进行判断。更深入地了解贸易的详细结构，才能使我们对经济的整体形势有一个更准确的判断。美国商品…",
+                "excerpt_title": "",
+                "id": 48087848,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-1d1504d5707bd3093268f625240849cf_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-39ba1d2d33273febecf2b14c80443026_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-4e55fd14beeb5a91d99c22710021828c_250x0.jpg"
+                ],
+                "title": "美国进出口贸易",
+                "url": "http://zhuanlan.zhihu.com/p/48087848",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_{size}.jpg",
+                    "badge": [],
+                    "name": "特布鲁",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "专注数据，关注社会 公众号：不惑门 (NCR2019_4)；",
+                    "url_token": "te-bu-lu-59",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "gender": -1,
+                    "type": "people",
+                    "id": "87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "is_org": false
+                },
+                "created": 1540947950,
+                "content": "<p>一个国家的进出口贸易，既反映出一个国家的经济水平、产业结构，也反映出一个国家的发展方向。一个国家的经济实力和发展空间并不能简单地从贸易顺差和逆差来进行判断。更深入地了解贸易的详细结构，才能使我们对经济的整体形势有一个更准确的判断。</p><p>美国商品和服务进出口总体处于贸易逆差状态。其中，商品进出口是逆差，服务进出口顺差。在一般商品进出口贸易中，汽车和消费品贸易逆差规模在逐渐增长，工业原材料的贸易逆差规模在2013年后迅速下降。旅客运输、金融业、知识产权是服务贸易顺差的主要领域，交通运输和保险领域进出口贸易是逆差。</p><p>从美国商品和服务进出口贸易的变化，我们可以看到，在工业原材料、金融业、知识产权等营业盈余占比较高的行业中，美国的对外贸易正在向进口规模减小、出口规模扩大的方向发展，而在消费品、汽车等营业盈余占比较低的领域，美国的进口规模正在快速扩大。而旅客运输的贸易顺差的增长，则反映出美国对全球旅客的吸引力较高。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-39ba1d2d33273febecf2b14c80443026_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"755\" data-rawheight=\"466\" class=\"origin_image zh-lightbox-thumb\" width=\"755\" data-original=\"https://pic3.zhimg.com/v2-39ba1d2d33273febecf2b14c80443026_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2003年到2017年，美国对外贸易都处于贸易逆差状态，贸易逆差规模在7,617亿美元到3,838亿美元之间变动。其中，商品贸易出口逆差是贸易逆差的主要原因，而服务贸易对外处于顺差状态。在美国的出口贸易中，商品出口占比从70%以上下降到66%，而服务出口占比则上升到34%。在美国的进口贸易中，商品进口占比在80%上下波动，服务进口占比在20%左右。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-4e55fd14beeb5a91d99c22710021828c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"745\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb\" width=\"745\" data-original=\"https://pic1.zhimg.com/v2-4e55fd14beeb5a91d99c22710021828c_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2003年到2017年，美国一般商品贸易进出口逆差在8,372亿美元到5,097亿美元之间变动，消费品进出口逆差规模呈现增长的趋势，工业原材料进出口贸易逆差规模波动较大。2013年后，美国工业原材料进出口贸易逆差呈现大幅下降的趋势。2009年后，美国汽车进出口贸易逆差增长速度较快。</p><p>旅客运输、金融、知识产权领域是美国服务贸易进出口贸易顺差的主要来源，而在金融和交通运输领域，美国对外进出口贸易存在贸易逆差。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-28ce311bef4c180790ff6e89fb718722_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"754\" data-rawheight=\"467\" class=\"origin_image zh-lightbox-thumb\" width=\"754\" data-original=\"https://pic3.zhimg.com/v2-28ce311bef4c180790ff6e89fb718722_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2003年到2017年，美国一般商品出口占美国出口贸易在比重总体处于下降趋势。2016年，一般商品出口占比最低下降到65.75%。粮食食品、工业原材料、资产性商品、汽车、消费品，是美国商品出口的主要类别。其中，工业原材料和资产性商品出口占美国贸易出口的比例较高，二者占美国出口贸易的比例超过了40%。从2003年到2017年，资产性商品出口占比处于下降的趋势。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-c288425aa34377bf815eaf280f036620_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"752\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic1.zhimg.com/v2-c288425aa34377bf815eaf280f036620_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2003年到2017年，工业原材料、资产性商品、消费品是美国一般商品进口规模比较大的领域，上述领域的进口占美国进口贸易的比例超过了60%。工业原材料进口规模受国际能源价格影响，变动较大。2009年后，工业原材料进口规模总体处于下降的趋势，进口占比也在逐渐下降。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5f66b123e5f44636e66797785884d393_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"749\" data-rawheight=\"462\" class=\"origin_image zh-lightbox-thumb\" width=\"749\" data-original=\"https://pic4.zhimg.com/v2-5f66b123e5f44636e66797785884d393_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2003年到2017年，美国服务出口增长速度较快，服务出口占贸易出口的比重已经超过了30%。维修、交通运输、旅客运输、保险、金融、知识产权、电信及信息、其它商业服务、政府商品及服务是服务出口的主要领域。其中旅客运输、知识产权、其它商业服务出口占出口贸易的比重相对较高。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-043912778c4b52fb0db7c49352bed1a8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"744\" data-rawheight=\"462\" class=\"origin_image zh-lightbox-thumb\" width=\"744\" data-original=\"https://pic1.zhimg.com/v2-043912778c4b52fb0db7c49352bed1a8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>交通运输、旅客运输、其它商业服务是美国服务进口规模较大的领域。知识产权、电信和信息服务领域进口增长速度较快，特别是在2009年后，知识产权、电信和信息服务进口占进口贸易比重增长速度较快。</p>",
+                "comment_count": 2,
+                "image_url": "https://pic4.zhimg.com/50/v2-1d1504d5707bd3093268f625240849cf_hd.jpg",
+                "voteup_count": 13,
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHOTc0ODM4NiDu/+PeBSgNMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTI5NTI1cgg0ODA4Nzg0OA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1533723689,
+                "is_labeled": false,
+                "excerpt": "关于美国对华战略误判问题，还有中国对美战略误判问题，时不时的就有人提出。其实，中美之间基本上不存在战略误判问题。特别是眼下这个阶段，中美之间就更不存在误判。 <b>而动态内参（dongtaineican）认为：而提出美国对华战略误判这个观点本身，则应当算作是…</b>",
+                "excerpt_title": "",
+                "id": 41585424,
+                "topic_thumbnails": [],
+                "title": "美国对华不存在“战略误判”！",
+                "url": "http://zhuanlan.zhihu.com/p/41585424",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "96b5b2b9bfa463a9eec64861ac37f7d2",
+                    "is_org": false
+                },
+                "created": 1533723689,
+                "content": "<h2>关于美国对华战略误判问题，还有中国对美战略误判问题，时不时的就有人提出。其实，中美之间基本上不存在战略误判问题。特别是眼下这个阶段，中美之间就更不存在误判。<br/> <br/><b>而动态内参（dongtaineican）认为：而提出美国对华战略误判这个观点本身，则应当算作是一种战略上的误判。</b><br/> <br/>影响中美关系的最关键因素是意识形态的对立。说的更直接一些就是价值观取向与发展道路的不同。正所谓道不同不相为谋。中美终究是两条道上跑的车，走的不是一条路。<br/> <br/><b>即使抛开意识形态的对立，目前也不能说美国对中国有误判</b>。美国的战略是永久性独霸世界，要保持的是对世界的绝对优势领先。这就决定了，任何对美国优势构成威胁或潜在威胁的国家，都将成为美国打压的对象。<br/> <br/>过去，中国是美国的潜在威胁，美国是边合作边打压。而今中国实力快速发展，美国正在感受到实实在在的威胁。弱肉强食是深入美国人骨子里的观点，打压中国是一种必然。<br/> <br/>近来，美国发动的贸易战不仅针对中国，连自己的盟友一并开火。其主要的目的就是强推美国优先原则。之所以对盟友开打，原因之一就是盟友反对美国独霸世界的单边主义路线，主张建立多极世界格局。<br/><br/>美国的安全观就是任何国家都不能对挑战美国霸权。欧盟做为一个整体，其GDP是越过美国的实际上的第一大经济体，这对美国就是威胁。分裂欧洲打压欧洲也是一种自然反应。<br/> <br/><b>说美国对华战略误判，还不如说美国战略选择困难</b>。<br/> <br/>不管过去还是现在，中国都是一个拥有核能力的大国。与中国正面对抗，无论如何都是一个极大的消耗，甚至会引发世界局势的混乱。但是，选择与中国合作，或者任由中国发展，同样面临着中国不断崛起的难题。<br/> <br/><b>打与不打之间，选择竞争性合作或竞争性对抗，都在情理之中。所以，中美关系是时好时坏。这不是战略误判问题，而是选择困难问题。</b><br/> <br/><b>而美国之所以对华有鹰派与鸽派之分，则正是选择困难的佐证</b>。<br/><br/>因为，不管鹰派还是鸽派，其共同点都是美国独霸世界战略的拥护者，都不希望中国崛起成为世界强国，都担心中国会抢权夺班。不同的不是战略问题，而是战术运用和选择。<br/> <br/><b>就目前而言，如果采取与中国全面对抗。就算可以击溃中国，可美国独霸世界的实力也将消耗殆尽。可是，如果不对中国进行强势打压，又遏制不住中国崛起。这是一个两难的选择。所以，美国的对华政策也是摸着石头过河，走一步看一步。</b><br/> <br/>不要说中国承诺永不称霸，就是公开表态要争霸，美国也未必就会选择与中国展开冷战或热战式对抗。因为美国目前已经失去了这个能力。<br/><br/>如果硬要说美国对中国有误判，那就是没有想到中国崛起的速度会如此之快，转眼间就从利益攸关方变成了“潜在的威胁”，再一眨眼中国就成了实在的威胁竞争的“对手”了。</h2><p class=\"ztext-empty-paragraph\"><br/></p><p>更多内容欢迎关注微信公众号“dongtaineican”</p>",
+                "comment_count": 4,
+                "voteup_count": 22,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHODMwMjk0MyCpiKvbBSgWMARAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQxNTg1NDI0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1521859689,
+                "is_labeled": false,
+                "excerpt": "从2005年到2017年，美国的进出口贸易都呈现增长的趋势。美国进出口贸易逆差在2009年有大幅度下降，从最高的7，000亿美元水平下降到5，000多亿元美元的水平。2017年，美国的贸易逆差为5，684亿美元，占当年GDP的比重为2.93%。出口贸易占GDP比重增长，进口贸…",
+                "excerpt_title": "",
+                "id": 34889501,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-5ad19130ba9b57cdbe685e784b3adf0e_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-50dad5be17717187715151daae57c133_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-54a6ebe8c3fbb950ca75a820ae77b267_250x0.jpg"
+                ],
+                "title": "美国进出口贸易概览",
+                "url": "http://zhuanlan.zhihu.com/p/34889501",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_{size}.jpg",
+                    "badge": [],
+                    "name": "特布鲁",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "专注数据，关注社会 公众号：不惑门 (NCR2019_4)；",
+                    "url_token": "te-bu-lu-59",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "gender": -1,
+                    "type": "people",
+                    "id": "87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "is_org": false
+                },
+                "created": 1521859689,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-5ad19130ba9b57cdbe685e784b3adf0e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"751\" data-rawheight=\"445\" class=\"origin_image zh-lightbox-thumb\" width=\"751\" data-original=\"https://pic3.zhimg.com/v2-5ad19130ba9b57cdbe685e784b3adf0e_r.jpg\"/></figure><p>从2005年到2017年，美国的进出口贸易都呈现增长的趋势。美国进出口贸易逆差在2009年有大幅度下降，从最高的7，000亿美元水平下降到5，000多亿元美元的水平。2017年，美国的贸易逆差为5，684亿美元，占当年GDP的比重为2.93%。出口贸易占GDP比重增长，进口贸易占GDP比重减少，是2011年到2014年美国进出口贸易逆差占GDP比重减少的主要原因。2014年和2015年，美国进出口贸易占GDP的比重都有所下降。2017年，美国进出口贸易占GDP比重有所增加，贸易逆差占GDP的比重业有所增加。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-50dad5be17717187715151daae57c133_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"757\" data-rawheight=\"419\" class=\"origin_image zh-lightbox-thumb\" width=\"757\" data-original=\"https://pic4.zhimg.com/v2-50dad5be17717187715151daae57c133_r.jpg\"/></figure><p>从2010年后，美国的商品进出口贸易逆差基本都保持在7，000亿美元以上，商品进出口贸易逆差占GDP比重保持在4%以上，2017年，商品进出口贸易逆差超过了8，000亿美元，占GDP的比重比2016年有所提升。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-54a6ebe8c3fbb950ca75a820ae77b267_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"753\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb\" width=\"753\" data-original=\"https://pic4.zhimg.com/v2-54a6ebe8c3fbb950ca75a820ae77b267_r.jpg\"/></figure><p>美国的服务进出口贸易一直保持贸易顺差。2014年后，服务进口贸易的增速高于出口增速，服务进出贸易顺差基本保持在2，400亿美元以上，服务进出口贸易顺差占GDP比重从1.50%下降到1.25%。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-249a0ac3c7dad84aa4ba26add4cb27b1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"753\" data-rawheight=\"449\" class=\"origin_image zh-lightbox-thumb\" width=\"753\" data-original=\"https://pic2.zhimg.com/v2-249a0ac3c7dad84aa4ba26add4cb27b1_r.jpg\"/></figure><p>从1992年到2017年，美国的进口贸易中，货物进口贸易占比从71.27%下降到66.51%，服务进口贸易从28.73% 上升到33.49%。在美国的出口贸易中，商品出口占比在80%以上，服务出口保持在18%以上</p><p>美国的进出口贸易中，商品贸易是逆差，服务贸易是顺差。随着服务进口贸易额和占比的增加，美国的进出口贸易逆差的状况非但不会减轻，而且呈现增大的趋势。</p>",
+                "comment_count": 0,
+                "voteup_count": 14,
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjE0NTc1NSDp+NbVBSgOMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTI5NTI1cggzNDg4OTUwMQ=="
+        }
+    ]
+}

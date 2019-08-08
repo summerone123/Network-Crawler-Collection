@@ -1,0 +1,235 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1470617847.62693",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1469937598.96&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1469937598.96414"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "需要封杀吗？苹果的销售量在不断下降。被疯狗咬了，难道也要去咬疯狗一口吗？苹果质量问题很多的，比如天气一冷就无法拍照。比如屏幕极容易碎。封杀苹果，不如去买中兴手机。 消费者越来越理性。苹果无需封杀。坚持做最好的自己，发展自己的核心技术才是王…",
+                "created_time": 1524451329,
+                "id": 373867477,
+                "voteup_count": 13,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-1f5d892cae39809af070d65836f2665f_{size}.jpg",
+                    "type": "people",
+                    "name": "老周斯图加特",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/7560344786df39ee72f5628b8c4c7cc8",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "lao-zhou-si-tu-jia-te",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-1f5d892cae39809af070d65836f2665f_is.jpg",
+                    "is_org": false,
+                    "headline": "究天人之际，通古今之变",
+                    "badge": [],
+                    "id": "7560344786df39ee72f5628b8c4c7cc8"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/373867477",
+                "question": {
+                    "title": "美国封杀中兴，如何让中国封杀苹果？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274344015",
+                    "created": 1524450767,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274344015
+                },
+                "updated_time": 1524451330,
+                "content": "<p>需要封杀吗？苹果的销售量在不断下降。被疯狗咬了，难道也要去咬疯狗一口吗？苹果质量问题很多的，比如天气一冷就无法拍照。比如屏幕极容易碎。封杀苹果，不如去买中兴手机。 消费者越来越理性。苹果无需封杀。坚持做最好的自己，发展自己的核心技术才是王道。我们期待在未来，我们不卖美国产品了，美国得哭爹喊娘求你卖。</p>",
+                "comment_count": 6,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTgwMzczODEggZD11gUoDTAGQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjQwODY3cgkzNzM4Njc0Nzc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "我已离开美地区部,所以以下全为推测：此人是在华盛顿办公室,待那个地方的对于华为内部来说是“神”,大部分人应该从未见过.此人正在Linkedin上找工作,说明他之前并没有失业的打算,裁员很突然.推测美商务部应该是正在调查华为技术,并获得一些证据,但这些证据…",
+                "created_time": 1524035812,
+                "id": 369939350,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/e718da4a5_{size}.jpg",
+                    "type": "people",
+                    "name": "LI LU",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "通信工程"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/dc6d0b54831a541308e105822aa8913e",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "li-lu-96-83",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/e718da4a5_is.jpg",
+                    "is_org": false,
+                    "headline": "三无土鳖人士",
+                    "badge": [],
+                    "id": "dc6d0b54831a541308e105822aa8913e"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/369939350",
+                "question": {
+                    "title": "华为解雇驻美首席联络官等五名美国员工，反映出哪些问题？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273639235",
+                    "created": 1523951609,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273639235
+                },
+                "updated_time": 1524037457,
+                "content": "<p>我已离开美地区部,所以以下全为推测：</p><ol><li>此人是在华盛顿办公室,待那个地方的对于华为内部来说是“神”,大部分人应该从未见过.</li><li>此人正在Linkedin上找工作,说明他之前并没有失业的打算,裁员很突然.</li><li>推测美商务部应该是正在调查华为技术,并获得一些证据,但这些证据的力度可能不够? 或已经向华为发了询问函的.至于这些证据是谁透露出去的,我个人觉得大概率跟这些员工无关,华盛顿办公室的人并不能接入公司内网.</li><li>最大有可能是“<b>尼玛我花了这么多钱养你们,竟然也像中兴一样被调查了,你们天天不上班,拿着高工资喝着咖啡,遛着狗,结果一点用都没,全割老子滚.....</b>\"</li><li>我的前任大老板竟然和他在linkedin上有链接,真是有趣...有空我问问他看法</li></ol><p><br></p><p>最后,华为在美国的待遇和阿里巴巴在美国比,真是天壤之别,都是中国公司,为何差距这么？</p><p>(其实百度,阿里和腾讯的技术能力真心牛逼,要开发交换机,服务器,他们肯定是能够做的...)</p>",
+                "comment_count": 10,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTczMjI3NDQg5OHb1gUoBzAKQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMDgzODYwcgkzNjk5MzkzNTA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "阿里云在美国占有多少市场份额呀，那个需要封杀吗？",
+                "created_time": 1524567224,
+                "id": 375159035,
+                "voteup_count": 6,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-9c1e5a3fe3b9c7d05007677f75639f6a_{size}.jpg",
+                    "type": "people",
+                    "name": "星空",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/f3ed0d6790e9caf002f81af4c4d018ee",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "xing-kong-17-75",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-9c1e5a3fe3b9c7d05007677f75639f6a_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [],
+                    "id": "f3ed0d6790e9caf002f81af4c4d018ee"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/375159035",
+                "question": {
+                    "title": "如果美国封杀阿里云会对中美双方造成什么影响？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274501046",
+                    "created": 1524543655,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274501046
+                },
+                "updated_time": 1524567224,
+                "content": "阿里云在美国占有多少市场份额呀，那个需要封杀吗？",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTgyNzIxOTgguJn81gUoBjAAQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjc1NzM5cgkzNzUxNTkwMzU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1528097152,
+                "is_labeled": false,
+                "excerpt": "<b><i>真是不让人</i></b><b><i>安心过周末了~~~</i></b><b><i>周末3件大事</i></b>（1）央行变相“定向放水”；（2）中美有了“新的成果”；（3）国睡总局“怎么收场”？？？？？ <b>第一件和第二件，都是影响我们钱包的大事，唯独这个第三件</b>，基本属于“八卦”了~~~~但是八卦中也还有亮点，老兵关心的问…",
+                "excerpt_title": "",
+                "id": 37672257,
+                "voteup_count": 7,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-790041069d047a0115595f89b8e73479_{size}.jpg",
+                    "type": "people",
+                    "name": "股市老兵",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/55c4341a4cae0307ec97afd28470b6ce",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "gu-shi-lao-bing-16",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-790041069d047a0115595f89b8e73479_is.jpg",
+                    "is_org": false,
+                    "headline": "深入研究财经政策，解析股市投资机会，几十万人关注，欢迎你的加入",
+                    "badge": [],
+                    "id": "55c4341a4cae0307ec97afd28470b6ce"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/37672257",
+                "created": 1528097150,
+                "content": "<p><b><i>真是不让人</i></b></p><p><b><i>安心过周末了~~~</i></b></p><p><b><i>周末3件大事</i></b></p><p>（1）央行变相“定向放水”；</p><p>（2）中美有了“新的成果”；</p><p>（3）国睡总局“怎么收场”？？？？？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第一件和第二件，都是影响我们钱包的大事，唯独这个第三件</b>，基本属于“八卦”了~~~~但是八卦中也还有亮点，老兵关心的问题是，国睡总局敢不敢查下去？？？查~~就有好戏看了~~~</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>这块不深谈了，老兵说今天的重点，老兵这个周末没有过好，央行定向放水之后，老兵又把研究团队拉到办公室干了1天半，老兵就就想搞清楚一个事情：</b>央行的这个“新套路”，到底剑指何方？？老兵前几天，写了一篇预警文章，这篇《~6月钱荒往事》算是在国内比较早的解释了6月是一个多事之秋的文章~~~但老兵实在没有想到，监管层下手这么快，早就有应对方案了~~~</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>不晓得是不是老兵的文章起作用了，反正在央行的布局下~~~“弹药”现在摆出的架势就是：“管够”~~~而且已经送上了“前线”~~~预备打的方向，就是下面这3个：</i></b></p><p>（1）AA级垃圾债；（弃汇率，保房价）</p><p>（2）绿色债务；（给碳源放水）</p><p>（3）三农债券；（给乡村振兴放水）</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-6f44c2cbee0a3b76779ec9abe68d7f01_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"392\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic2.zhimg.com/v2-6f44c2cbee0a3b76779ec9abe68d7f01_r.jpg\"/></figure><p><b>这3个方向，第一个是“防守”，第二个和第三个，是“进攻”:</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>现在大佬们的焦点是第一个，也就是AA级垃圾债这个事情</b>，大家应该都知道，前几天AA+级的上市公司东方园林，拟发行10亿规模的债券，结果仅发行成功5,000万元，95%没有着落~~~~</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>这个事情，表面上看，是东方园林被打脸了~~其实不然，这是流动性枯竭的前奏~~~~</i></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而这，就是央行紧急行动的“真实原因”~~~老兵给大家看一组数据，大家就懂了：</b>数据显示，今年以来已经有307只债券推迟或者发行失败，涉及规模高达1867.8亿元。特别是进入4月之后，发行更是进入“冰河时代”。债券发行困难重重，而债券发行的利率则在不断走高，目前在发行的债券中，票面利率最高已经达到7.6%。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-74f2a3040750d7a157ea167a3d4b26fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"270\" class=\"content_image\" width=\"388\"/></figure><p>5月份这一个月</p><p>就有下面这么多债券取消发行~~~</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-aa213e45a181f2f156c047e0631ac710_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"469\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb\" width=\"469\" data-original=\"https://pic1.zhimg.com/v2-aa213e45a181f2f156c047e0631ac710_r.jpg\"/></figure><p><b><i>然后大家再看一下1月到5月</i></b></p><p><b><i>已经百分之百已经违约的债券~~</i></b></p><p><b><i>就有这么多</i></b></p><p><b><i>而且，大多少都是AA级</i></b></p><p>关键问题是：</p><p>这种趋势</p><p>还在自我加强~~~</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-2687dd728e46f742b1de2c6783610b4a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"517\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"517\" data-original=\"https://pic3.zhimg.com/v2-2687dd728e46f742b1de2c6783610b4a_r.jpg\"/></figure><p><b>所以有些人认为：</b>把AA 级垃圾债重新列入到mlf 质押品中，这比美国Qe买mbs 步子还要大~~~~ 也是有道理的，这aa级，在国内（也包括2008年之前的美国），就是垃圾的代名词，而且，老兵还给大家说一个段子，本来在2017年证监会就冒着被狙击的风险，给剔除了的，这一次其实算是重新列入~~~(在2017年4月7日这一天，已经被剔除了~~~那一天，中国证券登记结算有限责任公司修订发布《质押式回购资格准入标准及标准券折扣系数取值业务指引》，将之后信用债券参与质押式回购资格由债项评级AA级调整为债项评级AAA 级。其实就是将AA级债券剔除出质押式回购抵押物范畴。)</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果不是形势严峻，央行是不可能“重新列入”的，这么严峻的形势，就是来自于：</b>7月26日之后，马上将要大量爆仓的AA级公司债了~~~这里面有很多上市公司的债券，在这么严峻的形势下，说实话，谁也没有把握，敢打包票，说不发生“系统性风险”~~~但是“三大攻坚战”说的非常清楚，必须守住不发生系统性风险的底线~~~~哪咋办呢？？？这一边是要完成“去杠杆”的任务，一边又要求“不发生系统性风险”~~~这个活，可不是人干的，“既要~~又要”这个组合，在我朝，是最难办的事情~~~</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>你只有搞懂了这个逻辑，才能了解央行这个政策的来龙去脉，有人认为央行这是要走回老路，这就纯粹是想当然了</i></b>：央行现在是“未雨绸缪，储备弹药”，如果洪峰能够挺过去，就万事大吉，如果挺不过去，再定向滴灌，也不迟，按照老兵掌握的数据，我朝的债务违约洪峰还没有来，我朝2018年总共面临6.2万亿元的信托到期，其中可能直接对接的非标融资约2万亿元，这部分的“借新还旧”才是真正的洪峰，才是今年债务层面最大的压力~~~~~这个局，到底准备怎么破呢？？现在因为违约事件已经大量爆发，我们的垃圾债AA级债券和国债之间的信用利差已经扩大很多了，这么高的利率，是会造成部分庞氏融资中断的，万一中断的量过大，过猛，反过来又会刺激信用利差继续扩大，这就是恶性循环~~~利率就只会越来越高~~~</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-02c7cc8134e918148a4806e03410c534_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"376\" data-rawheight=\"221\" class=\"content_image\" width=\"376\"/></figure><p><b><i>把利率拉起来，把那些垃圾爆掉，智囊们是不心疼的，现在的问题是：</i></b>好人和坏人分不太清楚，智囊们害怕把好人也搞死了，所以就来了这么一招，一边强监管，一边适当给点出路，当老兵搞清楚这个套路的指向之后，老兵心里也释怀了，也只有我朝才有这样的能力了，我朝的政策工具箱，宝贝确实是多~~~~</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-addcdbde00fdb233b01af03dd688626b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"487\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb\" width=\"487\" data-original=\"https://pic4.zhimg.com/v2-addcdbde00fdb233b01af03dd688626b_r.jpg\"/></figure><p><b><i>第一件重要的事情说完了，我们再说周末的第二件大事：中美“新会谈”，大家觉不觉得很奇怪：为何中方第一时间发出声明而美方没有？这就是细节之处，反映本质了，如果老兵的判断是对的话：美方可能再次变脸~~~~</i></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>老兵很早就说过自己的判断：</b>中美才是“毛衣战”的真正幕后赢家，老兵之前判断台弯和韩国的芯片业是第一个倒大霉的人~~~~后来的事实也证明了老兵的判断，大家看台积电的股价，跌的想鬼一样~~</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-2033fd997acde8d6ceb7dc846274d6a6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"365\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-2033fd997acde8d6ceb7dc846274d6a6_r.jpg\"/></figure><p><b>就在前几天，中美在美国的《联合声明》发布之后，法国又不高兴了：</b>据法新社的报道，法国经济和财政部长勒梅尔警告称，如今中美为避免贸易战各退一步，欧洲或将付出代价~~~</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-c81c1f86864e4935cfbe4b0c26dbd6f8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"294\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-c81c1f86864e4935cfbe4b0c26dbd6f8_r.jpg\"/></figure><p><b><i>说到法国，老兵总觉得哪里不对：</i></b></p><p><b><i>从特朗铺接待马克龙的细节</i></b></p><p><b><i>可以发现马克龙的幕后能量</i></b></p><p><b><i>不是一般的大~~~~</i></b></p><p>这又是弹头皮屑~</p><p>又是紧握双手~~~</p><p>特朗铺对法国的态度</p><p>真是好的太离谱了~~~</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f755d5973debf39929926515762ca288_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"314\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-f755d5973debf39929926515762ca288_r.jpg\"/></figure><p><b>老兵可是记得非常清楚，马克龙和默克尔可是一周之内先后访美的，可是待遇相差可谓十万八千里了：</b></p><p>（1）马克龙与特朗普整整三天大秀私人友谊，并出席隆重国宴；</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-609b9e26cbde450e178cba0804d2df00_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"316\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-609b9e26cbde450e178cba0804d2df00_r.jpg\"/></figure><p>（2）默克尔和特朗普的会谈只进行了短短20分钟，接待的是工作午餐。而且<b>头一天晚上默克尔就到了华盛顿，美方并没有安排晚宴接待。</b>结果被人发现，默克尔带着一众德国高官步行走进了一家名为J. Paul&#39;s餐厅，吃了一个加了熏肉的汉堡包，喝了一杯葡萄酒，据说一共花了14.99美元。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-20e5a96c8ad6735716f1b3591a1a8611_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"428\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic2.zhimg.com/v2-20e5a96c8ad6735716f1b3591a1a8611_r.jpg\"/></figure><p><b><i>那么，老兵的疑问是：中美“新会谈”之后，美国迟迟没有表态，是否是因为法国的某些力量呢？？？毕竟法国的背后，有所谓的超级金融幕后势力，罗斯柴尔德家族~~~~呵呵，老兵今天不开玩笑，老兵只说事实~~~~</i></b>除了吉利收购沃尔沃的交易，罗斯柴尔德还承接了总价值高达892.5亿美元的汽车业并购交易，远超其他银行。可查找的资料显示，中海油收购优尼科、南京汽车和上海汽车的合并，都有罗斯柴尔德的影子~~~</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-2e9dacb99e40d2608691a5ad4608104c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"497\" data-rawheight=\"258\" class=\"origin_image zh-lightbox-thumb\" width=\"497\" data-original=\"https://pic1.zhimg.com/v2-2e9dacb99e40d2608691a5ad4608104c_r.jpg\"/></figure><p>稍微懂行一点的，都知道为什么瑞典会把国宝沃尔沃送给“吉利”~~~~<b><i>而吉利收购的沃尔沃的独家财务顾问，就是罗斯柴尔德在中国运作的主要实体公司~~洛希尔集团~~~</i></b>这是罗斯柴尔德家族控股的，而洛希尔集团是迄今西方唯一一个仍由家族控股的投资银行~~~</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>老兵给大家列一列3个案例，一个是阿里巴巴与罗斯柴尔德，一个是吉利与罗斯柴尔德，一个是光明与罗斯柴尔德，全都是真实新闻，老兵没有任何一点杜撰~~：</i></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>（1）阿里巴巴与罗斯柴尔德：</b>2007年起，在阿里巴巴赴香港上市前，马云曾去欧洲拜访了罗斯柴尔德家族第六代掌门人大卫·罗斯柴尔德男爵，双方一拍即合。阿里巴巴的B2B业务在香港上市、退市、中间的战略收购、赴美整体上市等所有流程的独立财务顾问都是由洛希尔集团担任。后来洛希尔集团全程担任了阿里巴巴集团旗下包括<a href=\"https://link.zhihu.com/?target=http%3A//Alibaba.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Alibaba.com</span><span class=\"invisible\"></span></a>在香港首次公开发行、2012年该公司在港交所的退市以及2014年阿里巴巴集团在美上市的独家财务顾问角色。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-016a57dab6d29904a81417696a015086_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"244\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-016a57dab6d29904a81417696a015086_r.jpg\"/></figure><p><b>（2）吉利与罗斯柴尔德：</b>2010年3月末，“老鼠吞大象”的吉利收购沃尔沃引得举世瞩目，低调的洛希尔集团正是以吉利的独家财务顾问的身份出现。吉利不能多说~~~反正奔驰肯定是要拿下的~~~</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-6711887c70b3d667939ecadb0b8b263a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"268\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-6711887c70b3d667939ecadb0b8b263a_r.jpg\"/></figure><p>（3）<b>光明与罗斯柴尔德：</b>光明这个新闻，是比较猛的，大家看下图，</p><p>是谁代表洛希尔集团来华谈判的？？？<b><i>下面这位是德国前总理施罗德~~~~</i></b>，右边这位是光明董事长吕永杰，这是一个混合制改革案例~~~</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-dfabc0e479f9577a9f989db818e09569_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"496\" data-rawheight=\"331\" class=\"origin_image zh-lightbox-thumb\" width=\"496\" data-original=\"https://pic2.zhimg.com/v2-dfabc0e479f9577a9f989db818e09569_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>别的就不多说了：</b>罗斯家族在中国的利益比你我想的，要大的多，这两年，中国企业界最大的工业行业的收购案——中国化工对全球顶级的倍耐力轮胎的88亿欧元的全面要约收购也是洛希尔集团做的~~</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>大家都知道，马克龙号称欧洲版祁同伟，他是走他媳妇的路线，才加入罗斯柴尔德和席埃银行的，此前马克龙从没商界工作经验，也不具备金融知识，为何能一步跳到罗斯柴尔德，并在短短几个月内获得合伙人身份负责辉瑞和雀巢高达118亿美元的并购交易？</i></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>老兵透露一个线索：2012年奥德郎当总统后，马克龙先后担任了总统府副秘书长和经济部部长（2014年）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>上个月，在一档法国电视台节目中</b></p><p><b>主持人问奥朗德：</b></p><p><b>马克龙是代表有钱人吗？</b></p><p><b>奥朗德坚决否认此事</b></p><p><b><i>他说：“马克龙是代表特别有钱的人”。</i></b></p><p><b><i>然后一脸坏笑。</i></b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-59a042900f4c0430470dc61484f7c254_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"479\" data-rawheight=\"237\" class=\"origin_image zh-lightbox-thumb\" width=\"479\" data-original=\"https://pic1.zhimg.com/v2-59a042900f4c0430470dc61484f7c254_r.jpg\"/></figure><p>还没关注老兵微信公众号的朋友，请关注公众号“股市老兵炒股票”微信号：ztzt66。获取消息快人一步</p>",
+                "comment_count": 2,
+                "title": "3件大事，件件有所指！央行超级大招被忽视，确定救“一小部分人”！",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-6f44c2cbee0a3b76779ec9abe68d7f01_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-74f2a3040750d7a157ea167a3d4b26fc_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-aa213e45a181f2f156c047e0631ac710_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNzI2MDAyMCD+0tPYBSgHMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTk5NzkzcggzNzY3MjI1Nw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524117216,
+                "is_labeled": false,
+                "excerpt": "(本文首發於<a href=\"http://blog.dwnews.com/post-1016854.html\">多維新聞網</a>)中美贸易战如火如荼进行中，大陆官方宣布对美国猪肉课征25%关税，此举直接冲击全美各地的农产业者，猪肉产品在美国境内也将面临价格崩跌。对特朗普而言，挖东墙补西墙是降低冲击的最佳方式，而台湾就在“东墙”之列，今年的台美贸易…",
+                "excerpt_title": "",
+                "id": 35865377,
+                "voteup_count": 58,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/8b993f94931f4331b96a5f5aa5a9f428_{size}.jpg",
+                    "type": "people",
+                    "name": "雁默",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/b95d1f8b08168a8609219598bee15b5c",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "yan-mo-16-43-1",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/8b993f94931f4331b96a5f5aa5a9f428_is.jpg",
+                    "is_org": false,
+                    "headline": "胡扯久了，就會以為是真的",
+                    "badge": [],
+                    "id": "b95d1f8b08168a8609219598bee15b5c"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35865377",
+                "created": 1524115827,
+                "content": "<p>(本文首發於<a href=\"https://link.zhihu.com/?target=http%3A//blog.dwnews.com/post-1016854.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">多維新聞網</a>)</p><p>中美贸易战如火如荼进行中，大陆官方宣布对美国猪肉课征25%关税，此举直接冲击全美各地的农产业者，猪肉产品在美国境内也将面临价格崩跌。对特朗普而言，挖东墙补西墙是降低冲击的最佳方式，而台湾就在“东墙”之列，今年的台美贸易谈判，美猪争议势必再一次成为焦点。</p><p>3月30日，美国贸易代表署(USTR)公布贸易障碍报告，再一次指责台湾“持续对美猪，美牛限制进口”，并力促台湾“立即根据科学”制定相关标准。另外，USTR还针对台湾列出七项障碍，包含:技术及卫生检疫障碍、进口政策、智财权保护、服务贸易障碍、投资障碍、及其他障碍。这些议题不是新闻，而是2016年台美“贸易暨投资架构协定”(TIFA)，以及去年双方磋商中的老议题。</p><p>对台湾民众而言，美猪问题不能退让。台美双方在此议题上纠缠多年，美方将之转为科学问题，只不过是霸道作风的掩护。以下，让我们将瘦肉精美猪做一些澄清与了解。</p><p><b>食安问题</b></p><p>简单说，民众拒绝接受含有瘦肉精的食品，此风险意识来自2006年大陆发生的瘦肉精克仑特罗中毒事件。台湾当局随后即禁止所有含瘦肉精的农畜品进口。</p><p>瘦肉精的学名是乙型受体素(β-agonists)，有许多种类型，在大陆出事的克仑特罗是其中一种毒性较强的类型，台美之间争议的则是莱克多巴胺，为毒性较低的类型。莱克多巴胺瘦肉精在1999年于美国通过核准，可添加于饲料中。国际上对莱克多巴胺的残留容许标准(MRL)其实一直有不同的讨论，直到2012年联合国食品法典委员会(CODEX)才在美国的强力游说与施压下，终于定了10ppb的标准。</p><p>美方一再指责台湾未以科学根据看待瘦肉精，其实并不公平，因为当初CODEX所定下的标准，内部的表决是以69票赞成，67票反对的些微差距通过的。显示莱克多巴胺虽为低毒性，但对人体确实有负面影响，此其一。而台湾对自己的猪农订下的标准是“零检出”，一点瘦肉精成份都不能有，代表台湾人已相当注重食品安全，此其二。台湾民众偏好猪肉，猪内脏，每人一年平均食用40公斤，比例远大于美国民众，故而摄取瘦肉精的总量当然不能与西方人等量齐观。此其三。</p><p>换言之，民众反对瘦肉精美猪进口，不能仅以民粹视之。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-8a7139b1156972d8d0673cced5f6328c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"947\" data-rawheight=\"1126\" class=\"origin_image zh-lightbox-thumb\" width=\"947\" data-original=\"https://pic1.zhimg.com/v2-8a7139b1156972d8d0673cced5f6328c_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-9de0ee09ffa7ecf923b4c99aa5851247_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"766\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-9de0ee09ffa7ecf923b4c99aa5851247_r.jpg\"/></figure><p><b>产业问题</b></p><p>事实上，并不是所有美猪都被禁止进口，从2012年到2016年，每年仍有平均约1.5万公吨不含瘦肉精成分的美猪进口。2016年统计，台湾进口猪总重8万426公吨，以加拿大25.9%居冠，西班牙24.8%居次，美猪占比13.2%，为第三名。</p><p>说到底，为何猪只会含瘦肉精呢？因为能提高瘦肉比例，减少饲料成本，并提升卖相，提高售价。在利润拉大下，售价的国际竞争力就高，如此一来，严格禁止本土猪只施打瘦肉精的地区，自然在售价，卖相上都难以与瘦肉精肉品竞争。这就是台湾猪农为何在美猪议题上激烈抗争的原因之一。</p><p>我们没有看到猪农抗争加拿大或西班牙进口猪，并不代表本土猪农没有受到进口压力，只是在全球化贸易里，本土农畜产业不得不适应。而其实，猪农对瘦肉精美猪的激烈抗争，也有另一个内在问题，就是本土猪无法出口。</p><p>1995年，台湾猪出口产值曾达到15.8亿美元的高峰，但在1997年爆发口蹄疫后，产业严重受挫，出口量大不如前。直到目前为止，台湾仍属口蹄疫疫区，养猪业也只能转为内需型。当本土产业只能在内需市场销售时，当然影响进口数量，那么，有食安问题的进口肉品，本土猪农又怎么能不坚决反对？</p><p>故而，美猪争议其实存在两大问题，一为食安，二为本土猪无法出口。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-72ebfbf6326af95a700b4b1439f1ffb2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"714\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-72ebfbf6326af95a700b4b1439f1ffb2_r.jpg\"/></figure><p><b>政治问题</b></p><p>澄清了食安问题与产业问题后，政治问题也就明朗。现在我们得以理解，为何无论蓝绿，只要在野，必反美猪，只要在朝，又必然松动了。</p><p>美方不断指责台湾未依科学根据看待瘦肉精，如上所述，并不公平。然而，只要哪一个政党执政了，就必然为了台美贸易平衡，而遭受美国排山倒海的压力。国民党，民进党，都在执政时为美方宣传: “应理智地看待瘦肉精问题，莫让食安口号凌驾科学专业”，但民众，猪农都不买单。</p><p>对执政党而言，摆在眼前的是，食安问题是会惊动大部分选民的重大议题，而猪农动辄上千人不惜流血抗争的场面，也绝不是哪一个执政党经得起的，所以此事一拖再拖。一旦哪个官员松口要开放进口，民众立刻回以庞大反对声浪，可谓动辄得咎，以致执政者迟迟不敢提出具有科学依据的风险评估。</p><p>从国际贸易的角度来看，要台湾硬吞不想要的东西，总得向美方换取其他利益才称得上对等，但美方拥有的巨大优势在于，台美贸易逆差167亿美元。美国一竖起贸易壁垒，找一项台湾最倚赖美国市场的产品，调高关税，就能迫使台湾当局为了买“赎罪券”，而不得不考虑松手瘦肉精美猪。此时此刻，这项产品，就是钢铁。</p><p>亦即，美国根本不必真正让出什么利益，只需要“豁免”你，就可逼迫台湾硬吞瘦肉精。</p><p>从蔡英文的立场来看，今年地方大选，又有公投工具可供国民党操作，面对美方压力，她也只能想尽办法拖延。由于明年又要选“总统”，所以对执政党而言，拖到2020年，若世界动物卫生组织顺利将台湾纳入“口蹄疫非疫区”，解决了猪肉出口问题，这个结才有机会打得开。</p><p>只是，民众不需要站在蔡当局的角度来看问题，瘦肉精不过是美国商人多赚点利润的产物，根本没有任何理由强迫台湾人硬吞。如果科学根据那么坚强，CODEX也不会只以些微差距通过10ppb的容许含量。面对全球最强两经济体的恶斗，台湾如何避免遭碾压，不仅是个政治问题，更是台湾百姓的生命健康问题。</p><p>瘦肉精零检出，就是人民心中的壁垒。</p><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://zhuanlan.zhihu.com/p/33847081\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-574c550caa10fde15a3cc10f61296c14_180x120.jpg\" data-image-width=\"690\" data-image-height=\"390\" class=\"internal\">雁默：2018台灣地方大選系列</a><a href=\"https://zhuanlan.zhihu.com/p/26700380\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-9c65ae266bf20572914f5eb3675067d7_180x120.jpg\" data-image-width=\"500\" data-image-height=\"375\" class=\"internal\">雁默：雁默所有文章列表</a><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7dc120b114bfd88d64b6305fb0e65eee_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"100\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-7dc120b114bfd88d64b6305fb0e65eee_r.jpg\"/></figure><p></p>",
+                "comment_count": 20,
+                "image_url": "https://pic3.zhimg.com/50/v2-ff77cf390aa9b568f8283c636e183b6a_hd.jpg",
+                "title": "細看美豬，霸權下的科學根據",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-ff77cf390aa9b568f8283c636e183b6a_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-8a7139b1156972d8d0673cced5f6328c_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-9de0ee09ffa7ecf923b4c99aa5851247_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUzNjYwMSDz0uDWBSg6MBRAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODY1Mzc3"
+        }
+    ]
+}

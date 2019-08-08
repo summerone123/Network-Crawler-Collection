@@ -1,0 +1,231 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439294644.97110",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439250780.81&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439250780.81390"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "大豆是三大油料作物之一，另外两个是油菜籽和棕榈。 中国不仅是大豆第一大进口国，也是棕榈油和菜籽油的主要进口大国。 之所以进口大豆而不是豆油，是因为豆粕的蛋白质含量较高，是非常优质的饲料。 其实以前中国主要进口油菜籽，不过这玩意儿有“青气”，…",
+                "created_time": 1522895522,
+                "id": 358980971,
+                "voteup_count": 42,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/9c5cf048847b07d6596a9b22da89e69e_{size}.jpg",
+                    "name": "肝能补脸",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "克莱登大学马房山校区第九（女）宿舍管理员",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "zhou-dan-26-6",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/9c5cf048847b07d6596a9b22da89e69e_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/917f72547120979d3d7899bf845fd360",
+                    "badge": [],
+                    "id": "917f72547120979d3d7899bf845fd360"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/358980971",
+                "question": {
+                    "title": "中国人为什么这么喜欢消费大豆？",
+                    "url": "http://www.zhihu.com/api/v4/questions/271129033",
+                    "created": 1522888437,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271129033
+                },
+                "updated_time": 1522911792,
+                "content": "大豆是三大油料作物之一，另外两个是油菜籽和棕榈。<br><br>中国不仅是大豆第一大进口国，也是棕榈油和菜籽油的主要进口大国。<br><br>之所以进口大豆而不是豆油，是因为豆粕的蛋白质含量较高，是非常优质的饲料。<br><br>其实以前中国主要进口油菜籽，不过这玩意儿有“青气”，而且油烟比较大。<br><br>你看，中国人既要消费动物性蛋白质，又要消费食用油脂，那么大豆就能完美解决这两个问题。<br><br>2017年中国大豆产量1440万吨，进口9553万吨，合计不到1.1亿吨，平均到13.8亿人头上，不到80公斤。<br><br>这80公斤大豆，按照美国11.62磅/蒲式耳的出油率来算（大约19%），不过15.2公斤豆油，剩余的豆粕为64.8公斤。<br><br>鸡肉的饲肉比为1.6：1，64.8公斤豆粕理想状态下，可转换成和40.5公斤鸡肉。<br><br>猪肉的饲肉比为2.5:1，那么64.8公斤豆粕可转换成25.92公斤猪肉。<br><br>换言之，按照2017年的大豆消费量，带来油脂人均日消费量为41.64克，猪肉人均日消费量为71.1克。<br><br>注意，以上的消费量是建立在完全舍弃掉豆浆，豆腐脑，豆腐，豆腐皮，腐竹等豆制品（即中国特色的消费）的前提之下的。",
+                "comment_count": 14,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUzMzAwNDkgopWW1gUoKjAOQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTI1OTg1cgkzNTg5ODA5NzE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "这个问题更应该去问清华啊，中国的半导体基金那么多钱大多都掌控在清华系手上。清华紫光花了国家那么多钱，每年买买买，结果了，这么多年还是没搞出来什么东西啊。换个方向，海思每年得研发经费至少是几百亿（具体多少不太清楚，但是上百亿是肯定的），整个…",
+                "created_time": 1558179976,
+                "id": 687523957,
+                "voteup_count": 77,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/6c35478eb41ca21ddde1c791523feecf_{size}.jpg",
+                    "name": "程鹏",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "EE phd. IoT技术、多传感器信息融合算法研究者。",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "cheng-peng-73-98",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/6c35478eb41ca21ddde1c791523feecf_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/e01eba9bd05aae439f7ab92f3e6b9050",
+                    "badge": [],
+                    "id": "e01eba9bd05aae439f7ab92f3e6b9050"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/687523957",
+                "question": {
+                    "title": "海思自主研发的时候，芯片和半导体的研究机构做了哪些工作、付出了什么？",
+                    "url": "http://www.zhihu.com/api/v4/questions/324781491",
+                    "created": 1558069358,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 324781491
+                },
+                "updated_time": 1558231166,
+                "content": "<p>这个问题更应该去问清华啊，中国的半导体基金那么多钱大多都掌控在清华系手上。清华紫光花了国家那么多钱，每年买买买，结果了，这么多年还是没搞出来什么东西啊。</p><p>换个方向，海思每年得研发经费至少是几百亿（具体多少不太清楚，但是上百亿是肯定的），整个中科院110多个研究所2017年的经费才六百多亿。平均到半导体所，微电子所，包括微系统所这点钱，扔到半导体行业里能干出来啥。</p><p>国家在半导体方面的支持根本就没到半导体所，微电子所等研究所的手上。当然靠所谓的名牌大学，更是扯淡，特别是“汉芯“事件后，一群小作坊，只会发论文。国家真正把大量的钱都投在了半导体大基金上，用在投资各个半导体的国企，而这些半导体大基金大多都是被清华系掌控的。</p>",
+                "comment_count": 7,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTU1MDcxODk5IIjh/+YFKE0wB0AAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggzNDQ0OTIyMXIJNjg3NTIzOTU3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1525167575,
+                "is_labeled": false,
+                "excerpt": "这是毛泽东在延安人民追悼平江惨案死难烈士大会上的演说。今天是八月一日，我们在这里开追悼大会。为什么要开这样的追悼会呢？因为反动派杀死了革命的同志，杀死了抗日的战士。现在应该杀死什么人？应该杀死汉奸，杀死日本帝国主义者。但是，中国和日本帝国…",
+                "excerpt_title": "",
+                "id": 36304836,
+                "topic_thumbnails": [],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-57c680eb6ed12d32c4ef482ffa80c0ae_{size}.jpg",
+                    "name": "深海",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "本账号已归系统论学习小组使用。",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "shenhai1895",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-57c680eb6ed12d32c4ef482ffa80c0ae_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/6c5f384bbdd865384792c589a08dad58",
+                    "badge": [],
+                    "id": "6c5f384bbdd865384792c589a08dad58"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36304836",
+                "title": "文章推荐:《必须制裁反动派》",
+                "created": 1525167575,
+                "content": "<p>这是毛泽东在延安人民追悼平江惨案死难烈士大会上的演说。</p><p>今天是八月一日，我们在这里开追悼大会。为什么要开这样的追悼会呢？因为反动派杀死了革命的同志，杀死了抗日的战士。现在应该杀死什么人？应该杀死汉奸，杀死日本帝国主义者。但是，中国和日本帝国主义者打了两年仗，还没有分胜负。汉奸还是很活跃，杀死的也很少。革命的同志，抗日的战士，却被杀死了。什么人杀死的？军队杀死的。军队为什么杀死了抗日战士？军队是执行命令，有人指使军队去杀的。什么人指使军队去杀？反动派在那里指使。同志们！照理说，什么人要杀抗日战士呢？第一是日本帝国主义者要杀他们，第二是汪精卫等汉奸卖国贼要杀他们。但是现在杀人的地方不是在上海、北平、天津、南京，不是在日寇汉奸占领的地方，而是在平江这个地方，在抗战的后方，被杀死的是新四军平江通讯处的负责同志涂正坤、罗梓铭等。很明显，是那班中国反动派接受了日本帝国主义和汪精卫的命令来杀人的。<b>这些反动派，他们是准备投降的，所以恭恭敬敬地执行了日本人和汪精卫的命令，先把最坚决的抗日分子杀死。这件事非同小可，我们一定要反对，我们一定要抗议！</b></p><p><b>现在全国抗日，全国人民在抗日的目标之下结成一个大团结。在这个大团结里面，有一部分人是反动派，是投降派。</b>他们干什么呢？就是<b>杀抗日分子，压制进步，勾结日寇汉奸，准备投降。</b></p><p>这样一件杀死抗日同志的大事，有谁出来过问呢？自从六月十二日下午三时杀了人之后，到今天是八月一日了，我们看见有人出来过问没有呢？没有。这件事应该由谁出来过问呢？<b>应该由中国的法律出来过问，由法官出来过问。如果在陕甘宁边区发生了这样的事情，我们的高等法院早就出来过问了。但是，平江惨案快两个月了，法律和法官并没有出来过问。这是什么缘故呢？这是因为中国不统一。</b></p><p>中国应该统一，不统一就不能胜利。但是什么叫统一呢？<b>统一就是要大家抗日，要大家团结，要大家进步，要有赏有罚。应该赏什么人呢？应该赏抗日的人，赏团结的人，赏进步的人。应该罚什么人呢？应该罚破坏抗日、团结、进步的汉奸和反动派。</b>现在统一了没有呢？没有。平江惨案就是证据。从这件事情就可以看出，应该统一的没有统一。我们早就要求全国统一。第一个，<b>统一于抗战。</b>现在涂正坤、罗梓铭等抗日同志不但没有受赏，反被惨杀了；而那些坏蛋，他们反对抗战，准备投降，实行杀人，却没有受处罚。这就是不统一。我们要反对这些坏蛋，反对这些投降分子，捉拿这些杀人凶手。第二个，<b>统一于团结。赞成团结的应该受赏，破坏团结的应该受罚。</b>但是现在赞成团结的涂正坤、罗梓铭等同志，他们倒受了处罚，被人惨杀了；而那些破坏团结的坏人却没有受到一点处罚。这就是不统一。第三个，<b>统一于进步。要全国进步，要落后的人向进步的人看齐，决不能拉进步的人向落后的人看齐。</b>平江惨案的那些刽子手，他们把进步分子杀了。抗战以来，被暗杀的共产党员和爱国志士已经不下几十几百，平江惨案不过是最近的一件事。这样下去，中国就不得了，抗日的人可以统统被杀。杀抗日的人，这是什么意思？这就是说：<b>中国的反动派执行了日本帝国主义和汪精卫的命令，准备投降，所以先杀抗日军人，先杀共产党员，先杀爱国志士。这样的事如果不加制止，中国就会在这些反动派手里灭亡。所以这件事是全国的事，是很大的事，我们必须要求国民政府严办那些反动派。</b></p><p>同志们还要懂得，<b>近来日本帝国主义的捣乱更加厉害了，国际帝国主义帮助日本也更加积极了，中国内部的汉奸，公开的汪精卫和暗藏的汪精卫，他们破坏抗战，破坏团结，向后倒退，也更加积极了。他们想使中国大部投降，内部分裂，国内打仗。</b>现在国内流行一种秘密办法，叫做什么《限制异党活动办法》，<b>其内容全部是反动的，是帮助日本帝国主义的，是不利于抗战，不利于团结，不利于进步的。</b>什么是“异党”？<b>日本帝国主义是异党，汪精卫是异党，汉奸是异党。共产党和一切抗日的党派，一致团结抗日，这是“异党”吗？现在偏偏有那些投降派、反动派、顽固派，在抗战的队伍中闹磨擦，闹分裂，这种行为对不对呢？完全不对的。</b>“限制”，现在要限制什么人？<b>要限制日本帝国主义者，要限制汪精卫，要限制反动派，要限制投降分子。</b>为什么要限制最抗日最革命最进步的共产党呢？这是完全不对的。我们延安的人民表示坚决的反对，坚决的抗议。我们要反对所谓《限制异党活动办法》 ，这种办法就是破坏团结的种种罪恶行为的根源。我们今天开这个大会，就是为了继续抗战，继续团结，继续进步。为了这个，就要取消《限制异党活动办法》 ，<b>就要制裁那些投降派、反动派，就要保护一切革命的同志、抗日的同志、抗日的人民。</b></p>",
+                "comment_count": 4,
+                "voteup_count": 74,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjcxMjYyMyDX66DXBShKMARAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2MzA0ODM2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524241369,
+                "is_labeled": false,
+                "excerpt": "这次中兴被美国商务部制裁事件发生后，网络上的舆论很奇怪。是非对错还没分清楚，就一股脑言之凿凿指责中兴不守美国人的规矩，活该被制裁。许多人的反应很奇怪，不是找原因，也不是惊讶，而是幸灾乐祸，跳脚大骂中兴，说什么“丢人丢到国外去了”，“民族劣…",
+                "excerpt_title": "",
+                "id": 35932188,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-ce5741368306a64d296ede57fa789cf2_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-7cf53944fcb4e3490363446aefb8fb5a_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-cd3e773101939af6bb7196af4cb428c0_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/7c3f1f24c_{size}.jpg",
+                    "name": "申鹏",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "英特纳雄奈尔"
+                    },
+                    "headline": "公号：平原公子",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "shen-peng-38",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/7c3f1f24c_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/d278c05c7b0349f24b448a728e067072",
+                    "badge": [],
+                    "id": "d278c05c7b0349f24b448a728e067072"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35932188",
+                "title": "中兴有错，错在体量够大，却没有硬货",
+                "created": 1524241370,
+                "content": "<p>这次中兴被美国商务部制裁事件发生后，网络上的舆论很奇怪。</p><p>是非对错还没分清楚，就一股脑言之凿凿指责中兴不守美国人的规矩，活该被制裁。</p><p>许多人的反应很奇怪，不是找原因，也不是惊讶，而是幸灾乐祸，跳脚大骂中兴，说什么“丢人丢到国外去了”，“民族劣根性”、“没有契约精神”、“这下不喊什么大国崛起了吧？”，就差没冲上街头放鞭炮，明目张胆说出“王师威武”、“你国药丸”了。</p><p>这就好比“友邦惊诧党”，只要我们和国外发生了纷争，不问三七二十一，棍子先往自己人身上打，哪怕是鸦片战争中，中国明明是受害者，依然有人要“冷客独思”，说是中国不遵守自由贸易规则，不遵守大英帝国的国际法则。却不想想，当时西方满世界殖民，炮舰刀枪害死无数人，你这边还要怪中国没有顺着人家的意思做？岂不可笑？</p><p>来来来，我们来捋一捋，中兴到底犯了什么错？</p><p>这个事情的缘由，说是2016年，中兴曾出口通信设备和技术给伊朗，违反了和美国之间的某些协议。</p><p>而因为这个事，中兴在2017年3月已经与美国商务部达成和解并缴纳了接近9亿美金的罚款。这回美国商务部制裁中兴，根本和出口产品给伊朗无关，因为他们并没有抓到任何中兴现在卖东西给伊朗的证据，这回制裁的理由是——你有35名涉事员工用没有被处罚！</p><p>然而我们仔细翻一翻当时的新闻和协议就会发现：</p><p>在中兴与美国所签的DOJ协议里面只涉及开除4位涉事高管，并没有所谓的35人名单。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7cf53944fcb4e3490363446aefb8fb5a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"296\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-7cf53944fcb4e3490363446aefb8fb5a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-cd3e773101939af6bb7196af4cb428c0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"221\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-cd3e773101939af6bb7196af4cb428c0_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这份文件是公开的，大家可以直接去查原文，原协议中只提到了4名涉事高管的解职，并没有35名员工的事情。而这4名涉事高管在17年签协议时已经被中兴开除，一点问题都没有，美国同意和解，并没有别的任何要求。</p><p>那么这个35人名单哪里冒出来的呢？这是在中兴聘请的第一家律所向美国汇报整改情况时出现的，这份文件为了讨好美国商务部，在文件中声称不但开除了4名高管，还处罚了35名相关人员。</p><p>接下来的情况更可笑，这35人名单也不是美国发现的，而是中兴中兴自己聘用的独立第二家律所在审计时发现的。在发现这个情况以后，中兴立刻向美国方面进行了汇报，并在律所建议下聘请一家美国资深独立律所做第三方调查，同时对35名人员进行了追加处罚，对导致该事件发生的责任人也做了撤职处理。</p><p>而在现在这个关口上，2018年4月，可以说中兴并没有犯任何错，并没有违反任何协议和契约，美国商务部跳出来搞这一手，其实就是中美贸易战的一部分，为了阻击中国制造2025战略，顺便也掐死了中兴的5G时代战略。可以说，中兴2016年、2017年所做的事情，堪称愚蠢，但并没有任何了不得的大错。如果说中兴曾经给伊朗做生意，难道美利坚军火商就没跟恐怖分子ISIS做生意吗？如果说中兴撒谎，那么叙利亚的白头盔摆拍、伊拉克的洗衣粉又叫什么事件？</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5d84ca6c084437cf962eda87f6e74073_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-5d84ca6c084437cf962eda87f6e74073_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2018年4月，美国商务部对中兴制裁时拿出的理由，就好比1937年日军说他们在宛平城丢了个士兵，就好比九一八关东军说有人破坏了他们南满铁路，欲加之罪何患无辞，反正他拳头大。</p><p>真正的原因是什么，是下面这张图。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-6795d89df93ac3d31e0ab16692fa3aa5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"974\" data-rawheight=\"786\" class=\"origin_image zh-lightbox-thumb\" width=\"974\" data-original=\"https://pic2.zhimg.com/v2-6795d89df93ac3d31e0ab16692fa3aa5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>其实在中兴事件之前，美国早就看到了中国在半导体制造业上崛起的愿望，他们2017年就在呼吁，世界全球化体系下，任何国家都是产业链的一环，<b>“中国没有必要发展自己的芯片产业”。</b></p><blockquote>去年11月3日，美国商务部长普里茨克在华盛顿智库演讲时警告称，中国政府对半导体行业的大规模投资有可能会扭曲全球集成电路市场，导致破坏性的产能过剩并扼杀创新。同一天，美国12名参议员还以国家安全为由，要求对一桩中资收购案叫停。<br/>普里茨克还表示，投资水平将相当于去年全球半导体产业营收的一半，并会导致与困扰钢铁、铝和绿色技术行业类似的市场扭曲。“全球已经见识了之前这类有针对性、政府主导的干预的影响，结果是全球市场的产能过剩，这人为地降低了美国及世界各地的价格，导致岗位丧失，同时也对全球的这些行业造成严重损害，我们采取措施防止类似情景在半导体行业重演是势在必行，”</blockquote><p>美国的逻辑就是，只需我有，不许你有，我有了可以保护世界和平，你有了就是损害世界市场。所以不管中兴是不是赔礼道歉，中国是不是韬光养晦，这种针对中国高新技术产业早晚封锁和制裁，早晚都是要来的，躲是躲不掉的。</p><p>为什么非要挑中兴下手呢？首先是因为中兴体量够大，它是世界四大通信供应商之一，占全球市场10%，实在是一头庞然大物，封杀它，就有可能活生生把这10%的市场抢回来，还能让中兴一蹶不振，断掉5G、人工智能、自动驾驶等方面的未来，最终目的就是提前阻击”中国制造2025“。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-760482dc2223e5d96a27b8af2084403d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"400\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-3213deb579473448e95cf3943b0258f6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"440\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-3213deb579473448e95cf3943b0258f6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴华为通过多年的努力，已经把当年的诸多老牌巨头挤出了竞争行列，现在你已经见不到阿尔卡特、朗讯、西门子、摩托罗拉出现在通信市场了。如今的通信是诺基亚、爱立信、华为、中兴四分天下。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-2a5f7a7d7e60b162327af2c9508fa376_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"603\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-2a5f7a7d7e60b162327af2c9508fa376_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在5G时代，通讯设备的蛋糕由诺基亚，爱立信，中兴，华为，四家公司瓜分，其中两家中国公司合计占有的份额超过了50%。你可以想象，在欧美、在非洲，全世界都开始遍布中兴、华为的基站和信号塔，这对他们来说，是一件相当不能安心的事情。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-2574964e3d8385454b20d8e77eb2af39_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"356\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-2574964e3d8385454b20d8e77eb2af39_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2012年，中兴在埃塞俄比亚建设移动通信网络</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-3b9938894284cbb5ba60f9fb738c4225_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"615\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-3b9938894284cbb5ba60f9fb738c4225_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而在2018年，全球五大电信设备制造商的5G测试量排名中，华为中兴依旧占据半壁江山，这个对美国来说，就是天然的威胁了。而且，中兴通讯已掌握5G端到端的产品技术，计划在今年下半年率先推出预商用5G解决方案，在全球都处于领先地位。你都快成为制定标准的企业了，怎么能任你发展下去？于是下了最严的封杀令——7年内禁止美国企业与中兴开展任何业务往来！</p><p>由于中兴的基带芯片、射频芯片、存储、大部分光器件均来自美国，短期内影响重大。这不但断了中兴的上游供应链，还断了中兴的下游服务市场，这一手不可谓不凶狠，而且不顾自家硬件商高通等企业的巨大损失，大有破釜成舟、两败俱伤的架势。</p><p>当然有人要问，为什么针对中兴下手，不针对华为下手呢？那是因为中兴关键芯片、电子元件上严重依赖美国的供应商，而华为芯片研发布局较早，不只是海思麒麟这样的手机处理器，华为还供应着全世界的安防监控芯片，占全世界市场的70%，占国内市场95%，并且华为的体量更大，在欧美市场的影响力更大，牵一发而动全身，美国商务部暂时不敢和这样拥有核心技术的庞然大物撕破脸。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-22fc479693c1e38847df9a765c4862f3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"429\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-22fc479693c1e38847df9a765c4862f3_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>4月17日，我国商务部发出了回应：</p><p>“中方注意到美国商务部宣布对中兴公司采取出口管制的措施。</p><p>中方一贯要求中国企业在海外经营过程中，遵守东道国的法律政策，合法合规开展经营。</p><p>中兴公司与数百家<b>美国企业开展了广泛的贸易投资合作，为美国贡献了数以万计的就业岗位</b>。</p><p><b>希望美方依法依规，妥善处理，并为企业创造公正、公平、稳定的法律和政策环境。商务部将密切关注事态进展，随时准备采取必要措施，维护中国企业的合法权益。”</b></p><p>虽然口气平和，不卑不亢，但在后半段，也有威胁的意思了，你要知道，虽然特朗普大搞本土主义、保守主义，但世界毕竟全球化了多年，作为全球主要综合通信解决方案提供商之一，中兴通讯与高通、英特尔等众多美国供应商保持着良好的合作关系，为全美近13万个高科技就业岗位提供支持。</p><p>对于芯片巨头高通来说，每年中兴在全球售出约4500万部智能手机，其中近一半使用高通芯片。按照每块芯片平均25美元的价格，那就是约5亿美元的营收。”</p><p>中兴从美国进口的元件高达25%-30%。在中兴被制裁公告发布以后，美国相关供应商的供应股价大跌。美国光互联供应商Acacia Communications股价大跌34.7%，达到了历史最低点，这家公司营收的30%是来自中兴。</p><p>要知道，美国的政治和经济并不是铁板一块，华尔街、工业巨头、美国总统、国会议员，都各有各的利益，各有各的诉求，如果这场贸易战真的像这样刺刀见红地打下去，伤害的不只是中国通信行业，也不只是中兴一家企业，将会波及全世界各个产业链。</p><p>当然，我国的自主芯片研发之路当然要继续走下去，加大投入，加大从业者待遇，从教育、研发、产业一条线抓起来，给年轻的研发人员一个未来，他们自然也会给国家工业2025一个美好未来。</p><p>我国的芯片产业也一直在进步。</p><blockquote>中国的芯片设计产业，2017年销售额达到了2073.5亿，第一次超过了2000亿，增长了26.1%，注意这只是统计了中国本土芯片企业的情况，不包括外资在华设计研发中心。2017年我国自研的集成电路在全球的占比大概是7.78%，2016年是7.3%，一年的时间大约上升了0.48个百分点，从绝对额来说并不高，但是从增长幅度来说，是在7.3%的基础上提高了6.58%。占全球7.78%，这个比例当然比美国低，但是这个销售额在2017年也首次超过了台湾地区（2016年曾经实现了单季度超越台湾）。如果不算全球无晶圆制造设计公司的话，2017年我国芯片设计产值已经排在全球第二位了，我国海思，紫光展锐，汇顶科技，兆易创新，中兴微电子都在良性发展之中。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a232f6369938bc7794a067a6a914a2f1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-a232f6369938bc7794a067a6a914a2f1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴本次被制裁事件，只有一个原因，那就是“落后就要挨打”，关键核心技术掌握在人家手上，人家可以随时随地掀桌子翻脸不做生意，而咱们却做不到，这就是自力更生、掌握核心科技的重要性了。不只是芯片，还有航空发动机、精密加工、基础科学仪器、大推力火箭，我们要做的事情还有很多很多，类似的危险存在于各行各业中。</p><p>但也没有必要妄自菲薄，一出问题就贬低自家的企业和产品，说得一无是处，每天只操心“友邦惊诧”，这样的消极悲观主义，在未来的挑战中没有任何用处。</p><p></p><p></p><p></p><p></p><p></p>",
+                "comment_count": 45,
+                "image_url": "https://pic4.zhimg.com/50/v2-ce5741368306a64d296ede57fa789cf2_hd.jpg",
+                "voteup_count": 187,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjU2MzM1MiDap+jWBSi7ATAtQABSEXRvcF9hY3Rpdml0eV9wb3N0WgUxMTY2NXIIMzU5MzIxODg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "<b>地狱级公关的典型代表</b><b>No.2 奥克斯</b>代表作a. 格力实名举报奥克斯空调不合格，参数虚标。奥克斯回应，我销量高；你嫉妒我；我报警了！虚标？风大听不见。结果：完美勾起了大家对于鸿毛药酒的记忆与不满，并且一并倾泻。b. 指责格力在贸易战期间对本国企业开枪…",
+                "created_time": 1560328468,
+                "id": 713200386,
+                "voteup_count": 6,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/792e82f23b071082df165eb66f22442b_{size}.jpg",
+                    "name": "王小化",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "汽车CG/CGI",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "wang-guan-nan-40",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/792e82f23b071082df165eb66f22442b_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/1ff2dad6c3a6bb79bd7a6d21d70879a8",
+                    "badge": [],
+                    "id": "1ff2dad6c3a6bb79bd7a6d21d70879a8"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/713200386",
+                "question": {
+                    "title": "如何看待联想回击 5G 标准投票事件，称 5G 标准并不存在投票？",
+                    "url": "http://www.zhihu.com/api/v4/questions/324684120",
+                    "created": 1558006870,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 324684120
+                },
+                "updated_time": 1560406503,
+                "content": "<h2><b>地狱级公关的典型代表</b></h2><hr><p><b>No.2 奥克斯</b></p><p>代表作</p><p>a.     格力实名举报奥克斯空调不合格，参数虚标。奥克斯回应，我销量高；你嫉妒我；我报警了！虚标？风大听不见。</p><p>结果：完美勾起了大家对于鸿毛药酒的记忆与不满，并且一并倾泻。</p><p>b.     指责格力在贸易战期间对本国企业开枪是“置民族大义于不顾！”</p><p>结果：在产品质量问题避而不谈，反扯营销甚至强行攀附民族大义，绝地求死。</p><p><br></p><p><b>No.1 联想</b></p><p>代表作</p><p>a.     在民众已经几乎完全忘却5G投票风波，并且因为贸易战等事件舆论导向完全力挺华为的时候。怒刷存在感，官媒发文《解密那场不存在的5G投票》。</p><p>结果：成功让大家想起来了投票时联想和美帝“同仇敌忾”的事情。</p><p>b.     贸易战致命3+1，联想表示：1 封锁可以迁出中国；2 芯片我们不需要研发；3 断供与否我们会遵守各地（美国）法律。</p><p>风波过后，柳传志亲自出面高呼，联想是民族企业，有人恶意破坏，不要让中国企业界丧失正气，大家要清醒，大家要支持。</p><p>结果：致命3连，劫后补刀，夺得地狱头筹。</p><hr><p><br></p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://www.zhihu.com/question/323201374/answer/700347657\" data-image=\"https://pic3.zhimg.com/v2-57752957a430e0fbd9f5597cf455c6e6_bh.jpg\" data-image-width=\"1080\" data-image-height=\"2340\" class=\"internal\">联想究竟做错了什么？</a><p></p>",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTU5NzQwMTUwIJTygugFKAYwBUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggzNDQyNzY2NHIJNzEzMjAwMzg2"
+        }
+    ]
+}

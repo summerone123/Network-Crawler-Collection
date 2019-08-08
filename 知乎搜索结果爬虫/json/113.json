@@ -1,0 +1,229 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1457737346.25179",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1457216205.26&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1457216205.26072"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1540031245,
+                "is_labeled": false,
+                "excerpt": "从二战结束之后，美国逐渐成为了世界第一经济、军事强国。美国经济发展也逐渐进入了以消费为主要GDP构成的经济发展模式。2017年，美国个人消费占GDP的比例已经超过了68%，而这其中以生活服务消费为主的服务消费占比也占到了个人消费比重的65%，是这一段期间…",
+                "excerpt_title": "",
+                "id": 47247354,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-1d1504d5707bd3093268f625240849cf_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-d6bca53f93cf6c96e6f4c3bf16810952_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-e91256711a680ba53f58ed271be0ae44_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_{size}.jpg",
+                    "badge": [],
+                    "name": "特布鲁",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "url_token": "te-bu-lu-59",
+                    "user_type": "people",
+                    "headline": "专注数据，关注社会 公众号：不惑门 (NCR2019_4)；",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "type": "people",
+                    "id": "87a2a1d7bdeafde6d1500eafc4b1fa76"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/47247354",
+                "created": 1540026108,
+                "content": "<p>从二战结束之后，美国逐渐成为了世界第一经济、军事强国。美国经济发展也逐渐进入了以消费为主要GDP构成的经济发展模式。2017年，美国个人消费占GDP的比例已经超过了68%，而这其中以生活服务消费为主的服务消费占比也占到了个人消费比重的65%，是这一段期间增长速度最快的消费类型。以汽车、家具及家居、娱乐品为主的耐用品消费增长有很大的波动性，但是耐用品消费占个人消费的比例总体变化不大。耐用品消费的正、负增长，与个体消费增长的变化有很大的相关性，其中汽车消费的正、负增长与消费增长变化的相关性最大。以食品、服装、能源为主的非耐用品消费增长速度较低，非耐用品消费占个人消费的比重从40%下降到20%的水平，其中能源消费受世界局势和能源供给关系的变化影响较大。</p><p>居住消费是生活服务消费中，占比最高的消费类别。健康、娱乐、金融是生活服务消费中，增长速度较快的消费类别。其中健康消费占个人消费的比重，已经接近了居住消费的占比。</p><p>从1950年到2017年间，美国经济分别在1974-75年和2008-2009年，经历了两次比价大的波动，个人消费的增长和变化在不同的经济周期内，体现出了不同的变化。生活服务消费占个人消费的比例虽然呈现增长的趋势，但是消费年增长率的平均值，随着时间的变化逐渐减少，对个人消费增长贡献的平均值也逐渐下降。其中健康消费对个人消费增长贡献的比例逐步超过了居住消费增长的贡献。受生活消费年增长率平均水平降低的影响，美国个人消费年增长率平均值水平也逐渐降低，由此，也导致了GDP年增长率平均水平逐渐降低。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d6bca53f93cf6c96e6f4c3bf16810952_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"745\" data-rawheight=\"456\" class=\"origin_image zh-lightbox-thumb\" width=\"745\" data-original=\"https://pic3.zhimg.com/v2-d6bca53f93cf6c96e6f4c3bf16810952_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>美国是一个以消费为主体的国家，二战之后，美国个体消费占GDP的比例逐渐增长，到2017年，个体消费占GDP的比例已经超过了68%。美国个体消费与经济增长的关系日益密切，每次美国经济增长速度下降或负增长，都是与个体消费增长相互作用的结果。从1950年到2017年，美国个体消费与经济增长的波动频率大体相当，其中2008年金融危机引发的消费负增长幅度最大，持续时间也最长。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e91256711a680ba53f58ed271be0ae44_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"767\" data-rawheight=\"464\" class=\"origin_image zh-lightbox-thumb\" width=\"767\" data-original=\"https://pic1.zhimg.com/v2-e91256711a680ba53f58ed271be0ae44_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到2017年，美国个体消费主要体现为服务消费的快速增长。服务消费占个体消费的比重，从低于40%逐步增长到68%，而商品消费占消费的比重已经从60.84%下降到31.2%，其中耐用品消费的占个体消费的比重从43%下降到不足21%。</p><p>美国个体消费年增长率在3.35%上下波动，其中耐用品消费年增长率在5.31%上下波动，非耐用品年增长率在2.49%上下波动，服务消费年增长率在3.45%上下浮动。</p><p>由于服务消费增长速度较快，消费占比在逐渐增加，所以服务消费增长对美国个人消费增长的贡献比例较高。耐用品消费占美国个人消费比例虽然较低，但相对比较稳定。耐用品消费对美国个人消费增长贡献的正、负影响变化，与美国个人消费增长速度的变化有很大的相似性，也可以成为衡量美国个人消费增长，乃至经济增长的重要参考指标之一。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d006e5388c199d5ea458431b882eed1d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"743\" data-rawheight=\"467\" class=\"origin_image zh-lightbox-thumb\" width=\"743\" data-original=\"https://pic2.zhimg.com/v2-d006e5388c199d5ea458431b882eed1d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到2017年，耐用品消费占美国个体消费的比重总体呈现下降的趋势，消费占比从16.89%下降到10.28%。其中汽车和零部件、家具及家居消费占个体消费的比重在逐渐下降，而娱乐品和其它耐用品的消费占比总体呈现增长的趋势。在耐用品消费中，汽车及零部件消费所占比例最高，娱乐产品消费占比已经超过了家具和家居产品的消费占比，成为耐用品消费中规模第二的消费类型。</p><p>从1950年到2017年，耐用品消费年增长率在5.31%上下波动，其中娱乐产品消费的年增长率在9.45%上下波动，增长速度远高于耐用品消费的年增长速度。而汽车、家具和其它耐用品年增长率水平均低于耐用品年增长率的平均水平。</p><p>从1950年到2017年，耐用品消费增长带动个人消费增长的平均值在0.69%上下波动，其中娱乐品消费的增长对个人消费增长的贡献总体较大。汽车消费增长对个人消费增长的正、负起伏较大，且与耐用品消费对个人消费贡献的变动有很大的相关性。汽车消费增长对美国个人消费增长贡献率的变化，也可以作为反映美国消费和经济增长变化的一个重要参考指标。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d6199b3bdf351316a9bd3b324ae70811_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"754\" data-rawheight=\"466\" class=\"origin_image zh-lightbox-thumb\" width=\"754\" data-original=\"https://pic2.zhimg.com/v2-d6199b3bdf351316a9bd3b324ae70811_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到2017年，美国非耐用品消费占个人消费的比例从44.64%下降到20.64%。食品、服装、能源消费是美国非耐用品消费最主要的消费类型。食品、服装消费增长速度较慢，消费占比在不断下降。能源消费受国际能源价格的影响，消费占比波动较大。药品、娱乐品、家居、个人护理、烟草、杂志、海外消费等其它耐用品消费，消费占比基本保持在8%左右。</p><p>从1950年到2017年，美国非耐用品消费平均年增长率为2.49%，其中服装和其它耐用品消费平均年增长率较高。食品和能源消费平均年增长率较低。</p><p>从1950年到2017年，美国非耐用品消费带动个人消费增长的平均值为0.78%。其中，其它耐用品消费带来的增长比例更高。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-157961e4881c586d8edfc048362ba38f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"765\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"765\" data-original=\"https://pic4.zhimg.com/v2-157961e4881c586d8edfc048362ba38f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到2017年，美国生活服务消费占个人消费的比例从37.9%增长到65.77%。其中居住消费占比在所有消费类型中，占比最高。健康、娱乐、金融消费增长速度较高，消费占比呈逐渐增长的趋势。</p><p>从1950年到2017年，美国生活服务消费平均年增长率为3.37%，居住、健康、娱乐、金融消费的平均年增长率都高于生活服务消费的平均年增长率。</p><p>从1950年到2017年，美国生活服务消费带动个人消费增长的平均值为1.78%。在不同的时间段，居住、健康、娱乐、金融以及通信、教育等其它生活服务消费对个人消费增长的贡献有很大的变化，说明不同的生活服务消费类型在不同的阶段，对个人消费增长有着不同的推动影响。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-c9e1482b8e77bc90c26419370e8765f5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"763\" data-rawheight=\"453\" class=\"origin_image zh-lightbox-thumb\" width=\"763\" data-original=\"https://pic2.zhimg.com/v2-c9e1482b8e77bc90c26419370e8765f5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到1973年，美国商品消费占个人消费的比例从60.84%下降到50%以下，其中非耐用品消费占比下降幅度较大，而服务消费占比超过了50%。在此期间，美国个人消费年增长率的平均水平为4.13%，服务消费的年增长率水平高于个人消费的年增长平均水平，服务消费增长带动个人消费增长比例较高。耐用品消费对个人消费影响变动，与个人消费增长率的变化有很大的相关性。非耐用品消费增长对个人消费增长的影响较低。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-0a98d8599ba777afc8de89d571a07466_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"741\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"741\" data-original=\"https://pic3.zhimg.com/v2-0a98d8599ba777afc8de89d571a07466_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到1973年，美国耐用品消费占个人消费的比例在16.89%到12.95%之间变动，耐用品消费的平均年增长率为5.85%，带动个人消费增长的平均水平为0.82%。其中，娱乐品消费年增长率的平均值为9.15%，高于耐用品消费年增长率的平均值。娱乐品消费占个人消费的比例也在不断增长。汽车消费作为耐用品消费中，消费占比最高的消费类型，其增长对耐用品消费贡献的变化与耐用品消费对个体消费增长贡献的波动有很大的相关性。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-054c68e803cbcc6b158dbf96d68f499e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"758\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb\" width=\"758\" data-original=\"https://pic3.zhimg.com/v2-054c68e803cbcc6b158dbf96d68f499e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到1973年，美国非耐用品消费占个人消费的比重从44.64%下降到33%左右，非耐用品消费平均年增长率为3.092%，低于个人消费年增长率平均水平。非耐用品消费增长对个人消费增长的平均贡献为1.21%。在此期间，非耐用品消费各个消费类型年增长率平均水平均低于个人消费年增长率平均水平，其中，能源和其它非耐用品消费年增长率高于非耐用品年增长率平均水平，食品、服装等非耐用品消费年增长率平均水平较低。</p><p>在此期间，受增长速度变化和消费占比的影响，食品、服装、其它耐用品消费增长对个体消费增长贡献的水平较高，能源消费增长对个体消费增长的贡献较低。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f7501f2a39223d4500ab166ffc4c2814_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"773\" data-rawheight=\"462\" class=\"origin_image zh-lightbox-thumb\" width=\"773\" data-original=\"https://pic1.zhimg.com/v2-f7501f2a39223d4500ab166ffc4c2814_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1950年到1973年，生活服务消费占美国个人消费的比例从37.9%增长到接近50%，生活消费年增长率平均水平位4.53%，高于同期个人消费年增长率平均水平，生活消费增长对个人消费增长平均贡献为2.02%。</p><p>在此期间，居住、健康、金融消费的年增长率平均水平高于生活服务消费年增长率平均水平，消费占个人消费的比重在不断上升。居住消费增长对个体消费增长贡献的水平最高。健康消费对增长对个人消费增长贡献的比例上升速度较快。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-294f2b96084ac804eb26432d819fc953_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"757\" data-rawheight=\"452\" class=\"origin_image zh-lightbox-thumb\" width=\"757\" data-original=\"https://pic4.zhimg.com/v2-294f2b96084ac804eb26432d819fc953_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1976年到2007年，美国商品消费占个人消费的比例从47.6%下降到34.69%，其中非耐用品消费占比下降幅度较大。美国个人消费年增长率平均水平为3.44%，低于1950年到1973年的平均水平，其中非耐用品和服务消费年增长率平均水平均低于个人消费年增长率平均水平，而耐用品消费基本保持1950年到1973年期间年增长率相当的平均水平。</p><p>在此期间，生活服务消费增长对个人消费增长的贡献比例基本都超过了50%，耐用品消费对个人消费增长贡献的变化，依然与个人消费年增长率的变化体现出很大的相关性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-2faacb8378e5548a26c13c1b51da8efe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"770\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"770\" data-original=\"https://pic3.zhimg.com/v2-2faacb8378e5548a26c13c1b51da8efe_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1976年到2007年，美国耐用品消费占个人消费的比例在12.10%到15%之间变化，其中娱乐品消费年增长率平均水平达到了10.85%，高于上一个经济周期娱乐消费年增长率的平均水平，由此也带来娱乐品消费占个人消费比重的不断增长，娱乐品消费增长对个体消费增长的贡献也在不断增长。汽车消费增长对个人消费贡献的变化，依然与耐用品消费增长对个人消费贡献的变化有很大的相关性。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-34838c040058289e756f7203fe57ba0c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"765\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"765\" data-original=\"https://pic1.zhimg.com/v2-34838c040058289e756f7203fe57ba0c_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1976年到2007年，美国非耐用品消费占个人消费的比重从32.91%下降到22%左右。非耐用品消费年增长率平均水平为2.64%，低于上一个经济周期的平均水平，非耐用品消费增长对个人消费增长的平均贡献为0.69%。其中服装和其它耐用品年增长率平均水平高于个体消费年增长率平均水平，服装和其它非耐用品消费增长对个人消费增长贡献的比例较高。能源消费则在1979年到1981年期间，出现了较长时间的负增长，同时导致非耐用品消费在1980年出现了负增长。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-5c98531d631492a8ef927b89832bede0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"768\" data-rawheight=\"467\" class=\"origin_image zh-lightbox-thumb\" width=\"768\" data-original=\"https://pic1.zhimg.com/v2-5c98531d631492a8ef927b89832bede0_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从1976年到2007年，美国生活服务消费占个人消费的比重从50.74%上升到62.73%，生活服务消费年增长率平均水平为3.11%，已经低于个人消费年增长率平均水平，生活消费增长对个人消费增长贡献的平均值为1.8%，低于上一个经济周期中，对个人消费增长贡献的平均值。其中，娱乐服务、金融服务的年增长率平均水平高于个体消费年增长率平均水平，消费占个人消费比重在不断增长，消费增长对个人消费增长的贡献比例也在逐渐增加。居住消费年增长率平均水平已经低于家庭服务消费年增长率平均水平，消费增长对个体消费增长贡献的比例在逐渐减小。健康消费年增长率平均水平略低于家庭生活服务年增长率平均水平，消费占个人消费的比重则依然保持增长，已经基本达到居住消费占比相当的水平。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9fcbdae2d922dcb4d99f1e89f7d59c26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"756\" data-rawheight=\"459\" class=\"origin_image zh-lightbox-thumb\" width=\"756\" data-original=\"https://pic3.zhimg.com/v2-9fcbdae2d922dcb4d99f1e89f7d59c26_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2010年到2017年，美国商品消费占个人消费的比例基本保持在31%到33%之间波动，个人消费年增长率虽然下降到2.3%，但是没有出现过负增长。其中耐用品消费增长率平均值为6.24%，不仅高于个人消费年增长率的平均值，而且没有出现过负增长，而非耐用品消费与服务消费年增长率平均值都略低于个人消费年增长率的平均值。在此期间，服务消费增长对个人消费增长的贡献比例较高，而耐用品消费增长对个人消费增长贡献的比例明显提升。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-2cba81813f41e6dd7c8ee96b7ec724c0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"762\" data-rawheight=\"456\" class=\"origin_image zh-lightbox-thumb\" width=\"762\" data-original=\"https://pic1.zhimg.com/v2-2cba81813f41e6dd7c8ee96b7ec724c0_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2010年到2017年，美国耐用品消费占个人消费的比例在10.28%到10.63%之间变动，给个消费类别占个人消费的比重没有太大的变动。耐用品消费年增长率的平均值为6.24%，高于个人消费年增长率的平均值，也高于前两个经济波动周期中，耐用品消费年增长率的平均值。其中娱乐品消费年增长率平均值为8.7%，高于耐用品消费年增长率的平均值，而汽车消费没有出现过负增长，汽车消费年增长率平均值略高于前两个经济波动周期中汽车消费年增长率的平均值。在此期间，耐用品消费增长对个人消费增长贡献的平均水平位0.64%，略低于前两个经济周期的贡献水平，其中娱乐品增长对个人消费增长贡献的比例较高。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-56f089dbe01c770dcb2e95b1626f35eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"757\" data-rawheight=\"462\" class=\"origin_image zh-lightbox-thumb\" width=\"757\" data-original=\"https://pic4.zhimg.com/v2-56f089dbe01c770dcb2e95b1626f35eb_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2010年到2017年，非耐用品消费占美国个人消费的比例从最高时的22.785%下降到20.64%。非耐用品消费平均年增长率为1.938%，低于前两个经济周期的平均年增长率。其中服装和其它非耐用品消费年增长率水平高于非耐用品年增长率平均水平，而能源消费年增长率波动性较高，而且出现过负增长，从而导致能源消费占个人消费比重变化较大。在此期间，非耐用品消费对个人消费增长贡献的平均值为0.42%，低于上两个经济周期对个体消费增长贡献的平均值，其中其它耐用品消费增长对个人消费增长贡献的比例明显提升，并成为非耐用品消费增长贡献的主要来源。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-20dfa872ef2ac772a597ceef3d4c2618_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"765\" data-rawheight=\"462\" class=\"origin_image zh-lightbox-thumb\" width=\"765\" data-original=\"https://pic1.zhimg.com/v2-20dfa872ef2ac772a597ceef3d4c2618_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2010年到2017年，美国生活服务消费占个人消费的比重逐渐增长到65.77%，其中各种类型的消费与个人消费的比重变化不大。在此期间，生活服务消费年增长率平均值为1.825%，低于前两个经济周期的平均水平，生活服务消费增长对个人消费增长贡献的平均值也下降到1.19%，低于前两个经济周期对个人消费增长贡献的平均值。其中，健康、交通、娱乐、饮食消费年增长率平均值高于生活服务消费年增长率的平均值，而金融消费年增长率平均值较低，正、负增长的波动幅度较大。2014年后，生活服务增长对个人消费增长的贡献主要来自健康和其它生活消费领域。</p><p>从上面的数据分析，我们不难发现几个问题。第一、个体消费占美国GDP的比重已经超过了2/3，是否已经到了经济发展的平衡点？特别是在生活服务消费占比已经超过65%，年增长率已经下降到2%以下后，美国经济增长点在什么地方？传统市场经济学理论对供需平衡的分析，能否再适用于现在美国经济的发展？而平衡被打破后，是否将引发引得危机或持续性动荡？</p><p>第二、健康消费是否会替代居住消费成为美国个人消费第一大消费？健康消费显然是以人口年龄结构变化为主要驱动力的消费模式，与传统资本主义市场经济供需理论的相关性较低，健康消费的持续增长，是对社会财富的一种消耗，并不能带来市场供需的循环，这种消耗占社会创造财富能力的比例是否已经打破了经济发展所需的平衡？</p><p>第三、2009年后，二战之后引领美国服务消费增长的居住、娱乐、金融消费年增长率都已出现了较大幅度的下降，特别是金融消费的年增长率已经下降到0.6%。未来美国消费增长的是否还能依赖居住、娱乐、金融消费的增长吗？新的增长点在哪里？</p><p>第四、2009年后，汽车、家具及家居等耐用品消费，以及食品、服装等非耐用品消费的增长速度有所回升，是否意味着美国经济增长将更加依赖第一产业和第二产业中的传统行业？</p><p>第五、作为普通的中国百姓，我们能够掌握的数据，显然不能与奥斑马、特朗普等美国总统领导的美国政府掌握的信息更全面，但是，从奥巴马任期内和特朗普上台后，一系列国内外的政策调整，我们不难看出，医疗改革、制造业回归、对外贸易政策的改变，显然都是针对美国经济发展模式进行调整的。这些调整是否能够引领美国经济重新进入较高速的增长，还是把世界经济秩序重新引入二战前的剧烈波动？这意味着我们是将面对又一次的危机，还是又一次全球动荡。</p><p>美国是全球经济最发达，也是资本主义体系最完善的国家。美国经济发展遇到的问题，既有美国自身的问题，也有资本主义发展体系的问题。如果是前一个问题，问题的解决可能是通过一次又一次的经济增长调整来逐渐改变，如果是系统性的问题，将会带来全球经济、政治、军事格局的剧烈震荡。而传统经济学，通过投资、减税等手段调节市场供需平衡等手段，保持经济发展的手段，对于系统性发展问题的解决，可能都是隔靴搔痒，收效不大。</p>",
+                "comment_count": 0,
+                "image_url": "https://pic4.zhimg.com/50/v2-1d1504d5707bd3093268f625240849cf_hd.jpg",
+                "title": "从美国个人消费的发展变化可以看出哪些问题",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHOTU2MTU2OCD83aveBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQ3MjQ3MzU0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "因为华夏人点了豆制品技能点。 豆制品对于华夏人，就像周边游牧民族，以及欧洲西人的乳制品一样重要。 对于农耕民族来说，大豆是优质又相对廉价的蛋白质来源。 豆浆更是有名的健康食品，传说中有美白丰胸之奇效，物美价廉。 汉地东西南北，有各种各样的豆制…",
+                "created_time": 1522890291,
+                "id": 358928325,
+                "voteup_count": 11,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-62d16a0ba181fc5e9b6f5aa491ee0a83_{size}.jpg",
+                    "badge": [],
+                    "name": "刘德华",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/6f3342a83b7ff40ef1e71336f9e8433c",
+                    "url_token": "liu-de-hua-7-48",
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-62d16a0ba181fc5e9b6f5aa491ee0a83_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "6f3342a83b7ff40ef1e71336f9e8433c"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/358928325",
+                "question": {
+                    "created": 1522888437,
+                    "url": "http://www.zhihu.com/api/v4/questions/271129033",
+                    "title": "中国人为什么这么喜欢消费大豆？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271129033
+                },
+                "updated_time": 1522898750,
+                "content": "因为华夏人点了豆制品技能点。<br>豆制品对于华夏人，就像周边游牧民族，以及欧洲西人的乳制品一样重要。<br>对于农耕民族来说，大豆是优质又相对廉价的蛋白质来源。<br>豆浆更是有名的健康食品，传说中有美白丰胸之奇效，物美价廉。<br>汉地东西南北，有各种各样的豆制品。",
+                "comment_count": 1,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUzMjAzOTEgs+yV1gUoCzABQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTI1OTg1cgkzNTg5MjgzMjU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524118804,
+                "is_labeled": false,
+                "excerpt": "头图潜台词：喉咙——出自《武状元苏乞儿》 关于中兴被封杀的文章，媒体圈已经有很多文章了。 抱歉，百科君既不是公知，也不是芯片行业专家，所以不会写一篇非常高大上的文章。但是，百科君也不是对科技创新一点都不懂的“热血小白”，所以也不会特煽情地鼓…",
+                "excerpt_title": "",
+                "id": 35868053,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-0eea78feeb298c5ed7fbdd9b23008313_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-e3e61e61773951e9007e9ccbc285aa40_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-63ae69d152b8b461f71e57ecaa242f6c_{size}.jpg",
+                    "badge": [],
+                    "name": "韩百科君",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "理学"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/a2a0a393fbeb337abbb7eccbf6b6799e",
+                    "url_token": "han-qing-chuan-20",
+                    "user_type": "people",
+                    "headline": "写有洞察力的知识产权评论",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-63ae69d152b8b461f71e57ecaa242f6c_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "a2a0a393fbeb337abbb7eccbf6b6799e"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35868053",
+                "created": 1524118805,
+                "content": "<p>头图潜台词：喉咙——出自《武状元苏乞儿》</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于中兴被封杀的文章，媒体圈已经有很多文章了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>抱歉，百科君既不是公知，也不是芯片行业专家，所以不会写一篇非常高大上的文章。但是，百科君也不是对科技创新一点都不懂的“热血小白”，所以也不会特煽情地鼓动说，抛开美国，造咱自己的“中国芯”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以，眼界并不宽的百科君，只是一个离这场纠纷貌似还有点远的知识产权从业者，只能结合自己的经历，写一篇身处知识产权圈的感官与认识。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以下的故事都是真实的，所以具体信息必须要隐去。</p><hr/><p><b>1. 一件美国专利 </b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>之前的东家有位客户，是国内芯片制造领域的大公司。三年前的一天，他家收到了一家美国公司发起的专利侵权诉讼。于是，一件需要进行无效检索分析的美国专利就放在了我的面前。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这是一篇有关半导体开关器件的美国专利。通常会有同行调侃说，“世上本没有无效不掉的专利，如果有，那就再去无效一次”。但是这次，无效不掉的专利可能被我遇到了。首先，我先调查了一下专利的背景，发现光在欧洲，这篇专利的同族专利就被无效了n次，居然都还都屹立不倒。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这是不太正常的。所以百科君只能追着技术工程师问。才知道，这件专利的发明人是美国某大学的一位技术大牛，这篇专利的申请日很早，从那个时间点来看，他设计的器件结构是个好东西；但是结合当时的制造水平，基本上是谁家都造不出来，也不敢想的。然而，十多年过去了，早先造不出来的器件，不但被造出来了，而且在市场应用的前景还很大，所以大家还都得用它。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以，明眼人可能就看出来，这件专利很可能就是那位大牛，在历史的某一刹那，拍了一下他那灵光到不行的大脑，设想出来的。没有引用文献，没有留下任何线索，要找那个时间节点的现有技术，简直难哭了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这可能是本君对芯片行业最深刻的一次认识了。之前看到过得各种国内半导体类专利都可以pass，但是这篇百科君却从没忘掉。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2. 神奇的行业</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>故事讲到这里，从专利无效检索的角度，并不用再细说。但是从这件专利背后的故事，我们是不是可以窥探到美国半导体行业的一点皮毛呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>首先，为什么这样的牛逼专利会诞生在美国高校？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>公认的，高校里的半导体研究是干不过大企业的。企业最大的资源就是有钱、有地、有资源，关键赚了钱还舍得再砸出去。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以前就曾有位中科院的老师抱怨说，我们的课题组30个人，规模不小了，但是某某公司的实验室我去看了，人家是一栋楼的人全都研究我们一样的课题的，这怎么搞得过？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然对于半导体行业，芯片的研发还在于高昂的试错成本，因为要研发就得不断的设计，不断的试。芯片设计万一出问题了，花费的时间代价和金钱成本都是一般企业承担不了的，不是卖一两套北京大House能解决的事儿，也不是几个摩拜、ofo的量级。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国从美国进口芯片，每年大概花2000亿美金，而美国政府为了促进高校在芯片方面的技术创新，每年也会投入的资金是数万亿美元甚至更多。就因为那里集中了全球最顶尖的大脑和idea，即使未必把芯片造出来，写几篇专利够不够呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这个还真是够的。因为，一篇专利只要逻辑合理，只要不是有违基科学原理，都是可以被接受的。而且半导体行业大名鼎鼎的“摩尔定律”，像神一样预言着这个行业过去50年的发展趋势；那些顶尖聪明的大脑，在这本Bible的指引下总能窥探到一些技术发展的方向和路径吧。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以，这也就是为什么别人家的教授，可以提前十年来布局未来技术的专利。恐怕国内很难有这样的人才、创新机制，以及资金扶持来做这个事儿的。而当我们的企业十多年后再拿起这些技术的时候，发现别人家的“专利坑”早已等在那里了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而我相信，这件专利一定不是孤例。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3. 到处是坑</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>别人有了专利壁垒，我们做绕道设计行不行？改一改，可能可以绕开别人的专利保护范围，但是芯片的性能和稳定性，未必能保证和别人家的一样好，商用价值未必高。而如果一拍桌子，说我们另起炉灶，完全设计套新的东西出来？这个可能只是痴人说梦，摩尔定律就在那里呢，一个个懵逼的硅原子就在那里。人类现在在半导体领域的精尖技术，都是对工业革命以来西方所有技术的高度结晶，我们如何能超越当今人类的智力和技术极限呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以横在我国芯片创新，或者半导体行业面前的，首先是专利关。别人的专利已经提前布局在那里了，既然加入了全球化的游戏，我们就得按照游戏规则来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>许可费是少不了的。前文那家客户当时就获得了大量的知识产权许可（注意，要干实业可不只是专利许可），来去做代工。当然，代工或者组装的投入也是高的惊人的，但是产品的利润很薄，不过量大了，还是可以赚钱的。但是问题在于，<b>越是这些许可的技术，越是说明技术越成熟，而越是这样成熟的技术越，可能不是真正的前沿核心技术</b>。所以，代工厂每天还要担心被许可的技术会不会明天就被淘汰，还有没有新的有市场前景的技术可以获得许可。这可能就是我国半导体行业的难处。据说国外大的半导体企业，华人是接触不到核心技术和产品的，所以外国人是提防着中国人在这块领域的进步的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，国人被提防的不止是核心技术，还有核心设备。妖一样的《瓦森纳协定》限制了国外高精技术、设备进入中国。为什么说是妖，因为它原本是防止武器扩散的。所以，国内半导体企业、高校，能不能进口全球最高精尖的光刻机来研发芯片，还得先去翻翻这个协定的目录。巧妇难为无米之炊，而这个“米”我们自己也是“种”不出来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4. 叹</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以即使在现在，我国半导体的创新，在设备上被外国人管控，在技术上被外国人提防，在知识产权上还受到了重重限制，简直是50年前研发原子弹时候的“一穷二白”的状态，甚至更惨。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，芯片自主研发这事儿跟当年研发原子弹还不一样。就像去年C919飞上天时，会有人问，神舟都飞上天了，造出个飞机有啥稀奇。问题就在于，这些国家层面的研发项目，说不好听点，不用管什么知识产权，因为不是市场上的商品会有人惦记侵权。只要原子弹能爆炸，飞船能上天，任务就成功了。但是国产芯片不一样，它是市场化的商品，盯着的人太多。干反向工程，想抓侵权证据敲侵权赔偿的人也不要太多。关键商业化的芯片，未必要求的是技术多么高精尖，而是这个技术足够可靠，不会再关键的时候掉链子出人命，而且还要能与成本实现完美的平衡。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这一切，都不是喊几句口号，几个媒体说时机到了，国家投入些资金，立马就能实现的。中国芯片的研发与创新，唯独不缺站着说话不腰疼的嘴，缺的是有毅力、肯实干、高水平的人。当然，还要有历史给我们的机遇。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，最值得怀念的，还应该是1950年代的天空，中国科技元勋们那样的星光熠熠.....</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e3e61e61773951e9007e9ccbc285aa40_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"641\" data-rawheight=\"385\" class=\"origin_image zh-lightbox-thumb\" width=\"641\" data-original=\"https://pic1.zhimg.com/v2-e3e61e61773951e9007e9ccbc285aa40_r.jpg\"/></figure><p></p>",
+                "comment_count": 5,
+                "image_url": "https://pic4.zhimg.com/50/v2-0eea78feeb298c5ed7fbdd9b23008313_hd.jpg",
+                "title": "从一件专利的无效检索，说中国芯片创新有多难",
+                "voteup_count": 15,
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjUzNzY3MSCV6uDWBSgPMAVAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTg1OTk1cggzNTg2ODA1Mw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1539585060,
+                "is_labeled": false,
+                "excerpt": "魂のルフラン (Soul&#39;s Refrain) World Groove - Japanese Anison: By Japanease Musical Instruments 上文我们写到债务泡沫和世界秩序的联系。 <a href=\"http://mp.weixin.qq.com/s?__biz=MzIzODg2NDQyMA==&amp;mid=2247485408&amp;idx=1&amp;sn=31ed40d4a286f048a3e2ccbee253f83e&amp;chksm=e93396abde441fbdcac0e53ff952cc90265c68217ea54560d84b9566a4df25e18afbf436b661&amp;scene=21#wechat_redirect\">重塑世界秩序（一）——债务，战争以及泡沫</a> 贸易制裁是美国人常用的套路。自从美元脱钩黄金以来，全球金融体系…",
+                "excerpt_title": "",
+                "id": 46798667,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-88e48ac8495e12b217b8316a12f47145_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-22a00054476bd42708fc19839a730c78_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-9e286e413abd5ea04505609484d4321a_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "金融数学与金融工程"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "url_token": "",
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "926229e71b19ce8cb0d8026a01deecc7"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/46798667",
+                "created": 1539585060,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-22a00054476bd42708fc19839a730c78_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-22a00054476bd42708fc19839a730c78_r.jpg\"/></figure><p><br/>     </p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-59cfddc35a8d306f85ab9c8e88b968d8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"68\" data-rawheight=\"68\" class=\"content_image\" width=\"68\"/></figure><p> 魂のルフラン (Soul&#39;s Refrain) World Groove - Japanese Anison: By Japanease Musical Instruments </p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b93c0d5976a28b21b266284f758a7a34_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"26\" data-rawheight=\"26\" class=\"content_image\" width=\"26\"/></figure><p>   <br/>上文我们写到债务泡沫和世界秩序的联系。<br/><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIzODg2NDQyMA%3D%3D%26mid%3D2247485408%26idx%3D1%26sn%3D31ed40d4a286f048a3e2ccbee253f83e%26chksm%3De93396abde441fbdcac0e53ff952cc90265c68217ea54560d84b9566a4df25e18afbf436b661%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">重塑世界秩序（一）——债务，战争以及泡沫</a><br/><br/><br/>贸易制裁是美国人常用的套路。自从美元脱钩黄金以来，全球金融体系从零和游戏（zero sum game) 成为了债务膨胀的击鼓传花游戏。<br/><br/>由美联储资产负债表带动的信用扩张（credit expansion) 成为了全球经济体持续获得经济增长的最大动力。<br/><br/><i>金融市场的信用膨胀肇始于货币的信用化和资本化。<b>货币的初始形态是贵金属，它与实体经济存在着一一对应的关系。</b>随着经济的发展，纸币和信用货币取代了金属货币，这就是货币的信用化过程；<b>而随着股票和债券的出现，货币成为了一种金融投资工具，即所谓的货币的资本化。</b>货币的信用化和资本化是虚拟经济的初始形态，它不再与实体经济存在对应关系，而是信用扩张的结果，具有自身发展的客观规律和内在要求。这时就形成了实体经济与虚拟经济既相互联系又相互分离的二元结构。</i><br/><br/>资本的自由流动加上信用的膨胀铸就了20世纪人类社会最大的经济繁荣。然而这也无法避免地带来资本市场的不稳定性以及系统性风险。经济的增长需要泡沫，以及宽松的经济环境，同时这使得资本得以利用杠杆效应以及投机牟利。<br/><br/><b><u>金本位被凯恩斯称为金手铐，金本位带来了金融系统的秩序，同时也限制住了资本的膨胀，减少了其想象空间。然而当金本位被信用取缔，当信用系统摆脱了金本位的束缚，随着信用膨胀而带来的金融泡沫就成为了一种必然。换句话说，人类文明如今的阶段性繁荣依托着一定程度上的金融泡沫。然而伴随着资产收益的增加，人类对于资本，利润的贪婪最终加快了泡沫崩溃的流程，从而使得信用毁灭亦成为阶段性的必然。</u></b><br/><br/>投机者并非是危机的创造者，投机者往往是预见了宏观经济体，全球经济机器必然的阶段性崩溃，以及信用毁灭（credit destruction) 并且通过调动不同种类的金融工具狙击系统中的最薄弱环节。空头们作为秩序的天然审查者，深明一个道理：<br/><br/><b>那就是，一条锁链的强度取决于其最薄弱的环节。</b><br/><br/><b>而这个环节，可能存在于房股债汇商品任何一个市场环节。索罗斯有一个经典的比喻。</b><br/><b>他把宏观经济体看成是一艘巨型轮船，而巨型轮船底部有着预防倾覆的水阀。而监管者便如同驾驭如此舰船的舰长，指挥着轮船免于倾覆的命运。</b><br/><br/><b>雷达里奥（Ray Dalio) 认为，宏观经济的运作机制和机器类似。都有着周期性的，增加杠杆，去杠杆的周期。其中嵌套着长期债务周期以及短期债务周期。笔者认为经济和机器的确有极其相似之处。然而同时必须注意的是，作为市场的参与者，我们必须深刻认识到来自于监管者的盲区 （the blind side) 以及群体行为导致的不确定性（uncertainty)，反身性(reflexivity)，自我强化的特性(self-reinforcing) 以及混乱性(chaos) </b><br/><br/>由于金融市场在近二十年的迅速发展，闪电交易（flash trading) 高频交易（High-frequency trading), 对冲套保（hedging),以及算法交易（algorithmic trading) 和衍生品市场的崛起。以及更多金融工具以对冲的名义被开发出来。<br/><br/>在西方资本市场里，证券化（Securitization)突然成为了类似炼金术一样的利器，将优先劣后资金组合，在标的物资产组合上创造看似稳健，无风险的现金流（quasi risk free cash flow) 。<br/><br/>金融市场已然成为了极其精密复杂的经济机器。尤其是全球管理者为了取得经济繁荣，往往选择金融宽松（deregulation) ，以及放开投资以及金融机构的投资行为，提高了其风险偏好。衍生品市场的迅速发展使得市场的各个环节以及资产端得以互相传导，些许的系统性风险于是在如此精密的仪器中强化自身，从而引发蝴蝶效应以及多米诺骨牌效应最终形成席卷金融系统的大型风暴。<br/><br/><b><u>遗憾的是，由于金融“专家”，以及“经济学家”们并不一定有深入了解过不同市场之间的特性以及纷繁复杂的合约内容。于是乎金融风险在金融工具被创造伊始便缺乏必要的管束以及立法约束支持。直接导致了SEC（美国证监会）在管理衍生品市场上的失败。</u></b><br/><br/><b><u>其中投资银行亦和管理层玩着“猫抓老鼠”的游戏，并尝试将高杠杆以及有毒资产换成衍生品，放入类似SPV（special purpose vehicle)的境外实体，以将报表中的风险置于财务报表之外（off the balance sheet) 如此的行为也让监管者尝试了解衍生品市场（derivative market)这一”黑箱子“成为极其困难的尝试。</u></b><br/><br/><b><u>在我们了解当今世界金融世界的全貌之前，我们有必要去了解这一体系的组成部分以及方方面面，通过案例构建出我们理解这个世界不同因素传递，相互影响的框架。从而最终达到理解监管层，资本方用意。然而这样的努力将是具有十分挑战性的。</u></b><br/><br/><b><u>由于我们正身处20世纪以来做大的变迁以及局势的猛烈改变之中。</u></b><br/><br/>美国佬尝试恢复自身利益最大化的霸权，各个经济体也在尝试为“去美国化”以及“去美元化”做出最大努力。而这包括了要推出一个具有国籍储蓄以及支付功能的货币，以及对应的一整套金融底层建筑，清算以及支付系统，甚至是相对应的大宗商品的定价权。<br/><br/><b><u>人民币加入SDR，亚投行，一带一路，以及新近推出的人民币计价的石油期货都属于上述大棋中的关键环节。要真正挑战旧有的全球秩序，脱离美国对全球经济体的控制以及制裁，一劳永逸的获得主动权，需要一套平行的金融框架，可以替代美元主导全球金融体系的一套框架。</u></b><br/><br/><b>如果某个国家要完全代替美国，那么它的敌人不是特朗普，而是美元，美债以及美联储。</b><br/><br/>而其余的经济体被迫面临站队，而或是被迫妥协，孤立无援的局面。<br/>而由于全球化的过程中，各国经济体的利益是基于全球供应链以及默认的国际分工之上的，随着新兴国家的崛起，技术资本的逐渐引入。新兴经济体尝试在国际上取得更大的话语权，并且提升自己在这样分工链以及供应链上的地位。<br/><br/>以美国为首的发达国家事实上必须通过贸易制裁，来牵制发展中经济的步伐。军事行动对于各个经济体来说，应该都属于下下策，属于吃力不讨好，即使费大力气打赢了，也得不到多少具体利益。<br/><br/>而如今的世界格局，正是基于以上的共识，因此货币战，经济制裁，贸易战，汇率战将成为必然的选项。毕竟没有那个元首会蠢到发动核战争，如果到达那一步，没有人能够取得任何好处，人类将自食其果。<br/><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9e286e413abd5ea04505609484d4321a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"548\" data-rawheight=\"690\" class=\"origin_image zh-lightbox-thumb\" width=\"548\" data-original=\"https://pic3.zhimg.com/v2-9e286e413abd5ea04505609484d4321a_r.jpg\"/></figure><p><br/><br/><br/>贸易制裁是这个巨大的国家机器，用来制衡全球经济体，维持其全球霸权的至关重要一环。经济以及贸易制裁，就成本以及收益来说，相比于常规的战争行为以及军事行动，成本更为低廉，效用也是立竿见影。<br/><br/><b>在这个阶段我们或许能够从14年老美针对俄罗斯的经济制裁了解其作战部署以及用意。</b><br/><br/>2014年3月21日，俄罗斯总统普京正式签署了批准克里米亚和塞瓦斯托波尔加入俄罗斯联邦条约的法律，标志着克里米亚正式完成入俄的法律程序，成为俄罗斯联邦区之一。在3月27日举行的第66届联大关于克里米亚问题的投票中，有100个国家“赞成由美国提交的克里米亚公投无效之决议”。依照这一投票结果，联大宣布克里米亚脱乌入俄不合法，并拒绝承认克里米亚是俄罗斯的一部分。白宫宣布暂停俄罗斯G8成员国地位，原计划6月份在索契召开的峰会也随之取消，<b>G7国家（美国、加拿大、法国、德国、意大利、英国和日本）纷纷宣布对俄进行制裁，昔日的八国集团不复存在，俄罗斯与西方国家的博弈就此开始。</b><br/> <br/><b>作为制裁的主力军，目前美欧对俄已经实施多轮制裁，制裁对象囊括了俄罗斯高官、总统密友、能源公司、金融机构、军工企业等。</b>第一轮制裁起始于2014年3月17日，克里米亚公投的第二天，主要针对对克里米亚脱乌负有直接责任的、普京总统圈内的核心成员。在首轮制裁中，欧盟冻结了21名俄罗斯与乌克兰官员的个人资产，并禁止向其发放旅游签证。美国方面，白宫仍主张俄罗斯总统普京利用武力威胁达成对克里米亚的吞并，并于3月20日宣布制裁俄罗斯，对“入侵”乌克兰相关的11名等俄罗斯和乌克兰官员及克里米亚亲俄领导人阿克肖诺夫冻结其财产、禁止入境。<br/> <br/>第二轮制裁于2014年4月28日开始，制裁仍以冻结资产为主，尚未禁止交易，针对7名俄罗斯高官和17家与上一轮受制裁的核心人员有密切往来的实体。美财政部和国务院均发声明称，将对7名俄高级官员实施资产冻结并拒发签证，并<b>冻结17家俄罗斯公司在美的资产。此外，美商务部还对其中13家公司增加限制，吊销其销售美国产品的执照。另外，美商务部和国务院还宣布将严格控制，取消任何有可能强化俄罗斯军力的高科技产品的出口许可，包括已经批准的出口许可。</b>白宫强调，奥巴马总统在3月20日曾签署总统行政令，授权美财政部对俄罗斯的金融、能源、金属和矿业、工程以及国防等经济支柱产业及相关人员实施制裁，若俄罗斯继续用武力干涉乌克兰，美国将把这些制裁付诸行动。<br/> <br/>以马航MH17坠毁为导火索，2014年7月17日，美国再次宣布对俄罗斯的第三轮制裁。制裁进入实质性阶段，<b>除资产冻结外，相关资金融资交易均被禁止，包括世界最大产油企业俄罗斯国家石油公司、俄最大私营银行俄罗斯天然气工业银行、俄最大独立天然气供应商诺瓦泰克公司、国有开发银行、俄罗斯发展及对外经济事务银行以及乌克兰境内自行宣布独立的“顿涅茨克人民共和国”等都被纳入制裁对象</b>，标志着美国和俄罗斯之间对峙局面的一次明显升级。<br/>欧盟也宣布<b>限制俄罗斯国有金融机构进入欧盟金融市场；限制向俄出口武器和军民两用产品；限制向俄转让敏感技术尤其是石油产业的敏感技术</b>等。此次制裁被称为“最严厉”制裁。<br/> <br/>第四轮制裁缘于乌克兰东部地区政府军与反对派违反停火协议。2014年9月12日，美国财务部以 “俄罗斯继续破坏乌克兰东部地区稳定”为由，宣布扩大对俄罗斯的制裁，把俄罗斯最大银行——<b>俄罗斯储蓄银行列入制裁名单，同时扩大对俄罗斯其他主要银行的制裁范围。</b>同日，欧盟对俄罗斯的新一轮制裁措施正式生效，<b>禁止俄罗斯部分国有防务和能源企业在欧盟范围内提高融资活动，</b>并提出一系列最终取消相关制裁措施的条件。<br/> <br/>在多轮制裁、油价下跌以及卢布贬值等因素的共同作用下，2014年末，俄经济已处于“危机的边缘”。但美欧各国仍继续“落井下石”，不断延长制裁。2015年欧盟峰会上，欧盟28个成员国家的高级官员以俄罗斯不遵守明斯克停火协议中的条款为由，一致同意将对俄罗斯的<b>制裁措施延长6个月至2016年7月底，制裁范围涵盖能源、金融和国防等重要领域。</b>内容包括<b>欧盟公司不再向俄罗斯主要国有银行提供贷款、禁止对一些俄防务公司和能源公司提供债务融资</b>等。<br/> <br/>2016年3月4日，白宫鉴于“俄罗斯的行为依然在对美国国家安全和外交政策构成非同寻常的，重大的威胁”，宣布将制裁延长至2017年3月6日。美国财政部20日宣布<b>新增的一批制裁对象，包括俄罗斯方面的7名个人、8家企业或机构以及两艘油轮。</b>此前在19日，欧盟宣布延长对俄经济制裁至2017年7月31日，涉及<b>金融、能源、防务和军民两用产品等领域。</b>内容包括<b>限制俄罗斯3家能源企业、3家防务企业、5家国有金融机构及其主要控股子公司进入欧盟初级和二级资本市场；禁止欧盟同俄罗斯进行武器进出口贸易；限制俄获取涉及石油勘探和生产等领域的技术或服务；禁止向俄出口可用作军事用途的军民两用产品</b>等。<br/><br/><b>从以上的贸易制裁可以看出，美国经常运用的贸易制裁手段包含以下几个方面：</b><br/><b>1.单方面宣称某国为“汇率操纵国”，</b>这玩意儿和宣称某个中东国家持有大型毁灭武器MDW(massive destructive weapon) 以及某个卖切糕的是恐怖分子一样，这罪名就是筐，啥都可以往里装。通过国际舆论压制此国在全球和其他成员的关系，逼迫其做出让步。<br/><b>2. 高新技术禁运，贸易封锁。</b>让重点领域不再对此国输出科技，电子产品。同时增加惩罚性的贸易条款，专门针对行业发展不全，头重脚轻，极度依赖原材料生产输出的新兴经济体。<br/><b>3.石油制裁，极度依赖原油的新兴经济体的收入来源相对单一。因此油价的长期低迷可以重创这些国家的收入来源，这种招数常用于伊朗等国。</b><br/><b>4.惩罚性关税。利用某国的迅速崛起，以及长期贸易顺差不公平为由，强制这些输入本国市场的商品提价，并且支付惩罚性关税，增加企业成本，打压其销量，直接狙杀这些企业。</b><br/><b>5.冻结、封锁相关高官账户以及海外资产，同时利用媒体曝光作为理由介入并购，收购案，强制这些并购案，收购案黄掉。</b><br/><b>6.通过美元升值，加息，缩表等方式创造外部压力，迫使新兴经济体以宽松，降息放水，稀释本国货币，最终通过汇市戳爆其经济泡沫。近期的新兴市场货币危机正是由于美国加息等外部因素，最终土耳其遭殃。</b><br/><b>7.叫停所有贷款以及商务合作，边缘化此国经济行为等手段，迫使其作出让步。</b><br/><b>综上所述，军事行动远非最有利之手段。下文将深度聊聊去美元化这一议题。</b><br/><br/><br/><br/></p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/8jr64tfEcYoOrZOB92-g\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/8jr64tf</span><span class=\"invisible\">EcYoOrZOB92-g</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p>",
+                "comment_count": 0,
+                "image_url": "https://pic1.zhimg.com/50/v2-88e48ac8495e12b217b8316a12f47145_hd.jpg",
+                "title": "重塑世界秩序（二）—— 贸易制裁和去美元化",
+                "voteup_count": 13,
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHOTQ2MTgzMyCk6JDeBSgNMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTU1MjAycgg0Njc5ODY2Nw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1540531096,
+                "is_labeled": false,
+                "excerpt": "据说香港国际仲裁中心介个仲裁庭14天之内必出结果，无病乱投医的贾会计决定把和恒大撕逼这事快速处理，于是告到了这里。昨晚出了结果，菠菜的手机上对于这一事件经有了两种不同的新闻词，也蛮搞笑的↓ 故事上一集（详见<a href=\"http://mp.weixin.qq.com/s?__biz=MzA3NDk4NDcyMQ==&amp;mid=2651054781&amp;idx=1&amp;sn=b55cb217cdf53fcdd0fbbc5c4b5a6b19&amp;chksm=84803ec3b3f7b7d58ae7b9b2465c5437ce2fd95fc0e921827fa711e62039db7f959e8bf8e56d&amp;scene=21#wechat_redirect\">贾布斯VS许老板，FF91是谁的梦想？</a>一…",
+                "excerpt_title": "",
+                "id": 47689096,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-31246644f0f22b08e430d04564fecf0e_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-67b4c0f88b26a2c4d00716a409c8c625_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-34b18bbfc4b3da5e613c5316b8f33374_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "url_token": "xing-kong-cai-fu",
+                    "user_type": "people",
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/47689096",
+                "created": 1540514949,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>据说香港国际仲裁中心介个仲裁庭14天之内必出结果，无病乱投医的贾会计决定把和恒大撕逼这事快速处理，于是告到了这里。昨晚出了结果，菠菜的手机上对于这一事件经有了两种不同的新闻词，也蛮搞笑的↓</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-67b4c0f88b26a2c4d00716a409c8c625_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"1013\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic2.zhimg.com/v2-67b4c0f88b26a2c4d00716a409c8c625_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>故事上一集（详见<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NDk4NDcyMQ%3D%3D%26mid%3D2651054781%26idx%3D1%26sn%3Db55cb217cdf53fcdd0fbbc5c4b5a6b19%26chksm%3D84803ec3b3f7b7d58ae7b9b2465c5437ce2fd95fc0e921827fa711e62039db7f959e8bf8e56d%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">贾布斯VS许老板，FF91是谁的梦想？</a>一文）讲到贾老板拿惯了财务投资者的钱，不想让恒大有决策权；然而恒大又是法拉第未来的实际控股股东，尽管有个对赌协议在，按照许老板的性格，估计是要把FF纳入到恒大系转型的版图里，才不会甘心仅做个财务投资人。何况贾会计现在不过是个职业经理人的角色，花点钱雇个听话的不是更好？<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-34b18bbfc4b3da5e613c5316b8f33374_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"588\" data-rawheight=\"625\" class=\"origin_image zh-lightbox-thumb\" width=\"588\" data-original=\"https://pic1.zhimg.com/v2-34b18bbfc4b3da5e613c5316b8f33374_r.jpg\"/></figure><p> 先来看看香港国际仲裁中心给出的仲裁结果（如上图恒大健康公告所示）：</p><ol><li>贾会计踢恒大，失败！；</li><li>剥夺恒大融资同意权，失败！</li><li>解除Season Smart资产抵押权，失败！</li><li>FF找新的融资对象，成功！但要附上条件：<br/>1) 新股融资的估值不得低于时颖投后估值45亿美金；<br/>2) 恒大（时颖）享有新股的优先购买权；<br/>3) 在最终仲裁前对外融资额不得超过5亿美元。</li></ol><p>先科普一下，紧急仲裁是正式仲裁前的一项临时济助措施，目的是为了保持公司现状。因为没有钱，不是FF量产的问题而是整个公司要破产了。最终的仲裁结果还没有出来，这事还有下集。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-6ccdda01ddaf72bf14fbbbaac3b4a356_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"532\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"532\" data-original=\"https://pic3.zhimg.com/v2-6ccdda01ddaf72bf14fbbbaac3b4a356_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>贾会计折腾也是因为很快烧光了恒大投的第一期8亿美金，又索要提前支付7亿美金。这里我们直观的估算一下，他的财务缺口至少是7亿美金。现在仲裁依旧在进行中，作为紧急救助，FF只能再融5亿美金，其实还是不满足FF量产所需的资金。<br/></p><p>FF的声明中特别强调了“恒大违约导致FF出现财务危机，恒大作为大股东置公司和全体员工及其家庭的利益而不顾，恶意破坏FF的现金流规划，违反协议约定拒绝解除对FF的相关资产保全，导致FF应急融资计划受阻，不得不采取裁员和全员降薪的方式自救”（见上文FF公告）。这种描述给菠菜的直接感觉就是甩锅给许老板，直接回应外界关于FF裁员降薪的传言，做实公司的财务困境。就此菠菜判断：</p><ol><li>贾布斯已经找到了意向投资人，才有底气和恒大撕破脸；</li><li>恒大的底牌是不希望FF这个壳资源一文不值，破产肯定是许老板不愿意看到的。毕竟恒大还花了78.1亿成为广汇汽车的二股东，转型新能源之路很明确；</li><li>目前看仲裁结果偏向有利于恒大的方向，毕竟大股东利益会得到保护。量产需要钱，贾会计依旧信心满满的承诺可以交付订单，然而我对此深表怀疑。接下来的判决，贾布斯的胜算更小。</li></ol><p>美股低迷时，表现良好的是特斯拉，说明新能源车整个产业只会越来越好。毕竟制造业是个长周期产业，必须要多轮融资。全球能叫的上名字的新能源车，最核心的问题依旧是交付订单，是产能不足。碳酸锂的价格近半年来已经出现大幅回落，我依旧看好三元锂电的龙头企业，这也是目前一些公募基金的投资方向。</p><p>昨天整个股市在美股跳水的环境下，能收红可以看出券商为代表的红色力量的做多意愿如此之强烈。券商板块持续放量上涨总是能勾起老股民对于牛市的回忆，因此象征性很强烈。周三的盘面更是表现出券商涨、国有银行涨、商业银行涨，整个金融板块在持续崛起。我这两天的文章一直强调上方有缺口，本轮短线没涨完。有不少人还讥讽我说下方也有缺口，所以会回调。我再次强调上方缺口会先补，然后才是下方。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-177fac85f529b6552a5ff56b2396130d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"275\" class=\"origin_image zh-lightbox-thumb\" width=\"549\" data-original=\"https://pic2.zhimg.com/v2-177fac85f529b6552a5ff56b2396130d_r.jpg\"/></figure><p>知名投资大鳄罗杰斯（这可是真正的股神，曾经索罗斯的合伙人，巴菲特是做一级市场的投资人）公开说自己已经卖空美股，持有中国股票。尽管外界依旧对人民币汇率担心，但只要资本市场能走出底部，依旧会有更多的国际资本涌入A股。</p><p>记住，人民币最多的筹码在央行，对手盘能砸下多少？</p><p>PS：各种监管部门的政策，每天成批的出现，包括现在又鼓励商业保险公司设立专项产品（害人精这一比喻犹记在耳），其实都是在化解上市公司质押风险。如果市场再向下跟随技术面补下面的缺口，那么这一周出台的政策都是白瞎了。所以，不要再数浪了，兄弟们。现在卖盘主力都是跟着美股波动流出白马的外资，而不是国内的机构和私募。</p>",
+                "comment_count": 4,
+                "image_url": "https://pic1.zhimg.com/50/v2-31246644f0f22b08e430d04564fecf0e_hd.jpg",
+                "title": "贾跃亭的仲裁是胜利吗？别逗了！",
+                "voteup_count": 11,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHOTY1OTY5NiCFycneBSgLMARAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQ3Njg5MDk2"
+        }
+    ]
+}

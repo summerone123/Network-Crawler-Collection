@@ -1,0 +1,251 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=4572.65230",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=5187.32835&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5187.32835"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "国家的真正基础是共识，共识被破坏则国家必然分裂。在中国，“大一统”是中国人的基本共识，是天然正义，破坏统一就是十恶不赦，即便在现代，谁破坏统一，诛他们九族都可能无人反对。美国可不是这样，至少在他们的宪法里，是容许各州脱离联邦的。美国的族群…",
+                "created_time": 1547866058,
+                "id": 577104661,
+                "voteup_count": 61,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-9f78bb13e0872e793b778cc0017324c5_{size}.jpg",
+                    "name": "少尉",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/8cb8ff87ae7590e26882a3cad1b9f8a7",
+                    "type": "people",
+                    "headline": "法学",
+                    "user_type": "people",
+                    "url_token": "shao-wei-6-67-15",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-9f78bb13e0872e793b778cc0017324c5_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "badge": [],
+                    "id": "8cb8ff87ae7590e26882a3cad1b9f8a7"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/577104661",
+                "question": {
+                    "created": 1539501371,
+                    "url": "http://www.zhihu.com/api/v4/questions/298477198",
+                    "title": "美国会分裂吗？怎样分裂？特朗普的改革会不会成为下一个戈尔巴乔夫？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 298477198
+                },
+                "updated_time": 1547866058,
+                "content": "<p>国家的真正基础是共识，共识被破坏则国家必然分裂。</p><p>在中国，“大一统”是中国人的基本共识，是天然正义，破坏统一就是十恶不赦，即便在现代，谁破坏统一，诛他们九族都可能无人反对。</p><p>美国可不是这样，至少在他们的宪法里，是容许各州脱离联邦的。美国的族群结构远比中国复杂，一旦共识被撕裂，分裂的速度会让人目瞪口呆。</p><p>当然，这不等于说美国分裂是指日可待，只是说，从结实耐操的角度讲，美国是远不如中国的，而且，由于族群会在分裂之后出现激烈冲突，他们根本就没有机会像中国一样再生。</p><p>其实，从耐操的角度说，日本的政体才是最牢靠，大家都认天皇，天皇又不管事，不会犯错，永远不会下台，至于政府，太混蛋了让他们下台就是了，无论怎么乱，终归不会散伙，毕竟人还是要生活，秩序还是要有的。</p>",
+                "comment_count": 102,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTM0OTk2NDU5IMqfiuIFKD0wZkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyODYwNDkzMXIJNTc3MTA0NjYx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1547081200,
+                "is_labeled": false,
+                "excerpt": "首先苍蝇不盯无缝的蛋，做空也是为了获利，尤其是针对一个国家的做空行为，那么绝对不仅仅为了一点蝇头小利而来，背后的意义更是值得让人深思。要想知道一个<b>国家被做空后</b>，会发生什么变化，那么我们就先需要了解<b>做空的目的和手段</b>，以大家熟悉的日本为例：<b><i>日…</i></b>",
+                "excerpt_title": "",
+                "id": 54442654,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-602e83cf53ea44fa4474a17a9c1812fe_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-65d2327a6d6720583292251ce4479e47_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-b97285c9f1b34bfbfa7f8901b371885f_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-0dcb792c43be5746da4a1ed9cd9e0dd9_{size}.jpg",
+                    "name": "机智的何先生",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "机械工程"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/646fbbbe910b0b9c007d29cf75966ba1",
+                    "type": "people",
+                    "headline": "价值投资者，历史段子手，隐形的战忽局无锡分局长",
+                    "user_type": "people",
+                    "url_token": "hekai-49",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-0dcb792c43be5746da4a1ed9cd9e0dd9_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "机械系硕士"
+                        }
+                    ],
+                    "id": "646fbbbe910b0b9c007d29cf75966ba1"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/54442654",
+                "title": "被做空的国家",
+                "created": 1547017773,
+                "content": "<p>首先苍蝇不盯无缝的蛋，做空也是为了获利，尤其是针对一个国家的做空行为，那么绝对不仅仅为了一点蝇头小利而来，背后的意义更是值得让人深思。</p><p>要想知道一个<b>国家被做空后</b>，会发生什么变化，那么我们就先需要了解<b>做空的目的和手段</b>，以大家熟悉的日本为例：</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-65d2327a6d6720583292251ce4479e47_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"250\" class=\"content_image\" width=\"398\"/></figure><h2><b><i>日本被做空的经济背景：</i></b></h2><p>大家应该都知道，二战中日本虽然战败，但背靠美国，<b>作为抵御苏联和中国共产主义的前沿阵地，</b>经历朝战和越战，让美国意识到了过渡削弱日本不是一个可取的策略，因此在美国的扶持之下，经济实力得到大幅恢复。日本依靠山寨美国的产业或者美国有意的产业转移，日本汽车业、制造业发展迅速，及至1980s年代左右，<b>日本已经从一片战后废墟之地一举跃居世界经济第二位，其GDP甚至达到了美国的一半左右。</b></p><p>于是，我们可以看到，日本买下了好莱坞，买下了很多美国地标性的建筑，日本石原慎太郎甚至写了《日本可以说不》等书籍向世界宣称日本即将超越美国，1985年，日本取代美国成为世界上最大的债权国，日本制造的产品充斥全球。日本资本疯狂扩张的脚步，令美国人惊呼“日本将和平占领美国！”</p><h2><b><i>美国做空日本的目的：</i></b></h2><p>但最最不能让美国人忍受的是，美国的布雷顿森林体系垮台，导致美元和黄金脱钩，世界各国都要从美国取回自己的黄金，导致美元一度极其危险，美元指数下跌，<b>美元的霸权体系遭到了日本、德国以及英法等国货币的强烈挑战。</b></p><p>至于说<b>为什么美元霸权体系受到挑战最让美国人难受</b>，我们先来看二战之后<b>世界秩序体系</b>，美国为首的战胜国以<b>联合国</b>为基础确立了政治体系，形成了对战败国合法的驻军以及政治上的压制地位；由于英国国力在二战中受损过多，已经无力让英镑撑起世界金融体系，美国借此上位，最后组织构建了<b>布雷顿森林体系</b>，也就是以<b>美元为中心的国际货币体系</b>。</p><blockquote>谁控制了石油，谁就控制了所有国家；谁掌握了货币发行权，谁就掌握了世界。-基辛格</blockquote><p>70年代，原有布雷顿森林体系崩溃。尼克松政府紧随其后随后又推出了<b>牙买加体系</b>。牙买加体系大概是这样的： 一方面，美国大量印刷钞票，从以亚洲国家为首的地区购入大量消费品，致使中国、日本等国的美元外汇储备急剧增加，同时美国的贸易赤字不断扩大，美国继续印刷美元填补赤字。另一方面，美国发行大量的债券，中国、日本等国大量购买此类美元资产，从而使美元源源不断地流回美国。</p><p>简单点说就是，美元成为了世界货币，可以通过一张张不值钱的废纸换得世界各国手里的工业用品和真金白银，<b>美国人就如同变成了一个吸血鬼般悠闲躺在世界经济的金字塔上坐享其成，可以不停的空手套白狼，这是美国霸权之下众多体系中最最核心的一环，是美国最不能丧失的。因此，在美元霸权体系遭到威胁之下，美国开始对来挑战的日本、德国等货币布下屠刀。</b></p><h2><b><i>美国做空日本的手法：</i></b></h2><p>因此在1985年，美英德法日在纽约广场宾馆签署了著名的“广场协议”，表面目的是让美元对其他主要货币“贬值”，以增加美国出口来拯救美国经济，实际上是开始酝酿对日本的金融绞杀。（<b>这期间其实德国货币也受到了升值，但是德国政府应对较好，货币政策比较务实，不停的在降杠杆，化解了危机。综合来看，无论是股市还是地产价格，日本在1985年后的上行节奏都太快，并进入到加速赶顶阶段，随后崩溃；而德国资产价格基本得到了平稳过度化解，值得我们学习的</b>）</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-b97285c9f1b34bfbfa7f8901b371885f_b.jpg\" data-size=\"normal\" data-rawwidth=\"467\" data-rawheight=\"327\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-0595cc6b418eb2e41819d120c921ca11_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"467\" data-original=\"https://pic4.zhimg.com/v2-b97285c9f1b34bfbfa7f8901b371885f_r.jpg\"/><figcaption>广场协议</figcaption></figure><p>日本银行在美国财政部长“贝克”的高压之下，被迫同意在广场协议签订后几个月内，日元兑美元从250比1升值到149比1，进而再升值到90比1，最高时达到了70比1。日本则在金融自由化思路下经历了<b>快速的宏观加杠杆道路</b>，这是简直就是给已经炙热的日本经济上浇了一大锅油。</p><p>由于事先知道日元会大幅升值，大量外资涌入日本，由于日元升值，日本出口业濒临崩溃，<b>大量资金进入了股市和楼市，</b>于是一夜之间，日本股市楼市暴涨，甚至达到了东京一个区域内的房价超过了全美的房价总和。1987年底，日本股票市值竟然占到全球股市总市值的41.7%，并赶超美国成为世界第一。1989年底股票总市值继续膨胀至896万亿日元，占当年国民生产总值的60%。房地产方面：日本6大主要城市的商业区地价指数，若以1955年为100，到1965年则上涨超过了1000，到1988年则超过了10000，也就是说，<b>日本城市房地产价格在33年间上涨了100倍。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-676594c6676f2dbbfcb9d574c4e7419f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"340\" data-default-watermark-src=\"https://pic1.zhimg.com/v2-ceda398fe3588c144a33c05cba69f9dc_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-676594c6676f2dbbfcb9d574c4e7419f_r.jpg\"/></figure><p>同一时期，美国的后备金融杀手锏也布局日本，这就是股指期货，<b>撸羊毛的机会终于成熟了。</b>所谓股指期货就是对赌股票是涨还是跌，而日本当时近乎所有人都冲昏了头，日本人仍然有大量理由相信自己是独一无二的，认为日本股市不可能会跌，而<b>所剩下的一些有识之士根本不可能让这如同滚滚洪流的经济刹车</b>，但与此同时美国在做什么呢，美国在日本准备大肆兜售股指期货来做空日本。</p><h2><b><i>布局完成下的日本</i></b></h2><p>等到一切都布局，1990年1月12日，美国交易所突然出现<b>“日经指数认证沽权证”，大量美国投行纷纷追捧。</b>这个权证本质上就是一个<b>看跌期权，</b>只有当指数下跌到某一水平以后购买者才能获利，<b>因此购买者就开始不择手段地打压日本股市。终于，暴跌模式从股市开始，并蔓延到楼市乃至影响整个日本经济。其在一个月不到就全面崩溃，</b>并且外资开始纷纷逃离日本，要把日元兑换成美金，日本政府根本没有这么大的外汇储备来支付，于是只能用实物来抵债，于是，日本给美国还回了好莱坞，洛克菲勒广场，甚至国内的很多优质资产，<b>吐出来二战后三十几年才发展起来的家业</b>。<b>于是，日本开始了长达二十年左右的房地产下跌，股市下跌，甚至到了今天，日本的经济都还没有恢复。这是美国撸羊毛的常见手法，跟97年的由泰国引起的金融危机一样的手法。</b></p><p><b>20年来,日本六大主要城市住宅用地价格跌幅达到65%。随着房价暴跌,国民财富持续缩水，损失高达1500万亿日元,相当于日本3年的GDP总和。日本经济更是萎靡不振,二十年间,日本年均GDP增速只有0.75%。</b></p><h2><b><i>启示</i></b></h2><p>可以看见，一个国家被做空之后会多么的凄惨，以我们当下与日本相似的境地，还是学学德国，大力去杠杆，强化实体经济，让经济平稳软着陆才是正确之路吧。在我们企业杠杆率较高、居民杠杆率上升较快的背景下，不应轻易放松对金融周期的调控。<b>目前我们大力去杠杆简直就是未雨绸缪，这是防止鹰酱上屋抽梯，导致资本市场出现系统性风险，崩坝决堤的正确之举啊。</b></p><p><b>日本殷鉴不远，我们当谨慎，对霸主的挑战没这么容易，后面的几十年，中美碰撞将是常态，根本不会给你投降的机会，输的一方，将会被榨干骨头中的最后一丝血髓，剩下的年代，动荡和冲突，才是中美貌似融洽的关系中最基本的基调和色彩吧，毕竟一个太平洋是容不下中美两个大国的。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-4fc86b1152447a670f888e1681c5e793_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"496\" data-rawheight=\"241\" data-default-watermark-src=\"https://pic1.zhimg.com/v2-0d542a76943482645cbabbc32c87df14_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"496\" data-original=\"https://pic4.zhimg.com/v2-4fc86b1152447a670f888e1681c5e793_r.jpg\"/></figure><p>PS：写的比较仓促，如有错漏，欢迎来讨论哦。</p>",
+                "comment_count": 444,
+                "image_url": "https://pic2.zhimg.com/50/v2-602e83cf53ea44fa4474a17a9c1812fe_hd.jpg",
+                "voteup_count": 5594,
+                "type": "article"
+            },
+            "attached_info": "CjgQBxoJMTAwMjI3MDYyIK281uEFKNorMLwDQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg1NDQ0MjY1NA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "<b>当然不会再买了！这又不是模拟机时代了！你拿着手机只打电话呀？你是要用app的！</b>iphone中国禁售，那就意味着iPhone独有的ios在中国的全面封闭。如果被国家层面禁止的东西，试想一下有多少app厂商会仍旧愿意针对它继续进行app开发的！低头看眼你的iphone吧，…",
+                "created_time": 1532231426,
+                "id": 448827908,
+                "voteup_count": 1171,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-3fefab98baacc3ead09ed1a9187a05a6_{size}.jpg",
+                    "name": "千里",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "Réalisateur Numérique"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/889572b3c61b51bcab1b8137f8c1d2e5",
+                    "type": "people",
+                    "headline": "从法国回来的懵懂中青年",
+                    "user_type": "people",
+                    "url_token": "qian-li-20-12",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-3fefab98baacc3ead09ed1a9187a05a6_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "法国高等计算机与传播学校 数码导演硕士"
+                        }
+                    ],
+                    "id": "889572b3c61b51bcab1b8137f8c1d2e5"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/448827908",
+                "question": {
+                    "created": 1524243367,
+                    "url": "http://www.zhihu.com/api/v4/questions/274080141",
+                    "title": "如果中国禁止销售iPhone了，你会通过代购购买吗？会有多少人呢？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274080141
+                },
+                "updated_time": 1532231426,
+                "content": "<p><b>当然不会再买了！这又不是模拟机时代了！你拿着手机只打电话呀？你是要用app的！</b></p><p>iphone中国禁售，那就意味着iPhone独有的ios在中国的全面封闭。如果被国家层面禁止的东西，试想一下有多少app厂商会仍旧愿意针对它继续进行app开发的！</p><p>低头看眼你的iphone吧，微信，支付宝，微博，知乎，有多少是国外app，国内app停止开发，你代购回来的iphone只能装facebook twiter....上个app还得vpn，所有社交软件没好友，两天半就扔抽屉了。</p><p>其实反而比如禁售三星会好一些，因为毕竟还是安卓，国内其它厂商也在用，国产app都基本不可能停止开发，代购回来刷刷机还能有中文和中文软件商店什么的，正常用。iphone禁售了可真的就死路一条。</p><p><br></p><p>人家题主假设的完全没问题啊！当年谷歌百度争雄的时代谁能想到谷歌说走就走了呀？所有人都觉得谷歌有病吧？这么大的市场啊！那人家就是没了……问问你身边的95后没有谷歌的生存体验吧？根本没感觉的！</p><p>所以，一帮人说苹果交了党费不会走的什么的....我当年被狗咬了还以为打了疫苗就没事了呢！</p>",
+                "comment_count": 206,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkUQBBoJMTExNjczNTg4IIL+z9oFKJMJMM4BQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTgyMTEzcgk0NDg4Mjc5MDg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "我会失业。",
+                "created_time": 1525588604,
+                "id": 384672052,
+                "voteup_count": 159,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-92e2767127c89518e9b51452fbc95c7e_{size}.jpg",
+                    "name": "时雨",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/84450a3c2b9d593b3425539325c50db5",
+                    "type": "people",
+                    "headline": "iOS&amp;Android开发/铲屎官/UI设计/绝不把更新写在原答案上面",
+                    "user_type": "people",
+                    "url_token": "shi-yu-31-54",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-92e2767127c89518e9b51452fbc95c7e_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "id": "84450a3c2b9d593b3425539325c50db5"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/384672052",
+                "question": {
+                    "created": 1524199528,
+                    "url": "http://www.zhihu.com/api/v4/questions/274000158",
+                    "title": "如果中国不卖苹果产品，会有什么影响？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274000158
+                },
+                "updated_time": 1525588605,
+                "content": "<p>我会失业。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-24a5554adb651feb80ec2c35da6341f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"592\" data-rawheight=\"512\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-a09128c609467a8c5f10f4a2ee2b6785_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"592\" data-original=\"https://pic4.zhimg.com/v2-24a5554adb651feb80ec2c35da6341f7_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='592'%20height='512'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"592\" data-rawheight=\"512\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-a09128c609467a8c5f10f4a2ee2b6785_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"592\" data-original=\"https://pic4.zhimg.com/v2-24a5554adb651feb80ec2c35da6341f7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-24a5554adb651feb80ec2c35da6341f7_b.jpg\"></figure><p></p>",
+                "comment_count": 14,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-c5c0c1ee62a204054e6424b0bf50075b_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic1.zhimg.com/v2-c5c0c1ee62a204054e6424b0bf50075b_200x112.jpg"
+            },
+            "attached_info": "CkQQBBoJMTAwMDA4ODc3IPzEutcFKJ8BMA5AAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMjMxNjQyNjVyCTM4NDY3MjA1Mg=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "RISC-V 目前的开源实现还挺不完善的，离商用还有很长一段路，离成功还有更长的路。但是它的价值是肯定的，已经有一些国内公司在实际产品中使用了RV32和RV64的商业核，应用在比较激进/前沿的产品里。因为这些产品（芯片）比较激进，开源的RV很适合来魔改完成…",
+                "created_time": 1525408022,
+                "id": 382953416,
+                "voteup_count": 129,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/ed2fef471_{size}.jpg",
+                    "name": "吴才泽",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/72f3e9194fccb529ca90f8e665efc07b",
+                    "type": "people",
+                    "headline": "嵌入式相关",
+                    "user_type": "people",
+                    "url_token": "wu-cai-ze",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/ed2fef471_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "id": "72f3e9194fccb529ca90f8e665efc07b"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/382953416",
+                "question": {
+                    "created": 1524279626,
+                    "url": "http://www.zhihu.com/api/v4/questions/274106611",
+                    "title": "RISC-V 能成为中国芯片弯道超车的机会吗？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274106611
+                },
+                "updated_time": 1525409563,
+                "content": "<p>RISC-V 目前的开源实现还挺不完善的，离商用还有很长一段路，离成功还有更长的路。</p><p>但是它的价值是肯定的，已经有一些国内公司在实际产品中使用了RV32和RV64的商业核，应用在比较激进/前沿的产品里。因为这些产品（芯片）比较激进，开源的RV很适合来魔改完成这些设计，同时又可以直接使用工具链等现成资源，方便后期的一些开发。</p><p>RV ISA本身就是弯道超车（后发优势）的结果，很多设计是总结了前人教训的，避开了很多历史包袱，达到了简约而不简单的效果，后期能够发展起来的话在性能上是没有问题的。</p><p>但是个人感觉开源的东西相对商业的使用门槛可能会高些（类比windows和linux，iphone和安卓?），商业化使用RV有更高的自由度，也对设计公司有更高的要求。所以这就要求中国培养更多的芯片人才，而芯片设计里，后端还是需要license，目前还没有啥开源的后端，所以我们能做的就是培养更多的芯片前端人才。</p><p>所以，这里打个 广而告之，少年，如果你想成为芯片前端人才，为祖国芯片弯道超车做贡献的话，看这里 看这里，RISC-V开发板，不要Hifive unleashed 的999美金，不要Hifive one的59美金，不用洋人的主芯片，全国产RISC-V开源开发板，国产主芯片+国产开源RISC-V核+国产操作系统+国产板卡，只要9美金！</p><p>感兴趣的来点个赞吧！6月新鲜出炉！</p><p>不要急，可以先来q群和大佬们吹吹水:573832310</p>",
+                "comment_count": 37,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoIOTk2OTY2MDEglsKv1wUogQEwJUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzE4ODA1NHIJMzgyOTUzNDE2"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1476581347.55900",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1475726586.66&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1475726586.65878"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "前两个回答的人好蠢 忍不住回答一些，都是自己所见和经历。简单说几个。 开放了几十年。外国人委屈的说不给机会。这基本上胡扯。 不可否认，大家都有各自的优势，从金融业到制造业。 以为那些官僚都很蠢？ 算了，懒得说那么多了，说个最近的。 某个大国的B…",
+                "created_time": 1523455954,
+                "id": 364405781,
+                "voteup_count": 34,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/4b086b462cde1fe9272ab1cfeddbadf3_{size}.jpg",
+                    "badge": [],
+                    "name": "潘迪吉",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/3e90664b819910e0837c5c6337b416fe",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "pan-di-ji",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/4b086b462cde1fe9272ab1cfeddbadf3_is.jpg",
+                    "is_org": false,
+                    "headline": "喜洋洋和灰太狼",
+                    "type": "people",
+                    "id": "3e90664b819910e0837c5c6337b416fe"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/364405781",
+                "question": {
+                    "created": 1523329436,
+                    "url": "http://www.zhihu.com/api/v4/questions/271714330",
+                    "title": "大幅开放市场对中国有那些影响，中国是否做好准备工作？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271714330
+                },
+                "updated_time": 1523455954,
+                "content": "前两个回答的人好蠢<br>忍不住回答一些，都是自己所见和经历。简单说几个。<br>开放了几十年。外国人委屈的说不给机会。这基本上胡扯。<br>不可否认，大家都有各自的优势，从金融业到制造业。<br>以为那些官僚都很蠢？<br>算了，懒得说那么多了，说个最近的。<br>某个大国的B姓大飞机公司，民机一流，军机也一流。生产了一款牛逼的一股糊涂的无人机smy，上网百度一下，那性能刚刚的，大兵们用的很爽。于是几个某大国个体户看的眼热，各种渠道仿造并创新了一下。不过因为元器件和材料原因，性能上差点，但是也差不多，人家飞五千米，咱飞三千米，人家看㎝，我看分米，人家飞一天，我飞十二个小时，不影响用。咱价格便宜，服务到位，对方客户如果智商不够，别急，你出钱就行，咱代你操作。<br>于是，原版的不得不降价，最后这个型号消失了，现在热点地区满天飞的都是三千米的型号。现在这个系列全型号都是这个策略，从环球飞的到娱乐机，搞的其他公司都破产了。其实思路很简单，先不管挣不挣钱，先把对方熬死再说，剩下的唯我独尊，都是我的利润。<br>无人机这个可是全球自由竞争的。怪谁呢？<br>所以了，开放好啊，大家都对等开放才好，以后从高到低<br>全被国人覆盖",
+                "comment_count": 9,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTYzMTcwNzUg0q+41gUoIjAJQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNjU1ODkxcgkzNjQ0MDU3ODE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1522623463,
+                "is_labeled": false,
+                "title": "有关独角兽的《意见》是否会触发大行情？",
+                "excerpt": "<i>20世纪著名的思想家罗素到了中国四川游玩。那时，他刚写完他的巨著《幸福论》，他希望以自己的思想教化引导中国人摆脱苦难。当时正值夏天，四川的天气非常闷热。罗素和陪同他的几个人坐着那种两人抬的竹轿上峨嵋山。山路非常陡峭险峻，几位轿夫累得大汗淋漓…</i>",
+                "excerpt_title": "",
+                "id": 35195666,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-fdd99151303237324a96f56259c8e014_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-a02308d6a6bb5645ab70db2f32d2de89_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-fd5ecb76b3c8ef5f3117220c57b6c823_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35195666",
+                "created": 1522623463,
+                "content": "<figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7396917bfd8c3d6ce003cc7eec76d552_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p><i>20世纪著名的思想家罗素到了中国四川游玩。那时，他刚写完他的巨著《幸福论》，他希望以自己的思想教化引导中国人摆脱苦难。当时正值夏天，四川的天气非常闷热。罗素和陪同他的几个人坐着那种两人抬的竹轿上峨嵋山。山路非常陡峭险峻，几位轿夫累得大汗淋漓。作为一个思想家和文学家的罗素职业病犯了，觉得抬轿子的人很不幸福，甚至觉得自己为什么不是抬轿子的人？等到了一个平台，抬轿子的人坐下来休息，罗素下了竹轿，认真地观察轿夫的表情。他看到轿夫们坐成行，拿出烟斗，又说又笑，讲着很开心的事情，丝毫没有怪怨天气和坐轿人的意思，也丝毫没有对自己的命运感到悲苦的意思。他们还饶有趣味地给罗素讲自己家乡的笑话，很好奇地问罗素一些外国的事情。他们在交谈中不时发出高兴的笑声。</i></p><p>这个周末，我有点焦虑，毛衣战还没有确定性的结果，这个靴子悬的时间有点长，不太利于指数恢复，烦。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a02308d6a6bb5645ab70db2f32d2de89_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"501\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb\" width=\"501\" data-original=\"https://pic2.zhimg.com/v2-a02308d6a6bb5645ab70db2f32d2de89_r.jpg\"/></figure><p>周末圈子里最火的事莫过于关于独角兽上市，神仙们出来一个《意见》，然后就是各种版本的名单满天飞。总之，从这个意见来看未来对于独角兽企业的一个界定，可以看出（原文不在赘述）：</p><ol><li>政治正确：符合国家战略，具有核心竞争力（比如比特币就不符合，传说创始人被抓了，所以站队永远是第一位的）；</li><li>行业：互联网、大数据、云计算、人工智能、软件和集成电路、高端装备制造、生物医药等高新技术产业和战略性新兴产业（除了BATJ之外，这里高端装备制造，生物医药也涵盖，这些是新的东西。我读出了一些国企的味道）；</li><li>达到相当规模：境外上市的要不低于2000亿元市值，尚未上市的要求最近一年营业收入不低于30亿元且估值不低于200亿元或其他优秀企业（这只能说是一道门槛，不是说不考核三年盈利就算是降低。一种感觉，只要你符合国家要求，帮你创造直接融资的条件）；</li><li>利润考核放宽：明确规定符合条件的创新企业不再适用有关盈利及不存在未弥补亏损的发行条件。</li></ol><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-fd5ecb76b3c8ef5f3117220c57b6c823_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"573\" data-rawheight=\"690\" class=\"origin_image zh-lightbox-thumb\" width=\"573\" data-original=\"https://pic4.zhimg.com/v2-fd5ecb76b3c8ef5f3117220c57b6c823_r.jpg\"/></figure><p>市场就上述条件，联想了两个新的公司，一个是中国移动，一个是中国电信。因为之前的</p><p>5大互联网公司BATJ+网易，都没啥悬念，超预期的我认为是国企这部分。恰好上周领导又出来表态，未来在2020年前实现绝大多数央企都上市，我想现在正是在放宽条件。很多人解读都在科技概念，这点没错，我觉得即使未来放宽到不考核盈利，独角兽亏算都能上，但是也是给自己的孩子先开绿灯。不代表你民企也可以雨露均沾。比如一些传统行业消费类的，对于财务报表的要求不会放松，只会过会越来越难。</p><p>总之，这个思路我的直觉体会是只要你有核心技术觉有不可替代性，暂时不赚钱没关系。政策的重点在于对于核心技术、专利的尊重，在这个前提下对于利润要求有所松绑。各个地方城市在抢夺人才，现在资本市场在抢有技术的公司。还是感叹一句，厉害了，我的国！</p><p>当问题来了，会不会因为这样市场乱了，或者不好玩了？这个问题，我们团队的@股市郑道老师今天有个详细的解答：</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-883879ad299bc0432750f26fe6017e39_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"638\" data-rawheight=\"749\" class=\"origin_image zh-lightbox-thumb\" width=\"638\" data-original=\"https://pic2.zhimg.com/v2-883879ad299bc0432750f26fe6017e39_r.jpg\"/></figure><p>CDR这个东西有点像之前的中石油一样，目前资本市场在中国经济的地位已经跟过去完全的不一样了。这些红筹回归算是众望所归。尤其是中国资本市场从此改头换面。大家最想知道的是机会到底在哪？“独角兽概念”和“独角兽”完全是两个概念。如果行情启动，定义为回归牛应该是没有毛病的。机会呢，就看他们是选择IPO还是选择CDR？IPO就不用说了，从此大指数可能就不是银行保险的天下了；那么如果是CDR，关键在于是否会纳入指数？双轨制到底怎么弄？纳入的话，指数行情的机会显然更大。如果指数带动行情起来，那就扩展到全面牛市也是可期的。目前越来越接近方向的选择了，静待市场选择方向。</p><p>这就是为什么尽管上周蓝筹有所反弹，我们依旧认为今天的大行情在创业板在科技股的原因。而在这背后，我体会到的是国家发展模式由基础制造业加工业到产业升级，中国制造全面转型的一个开始。再思考一个问题，一个国家会在什么时候闭关锁国？一定是要保护自己的民族产业，因为你没发展到和国外比拼的实力，就要通过关税壁垒在制造价格差异。那问题就简单了，川普正是因为美国现在整体走向衰退，在某些领域必须制造关税壁垒才能阻止中国产品深入美国市场。就好像，我小时候觉得吃顿麦当劳、肯德基挺值得在同学面前显摆一下，现在回想起爱吃的都是各种中餐厅。真功夫、仔皇煲等连锁也干的不差。</p><p>这不是一场中美毛衣的较量，而是创新能力，未来发展预期的较量。或者说，中美两国国家的估值在改变。美国又发国债，你逼着我们买单吗？然后美元再继续贬值，借中国人的钱发展美国落后经济。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-cd70a0eb96c22f0fa26e610f95a1b6f1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"978\" data-rawheight=\"1165\" class=\"origin_image zh-lightbox-thumb\" width=\"978\" data-original=\"https://pic2.zhimg.com/v2-cd70a0eb96c22f0fa26e610f95a1b6f1_r.jpg\"/></figure><p>下面说说技术面，下周的一些观点：</p><ol><li>毛衣战依旧没有结果。不少新能源行业出现了财务报表的难看，这也是补贴下降后的一个正常表现。暂时观望，但依旧觉得是可以在汽车进口政策落地前选择一些好的建仓；</li><li>指数会继续箱体，如果有基本面的大利好，可以形成突破。但总体上继续向下（周线）的可能性不大；</li><li>下周的重点在于选出一批新蓝筹；</li><li>回避美国打击的名单：美的、中车、紫光、中国商飞相关联个股。关注券商近期是否有动作。</li></ol><p>PS：我估计那会罗素肯定是想去问“你幸福吗？”，结果人家过得挺好，他也觉得自己杞人忧天，就没好意思问。于是，他回去又写了本书《中国人的性格》。他因此得出了一个著名的人生观点：用自以为是的眼光看待别人的幸福是错误的。</p><p>这个故事叫抬轿子的人未必不幸福，而坐轿子的人未必幸福。你还费解吗？</p><p>散户用自己的眼睛想象游资大佬的日子有多爽，而某些大佬在饭局上随便的就同情心泛滥觉得穷人都不幸福……国与国之间难道不也是这样？我们总假象美国标准比我们高，而美国又在惧怕中国崛起而设置重重障碍。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-698ad2aa893a56b82cd82ffea6131a70_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"702\" data-rawheight=\"614\" class=\"origin_image zh-lightbox-thumb\" width=\"702\" data-original=\"https://pic1.zhimg.com/v2-698ad2aa893a56b82cd82ffea6131a70_r.jpg\"/></figure><p></p>",
+                "comment_count": 0,
+                "image_url": "https://pic3.zhimg.com/50/v2-fdd99151303237324a96f56259c8e014_hd.jpg",
+                "voteup_count": 8,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjI2ODI1OSDnx4XWBSgIMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1MTk1NjY2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523431397,
+                "is_labeled": false,
+                "title": "博鳌传出重磅信号，巨型财富风口来袭！",
+                "excerpt": "文丨大胡子说房 <a href=\"https://mp.weixin.qq.com/s/dPQU_5XuBHEApN1Bv__M-g\">点击阅读原文</a>导语：你抓住了吗？一、<b>大大8年4赴博鳌，推进改革开放</b>每年仲春时节，世界的目光都会向山青海碧，日暖风轻的南方聚焦——这是属于博鳌的时间。4月10日，博鳌亚洲论坛2018年年会开幕。会上，国家最高领导人发表了题为《<b>开放共创繁…</b>",
+                "excerpt_title": "",
+                "id": 35546909,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-c903186d26348b8c795a8d098ff6b894_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-59b5170575fc28c8600c60beea35001e_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-1da3956d9038bcef7e6b803399b79ea4_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-e88b9be5fab84919e1b2978f14b4c23c_{size}.jpg",
+                    "badge": [],
+                    "name": "大胡子说房",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/ce847f2463112846f4f70df1fc031247",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "jjcf1012",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-e88b9be5fab84919e1b2978f14b4c23c_is.jpg",
+                    "is_org": false,
+                    "headline": "公众号：大胡子说房丨带你轻松玩转房产投资",
+                    "type": "people",
+                    "id": "ce847f2463112846f4f70df1fc031247"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35546909",
+                "created": 1523431397,
+                "content": "<p>文丨大胡子说房       <a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/dPQU_5XuBHEApN1Bv__M-g\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">点击阅读原文</a></p><blockquote>导语：你抓住了吗？</blockquote><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-59b5170575fc28c8600c60beea35001e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"256\" class=\"content_image\" width=\"400\"/></figure><p>一、<b>大大8年4赴博鳌，推进改革开放</b></p><p>每年仲春时节，世界的目光都会向山青海碧，日暖风轻的南方聚焦——这是属于博鳌的时间。</p><p>4月10日，博鳌亚洲论坛2018年年会开幕。</p><p>会上，国家最高领导人发表了题为《<b>开放共创繁荣 创新引领未来</b>》的主题演讲。</p><p>此次演讲，被英国《金融时报》称之为“最受期待的一次演讲”。</p><p>早在4月3日，官方就已透露博鳌亚洲论坛是今年四大主场外交的开篇之作，主旋律为改革开放。</p><p>其实这已经不是大大第一次参加博鳌论坛，2010年-2018年，8年，大大4赴博鳌。<b>今年的演讲，更是意义深远，因为现在，中美贸易战阴云笼罩，全球化正处于十字路口。</b></p><p>而博鳌是国际间政府、企业及专家学者们共商经济、社会、环境等问题，高层对话有利于成为“共识的摇篮”，有利于加强宏观经济政策沟通，推动全球化下半场。</p><p>在大大的演讲中，中国向世界清晰传递了中国将进一步扩大开放的决心和信心，获得了各国高层的认同，重点释放了四大利好：</p><p><b>第一，大幅度放宽市场准入。</b>在服务业特别是金融业方面，加快保险行业开放进程，放宽外资金融机构设立限制，扩大外资金融机构在华业务范围，拓宽中外金融市场合作领域。下一步要尽快放宽外资股比限制特别是汽车行业外资限制。</p><p><b>第二，创造更有吸引力的投资环境。</b>过去，中国吸引外资主要靠优惠政策，现在要更多靠改善投资环境。今年上半年，我们将完成修订外商投资负面清单工作，全面落实准入前国民待遇加负面清单管理制度。</p><p><b>第三，加强知识产权保护。</b>这是完善产权保护制度最重要的内容，也是提高中国经济竞争力最大的激励。我们鼓励中外企业开展正常技术交流合作，保护在华外资企业合法知识产权。</p><p><b>第四，主动扩大进口。</b>中国不以追求贸易顺差为目标，真诚希望扩大进口，促进经常项目收支平衡。今年，我们将相当幅度降低汽车进口关税，同时降低部分其他产品进口关税。</p><p>“亚洲和世界和平发展、合作共赢的事业没有终点，只有一个接一个的新起点。”5年前，大大在博鳌论坛开幕式上如此说。</p><p>5年后，他的脚下正是一个新的起点，连接中国、亚洲与世界。</p><p>此番中国的声音，告诉世界什么是泱泱大国的责任与担当。</p><p>改革开放40年后，中国的开放力度再加大。</p><p>一个更加开放的中国，将展现在世人面前。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-1da3956d9038bcef7e6b803399b79ea4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-1da3956d9038bcef7e6b803399b79ea4_r.jpg\"/></figure><p><b>二、自由贸易港，深刻影响改革开放，影响中国</b></p><p>昨天，大大在最开始的演讲中还提到：</p><p><b>实行高水平的贸易和投资自由化便利化政策，探索建设中国特色自由贸易港。</b></p><p>这是在十九大之后，高层第二次提出建设自贸港。</p><p>而在会议开幕前，多家权威媒体就在传：<b>海南可能成为自由贸易港的备选城市，为经济特区30周年献上大礼。</b></p><p>国家可能在部分参照香港的基础上，把海南打造成为自由贸易港，开放程度高于自由贸易区。</p><p>自由贸易港是国际上公认的最高程度的开放，它是实行境内关外的一种开放，严格讲是单独关税区。</p><p>谁能成为自贸港，虽没有明确，但博鳌会议开幕前的一系列消息，或许已经漏出了苗头。</p><p>现在，中美贸易战吵得热闹，但至今除了几招散手，罕见放大招，而博鳌讲话甚至被人解读为中美“贸易战”有可能平缓收场。</p><p><b>其实，对于贸易战，中国早有准备。</b></p><p>早在特朗普有意发动贸易战之前很久，中国就已着手进行“三去一补一降”，（去产能、去库存、去杠杆、降成本、补短板）并严防资本外流，可以说已经做好了预防性工作。</p><p>所以，中国和美国可以你来我往，嘴上热闹，手上也不闲着，从容争取最有利的条件，主动选择合适的时机做出某种姿态。</p><p>对于特朗普作势挑起“贸易战”的任性，中国在接招之初就表明了态度。</p><p>财政部副部长朱光耀在国新办举办的新闻吹风会上说，“中方不希望贸易战，因为结果只能是双输，损害中国利益，损害美国利益，也损害世界经济发展的前景。”</p><p>事实上，对于特朗普发动“贸易战”，除了有个别政府试图掺和一脚之外，世界的整体反应都不大好。即便美国股市，也是以两次大跌来回应特朗普的两次任性。</p><p>特朗普在不断提出“要价”，但他同样留出时间等你“还价”。</p><p><b>整体来看，中美把唇枪舌战以及一些行动试探控制在了理性的范围内。</b></p><p>当然，中国也根据对手的反应，对一些已经确定政策的优先顺序以及执行力度做出了调整，以方便和美国有礼有节的互动。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-205d04ec62274a3902cb0f295e4a2432_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"368\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-205d04ec62274a3902cb0f295e4a2432_r.jpg\"/></figure><p>三、<b>坚持深入改革开放，中国的大国崛起就不是梦</b></p><p>对中国领导人博鳌的讲话，不同的人会从这个讲话中得出不同的结论。</p><p>但4月10日《人民日报》社论一锤定调，<b>“从大幅度放宽市场准入到主动扩大进口，中国早有安排”。中国一直坚持“经济全球化是不可逆转的时代潮流”</b>。</p><p>无论是两会政府工作报告，还是去年底的中央经济工作会议，抑或是更早的一些文件，中国都提出要在开放的范围和层次上进一步拓展。</p><p>不只是自己更开放，中国也对西方发达国家提出希望，希望他们对合理的高技术产品贸易不要人为设限，也要加强对中国知识产权的保护。</p><p>一边是“美国优先”，一边是更开放，尽快落地，要宜早不宜迟，宜快不宜慢。</p><p>这一回合过后，中国真的会得到不少赞。</p><p><b>改革开放40年了，改革早已步入深水期。</b>“改革”本身是一个中性词，可以更好，也不排除有可能不那么好。</p><p>孟子的《生于忧患，死于安乐》有一句名言：“入则无法家拂士，出则无敌国外患者，国恒亡”。意思是说：在国外如果没有敌对国家和外患,便很容易导致灭亡。</p><p>所以，对当下的中国来说，有特朗普这么一个不秉承“理念”,而以“实利”处事的商人总统做对手，或许还是一件比较幸运的事情。</p><p>中国领导人在做出更开放的承诺时，倒是可以坚定竖起全球主义的大旗。</p><p>中美之间真正的麻烦不在贸易，而在于挑战者困境。</p><p>我之前就说过，按照【修昔底德陷阱】这一铁律，一个新崛起的大国必然要挑战现存大国，而现存大国也必然会回应这种威胁，这样 war 将会变得不可避免，当然也可能是以贸易战的形式出现。</p><p>大国博弈是需要本钱的，而且这个本钱还得相当雄厚，不能有太多的短板。</p><p><b>从这个意义上讲，中国强调实业，强调去杠杆，强调自由贸易港的建设，真的有那么一点点未雨绸缪的味道。</b></p><p>中国得努力避免“挑战者”的角色。“更加开放”，而且是面向全世界，愿意遵守统一规则的国家的开放，当然是非常聪明的决策。</p><p>这就是中国领导人博鳌讲话最重要的价值所在。</p><p>坚持改革开放，中国的大国崛起就不是梦。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-c529206184f1fad5a5846d2a20c13bab_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-c529206184f1fad5a5846d2a20c13bab_r.jpg\"/></figure><p><b>四、海南——自由贸易港的最优选</b></p><p>而对于如何推进进一步的改革开放，目前最大的可能就是给予海南高度的市场自由，建设自由贸易港。</p><p><b>海南建省30年后的今天，国家已经意识到了，非常有必要对海南省规划再次做出调整，以高规格高标准来建设海南。</b></p><p>海南的地理位置特殊，位于中国与东南亚的枢纽，以及海南优越的自然资源，都决定了海南具有建设自由贸易港的得天独厚的优势。</p><p><b>40年前，选择深圳珠海是因为靠近香港澳门，今天，选择海南是因为东南亚，因为一带一路。</b></p><p>中国的大国崛起，绝不是单单靠自己，以目前的局势来看，最大的筹码一带一路，通过一带一路，深入与东南亚各国合作，由此来提高中国的国际竞争力，在中美贸易战中不让自己处于被动地位。</p><p>而海南建设自由贸易港，既有利于提高海南省在东南亚地区的经济地位，扩大我国对东南亚的影响力和投射范围，推动一带一路区域合作和联动发展，也有利于推动我国贸易和投资的自由化，扩大国内市场的对外开放程度。</p><p><b>海南省有望成为上海自贸区之后又一重大区域发展战略，成为一带一路中海上丝绸之路的中心枢纽。</b></p><p>在国家政策的有力推动下，海南将集聚生态、科技、贸易、商业服务和旅游等高端产业，成为华南地区乃至整个中国内地面向港澳台地区和东南亚地区的主要窗口。</p><p><b>我们预测国家有可能为海南省制定新的战略举措。</b></p><p>国家可能赋予海南省更大改革自主权，比如在金融市场监管和金融开放政策方面由海南省全权制定，放宽金融市场准入，在跨境资金流动和外汇交易方面给予充分的自由度。</p><p>同时推动实现对外贸易自由化，全面实行准入前国民待遇加负面清单管理制度，比如扩大外国旅客的免签待遇，通过特殊的贸易政策大幅削减关税和鼓励转口贸易。</p><p>而且，以上，都不是空穴来风。</p><p>海南省省长沈晓明在出席博鳌亚洲论坛2018年年会分论坛时称，目前海南正在打造泛南海国际贸易和航运枢纽，争取在2至3年内开通100条以上国际航线，<b>希望与各个岛屿地区继续加强航空、海运等领域的合作</b>。</p><p>中国(海南)改革发展研究院院长迟福林也谈到说，海南正在建立泛南海旅游合作圈，如果建起来，海口可以到菲律宾、越南、印度尼西亚，坐上几万吨轮船，<b>然后再发展航空，那很多岛屿经济体可以联合在一起</b>。迟福林还透露，目前海南正在和韩国济州岛研究合作计划。</p><p>迟福林说，如果海南能够探索建设自由贸易港，它可以成为泛南海合作的先导区，形成以服务贸易为重点的整个大开放的格局。</p><p>海南作为岛屿经济体，在中国推动形成对外开放的新格局当中，如果能够探索建设自由贸易港，它的意义远比在其他地区要大得多。</p><p><b>如果海南真正搞自由贸易港了，海南省在未来新的30年加速开放和增长，成为新一轮改革开放试验田和整个华南地区经济增长的新龙头。</b></p><p>未来中国，14亿人口都将盯着海南，海南的房子想不涨都难。</p><blockquote>微信关注<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/dPQU_5XuBHEApN1Bv__M-g\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">“大胡子说房”</a>公众号，发送您想了解的城市名，即可获取该城市的楼市分析文章哦~</blockquote>",
+                "comment_count": 0,
+                "image_url": "https://pic2.zhimg.com/50/v2-c903186d26348b8c795a8d098ff6b894_hd.jpg",
+                "voteup_count": 1,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjQwOTA1NCDl77bWBSgBMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NTQ2OTA5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "题主首先要搞明白为什么我们要买宏光。正儿八经的说：我们选择宏光是为了在城市里面拉货+便宜+不限制进城。即便是7坐车不过节的时候也很少坐7人，当然了过节的话远远不止7人。美国佬不限制皮卡进城的，所以人家首选自然是皮卡，再加上汽车保有率高，所以很…",
+                "created_time": 1523240024,
+                "id": 362081380,
+                "voteup_count": 10,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "zhang某人",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/b27f79fb553a436cc811cfb22fc253e2",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "zhangmou-ren",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "我不想回答任何问题，我只想把水搞浑。",
+                    "type": "people",
+                    "id": "b27f79fb553a436cc811cfb22fc253e2"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/362081380",
+                "question": {
+                    "created": 1523199181,
+                    "url": "http://www.zhihu.com/api/v4/questions/271547716",
+                    "title": "五菱宏光是在美国销售最好的中国车吗？其市场表现如何？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271547716
+                },
+                "updated_time": 1523240024,
+                "content": "<p>题主首先要搞明白为什么我们要买宏光。</p><p>正儿八经的说：我们选择宏光是为了在城市里面拉货+便宜+不限制进城。即便是7坐车不过节的时候也很少坐7人，当然了过节的话远远不止7人。</p><p>美国佬不限制皮卡进城的，所以人家首选自然是皮卡，再加上汽车保有率高，所以很少需要坐7人以上。</p><p>你信不信你只要开放皮卡进城+路政运政不管，宏光的销量马上少一个量级。风骏迎头赶上。</p><p>对了，貌似风骏在外面混的不错，因为便宜。</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTU4OTQwNjkg2Jir1gUoCjAAQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNjE4ODg2cgkzNjIwODEzODA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523179096,
+                "is_labeled": false,
+                "title": "这些科技股一季度预增超100%，看看你的股是否上榜？",
+                "excerpt": "作者丨<b>股道禅院</b> 明天A股将迎来清明小假后的第一个交易日，而在这假日期间，中美贸易摩擦阴云密布！尽管这将会给包括A股在内的市场带来冲击（美股上周五已经大幅下挫），但对受益于贸易反制措的题材或反而有望是契机。 关于二季度的机会在哪里？市场观点也是…",
+                "excerpt_title": "",
+                "id": 35422455,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/80/v2-9f3e59f70b56ce2503f3d0b1863379f6_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-dd73e618dbbec5dd071faf4f0edfdf01_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-b90debb625d8d46faef7e315b894b63b_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-814f7a0ff53a69c7825e4ac324175783_{size}.jpg",
+                    "badge": [],
+                    "name": "懒系选手",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/80f5d3891fa8fcac50a7661fac3af8e9",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "pan-qian-jie-du",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-814f7a0ff53a69c7825e4ac324175783_is.jpg",
+                    "is_org": false,
+                    "headline": "公众号--有张壁纸",
+                    "type": "people",
+                    "id": "80f5d3891fa8fcac50a7661fac3af8e9"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35422455",
+                "created": 1523179096,
+                "content": "<p>作者丨<b>股道禅院</b> </p><p>明天A股将迎来清明小假后的第一个交易日，而在这假日期间，中美贸易摩擦阴云密布！</p><p>尽管这将会给包括A股在内的市场带来冲击（美股上周五已经大幅下挫），但对受益于贸易反制措的题材或反而有望是契机。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9f3e59f70b56ce2503f3d0b1863379f6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-9f3e59f70b56ce2503f3d0b1863379f6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于二季度的机会在哪里？市场观点也是众说纷纭，但大体上较为一致看多的仍是中小创绩优股！</p><p>从机构的动向来看果真如此，<b>机构最新持仓和调研情况显示，其在上一季度还积极加仓蓝筹股，可转身又开始密集调研中小创公司。</b></p><p>而从作为市场中坚力量的<b>保险资金</b>来说，动作更明显：<b>抛售食品、零售、房地产，加仓中小创个股。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-dd73e618dbbec5dd071faf4f0edfdf01_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"419\" data-rawheight=\"258\" class=\"content_image\" width=\"419\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在股道君看来，二季度甚至更长一段时间内，市场行情机会有望围绕:<b>贸易争端受益+自主创新、进口替代</b>来做文章！</p><p>受贸易争端影响偏正面的行业主要有：<b>国防军工、有色金属（黄金）、农林牧渔、商贸零售、餐饮旅游（免税业）、医药、电子、计算机。</b></p><p>1、 其中，农林牧渔、商贸零售、医药（仿制药）、旅游（免税业）主要受益于进口替代逻辑；</p><p>2、 医药（创新药）、电子、计算机主要受益于自主创新逻辑；</p><p>3、 国防军工和黄金分别受益于贸易战演绎下的国际关系紧张及避险逻辑。</p><p>其中对于科技股的甄选，股道君认为，要选个股应当是符合国家战略、掌握核心技术、市场认可度高，属于互联网、大数据、云计算、人工智能、软件和集成电路、高端装备制造、生物医药等<b>高新技术产业</b>和<b>战略性新兴产业</b>，且达到相当规模的创新企业。</p><p>因为从美国发动的贸易战看，其主要意图是遏制《中国制造2025》，我们要反制，就要加大投入研发力度和提升自主核心技术掌握、创新能力！</p><p>从选股的领域看，股道君这里举例一些有可能受益的标的，给大家作为参考（比如）：</p><p>（1） 中国宣布对原产于美国的大豆等14类106项商品加征25%的关税。农产品是重点之一，标的如具有大豆、牛肉、猪肉概念的<b>大康农业（002505</b>），其他大豆概念：<b>北大荒、哈高科</b>等。</p><p>（2） 大飞机概念：航发科技、洪都航空、航天动力等。</p><p>（3） 芯片国产替代概念：有研新材、上海贝岭、长电科技等。</p><p>（4） 高端装备制造（<b>人工智能：</b>）：四维图新等。</p><p>（5） 5G通信相关：<b>光迅科技、烽火通信</b>等。</p><p>既然科技股有望是未来行情企稳后的机会，那么业绩将是其继续演绎的直接动力，而眼下一季报披露也正如火如荼展开，投资者可以从已经公布的业绩以管窥豹！</p><p>股道君最后这里给大家整理了部分业绩表现突出（<b>一季报预增中值100%以上个股</b>），主要是高科技行业和医药两大类：</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-b90debb625d8d46faef7e315b894b63b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"733\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-b90debb625d8d46faef7e315b894b63b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9e4714d6bc656db4cc9accedaa012bf6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-9e4714d6bc656db4cc9accedaa012bf6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后需要强调的是，以上举例的个股仅作为股道君给大家的一种思路和数据统计分享，不作为投资建议，特别是<b>贸易争端升级+美股暴跌</b>背景下，暂时保持谨慎为好！</p><p>文章来自“<b>股道禅院”</b></p><p></p>",
+                "comment_count": 0,
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjM1OTE1NSDYvKfWBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NDIyNDU1"
+        }
+    ]
+}

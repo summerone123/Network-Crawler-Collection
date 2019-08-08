@@ -1,0 +1,225 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439966804.40365",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439946509.94&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439946509.94100"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "川大为何会中枪(ฅ•﹏•ฅ)，难道我校其实内藏一个军事基地？想一想江安荒地。。。。emmm，还真有可能|•'-'•) ✧",
+                "created_time": 1558795348,
+                "id": 695102444,
+                "voteup_count": 6,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "辛夷",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/cd34fe4c85477831e7707b546956c575",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "xin-yi-99-6",
+                    "headline": "学生",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "badge": [],
+                    "id": "cd34fe4c85477831e7707b546956c575"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/695102444",
+                "question": {
+                    "title": "中国有哪些高等学校被列入美国的黑名单？美国有哪些黑名单？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274510928",
+                    "created": 1524548647,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274510928
+                },
+                "updated_time": 1558795348,
+                "content": "<p>川大为何会中枪(ฅ•﹏•ฅ)，难道我校其实内藏一个军事基地？</p><p>想一想江安荒地。。。。emmm，还真有可能|•'-'•) ✧</p>",
+                "comment_count": 3,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTU2NDQ5MzI5INSopecFKAYwA0AAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzI3Nzk4MXIJNjk1MTAyNDQ0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic3.zhimg.com/50/v2-661b9c0df18e0f4947ac9c4305cc3069_hd.jpg",
+                "updated": 1525166678,
+                "is_labeled": false,
+                "excerpt": "本文是毛泽东同志为纪念抗战两周年写的文章中华民族在日本侵略者面前，历来存在的劈头第一个大问题，就是战不战的问题。自“九一八”到卢沟桥事变之间，这个问题争论得很严重。“战则存，不战则亡”——这是一切爱国党派和一切爱国同胞的结论；“战则亡，不…",
+                "id": 36304486,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-661b9c0df18e0f4947ac9c4305cc3069_hd.jpg"
+                ],
+                "title": "文章推荐：《反对投降活动》",
+                "url": "http://zhuanlan.zhihu.com/p/36304486",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-57c680eb6ed12d32c4ef482ffa80c0ae_{size}.jpg",
+                    "name": "深海",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/6c5f384bbdd865384792c589a08dad58",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "shenhai1895",
+                    "headline": "本账号已归系统论学习小组使用。",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-57c680eb6ed12d32c4ef482ffa80c0ae_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "badge": [],
+                    "id": "6c5f384bbdd865384792c589a08dad58"
+                },
+                "created": 1525166679,
+                "content": "<p>本文是毛泽东同志为纪念抗战两周年写的文章</p><p>中华民族在日本侵略者面前，历来存在的劈头第一个大问题，就是战不战的问题。自“九一八”到卢沟桥事变之间，这个问题争论得很严重。“战则存，不战则亡”——这是一切爱国党派和一切爱国同胞的结论；“战则亡，不战则存”——这是一切投降主义者的结论。卢沟桥抗战的炮声，把这个争论暂时地解决了。它宣告：第一个结论是对的，第二个结论是错了。但是卢沟桥的炮声，为什么仅仅暂时地解决这个问题而没有最后地解决这个问题呢？<b>这是由于日本帝国主义的诱降政策，由于国际投降主义者的妥协企图，由于中国抗日阵线中一部分人的动摇性。</b>现时人们就把这个问题改变了一点词句，变为所谓“和战问题”，又提出来了。在中国内部，因而就掀起了主战派和主和派之争。他们的论点依然是一样，“战则存，和则亡”——主战派的结论；“和则存，战则亡”——主和派的结论。但是，主战派，乃是包括一切爱国党派，一切爱国同胞，全民族的大多数；主和派，即投降派，按其人数说来，则仅仅是抗日阵线中的一部分的动摇分子。因此，<b>所谓主和派，就不得不进行其欺骗宣传，而第一就是反共。</b>于是雪片一样地制造所谓“共产党捣乱”，“八路军、新四军游而不击，不听指挥”，“陕甘宁边区实行割据，向外扩展”，“共产党阴谋推翻政府”，乃至“苏联阴谋侵略中国”等等的假消息、假报告、假文件、假决议，用以蒙蔽事实的真相，企图造成舆论，达其主和即投降之目 的。主和派即投降派之所以这样做，因为共产党是抗日民族统一战线的发起者和坚持者，不反对它，就不能破坏国共合作，就不能分裂抗日民族统一战线，就不能投降。其次，就是寄其希望于日本帝国主义的让步。他们认为日本已经不行了，它将改变其根本政策，自动地退出华中、华南甚至华北，中国可以不要再打而取得胜利。<b>再其次，就是寄其希望于国际的压力。许多所谓主和派分子，他们不但希望各大国出来对日本压一压，迫使日本让步，以便讲和，而且还希望各国向中国政府的头上压一压，以便向主战派说：“你们看，国际空气如此，只得和吧！”“太平洋国际会议是有益于中国的，这不是什么慕尼黑，这是复兴中国的步骤！”</b>这些，就是中国主和派即投降派的整套观点，整套做法，整套阴谋。这一套，<b>不但汪精卫在演出，更严重的就是还有许多的张精卫、李精卫，他们暗藏在抗日阵线内部，也在和汪精卫里应外合地演出，有些唱双簧，有些装红白脸。</b></p><p>我们共产党人公开宣称：<b>我们是始终站在主战派方面的，我们坚决地反对那些主和派。</b>我们仅仅愿意和全国一切爱国党派、爱国同胞一道，巩固团结，巩固抗日民族统一战线，巩固国共合作，实行三民主义，抗战到底，打到鸭绿江边，收复一切失地，而不知其他。我们坚决地斥责那些公开的汪精卫和暗藏的汪精卫辈制造反共空气、挑拨国共磨擦、甚至企图再来挑动一次国共内战的阴谋。我们向他们说：你们这种分裂阴谋的实质，不过是你们实行投降的准备步骤，而你们的投降政策和分裂政策不过是出卖民族利益、图谋少数人私利的整个计划的表现；每个人民都有眼睛，你们的阴谋会被人民揭穿的。我们坚决地斥责那些认为 太平洋会议并非东方慕尼黑的无稽之谈。所谓太平洋会议，就是东方慕尼黑，就是准备把中国变成捷克。我们坚决地斥责那些认为日本帝国主义能够觉悟、能够让步的空谈。日本帝国主义灭亡中国的根本方针是决不会变的。武汉失陷后日本的甜言蜜语，例如放弃其所谓“不以国民政府为对手”的方针，转而承认以国民政府为对手，例如所谓华中、华南撤兵的条件，乃是诱鱼上钓取而烹之的阴险政策，谁要上钓谁就准备受烹。<b>国际投降主义者引诱中国投降，同样是他们的阴险政策。他们纵容日本侵略中国，自己“坐山观虎斗”，以待时机一到，就策动所谓太平洋调停会议，借收渔人之利。如果寄希望于这些阴谋家，同样将大上其当。</b></p><p>战或不战的问题，如今改成了战或和的问题，但性质还是一样，这是一切问题中的第一个大问题，最根本的问题。<b>半年以来，由于日本诱降政策的加紧执行，国际投降主义者的积极活动，主要地还是在中国抗日阵线中一部分人的更加动摇，所谓和战问题竟闹得甚嚣尘上，投降的可能就成了当前政治形势中的主要危险</b>；而反共，即分裂国共合作，分裂抗日团结，就成了那班投降派准备投降的首要步骤。在这种情形下，全国一切爱国党派，一切爱国同胞，必须睁大眼睛注视那班投降派的活动，必须认识当前形势中投降是主要危险、反共即准备投降这一个主要的特点，而用一切努力去反对投降和分裂。用全民族的血肉和日本帝国主义打了两个周年的战争，决不容许一部分人的动摇和叛卖。用全民族的努力所结成的抗日民族统一战线，决不容许一部分人的破坏和分裂。</p><p>战下去，团结下去，——中国必存。</p><p>和下去，分裂下去，——中国必亡。</p><p>何去何从？国人速择。</p><p><b>我们共产党人是一定要战下去，团结下去的。</b></p><p>全国一切爱国党派，一切爱国同胞，也是一定要战下去，团结下去的。 投降派的投降阴谋和分裂阴谋即使一时得势，最后也必被人民揭穿而受到制裁。中华民族的历史任务是团结抗战以求解放，投降派欲反其道而行之，无论他们如何得势，如何兴高采烈，以为天下“莫予毒也”，然而他们的命运是最后一定要受到全国人民的制裁的。</p><p>反对投降和分裂——这就是全国一切爱国党派、一切爱国同胞的当前紧急任务。</p><p>全国人民团结起来，坚持抗战和团结，把投降阴谋和分裂阴谋镇压下去啊！</p>",
+                "comment_count": 20,
+                "excerpt_title": "",
+                "voteup_count": 91,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjcxMjQ4NCDX5KDXBShbMBRAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2MzA0NDg2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic1.zhimg.com/50/v2-b1902ec6412672bd130ecd4128d974eb_hd.jpg",
+                "updated": 1559676272,
+                "is_labeled": false,
+                "excerpt": "如今，5G已经成为了全世界关注的热点，加上美国对华为的打压，更是将这个推向了新的热潮。5G时代的到来，看起来不只是公司与公司之间的竞争，还引发国家之间的竞争。来自中国的华为从2009年就开始了5G研发，凭借着过硬的技术赢得了市场第一，这让美国产生了…",
+                "id": 68083770,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-b1902ec6412672bd130ecd4128d974eb_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-e2a2c0bb5e33b8e4ed5ea6d8ba2d90aa_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-64719a428a7ddc24932361254d4e3c88_250x0.jpg"
+                ],
+                "title": "5G全球新霸主诞生：即将反超华为，软银和中国移动都有贡献订单",
+                "url": "http://zhuanlan.zhihu.com/p/68083770",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-692ff11cc66d07f39f2c08c85cde74af_{size}.jpg",
+                    "name": "环视社会圈",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/c89cbaafd7cf1e222e9a92b55c5c529b",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "shao-dan-hui-66",
+                    "headline": "时间如水 总是无言",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-692ff11cc66d07f39f2c08c85cde74af_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "badge": [],
+                    "id": "c89cbaafd7cf1e222e9a92b55c5c529b"
+                },
+                "created": 1559676272,
+                "content": "<p>如今，5G已经成为了全世界关注的热点，加上美国对华为的打压，更是将这个推向了新的热潮。5G时代的到来，看起来不只是公司与公司之间的竞争，还引发国家之间的竞争。来自中国的华为从2009年就开始了5G研发，凭借着过硬的技术赢得了市场第一，这让美国产生了畏惧感，在全球范围内宣传华为的安全问题，拉动英国、日本、澳大利亚、新西兰、加拿大五大忠实盟国抵制华为5G，眼看依旧无法阻挡，索性直接动用国家力量来封杀。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e2a2c0bb5e33b8e4ed5ea6d8ba2d90aa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"421\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-e2a2c0bb5e33b8e4ed5ea6d8ba2d90aa_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>如今来看，美国的丑陋目的可能真的要达到了，就在今日有媒体爆料，<b>诺基亚的5G订单已经达到了42个，与华为持平</b>，很有可能实现反超，成为新的5G霸主。<b>借着美国打压华为之际，诺基亚从3月下旬以来就获得了12个5G订单，平均每周拿到一份5G合作协议，</b>上升速度非常快。目前，这个事件并没有结束，诺基亚很有可能趁机继续上涨。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-64719a428a7ddc24932361254d4e3c88_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"585\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-64719a428a7ddc24932361254d4e3c88_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>估计连诺基亚也没想到幸福来得如此之快，根据市场研究公司Dell&#39;Oro Group的数据显示，2018年前三季度的全球五大电信设备厂商的排名分别是：华为、诺基亚、爱立信、思科以及中兴通讯。<b>华为排名第一，市场份额高达28%，而第二名的诺基亚只有17%左右，</b>两者相差巨大。没想到在2019年的5月就打成了平手。</p><p><b>诺基亚的5G订单从哪里来？</b></p><p>据了解，诺基亚的5G订单主要来自北美、韩国和欧洲，总共有42家运营商。北美和韩国都是华为没能拿到订单的地方。</p><p>在<b>2018年7月，诺基亚拿下美国第三大运营商T-Mobile，签订了一份35亿美元的5G合作协议</b>，帮助T-Mobile进行全球5G部署。这份订单创下了有史以来全球最大的5G合同，大大的提升了诺基亚的业绩。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-bc41e6995894118ba9c60f30ac0e7e82_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"373\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-bc41e6995894118ba9c60f30ac0e7e82_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>此外，<b>2018年，中国移动与诺基亚签订了价值10亿欧元(约合78亿元人民币)的框架协议，诺基亚将为中国移动提供一系列的5G技术支持</b>。不过，这并不是最终的合同，国内的5G商用牌照还没正式发放，建设也才刚起步，华为应该还是能获得了三大运营商的支持。在4G时代，三大运营商主要是和诺基亚、爱立信等外资巨头合作。目前，华为42个5G订单中，没有来自中国本土的。</p><p>还有一个就是来自日本的软银，<b>软银4G的合作方是华为，但在美国打压华为之际，却快速的抛弃华为，选择了诺基亚。</b>作为阿里的第一大股东，在中国赚上千亿的日本首富，孙正义这回真是让国人看到了商人利益至上的丑陋一面。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-30c7d4446e8dade1fba4e4c3cb4e921a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"448\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-30c7d4446e8dade1fba4e4c3cb4e921a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>作为全球最重要的市场之一，美国被诺基亚和爱立信瓜分了，中国的华为和中兴无份。此次华为被打压，欧洲一些国家和韩国都表示不会拒绝华为，但是也没签下和华为的合作，只有迪拜和俄罗斯给了华为5G订单，算是非常不错的支持。</p><p><b>没落的手机霸主，崛起的5G对手</b></p><p>提起诺基亚，相信无人不知无人不晓，这个在功能机时代，称霸全球十几年的手机巨头，曾让苹果、三星、华为都只能望其项背。多款机型的销量至今没有品牌能超越，可见当时有多火。可惜的是在智能机来临时，却掉队衰落，手机业务两度被卖，虽然早两年又收回来了，推出了一些机型，但已经没有了机会，反响平平。</p><p>不过，没想到的是诺基亚竟然要在通信设备领域实现逆风翻盘。目前来说，华为最大的对手就诺基亚了。论专利总数，诺基亚可能比不过华为，<b>截止到2018年底5G专利数，华为是1970件，排名第一，而诺基亚1471件，排名第二，两者相差的并不算多。</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-54319a85152f3a42d543077887d6cf3a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"618\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"618\" data-original=\"https://pic3.zhimg.com/v2-54319a85152f3a42d543077887d6cf3a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>实际上，在做手机的时代，诺基亚就已经布局了通信设备。总共拥有1.6万件专利，涵盖2G、3G、4G专利，进入的时间一点都不比华为晚。而且，其4G长期演进技术LTE标准必要专利，让华为、小米等手机厂商都要交专利费。</p><p>5G时代，诺亚基更是高歌猛进，接连收购了西门子，阿尔卡特—朗讯，上海贝尔等公司，进一步壮大了诺基亚的5G实力。<b>据诺基亚的2018年第四季度财报显示，销售额达到了68亿欧元，5G就贡献了90%。</b></p><p>可以看得出，诺基亚想在5G时代，实现对华为的反超。如今全球环境复杂，华为虽然拥有最多的专利，但是因为美国打压，对其5G发展极为不利。一些懦弱的国家，虽然表示不会受美国禁令的影响，但为了讨好美国，也不一定会选择华为，比如日本就是最好的典型。</p><p>鹬蚌相争，渔翁得利，诺基亚如今是最大的受益者。在技术上来说，华为依旧是全球最强的，就如任正非所说，对手要2到3年才能追得上华为。<b>5G也才刚刚起步，一切都还没定，相信华为能够靠着技术实力征服全球，拿下全球第一。</b>别忘了中国也是全球最大的市场之一，在关键时刻，相信移动、联通、电信三大运营商还是会支持华为的。</p>",
+                "comment_count": 2,
+                "excerpt_title": "",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMjU4NDU5IPCK2+cFKAQwAkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjgwODM3NzA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-d25cee9da8816b86717adf52b9e50c26_hd.jpg",
+                "updated": 1526287640,
+                "is_labeled": false,
+                "excerpt": "种种迹象显示“中兴事件”正迎来转机！ 5月6日晚，中兴公告称已正式向美国商务部提交了关于暂停执行拒绝令的申请，并根据BIS指引提交了回应拒绝令的补充材料。 目前，美国商务部正在审查中兴的申请！ 5月12日，中兴发动发动被制裁以来的第一轮媒体公关，接…",
+                "id": 36835199,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-d25cee9da8816b86717adf52b9e50c26_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-b17ee661b7f84d4cabd26d83728b82d4_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-95206d4fbf9688e3f3811ee760c27441_250x0.jpg"
+                ],
+                "title": "为什么说美国99.99%会放中兴一马？",
+                "url": "http://zhuanlan.zhihu.com/p/36835199",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-c1f6e48add759c4cd720e54cbdf40c47_{size}.jpg",
+                    "name": "金银岛主",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "法律"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/c034ac589504208c25db246d47a32327",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "i_Foxcoon",
+                    "headline": "大话股房两市，财经时政解读",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-c1f6e48add759c4cd720e54cbdf40c47_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "badge": [],
+                    "id": "c034ac589504208c25db246d47a32327"
+                },
+                "created": 1526287640,
+                "content": "<p>种种迹象显示</p><p>“中兴事件”正迎来转机！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>5月6日晚，中兴公告称已正式向美国商务部提交了关于暂停执行拒绝令的申请，并根据BIS指引提交了回应拒绝令的补充材料。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前，美国商务部正在审查中兴的申请！<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>5月12日，中兴发动发动被制裁以来的第一轮媒体公关，接受华尔街日报采访，为自己的过错进行了辩护：没遵守与美国政府达成的和解协议是因内控失误，而非故意欺骗；美国作出的销售禁令处罚措施过重。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这一举动极不寻常！中兴似乎得到了某一种的暗示，中兴可能会被“禁售令”松绑。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>果然不出所料！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>喜欢“推特治国”的川普又发推了，内容令人惊喜！</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5月13日晚，美国总统川普在推特上说，自己正和我方一号“共同努力，以找到快速恢复中国大型通讯公司中兴业务的办法。”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这是中兴事件发生以来特朗普第一次发声，给人无限遐想！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b17ee661b7f84d4cabd26d83728b82d4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"629\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"629\" data-original=\"https://pic1.zhimg.com/v2-b17ee661b7f84d4cabd26d83728b82d4_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以这是要“特赦”中兴的节凑么？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国对中兴通讯颁布的7年禁售令，无异于判了「死刑」。中兴惟一的活路，只有获得美国政府「特赦」，从特朗普相当“友善““软化”的推特内容看，中国政府在谈判桌上做的不错，特朗普也乐意给“自己的好朋友”一点面子，为即将到来的中美第二轮高层级贸易谈判造势，不要搞得那么僵！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普的推特为中兴打开一扇窗、溜进一点曙光。但真的能如此乐观吗？美国政府真的会特赦中兴么？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>可以99.99%的说，会！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴活下来必定是中国贸易谈判成果之一，如果连这个都办不到，那就太不像话了，不但中国政府没法向国民交代？美国政府也会失去自己的谈判筹码，中美贸易摩擦的大背景下，中兴很不合时宜的犯了低级错误，被人抓住了小辫子，中国政府虽然“哀其不幸，怒其不争”，可毕竟是“自己的孩子”，不能也不会见死不救。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国这一招“攻其必救”可谓老谋深算。让中兴”休克”一阵子，既制裁震慑违反美国法律的“犯禁者”，也为自己在谈判桌上添加筹码。一箭双雕，其心不可谓不阴险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>中国与日本</b></h2><h2><b>中兴与东芝</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>历史事件不会简单重覆，但有时确会极其相似。要评估中兴获特朗普政府放中兴一马的机会有多大，可以重温一下80年代日本东芝公司事件。东芝当年因违反西方禁令、向前苏联出口技术，最终招致美国严厉制裁。与今日的中兴事件，竟然出奇地相似。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当时正值西方与共产阵营的冷战时代，西方对社会主义国家的出口受到「巴黎统筹委员会的限制。当年，苏联想发展静音潜艇，避开美国监控，要实现这个计划，必须获得“五轴联动数控机床”；但在西方禁令下，苏联苦无渠道。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了突破技术封锁，苏联情报部门1979年想办法与日本伊藤忠商社、东芝公司和挪威康士堡公司接上了头，在巨大的商业利益的诱惑下，东芝公司和康士堡公司同意向苏联提供四台相关设备，此项合同成交额达37亿日圆。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此事本来是悄悄进行，但“意外”在1985年12月发生，日苏秘密协议当事人之一、日本和光公司的熊谷独因与僱主发生纠纷而辞职，并愤而向「巴统」主席盖尼尔‧陶瑞格揭发了东芝事件，陶瑞格立即要求日方调查此事。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-95206d4fbf9688e3f3811ee760c27441_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"576\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic2.zhimg.com/v2-95206d4fbf9688e3f3811ee760c27441_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>后来，美国并没有手软，对东芝公司进行了制裁，禁止东芝进入美国市场3年，这就是著名的「东芝事件」。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>正在上演的中美贸易战中的「中兴事件」和当年的「东芝事件」至少在3方面非常相似。</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>1、制裁的借口相似。中兴和东芝都是向美国要求禁运的国家出口设备，中兴是向伊朗，东芝是向苏联。<br/><br/>2、制裁的背景相似。两家公司都是在贸易战过程中被制裁的，都是贸易战的受害者。<br/><br/>3、都是美国的地位被挑战的历史时期发生的。当时日本正挑战美国在世界的经济地位，现在则是中国的经济追赶对美股构成威胁。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>但至少也有三方面决然不同</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote><b>1、中国没有在美国的压力下逮捕调查中兴公司责任人，更没有判刑。</b><br/>当年日本通产省对东芝公司进行调查时，东芝公司以预先签署的假合同和其它技术文件为证，对此事矢口否认，但是经过进一步调查，1987年初，美国人掌握了苏联从日本获取精密机床的真凭实据。<br/><br/><br/>在美国的压力下，1987年5月27日，日本警视厅逮捕了日本东芝机械公司铸造部部长林隆二和机床事业部部长谷村弘明。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><blockquote><b>2、中国的世界大国地位非日本当年可比。</b><br/>中国不仅仅取代日本成为世界第二经济大国，更重要的是中国是核武大国、联合国常任理事国，国土面积和美国相当、人口远超过美国，环顾全球中国是唯一有足够能量和美国一争雌雄的世界大国。日本当年仅是经济强国，没有核武器，也不是联合国常任理事国。国家地位的不同就决定了，虽然是相似事件，美国在处理时的考量顾忌也会不同。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><blockquote><b>3、美国自身的国际地位也非当年可比。</b><br/>犹记当年美国在里根总统的带领下国力如日中天，活生生拖垮了前苏联，一跃成为全球唯一的超级大国，主导全球话事权30多年。当此之时，美国说NO，谁敢说Yes？不过今时今日的美国已不复往昔风采，川普屡屡退出国际公约，在很多事情上已经不是引领者，而是退出者，美国的盟友本指望特朗普能振臂高呼，带领大家好好干，没想到为了自家利益，美国干脆撂挑子，不干了！实力的此消彼长，美国影响力的蒸蒸日下，也决定了美国不能像当年那样颐指气使，也没有了“阎王叫你三更死，不会留人到天明“的底气。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>时与势，对手与自己，都决定了美国虽来势汹汹，却也不能不顾忌中国的实力和利益。我相信，刀下留人的圣旨正快马奔腾向菜市口，只待那时辰已到，监斩官下令的一刻，手持圣旨的使者赫然一声：“慢！”</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴老弟，以后赚钱可以，不要到处给国家捅娄子！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-43bfcf06e0f2906738f4de4d616c5107_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"26\" class=\"content_image\" width=\"129\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>你可能还想看：</b></p><p><u># <a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1MjY2ODU5Mg%3D%3D%26mid%3D2247483751%26idx%3D1%26sn%3D99fa1c5818d13456e08c4ca6ef1bd2eb%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">朝鲜宣布改革开放，中国这个城市房价2天暴涨57%！</a></u></p><p>#  <u><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1MjY2ODU5Mg%3D%3D%26mid%3D2247483786%26idx%3D1%26sn%3D69ccaa6fb5a3cc6b6ad289bc62d52280%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">对雷军的最后一战：董明珠终将赢得10亿世纪赌约！</a></u></p><p>#  <u><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1MjY2ODU5Mg%3D%3D%26mid%3D2247483711%26idx%3D1%26sn%3Dff2120fd5b3b74957ca665400b78ef00%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这个房价1年涨超30%的城市，我买了3套！</a></u></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e8f3dfe76377caeb615c7d6c85e1d489_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"679\" data-rawheight=\"617\" class=\"origin_image zh-lightbox-thumb\" width=\"679\" data-original=\"https://pic2.zhimg.com/v2-e8f3dfe76377caeb615c7d6c85e1d489_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b075e97c5581f2de7700640378b9b025_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"401\" class=\"origin_image zh-lightbox-thumb\" width=\"704\" data-original=\"https://pic2.zhimg.com/v2-b075e97c5581f2de7700640378b9b025_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>长按识别二维</p>",
+                "comment_count": 11,
+                "excerpt_title": "",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjkyNDg2NSCYmuXXBSgEMAtAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2ODM1MTk5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1542718332,
+                "is_labeled": false,
+                "excerpt": "美东时间11月19日，美国商务部工业安全署（Department of Commerce, Bureau of Industry and Security, BIS）出台了一份针对关键技术和相关产品的出口管制框架，考虑的管制涉及14个领域，包括生物技术，人工智能，深度学习，定位导航，微处理器技术等 这份…",
+                "id": 50443242,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-13f4fa5090782579334e607027fb7d61_250x0.jpg"
+                ],
+                "title": "美国史上最严技术管制名单发布",
+                "url": "http://zhuanlan.zhihu.com/p/50443242",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-d3347790024ca38baef37d818ccad9d2_{size}.jpg",
+                    "name": "Outsider",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/b1004a670140a226f719296243c022ab",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "outsider-2-42",
+                    "headline": "投资研究员",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-d3347790024ca38baef37d818ccad9d2_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "badge": [],
+                    "id": "b1004a670140a226f719296243c022ab"
+                },
+                "created": 1542718332,
+                "content": "<p> 美东时间11月19日，美国商务部工业安全署（Department of Commerce, Bureau of Industry and Security, BIS）出台了一份针对关键技术和相关产品的出口管制框架，考虑的管制涉及14个领域，包括生物技术，人工智能，深度学习，定位导航，微处理器技术等</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-13f4fa5090782579334e607027fb7d61_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"604\" data-rawheight=\"557\" class=\"origin_image zh-lightbox-thumb\" width=\"604\" data-original=\"https://pic2.zhimg.com/v2-13f4fa5090782579334e607027fb7d61_r.jpg\"/></figure><p>这份出口管制框架将同时开始对这些新兴技术的出口管制面向公众征询意见。征询意见的开始时间是美国当地11月19日，为期一个月。此次征求意见将令商务部和其他机构审查和评估新兴技术，以更新出口管制清单。<br/><br/>BIS主要通过商务管制清单对具体出口商品进行监管。凡是在管制清单上拥有出口管制分类编码（Export Control Classification Number, ECCN），且未得到豁免的商品出口均受出口管制。<br/><br/>考虑的管制涉及14个领域，包括生物技术，人工智能，深度学习，定位导航，微处理器技术等。<br/><br/><b>1、生物技术，例如纳米生物学；合成生物学；基因组和基因工程；神经科学。</b><br/><br/><b>2、人工智能（AI）和机器学习技术，例如：神经网络和深度学习（例如，脑模拟、时间序列预测、分类）；进化和遗传计算（例如遗传算法、遗传编程）；强化学习；计算机视觉（例如，物体识别、图像理解）；</b><br/></p><p><b>专家系统（例如决策支持系统，教学系统）；语音和音频处理（例如，语音识别和制作）；自然语言处理（例如机器翻译）；规划（例如，调度、博弈）；音频和视频处理技术（例如，语音克隆、deepfakes）；AI云技术；AI芯片组。</b><br/><br/><b>3、定位、导航和定时（PNT）技术。</b><br/><br/><b>4、微处理器技术，例如：片上系统（SoC）；片上堆栈存储器。</b><br/><br/><b>5，先进的计算技术，例如：以内存为中心的逻辑（Memory-centric logic）。</b><br/><br/><b>6、数据分析技术，例如：可视化；自动分析算法；语境感知计算。</b><br/><br/><b>7、量子信息和传感技术，例如：量子计算；量子加密；量子传感。</b><br/><br/><b>8、物流技术，例如：移动电力系统；建模和模拟系统；资产总体可见度；基于配送的物流系统（DBLS）。</b><br/><br/><b>9、增材制造（例如3D打印）。</b><br/><br/><b>10、机器人，例如：微型无人机和微型机器人系统；集群技术；自组装机器人；分子机器人；机器人编译器；智能微尘。</b><br/><br/><b>11、脑机接口，例如：神经控制接口；意识-机器接口；直接神经接口；脑-机接口。</b><br/><br/><b>12、高超音速空气动力学，例如：飞行控制算法；推进技术；热保护系统；专用材料（用于结构、传感器等）。</b><br/><br/><b>13、先进材料，例如：自适应伪装；功能性纺织品（例如先进的纤维和织物技术）；生物材料。</b><br/><br/><b>14、先进的监控技术，例如：面印和声纹技术。</b><br/><br/>商务部在前期通知中说，审查新兴和基础技术的过程中，会考虑这些技术在国外发展的情况，出口管制可能会对美国这类技术发展产生的影响，以及出口管制在限制这些新兴技术向国外扩散的效力。<br/><br/>按照《出口管理条例》的规定，除了公开发行的技术与软件、人文与非科技的出版物、以及部分受其他机构管辖的商品（如军品、核原料等），所有美国境内的货物、美国境外由美国生产的货物、利用美国原材料、技术等生产的他国货物，均在《出口管理条例》监管的范围内。其核心内容是限制或禁止任何人或公司与特定国家或特定公司进行和管制物品相关的交易。“出口许可证”是EAR管控出口商品的主要手段。出口企业主要通过以下四个维度对于是否需要申请许可、申请何种许可进行判断：出口货物类别、出口目的地国、出口货物最终用户和出口货物最终用途。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>根据BIS给出的这份管制条例，生物技术，人工智能，深度学习，定位导航，微处理器技术这些基本都属于新兴技术。之前8月份美国就对中国的高端军用技术实施过封锁，而这次涉及的是更为全面的军事（含军民两用）相关出品、国家安全机密、高新技术类。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>虽然这次技术管制没有明确表示针对中国，但从目前的世界格局来讲，中国受到的伤害是最大的：第一，对美技术引进和技术合作的难度将增加；第二，对美投资并购难度和成本会增加；第三，我国全球人才、留学生自由流动和科研合作将受影响。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如今，中国航空航天、信息技术、生物技术等核心技术领域迅猛发展，但与美国等“科技大国”相比仍有很大差距，核心关键技术仍大量依赖进口。尤其是2017年12月印度继日本、俄罗斯、韩国等亚太国家成为《瓦森纳协定》的第42个成员国，美国通过该协定对我实施技术封锁的意图进一步明显。</p>",
+                "comment_count": 0,
+                "excerpt_title": "",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjUQBxoIMTAyNzA4NDQg/IbQ3wUoAjAAQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg1MDQ0MzI0Mg=="
+        }
+    ]
+}

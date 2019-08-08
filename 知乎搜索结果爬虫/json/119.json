@@ -1,0 +1,219 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1462054515.72399",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1461331606.38&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1461331606.38062"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526347491,
+                "is_labeled": false,
+                "excerpt": "注：这篇文章是写给所谓的焦虑的中产阶级、无产阶级，以及没有实打实移民能力的中国公民看的，如果您已经移民或本身便是外国人，或者是有随时移民的所谓的精英的话，请自觉离开，以防阅后产生不适感。 如果看完了我开头的注释您也希望能够看下去的话，那这…",
+                "id": 36839323,
+                "topic_thumbnails": [],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-c2d05446e608091bd06b1fdd2e429795_{size}.jpg",
+                    "badge": [],
+                    "name": "零级风",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "知之为知之，不知就猜",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-c2d05446e608091bd06b1fdd2e429795_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/4366c1fee28e108c168f95c4097d1f39",
+                    "type": "people",
+                    "url_token": "chuai-pan-feng",
+                    "id": "4366c1fee28e108c168f95c4097d1f39",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36839323",
+                "title": "关于屁股（立场）问题",
+                "created": 1526292048,
+                "content": "<p>注：这篇文章是写给所谓的焦虑的中产阶级、无产阶级，以及没有实打实移民能力的中国公民看的，如果您已经移民或本身便是外国人，或者是有随时移民的所谓的精英的话，请自觉离开，以防阅后产生不适感。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果看完了我开头的注释您也希望能够看下去的话，那这篇文章说不定就是在对您说话，所以请不要介意将我和您们放在一个类别里，如果有冒犯，还请包涵。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       这个世界上能做到真正了解自己的人并不多，对于大部分人有时甚至不知道自己应该信任谁才能维护好自己的利益。而且信任对人是非常重要的，因为在重要问题上信任错了人，对于所谓的中产阶级来说，可能导致的后果少则损失数万，多则倾家荡产，因此信任谁的话是一件十分重要的事。而且，由于普通人占据了社会的主要部分，所以我们的选择的集合十分重要。因此，想要知道我们应该主要关注什么样的话，对于选择信任什么样的信息十分总要，简单来讲就是屁股问题十分重要，需要知道自己坐在哪个位置，通过自己的位置来判断自己应该支持哪一派的观点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以下为我的分析。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>      首先，中产阶级是较为脆弱的一个团体，说脆弱有一定的抗风险能力，说有能力，却又是最容易受到损失的一个群体。所以，别的不说，稳定是十分重要的。以叙利亚为例，叙利亚战争数年，高层的没有什么事，受到的损失可控，甚至可以发战争财，对于底层平民，加入军队，甚至成为恐怖分子都是十分常见的，反正没什么区别。唯独对于中产阶级，一下子从小康跌入了底层，好一点的偷渡，移民，当难民，差一点的就是沦为底层，然后加入武装集团，沦为棋子。所以，不要说不稳定没有必要，在不稳定中，除了少部分，没有人能够获利，获得的永远是大量的损失。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       因此对于有些信息，我们需要能够鉴别他到底是在阐述事实还是在散播恐慌。恐慌会制造动荡，损失的是中产阶级。以这次中美贸易战，中兴受到处罚为例，许多看似学识渊博的“大V”用生动细致的数据说明了一个问题——中美差距十分巨大，甚至是追不上的。这些，在我看来就是在制造，散播恐慌。是的，不可否认的是这个事件十分巨大，中美之间的差距悬殊（也有被刻意扩大化的部分），但是，这不是完全追不上，而且就算是落后一代两代也不是完全不能用。所以，如果仅仅是把这个东西说了出来，那就是在耸人听闻，散播恐惧。因为，说出来了这些，但是没有提出任何的有效方案，没有说一般性的可接受的最低点是什么，只能搞得人心惶惶，或者干脆就是在暗示投降。但是投降明显不是一个可行的方案，毕竟苏辙《六国论》里讲的很清楚，而且投了降，日本就近在眼前，甚至更严重。所以，一上来就对你说“差距太大你打不过”，但你自己又不能投降，所以现在你除了得到了一份恐惧的心理，“要输了怎么办”的想法以外，没有得到任何有用的东西。这不是在散播恐慌是什么？总结来说，这要么是屁股坐歪了，要么就是刻意的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       当然，他们这样说的原因最终还是我们中产阶级掌握了一定的力量，毕竟我们是消费主体，对于他们的生产能够产生一定的反馈作用，钱都是从我们这里挣过去的，所以，大部分这样说的人就是想让我们直接投降，到他们那里高价买东西。但我们如果稍微支持一点，对内的影响都是很大的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       另外，在这次事件中，他们，公知们，拿着几年十几年前的房地产政策批判说现在已经晚了，早了干什么去了，吸引了一大波关注。他们说的对不对？对，就是有问题，我也想骂，这虚高的房价弄得我苦不堪言。但是，拿着这个错误来说事，说现在已经晚了，就是在散播恐慌。有一位答主（忘了是哪一位了），说：“发展半导体和芯片产业最好的时机是十年前和现在。”这句话十分正确，因为过去的错误现在需要解决也正是在解决的时候。但是有些人无视国家和市场已经做出来的补救，疯狂地拿着追不上了的言论在说话，这个不是在散播恐慌吗？归根到底还是投降论，什么也不做投降，多好，呵！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       到这里，我对知乎产生了一个疑问，有些明显是站在中国对立面地言论为什么就进了知乎呢？有些人，坐在美国日本欧盟，上着中国的知乎，对大部分没有移民发达国家能力的网民说着“你国药丸”的言论。这对于他们是有利的，毕竟中国崩溃了钱都到他们手里了，但我们必须明白一个问题，我们乱了，少的是自己的钱，自己的生活水平，所以为什么要跟着他们的话呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       最后，对于政府态度，这个就见仁见智了。在我看来（轻喷），现阶段，尽管房价搞得有些怨声载道，但大致上，政府和tg还是和广大人民群众相向而行，利益基本一致。而且，就算你不信任她，也没有更好的信任对象，信任公知是一件更傻的事。不，说不准公知可以信任的，因为他们举出的数据还是比较正确，就是动机不纯而已。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>      总结：我们这些信息的接受主体，应该对信息有一定的筛选能力，对于一些刻意散播恐慌的话题应该驳斥他们，说出自己的观点。不要求我们所谓的环绕在中国共产党的周围，稳住就是最好的。要有定力，不要随便被投降主义洗了脑。</p><p>更新：</p><p>针对有人说我的日本论据有问题，我就在这里说一下。日本的经济很发达，发达到平均水平我们还有很大差距。但是，在90年代后，他们的发展陷入停滞，就是说生活没了盼头。现在在国内你还可以盼着涨个工资什么的不是？如果中国做出了当年日本一样的妥协，小了就是经济停滞（想想中日差距，对于大部分人，停滞了可就是不可能有他们那样的生活水平了），生活水平提高只能靠熬，大了就是崩溃破产，反正好处一个没有。</p><p>警惕带路党。</p>",
+                "comment_count": 5,
+                "excerpt_title": "",
+                "voteup_count": 26,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjkyNjUyMiDQvOXXBSgaMAVAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2ODM5MzIz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1531475215,
+                "is_labeled": false,
+                "excerpt": "今天，一条大新闻引爆了朋友圈，联合国秘书长古特雷斯亲自宣布推出数字合作高级别小组，担任小组联合主席的是阿里巴巴集团董事局主席马云、比尔及梅琳达·盖茨基金会联合创始人梅琳达·盖茨。 小组将包括来自企业、民间组织和学术界的20名成员，覆盖联合国…",
+                "id": 39697625,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-4dadce01ada23edc2236f5458a55a9a8_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-bfb37c0e36cba83917e089c1989821d5_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-3272fad36685942187759d79e65ecef9_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-1ef527abe94e8ba0b001c78eebb94df3_{size}.jpg",
+                    "badge": [],
+                    "name": "HTK汇客厅",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "汇客厅是一家专注金融领域活动推荐服务金融人的线上平台。官方公众号：HTK汇客厅",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-1ef527abe94e8ba0b001c78eebb94df3_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/4828775649bab3d84d2df377b1e4528a",
+                    "type": "people",
+                    "url_token": "hui-ke-ting-66",
+                    "id": "4828775649bab3d84d2df377b1e4528a",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/39697625",
+                "title": "外星人要逆天？马云再次受邀就职联合国！",
+                "created": 1531475216,
+                "content": "<p>今天，一条大新闻引爆了朋友圈，联合国秘书长古特雷斯亲自宣布推出数字合作高级别小组，担任小组联合主席的是阿里巴巴集团董事局主席马云、比尔及梅琳达·盖茨基金会联合创始人梅琳达·盖茨。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-4dadce01ada23edc2236f5458a55a9a8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"595\" data-rawheight=\"647\" class=\"origin_image zh-lightbox-thumb\" width=\"595\" data-original=\"https://pic1.zhimg.com/v2-4dadce01ada23edc2236f5458a55a9a8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>小组将包括来自企业、民间组织和学术界的20名成员，覆盖联合国官员和来自全球17个国家的卓越领导者，有全球网络空间稳定委员会主席Marina Kaljurand，挪威、瑞士、阿联酋和博茨瓦纳等国的四位部长，“互联网之父” Vinton Cerf、诺贝尔经济学奖得主Jean Tirole等。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-bfb37c0e36cba83917e089c1989821d5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"1589\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic2.zhimg.com/v2-bfb37c0e36cba83917e089c1989821d5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这已经是马云在联合国兼任的第三份职务了!2016年初，马云和挪威首相索尔贝格等被选为联合国“可持续发展目标”倡导者；2016年9月，时任联合国秘书长潘基文邀请马云出任联合国贸发会议青年创业和小企业特别顾问。前两份的邀请者都是联合国前任秘书长潘基文，对中国人来说这在联合国历史上还是头一次。马云的任职彰显了我国在国际上影响力的持续扩大，以及以马云为代表的中国企业家全球影响力的诠释。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-3272fad36685942187759d79e65ecef9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"213\" class=\"content_image\" width=\"320\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>对马云个人而言实际上意味着马云已经成为联合国高官，或者说享有联合国高官所有权力。这对马云而言说明马云不仅是中国的，也是世界的。马云已经成为世界公民。马云出任联合国高官，享有联合国红色特别通行证可以说是名至实归。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-37cc1fd74660e3c560b618691d2bb17f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-37cc1fd74660e3c560b618691d2bb17f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>联合国贸易和发展会议秘书长基图伊(MukhisaKituyi)表述的更清楚、更准确：“马云是互联网时代具有影响力和受尊重的先锋、创新者、企业家、和公益慈善家,”他说：“他带来了有远见的创业方式、对于学习的渴望以及一个更美好的世界。这些都是他成为贸易和发展会议特别顾问的完美诠释。我们将一起去帮助在全球化进程中落后的团体,为他们带来希望以及自强的动力。” 实际上，马云出任联合国特别顾问和享有联合国红色特别通行证的权力，意味着他肩上的担子更重了。摆在眼前的重任就是在全球推动eWTP。阿里巴巴是中国新经济的驱动力,这为农民、女性,以及任何希望加入全球经济的带来机会。在杭州G20上提出的eWTP 是非常重要的理念,马云无可争议地被联合国官员、欧美发达国家政府、新兴市场国家政府等共同认可为是最出色的新经济领导者。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d928478a14e65fd6ed78f7f4ecd1b622_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"484\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-d928478a14e65fd6ed78f7f4ecd1b622_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>正如世界银行行长金墉表示的那样，“马云创造了这样一种经济——无论在多穷多远的地区，人们都能参与全球市场。这是一种能够使世界摆脱极度贫穷，创建包容性世界经济的精神。这种精神在马云的基因里，也在阿里巴巴的基因里。”马云与众多阿里元老创建阿里时，提出的“让天下没有难做的生意”一直是他们的信条，正因为这一大方向上的正确性，让阿里在今天成为亚洲上市公司市值第一的企业。</p><p>如今全球贸易存在着各种各样的问题，美国可以依靠自己的优势随意制裁其他弱小国家。任何个人背后最大的靠山都是自己的国家。任何个人在国际上的成就、荣耀背后反映的都是自己国家的实力与地位。折射出中国在国际事务中的话语权在提高，实力地位在增长，制定与决定国际游戏规则的参与度、决定权都在提高。为中国企业、企业家自豪与骄傲。</p><p>希望中国有更多的马云一样的企业家脱颖而出为中国企业，中国企业家，中国人民争光！</p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/Lj-bw7-EqOLXrfug92o8\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/Lj-bw7-</span><span class=\"invisible\">EqOLXrfug92o8</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p>",
+                "comment_count": 0,
+                "excerpt_title": "",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNzg4MzQ1NSCQ6qHaBSgEMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM5Njk3NjI1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic3.zhimg.com/50/v2-9d4e6d13fffef154cf23375444f1ca6b_hd.jpg",
+                "updated": 1534304398,
+                "is_labeled": false,
+                "excerpt": "行情每到低迷的时候，斗小三、抓明星、打老虎就就成为群众喜闻乐见的小节目跃入大家的视线。前天在某券商的500人电话会议的时候，东吴证券分析师马浩博的，老婆跳出来实名举报其包养小三、嫖娼被抓，甚至带着小三到家里睡（脑内高潮一下）。这些不过是生活…",
+                "id": 42068747,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-9d4e6d13fffef154cf23375444f1ca6b_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-b4014d296f1b9f9c0d75d236dce3469d_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-436214619ebf7d97b9d53b46d216a9a6_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "gender": 0,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "id": "59f9ee507a47989029fb9080b3489cff",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/42068747",
+                "title": "腾讯没有护城河？胡说！",
+                "created": 1534295338,
+                "content": "<p>行情每到低迷的时候，斗小三、抓明星、打老虎就就成为群众喜闻乐见的小节目跃入大家的视线。前天在某券商的500人电话会议的时候，东吴证券分析师马浩博的，老婆跳出来实名举报其包养小三、嫖娼被抓，甚至带着小三到家里睡（脑内高潮一下）。这些不过是生活作风的问题，但这位思路清晰的女士接下来说的，就是值得整个行业去深思了。这位妻子举报自己老公乱写研究报告，乱拉票，赚脏钱赚黑钱。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b4014d296f1b9f9c0d75d236dce3469d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"653\" data-rawheight=\"509\" class=\"origin_image zh-lightbox-thumb\" width=\"653\" data-original=\"https://pic2.zhimg.com/v2-b4014d296f1b9f9c0d75d236dce3469d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>后来经自媒体爆料，确实这位马分析师曾经写过福成股份（600965）的深度研究报告，然而当时他并没有去过这家公司调研，其报告也遭该上市公司发公告澄清被生生打了脸。菠菜由于工作原因和券商卖方研究员也有过较多接触，大多数研究员还是很专业负责的，不乏有一些行业内的个别人写的不客观缺乏事实依据。更有甚者，去和人家公司领导吃顿饭，按照上市公司丢过来的材料写一篇就发了。但这些你但从报告本身是看不出来的，对于广大投资者就杯具了。</p><p>作为普通投资者，研究报告还是要看的，最好能自己去多了解公司。这里菠菜特别推荐中金的报告，还是很有水平的。也许是因为我平时看宏观的比较多一些，至少宏观不涉及具体公司，都是在公开渠道获得数据，相对参考价值更大一些。</p><p>今天A股成交量极度萎缩，港股也跌的比较多（恒生创了年内的新低），很多人就站出来找各个上市公司的毛病。比如说腾讯没有今日头条那样的算法系统，没有护城河云云。菠菜也算是新媒体行业内的人，也与阿里、腾讯、百度都有入驻协议（星空实际入驻的平台有13家）。腾讯是这些平台里沟通最无障碍，履约能力最强的，更重要的是腾讯是一家很赚钱的公司。每个人对信息的获得能力是很有限的，比如我，每天一般阅读量在5万字左右，已经算是中等偏高的。利用算法找到的那些信息，很多都是浪费我的阅读时间。我非常的不喜欢看无聊的视频，更喜欢看干货的文字观点，因为节省时间。就目前某头条对我推送的东西基本都是满足不了我的阅读需求，因此我并不依赖该平台。相反，我依赖更多的是搜索功能，以及行业内提供的专业数据库。</p><p>简单的说，在这个争夺用户的红海里，龙头企业是有绝对优势的。它的护城河是<b>庞大的用户数量，以及获得用户粘性的产品</b>。微信的发家还不是依赖QQ导流？只要有个好的产品能黏住用户，用户量就是价值。说到底流量经济还是要看用户基数是不是足够大。如果腾讯都被说成没有护城河，那Facebook有？用这个逻辑去理解腾讯参股拼多多也就讲通了，毕竟拼多多属于<b>稀缺平台</b>（注：这里不代表我看好拼多多，我已经被砍价烦死了。谁找我砍价我拉黑谁）。因此分析一个公司不能脱离行业背景，那些掌握C端客户的企业营业额是相对稳定的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-436214619ebf7d97b9d53b46d216a9a6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"373\" data-rawheight=\"414\" class=\"content_image\" width=\"373\"/></figure><p>这个道理放到中美XX站上是同样的道理。中国每年有数百万的高校毕业生，就拿今年来说，也有820万。这些劳动力的质量是印度和其他东南亚国家无法比拟的，很多制造业除非特别简单的工作，否则只有中国能提供。中段制造业的需求不会因为XX站而被遏制，相反，只要我们继续扩大开放的力度，把政策环境建设好，一定会有人进来。</p><p>今天的世界已经变得非常不好被单边主义控制，因为单边主义的政治成本极高。不要总拿中国和日本相比，日本由于二战基本军事力量都被美国控制，很难逃脱。中国做世界老二的今天，美国至今没能找到抑制中国发展的更好办法。</p><p>做个不恰当的比喻，<b>美国撒下一张网，他们称之为规则，试图困住中国和其他国家。然而中国人最擅长的是在不被注意的时候每天拿小刀划破一个小口。这样日积月累，那张网终于破了。然而，美国人还会发现，中国人在破网的同时，自己还织了一张自己的网</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-7802e65ceeb713274e88314dd00baa60_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"146\" class=\"origin_image zh-lightbox-thumb\" width=\"503\" data-original=\"https://pic1.zhimg.com/v2-7802e65ceeb713274e88314dd00baa60_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>作为股市投资者，每次划破的那个口子正是我们在寻找的机会。这时候，少一点八卦，多一点用心研究政策、行业、公司。我周一的文章就明确说了本周可能会先抑后扬，现在成交量低是好事，正是反复寻底的过程。什么时候汇率企稳，市场也就跟随了。现在还在读菠菜文章的，不是老韭菜就是老炮，此刻还有什么焦虑的？不过是等待政策一个个的落地的时间问题，实在焦虑就干脆锁仓到明年二季度左右也就差不多了。思路：</p><ol><li>靠人头赚钱的行业。大消费，以及一切与民生相关的刚需；</li><li>科技。短板最短的行业，获得支持最多的公司，高校科研背景的公司；</li><li>基建。拉动GDP明显的只有基建，关注上下游相关公司，排除掉产能过剩的某些行业，比如水泥；</li><li>周期性行业。只有老炮可参与，特点是不用担心手慢，做一波就撤。</li></ol><p>如果以上都不适合，确实不会选股，开始怀疑人生时，可以考虑公募基金。为啥不推荐私募呢，一个是私募现在门槛高，二是因为出来混迟早要还的，秋后算账还没算完了（我只能写到这了，意会吧，高勇不是最后一个）。即使没被这轮抓到，下轮也没有机会了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a682beaac7813bfc71e15c4dcb3953ba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"499\" data-rawheight=\"181\" class=\"origin_image zh-lightbox-thumb\" width=\"499\" data-original=\"https://pic3.zhimg.com/v2-a682beaac7813bfc71e15c4dcb3953ba_r.jpg\"/></figure><p></p>",
+                "comment_count": 1,
+                "excerpt_title": "",
+                "voteup_count": 8,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHODQxMDcyMiCq+s3bBSgIMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQyMDY4NzQ3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic1.zhimg.com/50/v2-c8cca48bc27b9c3cb31cb6216660b36f_hd.jpg",
+                "updated": 1523306338,
+                "is_labeled": false,
+                "excerpt": "这是与美国实现平起平坐关键一击 从美国的反应来看，很显然，他们在中国有线人，他们选择先发制人地挑起贸易战 内心os “你你还是老老实实地在国际分工链最低端给我打苦工吧，真没想到你还想骑到我头上来，不就是仗着我欠你钱最多吗，那又怎么样，当初日本…",
+                "id": 35479502,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-c8cca48bc27b9c3cb31cb6216660b36f_hd.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-d154d21ac08a18aead90ec3968962451_{size}.jpg",
+                    "badge": [],
+                    "name": "上官迷人",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "读万卷书行万里路",
+                    "gender": 0,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-d154d21ac08a18aead90ec3968962451_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/211741cd4b89d45e082b1945ca75337e",
+                    "type": "people",
+                    "url_token": "shuangguancaimi",
+                    "id": "211741cd4b89d45e082b1945ca75337e",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35479502",
+                "title": "“中国原油期货上线”＋“中国高精尖产业崛起“将挑战旧世界秩序",
+                "created": 1523306338,
+                "content": "<p>这是与美国实现平起平坐关键一击</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>从美国的反应来看，很显然，他们在中国有线人，他们选择先发制人地挑起贸易战</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>内心os “你你还是老老实实地在国际分工链最低端给我打苦工吧，真没想到你还想骑到我头上来，不就是仗着我欠你钱最多吗，那又怎么样，当初日本不也是这样，瞧瞧人家下场，要是你们这么崛起了，叫我怎么跟别国吹牛逼，让他们跟我混</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，中国高精尖产业的崛起，不只是意味着中国从美国的贸易中赚更多钱，这只是其次，最重要的是人才之争和话语权之争</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国真正崛起是二战后，整个欧洲陷落，绝大部分高端人才都移民去了美国，中国的高精尖产业崛起，会触发国际大量高端人才向中国流动，此消彼涨的关系，一旦趋势形成大概率上是不可逆的，就像当前的港台地区娱乐圈一样，人才虹吸入中国大陆， 更高品质的产品会吸引更多消费者，虹吸更多资本也更愿意卷入.........2016年中国人才净流入已为正，前不久，中国宣布了新政政策，只要你能证明你有华人血统，将获得5到10年中国签证，这意味着未来全世界的华人，将像潮水一般地涌入中国，然后外国人慕名而来的的趋势越来越明显，当前中国小伙娶个美貌俄国姑娘越来越常见</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国这一战，等于向全世界宣布，中国已经具备了威胁美国高精法产业的实力和潜力，全世界都知道了，中国真的刷够了存在感</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>一波未平一波又起，中国推出原油期货，这真的在挖美国祖坟了，美国成为世界金融霸主的是透过布雷顿森林体系，让全世界是持有美元，后来虽然解体了，但大势已成，美国华尔街擅于故意运用金融手段，制造金融体系的不稳定，剪各国羊毛，制造只有美元才是最安全的心理暗示，屡屡得手，连前苏联都成了历史</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>但对于中国像吃了苍蝇一样的难受，中国最不缺的能力就是从历史中吸取教训，读过书的人大概都能想起，历史中说过的，东汉末年，土地兼并严重，人民流离失所，，，，，，，，，中国有五千年的本国史，还有数不尽的它国历史，这些都是宝贵的财富，在十几年前美国又以逆差为由要求人民币升值时，全国人民可能都警惕了，拖啊拖，</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国目前是原油进口大国，但定价权是以美元为锚点，华尔街操控石油价格的能力从两桶油与华尔街对赌，亏成狗就能看出来，我强烈怀疑，当年是故意的，想试探美国的操控能力，这样的能力，中国赚再多美元外汇也没用，但为何现在才推出人民币结算呢</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>很简单，时间到了，中国gdp已到世界第二，一年增量就能是0.7个日本，4个英国，英国近此年一直跟中国走得很近，过去为何不敢？瞧瞧反抗美元石油结算秩序的下场，看看中东地区的乱像，美国说出兵就出，但现在中国也有原子弹，也有航母，，，，加上2020现有国际空间战报废，只有中国自主研发的空间战存在了，美国敢派兵中国？</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在就看各国站队了，，中国有着全世界最完整的工业体系，我们什么都能造，凭石油资源你可以买作何东西，实在不行，你买黄金吧，说是这么说，谁会买黄金？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>怎么安全运回去？黄金能吃饭吗？所以做出这样的承诺的背后是信心</p><p class=\"ztext-empty-paragraph\"><br/></p><p>至于什么比率买？什么时候交付？怎么交付？这些的解释定价权都在中国政府手里，哈哈哈，</p><p class=\"ztext-empty-paragraph\"><br/></p><p>真是精采，未来的10年，我们都将见证中国的腾飞</p>",
+                "comment_count": 5,
+                "excerpt_title": "",
+                "voteup_count": 18,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjM4MjA0NiDinq/WBSgSMAVAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjEwNzY1NHIIMzU0Nzk1MDI="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic2.zhimg.com/50/v2-4074a0e383722fa896c773d50860736a_hd.jpg",
+                "updated": 1524558594,
+                "is_labeled": false,
+                "excerpt": "《福布斯》网络版日前刊发研究公司文章称，由于美国的制裁，中国电信设备制造商中兴通讯将无法运营，并将在数周内申请破产。而今天的《人民日报》第三版显要位置刊登了一篇题为《中兴通讯——尽最大努力保护全球用户利益》的文章。文内提到，截至2017年12月…",
+                "id": 36063354,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-4074a0e383722fa896c773d50860736a_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-2bf06bcec7853db5b8c5029d83c30f75_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-9c959f0156d8c0f540a1a8aa1419b74d_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-722d499040743675465b5e083fb77295_{size}.jpg",
+                    "badge": [],
+                    "name": "专利君",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "服务新知的知识产权人",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-722d499040743675465b5e083fb77295_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/99ef0b4940257e9844cf21c9d29ad9ff",
+                    "type": "people",
+                    "url_token": "zhuan-li-jun",
+                    "id": "99ef0b4940257e9844cf21c9d29ad9ff",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36063354",
+                "title": "如果中兴破产了，它的海量专利怎么办？",
+                "created": 1524558578,
+                "content": "<p>《福布斯》网络版日前刊发研究公司文章称，由于美国的制裁，中国电信设备制造商中兴通讯将无法运营，并将在数周内申请破产。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-2bf06bcec7853db5b8c5029d83c30f75_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-2bf06bcec7853db5b8c5029d83c30f75_r.jpg\"/></figure><p>而今天的《人民日报》第三版显要位置刊登了一篇题为《中兴通讯——尽最大努力保护全球用户利益》的文章。文内提到，截至2017年12月31日，中兴通讯累计拥有6.9万余件全球专利资产、已授权专利资产超过3万件，其中，5G战略布局专利全球超过1700件；2017年，中兴通讯以2965件PCT国际专利申请占据PCT国际专利申请人第二名的位置，并连续8年国际专利申请量位居全球前三。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-9c959f0156d8c0f540a1a8aa1419b74d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"246\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-9c959f0156d8c0f540a1a8aa1419b74d_r.jpg\"/></figure><p>且不论中兴到底掌握多少核心技术，不可否认的是，它手上握有大批量的专利，那么问题来了，如果中兴真的破产，它拥有的专利还继续有效吗？将如何处理？</p><p>这是个具有普适性的问题。</p><p>不管是个人拥有还是公司拥有的专利，只要专利还在保护期限内，并且每年缴纳年费，那么相关专利是不会无效的。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-941b8ebaaa51170108378f2fdd1ccff5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-941b8ebaaa51170108378f2fdd1ccff5_r.jpg\"/></figure><p>对于公司拥有的专利，如果其营业执照被注销后，专利的主体资质证明就失效了，相关专利权也会自动失效。如果一家倒闭的公司其营业执照没有注销，公司名称没有变更，只是法人、股东进行了变更，只要按时缴纳年费，其专利权并不会失效。</p><p>包括专利在内的知识产权是一种无形资产，是公司财产的一部分，将会用于破产清算。一般来说，破产管理人会在注销营业执照前，将该公司拥有的专利以资产拍卖的方式将这些专利权转移给个人或其他公司。一旦公司注销，专利权转移手续就很难办理了。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a92b618f5de3bed3a9bd3d0c83f20f4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-a92b618f5de3bed3a9bd3d0c83f20f4d_r.jpg\"/></figure><p>目前已经有坊间评论说，中兴有可能在产品业务停掉之后，开始做专利运营的生意。也就是说，中兴有可能拿起专利武器，毕竟在5G无线、核心网、承载、终端等领域，它都煞费苦心地进行了多年专利布局。</p><p>如果中兴不做实业了，如果它还有这个“闲心”转型做专利运营，拿起手里的专利武器，确实也够不少产业链上下游的国内外公司应付一阵子了。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b7d0ec373d15d3ea794b25d946ee656d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic2.zhimg.com/v2-b7d0ec373d15d3ea794b25d946ee656d_r.jpg\"/></figure><p>我们熟悉的诺基亚，就有点靠着专利运营佛系过活的感觉，在剥离手机业务的那几年，诺基亚就是靠着专利授权费做到了股价翻番，包括苹果、三星、HTC、黑莓、LG、索尼、摩托罗拉、华为等近 40 家公司都需要向诺基亚缴纳专利授权费。在不少人还在无限怀念诺基亚手机的时候，诺基亚却被悄悄地封上了“专利战神”的响亮名号。</p><p>中兴未来会走什么样的路呢？</p><p><b>本文为“专利君”原创，转载请联系作者获得授权。本文图片来自网络，图片版权属于原作者</b></p><p><b>欢迎关注“专利君”，一起放眼前沿新知，唤醒知识产权意识，喜看科技创新成果转化</b></p>",
+                "comment_count": 0,
+                "excerpt_title": "",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjYxNTc5NiDy1fvWBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjExMjY4N3IIMzYwNjMzNTQ="
+        }
+    ]
+}

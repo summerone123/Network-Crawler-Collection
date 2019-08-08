@@ -1,0 +1,251 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5476.12521",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=5482.0848&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5482.08480"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "1. 这件事说明了 IEEE 有权进行这样的限制，他们也可以为了政治原因做出这样的限制；2. IEEE 撤销限制的声明里没有任何致歉的意思。也就是说，他们认为他们所做的没有任何问题；3. 撤销声明的原因是美国政府，也就是说中国学者的抗议他们根本不 care, 只是…",
+                "created_time": 1559534355,
+                "id": 703770903,
+                "voteup_count": 5037,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/4109864a6d5a521ea72629db1bc84ea1_{size}.jpg",
+                    "badge": [
+                        {
+                            "topics": [
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "数学",
+                                    "introduction": "数学（mathematics，源自希腊语 μάθημα（máthēma）；经常被缩写为 math 或 maths），是研究数量、结构、变化、空间以及信息等概念的一门学科。从某种角度看，属于形式科学的一种。数学家和哲学家对数学的确切范围和定义有一系列的看法。而在人类历史发展和社会生活中，数学也发挥着不可替代的作用。数学也是学习和研究现代自然科学、技术与社会科学必不可少的基本工具。",
+                                    "excerpt": "数学（mathematics，源自希腊语 μάθημα（máthēma）；经常被缩写为 math 或 maths），是研究数量、结构、变化、空间以及信息等概念的一门学科。从某种角度看，属于形式科学的一种。数学家和哲学家对数学的确切范围和定义有一系列的看法。而在人类历史发展和社会生活中，数学也发挥着不可替代的作用。数学也是学习和研究现代自然科学、技术与社会科学必不可少的基本工具。",
+                                    "is_vote": false,
+                                    "url": "http://www.zhihu.com/api/v4/topics/19554091",
+                                    "avatar_url": "https://pic4.zhimg.com/50/3dc1abe04_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19554091"
+                                }
+                            ],
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "name": "王希",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "EE"
+                    },
+                    "headline": "IIE 密码学，喜欢数学",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/4109864a6d5a521ea72629db1bc84ea1_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/79b988ec04a51afb1f36346be9db74ea",
+                    "type": "people",
+                    "url_token": "wang-xi-65-12",
+                    "id": "79b988ec04a51afb1f36346be9db74ea",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/703770903",
+                "question": {
+                    "title": "如何看待 IEEE 最新声明解除华为对编辑和同行评审活动的限制？",
+                    "url": "http://www.zhihu.com/api/v4/questions/327636736",
+                    "created": 1559524399,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 327636736
+                },
+                "updated_time": 1559534355,
+                "content": "<p>1. 这件事说明了 IEEE 有权进行这样的限制，他们也可以为了政治原因做出这样的限制；</p><p>2. IEEE 撤销限制的声明里没有任何致歉的意思。也就是说，他们认为他们所做的没有任何问题；</p><p>3. 撤销声明的原因是美国政府，也就是说中国学者的抗议他们根本不 care, 只是因为美国政府并没有想通过这种方式限制。说白了，这只是他们揣测美国政府的意图揣测错了而已。</p><p><br></p><p>总而言之，我们之前对这件事的背后意义的解读都还存在，除了华为暂时性的没有受到影响以外，没有任何问题被解决。</p>",
+                "comment_count": 73,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkQQBBoJMTU4MDI2MjIwIJO20ucFKK0nMElAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMzUwODQ3MDVyCTcwMzc3MDkwMw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559385463,
+                "is_labeled": false,
+                "excerpt": "美国“禁华为令”已经轰轰烈烈闹了近半个月 正当全世界都在为华为抱不平时 华为却不慌不忙，微笑地发布了他们拍摄的<b>第一支裸机P30Pro竖屏电影《悟空》</b>一改华为以往的沙雕剧情蔡成杰导演用P30 Pro以竖屏的形式拍出了一部奇幻的精彩电影网友们看完惊呼我仿佛…",
+                "id": 67753427,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-0da77f0c76f9741cc0f812855f014a0f_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-217e7ca9ae86c3450a2e13aa7b3f7652_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-fc7cf5390c996c24b1a9e8df24e48dcd_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-40635de511e75dfed6cc0d8bd61f6c71_{size}.jpg",
+                    "badge": [],
+                    "name": "nothing",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-40635de511e75dfed6cc0d8bd61f6c71_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/783b79bc90d790d82d0d6f0a4b2e6b2f",
+                    "type": "people",
+                    "url_token": "nothing-32-80",
+                    "id": "783b79bc90d790d82d0d6f0a4b2e6b2f",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67753427",
+                "title": "被美国封杀的第8天，华为淡定发布最新短片：愿你永远不知天高地厚",
+                "created": 1559385162,
+                "content": "<p>美国“禁华为令”已经轰轰烈烈闹了近半个月</p><p>　正当全世界都在为华为抱不平时</p><p>　华为却不慌不忙，微笑地发布了他们拍摄的</p><p><b>第一支裸机P30Pro竖屏电影《悟空》</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-217e7ca9ae86c3450a2e13aa7b3f7652_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1947\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-217e7ca9ae86c3450a2e13aa7b3f7652_r.jpg\"/></figure><p>一改华为以往的沙雕剧情</p><p>蔡成杰导演用P30 Pro以竖屏的形式</p><p>拍出了一部奇幻的精彩电影</p><p>网友们看完惊呼</p><p>我仿佛真的回到了童年</p><p>那记忆里老家墙上的黑白照片</p><p>故事讲述了一位</p><p>从小怀揣着悟空梦的农村男孩</p><p>为了实现去电影院看《悟空》的梦想</p><p>用自己好不容易省吃俭用买来的钢笔</p><p>跟村里的朋友换了张</p><p>《大闹天宫》的电影票</p><p>结果却换来父亲一顿毒打</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b714909eaaaab3528865a1527ea73da8_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"345\" data-rawheight=\"627\" data-thumbnail=\"https://pic1.zhimg.com/v2-b714909eaaaab3528865a1527ea73da8_b.jpg\" class=\"content_image\" width=\"345\"/></figure><p>最心爱的悟空人偶</p><p>也被父亲扔出了门外</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-fc7cf5390c996c24b1a9e8df24e48dcd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-fc7cf5390c996c24b1a9e8df24e48dcd_r.jpg\"/></figure><p>母亲心疼地问儿子“电视里天天都演，为啥非得去城里”</p><p>严厉的父亲不支持，温柔的母亲不理解</p><p>但好不容易得来的电影票，怎能就此放弃</p><p>看来梦想的道路，注定要孤独远行</p><p>取西经况且要经历九九八十一难</p><p>“我有金箍棒、手电筒和小刀，我就是天下无敌”</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-0199da5fd8d576b6b1c9f0ecb6e167ed_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"529\" data-thumbnail=\"https://pic2.zhimg.com/v2-0199da5fd8d576b6b1c9f0ecb6e167ed_b.jpg\" class=\"content_image\" width=\"300\"/></figure><p>就这样，小男孩踏上了穿山越岭旅途</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-521c0c2ec9a4f22a763f1890bdfb84b6_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"529\" data-thumbnail=\"https://pic3.zhimg.com/v2-521c0c2ec9a4f22a763f1890bdfb84b6_b.jpg\" class=\"content_image\" width=\"300\"/></figure><p>树枝刮破了男孩的衣裳</p><p>　　山石擦破了小男孩的脸庞</p><p>　　毒蛇咬伤了他的腿</p><p>　　猛兽吓退了小男孩前往城里的路</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-33fa3cc8315ee9dad84f91485a24df1e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"371\" data-rawheight=\"657\" class=\"content_image\" width=\"371\"/></figure><p>但小男孩没有因此退缩</p><p>咬我，那我就把你烤来吃掉</p><p>终于有一天</p><p>他搭上了路人去城里的便车</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-f00a032212fca48a0c832bc2aace1b9f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"529\" data-thumbnail=\"https://pic4.zhimg.com/v2-f00a032212fca48a0c832bc2aace1b9f_b.jpg\" class=\"content_image\" width=\"300\"/></figure><p>然而等待他的</p><p>正如悟空所经历的“九九八十一难”</p><p>前方是叫天天不应，叫地地不灵的路</p><p>而他又是如何历经“劫难”去看的电影呢？</p><p>他最终电影看成了吗？</p><p>本以为六一儿童节的影片应该是欢快的</p><p>但当无数网友看完后却陷入了沉思</p><p>看完这部短片</p><p>不少网友在被华为P30 Pro的</p><p>摄影技术惊艳到的同时</p><p>还将影片中的小男孩与华为自身做对比</p><p>“这小男孩”不就是华为吗？“</p><p>回忆华为最近发生的各种新闻：</p><blockquote>5月15日，特朗普宣布美国进入国家紧急状态，将华为列入了其一份会威胁美国国家安全的“实体名单”中，禁止华为从美国企业那里购买技术或配件。<br/>5月20日，谷歌确认已切断与华为的商业往来，谷歌将停止对华为智能手机及平板电脑的Android（安卓）操作系统升级。<br/>5月26日，WIFI联盟宣布暂时撤销华为的会员资格，这意味着华为未来将无法参与无线技术标准的制定。</blockquote><p>而每当我们看到这些新闻时</p><p>都在担忧”华为是不是要扛不住了？“</p><p>但华为的回应是：</p><p>“鸿蒙初辟原无姓，打破顽空须悟空。”</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-dfd61ccb8c49fd52328e9e98a8b82ffa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-dfd61ccb8c49fd52328e9e98a8b82ffa_r.jpg\"/></figure><p>它就如以悟空为理想的小男孩一般</p><p>一路怀揣着梦想，翻山越岭</p><p>哪怕不被理解，也不改初心</p><p>当挫折和逆境不断来临时</p><p>哪怕被孤立无援，依旧能自力更生</p><p>在黑暗中披荆斩棘</p><p>相信华为在经历了这些磨难后</p><p>会有更美好的未来在等待着它！</p><p>公众号：本质青年</p>",
+                "comment_count": 271,
+                "image_url": "https://pic4.zhimg.com/50/v2-0da77f0c76f9741cc0f812855f014a0f_hd.jpg",
+                "excerpt_title": "",
+                "voteup_count": 5082,
+                "type": "article"
+            },
+            "attached_info": "CjgQBxoJMTAzMTg1MTQwIMqoyecFKNonMI8CQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg2Nzc1MzQyNw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "潮退了才知道谁在裸泳。真干起来才知道对方有多么无耻。这件事再次让我们看清了如下事实:1.别人的武器(现在可以加上公司，技术，协会）再好也是用来打你的，如果需要，连一个送快递的都可以捅你一刀。自己的武器，公司，技术，协会再差也是保护你，为你服务…",
+                "created_time": 1559355975,
+                "id": 701844754,
+                "voteup_count": 1296,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-7ef43041ae312da8b061dd5fec0bfc59_{size}.jpg",
+                    "badge": [],
+                    "name": "王一点寒",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "愿为清流",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-7ef43041ae312da8b061dd5fec0bfc59_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/b35e6ebba24a6f3d35757293a404df3d",
+                    "type": "people",
+                    "url_token": "wang-yi-dian-han",
+                    "id": "b35e6ebba24a6f3d35757293a404df3d",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/701844754",
+                "question": {
+                    "title": "如何看待华为称「联邦快递未经授权，把两个寄往中国的包裹转运至美国」一事?",
+                    "url": "http://www.zhihu.com/api/v4/questions/326518795",
+                    "created": 1559013290,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 326518795
+                },
+                "updated_time": 1559355975,
+                "content": "<p>潮退了才知道谁在裸泳。真干起来才知道对方有多么无耻。这件事再次让我们看清了如下事实:</p><p>1.别人的武器(现在可以加上公司，技术，协会）再好也是用来打你的，如果需要，连一个送快递的都可以捅你一刀。自己的武器，公司，技术，协会再差也是保护你，为你服务的。</p><p>2.西方的经济并不自由，甚至比独裁更甚。没来由地限制你准入和经营，阻止你收购，还强迫别的国家也不跟你合作。</p><p>3.西方的公司表面上不是国企，但实质上比国企更甚。关键时刻，可以立刻民转军不顾形象地冲上战场为国家烧杀抢掠干些不齿之事。</p><p>4.不只高通，谷歌，苹果，甚至什么蓝牙协会，SD协会，以至送快递的，这些你平时或赞美，或抢购，赚着你们钱的，被你们当做灯塔的公司，或者你连听都没听过的一些牛鬼蛇神协会，甚至跟技术八竿子打不着的一送快递的，都能被用来制裁你，恶心你，调查你。原来，凡是西方的公司，在他们商人的外表下，都穿着军装啊。只是平时他们伪装成一副人畜无害的样子，跟你推杯换盏，称朋道友，一旦需要，立刻就能脱下伪装捅你一刀。连送快递的都如此，还有什么公司不能如此呢？这在平时，你又怎么可能想到，原来在你身边潜伏着如此多的杀手？对方的渗透真可谓无孔不入。那么阿迪呢？耐克呢？所有其他西方公司呢？你对他们的看法还如以前一样吗？这次我们被人背后捅刀，又何尝不是好事呢？之前的5G投票让我们看到了谁是汉奸，如今，又让我们看到了谁是特务。对方的派兵布阵一层层揭开了。真是大开眼界啊，原来战争还可以这么玩，可以玩到这个境界。自伊拉克战争以后，美国人又当了一回我们的老师。用星爷的话说，我怎么会猜得到，一个小朋友会有这么多口水……</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-0bd0f1111c21d577893323d9a97e29bc_b.jpg\" data-rawwidth=\"2244\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-da047071c52b7d880de9a8119cfa0488_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"2244\" data-original=\"https://pic2.zhimg.com/v2-0bd0f1111c21d577893323d9a97e29bc_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2244'%20height='1080'&gt;&lt;/svg&gt;\" data-rawwidth=\"2244\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-da047071c52b7d880de9a8119cfa0488_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2244\" data-original=\"https://pic2.zhimg.com/v2-0bd0f1111c21d577893323d9a97e29bc_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-0bd0f1111c21d577893323d9a97e29bc_b.jpg\"></figure><p>5.我之前多次提到，欧美的文化是强盗文化。欧美人的本性就是强盗。这次毫无廉耻地把别人快递直接拿回家偷看，还有一点物权观念吗？还有一点隐私观念吗？以莫须有罪名入侵伊拉克，棱镜门，美国人的本性大家应该看清了吧。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-ee365af61ff0a9653508341042926c14_b.gif\" data-rawwidth=\"300\" data-rawheight=\"168\" data-size=\"normal\" data-thumbnail=\"https://pic1.zhimg.com/50/v2-ee365af61ff0a9653508341042926c14_b.jpg\" class=\"content_image\" width=\"300\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='168'&gt;&lt;/svg&gt;\" data-rawwidth=\"300\" data-rawheight=\"168\" data-size=\"normal\" data-thumbnail=\"https://pic1.zhimg.com/50/v2-ee365af61ff0a9653508341042926c14_b.jpg\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-ee365af61ff0a9653508341042926c14_b.gif\"></figure><p>6.我之前还提过，日韩不是正常国家，而是殖民地。这次快递事件再次验证了这一点。</p><p>在华为被制裁之前，美国制裁伊朗，制裁朝鲜，制裁俄罗斯。我们也就是听个新闻。当制裁真落到你头上了，才知道，原来制裁竟是如此地残酷，美国竟是如此地没有底线。</p><p>在华为被制裁之前，我们岁月静好，身边的“朋友”还是朋友，送快递的还是送快递的，卖芯片的还是卖芯片的，服务是如此地贴心，关系是如此地融洽，生活是如此地惬意，一切是那么的理所应当，以至你以为这就是永恒了。谁会想到这些昔日如此亲密的朋友会像机械公敌中的机器人一样一夜之间对你显露杀机？你又如何能接受这一切？毕竟，他们赚着我们的钱，他们曾经是那样敬仰的存在。我们甚至会为赞美他们而贬低自己。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-62a88acdc5b71d2906d4a339a740296e_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-3c3489b89dda3e3efe88aa7500148444_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-62a88acdc5b71d2906d4a339a740296e_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='1080'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-3c3489b89dda3e3efe88aa7500148444_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-62a88acdc5b71d2906d4a339a740296e_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-62a88acdc5b71d2906d4a339a740296e_b.jpg\"></figure><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-611ff813e13032318f184a3e32e55f22_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-c5b61e17ce058fd547b3669be5a8aff4_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-611ff813e13032318f184a3e32e55f22_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='1080'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-c5b61e17ce058fd547b3669be5a8aff4_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-611ff813e13032318f184a3e32e55f22_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-611ff813e13032318f184a3e32e55f22_b.jpg\"></figure><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-96bb779508c149a1259aaa464d61d1cf_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-ba5858db11bc759e09470e69441e91ce_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-96bb779508c149a1259aaa464d61d1cf_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='1080'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-ba5858db11bc759e09470e69441e91ce_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-96bb779508c149a1259aaa464d61d1cf_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-96bb779508c149a1259aaa464d61d1cf_b.jpg\"></figure><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-cf60ca490a9ef69f5669c3632ba874e4_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-728085fcb44a2b50431a4be22b080350_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-cf60ca490a9ef69f5669c3632ba874e4_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='1080'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-728085fcb44a2b50431a4be22b080350_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-cf60ca490a9ef69f5669c3632ba874e4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-cf60ca490a9ef69f5669c3632ba874e4_b.jpg\"></figure><p>然而，一切都变了，当幻象破灭，真实面目显现，你才知道，原来，这个世界一直都是残酷的，只是有人为你负重前行而已。</p>",
+                "comment_count": 70,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-f8310268471550e945984eef207e742b_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-9ccecebfd3b14b511e6f00e3cf70af41_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-3e8e760a706c12b994b22bb9004174de_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic2.zhimg.com/v2-f8310268471550e945984eef207e742b_200x112.jpg"
+            },
+            "attached_info": "CkQQBBoJMTU3Njc1OTM1IMfEx+cFKJAKMEZAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMzQ4MzU4NzFyCTcwMTg0NDc1NA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559283720,
+                "is_labeled": false,
+                "excerpt": "文 | 何欣颜 李栩然<b>1</b> 2019年5月14日。这一天是中美打响“贸易战”以来颇具喜感的一天，注定会以一种奇特的形式被铭记。美国福克斯商业频道美女主播Trish Regan，在该电视台黄金档时评节目中态度强硬地表示：<b>“我们（美国）没有选择，唯有一（贸易）战。”</b> …",
+                "id": 67632738,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-7dcc87aa989474d397e03ca204564f9f_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-dafaaff5108c79af3619108fd4799070_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-21fb3e5c323ef7ebbf24b4531fc47179_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/c2d70554f69b037e4aa1c7b49f4b3805_{size}.jpg",
+                    "badge": [],
+                    "name": "李栩然",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "关注微信公众号：栩先生，可加个人微信。",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/c2d70554f69b037e4aa1c7b49f4b3805_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/346e6a236a66d2d9eddb5827a25d0d0d",
+                    "type": "people",
+                    "url_token": "li-xu-ran-94",
+                    "id": "346e6a236a66d2d9eddb5827a25d0d0d",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67632738",
+                "title": "中美主播约战：承认中国变强了，真的很难吗？",
+                "created": 1559283720,
+                "content": "<p>文 | 何欣颜 李栩然</p><h2><b>1</b> </h2><p>2019年5月14日。</p><p>这一天是中美打响“贸易战”以来颇具喜感的一天，注定会以一种奇特的形式被铭记。</p><p>美国福克斯商业频道美女主播Trish Regan，在该电视台黄金档时评节目中态度强硬地表示：</p><p><b>“我们（美国）没有选择，唯有一（贸易）战。”</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-dafaaff5108c79af3619108fd4799070_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"581\" data-rawheight=\"315\" class=\"origin_image zh-lightbox-thumb\" width=\"581\" data-original=\"https://pic1.zhimg.com/v2-dafaaff5108c79af3619108fd4799070_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>她旗帜鲜明地指出，中国目前取得的经济繁荣，是建立在“美国付出利益代价”的基础之上；</p><p>山姆大叔（美国）及白宫是彻头彻尾的“经济战”受害者、无辜善良的“傻白甜”；</p><p>她甚至3次措辞激烈地表示，“中国人数年来从美国人那里“偷走”了数十亿美元“；该节目甚至宣称“对华贸易战开打，美国占上风，现在不打就迟了”。</p><p>5月22日，中央广播电视总台中国国际电视台主播刘欣在节目中反击称：</p><blockquote>“Trish Regan (以下称翠茜) 在14日节目中的言论过于主观，只能算是怒火中烧的情绪宣泄，其言论的实质性依据无法溯源、所引用的数据也只是断章取义、以偏概全。”<br/> </blockquote><p>翠茜随后在节目中火爆回应刘欣的言论，并于23日在个人推特上激情发出约辩邀请。</p><p>北京时间5月30日早晨8点26分，中美建交以来第一次主播电视辩论正式开始。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>2</b></h2><p>在这场举世瞩目的“女主播世纪论战”中，我们不难看出，翠茜攻击的火力点，依然是些陈词滥调。</p><p>一开始她就旗帜鲜明地带节奏，推定刘欣是我党代言人（政治体制、意识形态攻击），她是这么说的：</p><blockquote>“今晚有一位远在北京的特邀嘉宾，将和我一起讨论美国与她的祖国之间所面临的挑战。她是处于CCP（中国共产党）审查下的黄金时段英语电视节目的主持人……<br/><br/>因利益相关，我声明一下，作为福克斯财经网的主持人，我所说的仅代表个人观点。然而我的客人是CCP的一份子，但这没有关系。”</blockquote><p>看到这一段我就笑了，一个非主流电视台（FOX商业频道黄金时段平均收视人数大概十几万）的主播，凭什么会认为自己有能量让一个拥有8000万党员的政党，专门派代表与她隔空对话？</p><p>下图是我在某度随手搜的，到底是谁在代表谁？</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-21fb3e5c323ef7ebbf24b4531fc47179_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"634\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-21fb3e5c323ef7ebbf24b4531fc47179_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>好在机智的刘欣并没有被带节奏，第一时间不卑不亢的表明了立场：</p><blockquote>“我得把话讲明白，我不是CCP党员。这个有据可查的。所以请不要把我当做是党员，我并不是代表CCP发言，我今天来这里，只是作为GTN的一名记者——刘欣，我所说只代表我个人观点。”</blockquote><p>接着，对方屏幕上开始滚动播放我方知识产权侵权案例。</p><p>翠茜说：“有证据表明，中国窃取了大量的知识产权，价值数千亿美元……如果美国企业面临财产、创意和成果被盗的风险，那么它们如何在中国运营？”</p><p>听到这里我不禁想起了在被封杀的情况下，任正非接受采访时说：</p><p><b>“我们偷美国的技术？美国都还没做出来呢，我去哪里偷美国的技术啊。”</b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-571c8c9b5e06c1681719e0fd4afbdff9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"707\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic2.zhimg.com/v2-571c8c9b5e06c1681719e0fd4afbdff9_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在这之后的所有交锋，基本都是以翠茜充满主观预设与偏见的“质询”开始：</p><p>具体内容包括中国是否操纵关税、是否是自由市场、是否还是发展中国家、中国特色社会主义是否是国家资本主义等，到刘欣坦然应对、真诚作答结束。</p><p>17分钟后，这场“辩论”以双方满面堆笑、隔空凝视而终结。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>3</b></h2><p>这短短的17分钟，有一种令人窒息的戏剧张力。</p><p>美方代表翠茜数十次露出招牌邪魅微笑，嘴角上扬的弧度，像极了数度令白宫停摆，令世界鸡飞狗跳的川普。</p><p>而我方代表刘欣表情端庄、笑容真诚，回答问题不避锋头，落落大方、逻辑清晰。</p><p>对方辩友身着大红色裙子、背景屏如火焰山；我方辩友身着青绿色职业套装+湖蓝色背景，冷暖色对比强烈，可谓泾渭分明。</p><p>双方同框的经典一幕，像极了刚在巨大争议中拉下帷幕的HBO神剧——《冰与火之歌》（另译：权力的游戏）。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-7698ab6ad124379cfd37fab04a563ec8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"607\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-7698ab6ad124379cfd37fab04a563ec8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这场有关中美贸易战的隔空“辩论”（或者只能算是对方问、我方回答的采访）就此画上了一个充满喜感的句点。</p><p>看了完整版辩论视频（英文原版、时长16分34秒）后，我不禁陷入了深深的思考：</p><p>原来不止我方沙雕网友、吃瓜群众是柠檬精，大洋彼岸的美女主播以及她所代表的美国群众，更是柠檬精本精，复读机本机。</p><p><b>难道人类的本质，真的逃不过柠檬精和复读机?</b></p><p>很遗憾的回答，是的。</p><p>美国的复读机，从未改变过充满傲慢与偏见的陈词滥调；美国的柠檬精，就和大洋彼岸的月亮一样，又大又圆，还特别泛酸。</p><h2>4</h2><p>为什么说人类的本质是复读机？</p><p>按照知乎“恒河月”的说法，从宏观角度来讲，由于知识的不可遗传性，每一代新人类都需要将先人们已经掌握的知识从头学习一遍；</p><p>如果有人能出厂自带知识体系，那他可能是个外星来客。</p><p>所以从这个角度来讲，每一代人都是他人知识体系的复读机、文明的学习者。</p><p>从微观角度，大概率上来讲，每个人的今天就是在重复昨天，如果你不能自觉地从每一天的事件中发现、总结新鲜有意义的观点，那么只能是重复昨天的认知一直到老。</p><p>从传播学角度来讲，人的思想是容易被主流的声音、权威的措辞、偏激的KOL（比如一天发50次推特的某国领导）所影响的。</p><p><b>因此，个体极有可能成为某种傲慢与偏见的复读机。</b></p><p>具体到“中美主播辩论直播”这件事情上来讲，翠茜及其她身后的福克斯商业频道，就充当了川普及右翼中年男的复读机，他们发声的方式与措辞，与川普的民粹立场与激进做法如出一辙。</p><h2><b>5</b></h2><p>为什么说美国的柠檬精（很喜欢酸他人成就的人）特别的酸？</p><p>其实，这个论点并非我方首次提出的，而是第三方官方代表提出的。</p><p>据彭博社报道，5月15日当天，新加坡外长在公开场合言辞恳切地发表言论，敦促美国“接受中国崛起的现实，放过其他小国“。  </p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-7eb0909c63a76b2700575f7592ee4609_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"810\" data-rawheight=\"603\" class=\"origin_image zh-lightbox-thumb\" width=\"810\" data-original=\"https://pic2.zhimg.com/v2-7eb0909c63a76b2700575f7592ee4609_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>他在参加CSIS（美国战略与国际问题研究中心）举办的活动中指出： </p><blockquote>“美国应尝试接受中国在国际舞台上日益增长的影响力与分量，及在制定全球规则方面拥有更大的话语权的现实，不要继续将中国视为“必须遏制的对手”，而应该进行“战略性”良性竞争，以避免一场旷日持久的冲突。” </blockquote><p>他用恳切的语气表示，“请不要让我们这些夹在中美之间的小国，在世界最大的2个经济体之间被迫做出令人反感的选择。“</p><p>鲁迅曾经说过：“当局者迷，旁观者清“。</p><p>连一直埋头发展、醉心搞经济的新加坡，都看出来了美国此次高调开打中美贸易战的实质，<b>其实是不甘心承认中国的崛起与强大</b>；</p><p>那么你说拥有不到300年建国史，美国本土的柠檬精们，在看到一个只用了短短40年，就从一穷二白逆袭到全球经济总量第2、且拥有14亿人口、及从未断层文明的4000年历史古国，会是一种什么样酸涩的不适感觉?</p><p>他们会不会还感觉到一丝隐隐的威胁？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>6</b></p><p>从人类历史的角度来看，世界上曾有许多超级大国。</p><p>似乎有且只有中国，从来不是靠扩张与掠夺，而是靠辛苦劳作、营营汲汲而获得的国家财富与世界地位。</p><p>近一点比如发足战争财的山姆大叔、八国联军、远一点比如维多利亚时代的日不落帝国、再远一点比如西班牙、葡萄牙等，无一不是靠了大航海时代或坚船利炮的红利。</p><p>而一个在层峦叠嶂的山顶上苦心孤诣建起万里长城，只以用于工事防御的国家，怎么可能主动去侵犯别国的领土与利益？怎么可能是靠偷窃、靠烧杀抢掠来获得财富？</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-be06ed14f2a3a6288cb0dfda65fa5fb2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"681\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb\" width=\"681\" data-original=\"https://pic3.zhimg.com/v2-be06ed14f2a3a6288cb0dfda65fa5fb2_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>我们领先于世界发明了火药，却从未主动拿来对准邻国的城邦与港口；我们自主研发了原子弹氢弹，却承诺永远不主动使用。</p><p>在这一点上可以说某些国家确实是以小人之心，度君子之腹了，他们似乎不相信这世界上会有和平崛起、不求靠山、且力求成为和平中坚力量的佛系大国，因为他们身边似乎没有这个先例。</p><p>以上观点也不是我首先提出的，是来自于海峡对岸的政客、新党人士李胜锋。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-8c286d58c4404d85255a9c6eff396d29_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"436\" data-rawheight=\"397\" class=\"origin_image zh-lightbox-thumb\" width=\"436\" data-original=\"https://pic2.zhimg.com/v2-8c286d58c4404d85255a9c6eff396d29_r.jpg\"/></figure><p>他还在对岸电视公开辩论中提出，美国对日本、对欧盟施加压力是比较容易收到成效的，因为日本没有国防防御系统，等于是美国的小弟，小弟自然什么都唯大哥马首是瞻；</p><p>而欧盟本就与美国关系暧昧（参考北约架构）；</p><p>所以在遇到中国这个罕见的硬骨头时，虚张声势无效，只有恼羞成怒，开打贸易战了。</p><p>对岸的李胜锋还公开表示，中国（大陆）是不会屈服的，这40年“大陆取得的成就，是数亿农民工妻离子散换来的……国家输出资源换来的、输出环境（代价）换来的。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-8f89f299687dc8364417059c4f53440e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-8f89f299687dc8364417059c4f53440e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>是的，建国70年来，前30年筚路蓝缕何等困难，冷战都熬过来了，全面封锁也熬过来了，我们从未向谁低过头，如今在和平年代又怎可能屈服低头？</p><p>这一点，连一度亲日、亲美的对岸吃瓜群众都看出来了，为什么柠檬精们就一直当鸵鸟，动不动就翻出来唱几出“中国威胁”，宛如医闹，又恰似碰瓷？</p><p><b>中国人真的不是吓大的。</b> </p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>7</b></h2><p>2001年中国加入WTO后逐步放开市场，一条条的兑现自己的承诺，在WTO框架下发展对外贸易，兢兢业业转型市场经济。</p><p>中华人民共和国到底是否属于市场经济体？这是十数年来西方质疑的一个焦点。</p><p>因为出产的生活生产物资量大且便宜，我国一度成为令西方精英及境内五毛嗤之以鼻的“世界工厂“，Made in China低价劣质的负面标签，挥之不去，甚至数度惹上倾销官司。</p><p>然而通过发展对外贸易、外向型经济，勤劳的中国人的确获得了第一桶金。</p><p>截至2018年底，全世界吞吐量排名前十的海港当中，中国占据7席，并毫无疑问地包揽前5名中的四席。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-9cb7429e266fad9b110a73b26a8a7203_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"625\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-9cb7429e266fad9b110a73b26a8a7203_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>近年来我国供给侧改革，经济体制转型，产业升级，创新型企业层出不穷，其中就有国内大名鼎鼎的BAT等，输出了新四大发明：高铁、网购、移动支付及共享单车。</p><p>当然，这其中少不了让全世界的手机信号都升了好几格的华为。</p><p>然而在这种新形势下，西方世界（尤其是美国）似乎并不相信中国拥有了强大的自主创新能力，在他们心中，中国人似乎依旧停留在使用微软盗版软件、复制盗版游戏光碟的时代。</p><p>然而数据“真香“了一把。在全世界申报专利最多的企业当中，中国的华为毫无悬念的领先于榜单，并甩身后的因特尔、高通、LG等几个量级。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-75e900d3e1db3993841beae8e9231075_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-75e900d3e1db3993841beae8e9231075_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>早在10年前，一个叫SaraBongiorn的美国女作家，出版过一本叫做《没有中国制造的一年》的畅销书。</p><p>她决定让自己的家人一年内不再购入任何中国商品，看看结果如何。</p><p>原本Sara很乐观，她和家人都觉得，不买中国货还可以买其他国家的产品。</p><p>但她想得太简单了。</p><p>整整一年，Sara一家都过得相当痛苦。他们发现以前再简单不过的小事，如买双新鞋、买件小礼物或修理家具，全都变成了折磨：</p><p>一年远离“中国制造”的痛苦生活不仅掏空了Sara一家的钱包，更是耗干了这一家人的精力，原本幸福的生活疲惫不堪。</p><p>最后她将这一年的经历和体验写成了一本书，书里得出的结论是：</p><p><b>“美国人完全无法摆脱中国制造……我今后10年都不敢这么玩儿了！”</b></p><p>这种尴尬的境地奥巴马也遇到过。2013年，奥巴马在迈阿密港口发表激情澎湃的演讲，呼吁要振兴“美国制造”。</p><p>但尴尬的事情发生了......</p><p>当天风大，全美国民众都在电视上看到奥巴马身后，起重机覆盖的美国星条旗被吹掉掉了，露出“振华”（一个中国企业）的字样。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-68ba4ae9d81f7a2e0d067e06fcec4552_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"944\" data-rawheight=\"628\" class=\"origin_image zh-lightbox-thumb\" width=\"944\" data-original=\"https://pic3.zhimg.com/v2-68ba4ae9d81f7a2e0d067e06fcec4552_r.jpg\"/></figure><p>振华的老总后来还曾开玩笑说，当时想要给奥巴马的支付宝账号打点广告费。</p><p>再任性的倔强，都逃不过真香定律。 </p><p>所以，最近任正非才在采访中非常有底气的说：</p><p><b>“全世界把5G做得最好的是华为……这个全世界只有华为能做到，欧美国家最终，我们有很多东西他们非买不可。”</b></p><h2><b>8</b></h2><p>时代虽然变了，但太阳底下的确没有啥新鲜事。</p><p>今天的特朗普一意孤行，非得要和中国打一场两败俱损的贸易战。</p><p><b>美方的主播翠茜也完全罔顾事实的、用老一套的观点来抨击中国，其实都是一些充满陈年气息的陈词滥调。</b></p><p>并不是因为他们都患了“失心疯”。</p><p>恰恰相反，正因为他们心里都很明白，现在的中国，早已不是几十年前看到个KFC都要排长队的中国了。</p><p>中国造的产品也早不是当年那个只会简单手工拼装/质量低劣的“廉价货”了。</p><p>驰骋在华夏大地上的复兴号、高速磁悬浮，就是中国速度的印证，我们也能生产出让美国不得不依赖与仰望的东西了。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a67f63bb05d15d37439c181027db205f_b.jpg\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-a67f63bb05d15d37439c181027db205f_r.jpg\"/><figcaption>一周前于青岛刚下线的高速磁悬浮，时速600公里，中国制造</figcaption></figure><p>这是一直处于实际优势地位和长期心理优势地位的他们所无法接受的。</p><p>有个段子说的好：</p><p><b>“当今世界的最大矛盾，就是中国人民对美好生活的向往，和美国人认为中国人不配拥有美好生活的之间的矛盾。”</b></p><p>也就是老祖宗说的那句话“恨人有，笑人无”。</p><p>在你还很弱小、贫困的时候，不屑一顾地嘲笑你，肆无忌惮地侮辱你；当有一天你开始强大了，又开始不择手段地打压你，绞尽脑汁地对付你。</p><p>这哪里还像是一个超级大国的风度？</p><p>从这点讲，美国根本算不上什么强大，酸溜溜的嘲讽、暗戳戳的使绊子，根本不像个超级大国的风度，反而像个宫斗失败的小脚女人。</p><p>反倒是最近这段时间，那个被美国举全国之力进行封禁的中国企业华为，不断释放“君子和而不同”的中国式智慧与情怀。</p><p>任正非有句话说得超级漂亮：</p><p><b>“我们和美国有冲突，但最终，我们还是要在山顶上拥抱，一起为人类社会做贡献的。”</b></p><p>这才是真正的大格局，大智慧，这是一个大国企业家该有的胸襟气魄。</p><p>然而刘欣在结束Trish的“采访”后答记者问，她笑着说：</p><p>“我想带她（翠茜）去到我国的农村、边远山区去看看……我想带她去看看，然而自己也看一看，<b>我觉得我和她完全可以做朋友，这是最好的结果</b>。”</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-29f074ac61c86607ffd17c1e842bb6ac_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"690\" data-rawheight=\"406\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic1.zhimg.com/v2-29f074ac61c86607ffd17c1e842bb6ac_r.jpg\"/></figure><p>什么叫大国公民的格局？</p><p>这种不卑不亢，云淡风轻，睦邻友好，兼济天下的姿态与格局，才是吧。</p><p>最后的最后，我很想替刘欣问Trish一句话：</p><p><b>怎么，承认中国变强了，真的很难吗？</b></p><p></p>",
+                "comment_count": 18,
+                "image_url": "https://pic1.zhimg.com/50/v2-7dcc87aa989474d397e03ca204564f9f_hd.jpg",
+                "excerpt_title": "",
+                "voteup_count": 189,
+                "type": "article"
+            },
+            "attached_info": "Cj4QBxoJMTAzMTU4Mzg3IIiQw+cFKL0BMBJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTE1NjAwcgg2NzYzMjczOA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559299448,
+                "is_labeled": false,
+                "excerpt": "老大们终于下定决心，商务部要出一个不可靠实体清单，针对外国企业和个人，不止美国给我们施压，我们也要给美国施压啊！！",
+                "id": 67675794,
+                "topic_thumbnails": [],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "浦苗",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "失业在家想写东西的工程师",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/e945734a220864d6c39b0fc1d163e790",
+                    "type": "people",
+                    "url_token": "miao-pu-91-79",
+                    "id": "e945734a220864d6c39b0fc1d163e790",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67675794",
+                "title": "不可靠实体清单制度，出招啦",
+                "created": 1559299448,
+                "content": "<p>老大们终于下定决心，商务部要出一个不可靠实体清单，针对外国企业和个人，不止美国给我们施压，我们也要给美国施压啊！！</p>",
+                "comment_count": 19,
+                "excerpt_title": "",
+                "voteup_count": 50,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMTY4MDM3IPiKxOcFKDIwE0AAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjc2NzU3OTQ="
+        }
+    ]
+}

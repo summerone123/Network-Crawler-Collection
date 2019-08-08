@@ -1,0 +1,219 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440074308.39052",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1440012239.65&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440012239.65154"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524099845,
+                "is_labeled": false,
+                "excerpt": "出于对中国高技术IT企业的顾虑，美国联邦通信委员会（FCC）4月17日坐实禁止本国通信企业采购中国设备。联系到仅仅一天前美国商务部刚刚决定禁止美国企业与中兴通讯开展交易，日本主流财经媒体日本产经新闻网发表评论文章，认为美国此举本质上显示出美国担心…",
+                "excerpt_title": "",
+                "id": 35852252,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-996a431b77d9cbbafa86b4e7af0afe6a_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-bfefa5f25ec465994d4a38d3c3d1678c_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-a74b16d8ed36734f53aa8ac9886cda56_250x0.jpg"
+                ],
+                "title": "日本媒体惊呼:美国封杀中兴华为是对中国科技实力提升的焦躁心理",
+                "url": "http://zhuanlan.zhihu.com/p/35852252",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/5d63e59be2b428a65ae6f2da66af8c79_{size}.jpg",
+                    "badge": [],
+                    "name": "后院活动部",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/d7366697636364012107fe41f3cdce52",
+                    "url_token": "xinhouyuanjizhe",
+                    "user_type": "people",
+                    "headline": "后院活动部公众号aihyhdb，官网<a href=\"https://link.zhihu.com/?target=http%3A//houyoo.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">houyoo.com</span><span class=\"invisible\"></span></a>",
+                    "avatar_url": "https://pic4.zhimg.com/50/5d63e59be2b428a65ae6f2da66af8c79_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "d7366697636364012107fe41f3cdce52"
+                },
+                "created": 1524099846,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-bfefa5f25ec465994d4a38d3c3d1678c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-bfefa5f25ec465994d4a38d3c3d1678c_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>出于对中国高技术IT企业的顾虑，美国联邦通信委员会（FCC）4月17日坐实禁止本国通信企业采购中国设备。联系到仅仅一天前美国商务部刚刚决定禁止美国企业与中兴通讯开展交易，日本主流财经媒体日本产经新闻网发表评论文章，认为美国此举本质上显示出美国担心技术被中国超过的焦躁心理。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a74b16d8ed36734f53aa8ac9886cda56_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"371\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-a74b16d8ed36734f53aa8ac9886cda56_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴通讯遭受的市场损失目前无法确定，国人对于中兴放弃自研核心技术深表痛心。日媒认为，特朗普政府此举并无新意，只是延续了奥巴马政府2012年一个政策，当时美国众议院一个委员会发出了建议政府不采购中兴华为企业产品的报告书在歐巴馬執政的2012年，AT＆T等大型通信企业事实上避免同两家中国企业采购商品，但是中小通信企业并未顾及政府的呼吁，如今这些中小企业不得不放弃中国价格实惠的设备，预计将大幅提升成本，会导致中小企业洗牌，加大行业垄断程度。</p><p>同样处境的华为，近年来在不断尝试游说美国政界未果后，已经精力转移出这个警惕性不断提升的脆弱大国。而华为的芯片技术和市场规范能力让美国政府暂时无法下杀手报复。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-8e3d9b00c812be482940c9fef90be262_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-8e3d9b00c812be482940c9fef90be262_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>曾因高速发展早到美国围堵，最终造成经济低迷的日本，有着痛苦的失去的二十年。当年因广场协议惨被收割的日本，至今未找到当年的发展状态，日媒认为同样的情况出现在亚洲邻居身上，美国并不避讳限制华为中兴以及中国制造2025的用心。</p><p>日媒近来频频出现呼吁，加大中日合作，应对特朗普美国政府的贸易孤立主义和不平等要求。日媒同样担心特朗普借重返TPP为谈判筹码，同样加大对日本的贸易逆差要求。</p><p>而在国内，后院活动部听到更多业内人士对于目前核心技术的忧心，希望再也不要出现技术受制于人的观点占了主流，预计将有大资本进入这个领域进行深耕。</p>",
+                "comment_count": 1,
+                "image_url": "https://pic1.zhimg.com/50/v2-996a431b77d9cbbafa86b4e7af0afe6a_hd.jpg",
+                "voteup_count": 14,
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjUzMTM0MyCG1t/WBSgOMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTY3ODkzcggzNTg1MjI1Mg=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1525248973,
+                "is_labeled": false,
+                "excerpt": "本文由 「AI前线」原创<b>（ID：ai-front），</b>原文链接：<a href=\"https://mp.weixin.qq.com/s/r8shjkiIq04LLUibqxkXYw\">美国又给中国下套了，英伟达首当其冲</a>作者｜Debra 编辑｜Debra、Natalie<b>AI 前线导读：</b>中美贸易战的硝烟仍在悄然无声地蔓延着，上一回合中，面对美国的出口制裁，中国对美国还击造成的的影响鲜有报道，倒是…",
+                "excerpt_title": "",
+                "id": 36336073,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-84136ce882d4ed9183ca6e09e7070b33_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-80cb758f79a33f7fb94aff5028bb2404_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-aeefedb3878e1bf5b33c976f418e76e7_250x0.jpg"
+                ],
+                "title": "美国又给中国下套了，英伟达首当其冲",
+                "url": "http://zhuanlan.zhihu.com/p/36336073",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-4f87b97f8fe5ab4693175b35115ff0f6_{size}.jpg",
+                    "badge": [],
+                    "name": "AI前线",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/bba5f51dac0e620584485c5c753bb10e",
+                    "url_token": "aiqian-xian",
+                    "user_type": "people",
+                    "headline": "2019年，我们继续同行，人工智能学习之路不寂寞！",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-4f87b97f8fe5ab4693175b35115ff0f6_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "bba5f51dac0e620584485c5c753bb10e"
+                },
+                "created": 1525248940,
+                "content": "<p>本文由 「AI前线」原创<b>（ID：ai-front），</b>原文链接：<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/r8shjkiIq04LLUibqxkXYw\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">美国又给中国下套了，英伟达首当其冲</a></p><blockquote>作者｜Debra<br/>编辑｜Debra、Natalie</blockquote><p><b>AI 前线导读：</b>中美贸易战的硝烟仍在悄然无声地蔓延着，上一回合中，面对美国的出口制裁，中国对美国还击造成的的影响鲜有报道，倒是中国的舆论充满了恐慌和反思的情绪。反观美国这边，又谋划着要给中国来次更大的打击。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>更多干货内容请关注微信公众号“AI 前线”，（ID：ai-front）</b></p><h2>特朗普政府一面谈判一面下套</h2><p>4 月 29 日消息，VentureBeat 报道，据知情人士透露，美国政府可能会开始审查美国公司和中国公司在人工智能（AI）领域的非正式合作关系。四名知情人士称，到目前为止，美国政府对国家安全和其他问题的审查仅限于投资交易和企业收购。但这次审查范围可能会扩大（也许是权宜之计，直到国会下令对中国投资进行严格限制），包括半导体和无人驾驶汽车。</p><p>原因还是美国国会议员和特朗普政府官员的推动，他们担心更多知识产权和技术被转移到中国。而 AI 因为具有用于军事的潜力成为一个十分特殊的技术领域，美国封杀中兴的消息一出，中国立即陷入了芯片、软件、技术缺粮断货的恐慌之中。这一精准打击一击即奏效。</p><p>特朗普政府一面忙着给中国下套，一面又在 4 月 24 日宣布美国财政部长姆努钦以及贸易代表莱特希泽将在几天内率团访问中国，进行贸易谈判。</p><p>其实现在看来，特朗普派遣的代表团阵容本身就已经暗含美国的强硬态度，因为除了&#34;对与华贸易磋商持更加开放的态度&#34;的姆努钦，他还安排了贸易鹰派罗伯特·莱特希泽和白宫贸易顾问彼得·纳瓦罗一起前往中国。</p><h2>重点审查中美非正式合作关系</h2><p>这次美国政府要审查的是中美非正式合作的 AI 商业关系。也就是说，所有中美之间涉及 AI 业务的企业都将受到波及，包括半导体和无人驾驶汽车。</p><p>但据了解，这些考虑还处于早期阶段，因此尚不清楚它们是否会继续推进，以及这项新举措将会审查哪些非正式的企业关系。</p><p>任何旨在切断中美科技公司关系的动作（哪怕是暂时的），都可能对整个行业产生巨大影响。包括 AMD、高通 (Qualcomm)、英伟达 (Nvidia) 和 IBM 在内的美国大型科技公司，都在中国开展了一系列活动，从建立研究实验室到开展培训项目，这通常需要与中国公司和主要客户进行合作。包括 AI 和芯片设计等领域在内的顶尖人才，也在两国的公司和大学之间自由流动。</p><p>非正式商务关系涵盖的范围广泛。例如，世界上生产 AI 机器所需高度复杂芯片的顶级制造商之一英伟达就被特意提到。</p><p>我们知道，英伟达与中国的渊源颇深。它在中国的业务占比 1/5，还在中国开展了几个培训当地科学家的项目，以开发依赖其芯片的技术，帮助英伟达改进产品，提高销量。此外，英伟达还向 30 名 AI 科学家提供了去年推出的图形处理单元样本，其中包括三名与中国政府合作的 3 名专家。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-80cb758f79a33f7fb94aff5028bb2404_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-80cb758f79a33f7fb94aff5028bb2404_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>英伟达表示并未与中国公司进行任何核心技术交易，在中国没有合资企业，并在一份声明中表示让华为接触到最新技术只是为了获得市场反馈，不会危及国家安全。英伟达称：“我们非常注重保护我们的专有技术和知识产权，我们不给世界任何地方的任何公司以核心差异化技术。”但尽管如此，美国政府仍可以援引《国际紧急经济权力法案》(IEEPA)，通过特朗普下达行政命令，对这种合作进行干预。</p><p>消息人士称，此举将让美国政府机构获得更广泛的权力，允许它们阻止或审查中美公司之间的非正式合作伙伴关系、中国对美国科技公司的投资，或中国收购位于美国敏感军事地点附近的房地产。</p><p>美国国务院前外交官员、智库国际战略与研究中心研究员詹姆斯·刘易斯（James Lewis）表示，如果 IEEPA 被启动，美国政府官员（包括财政部官员）都可以用它获得任何他们想要的、目前不属于监管制度范畴的信息。一名白宫官员表示，他们不会对有关内部行政政策讨论的猜测进行评论，但他补充说：“我们担心《中国制造 2025》，尤其是 AI 这样的行业。”</p><p>上个月，白宫提出了针对中国的所谓“知识产权盗窃”新进口关税。这促使中国政府采取报复措施，对美国进行制裁。</p><p>在采取这些举措之前，美国拟议的立法将收紧外国投资委员会 (CFIUS) 监管的外国投资规则。该委员会由美国各政府机构的代表组成，负责评估涉及“关键技术”的合资项目。去年 11 月份提出这项建议的共和党和民主党议员承认，此举主要针对中国。</p><p>消息人士称，尽管 CFIUS 可能会审查与国家安全相关的交易，并涉及外资所有权，但非正式的合作关系可能会受到修订后的出口管制措施的监管。可以肯定的是，特朗普政府可能会改变主意，援引紧急法案。</p><p>目前，世界最大芯片制造商之一英伟达在严密监控之下。</p><p>高通没有回应置评请求，而 AMD 和 IBM 拒绝置评。</p><p>刘易斯说:“五年前，这可能无需担忧。但由于政治和技术背景的变化，现在这已经成为一个令人担忧的问题。”</p><p>一位消息人士表示:“我认为，如果没有更强的 (监管) 机制，中国企业将变得更加强大。他们将在 10 到 15 年内挑战我们的公司。”</p><h2>中国 AI 到底还是和美国有差距</h2><p>分析师们普遍认为，中国和美国企业将被锁定在双向竞争中，争当 AI 领域的全球领导者。咨询公司 Eurasia Group 的数据显示，尽管 Alphabet 旗下谷歌等美国科技巨头目前处于领先地位，但互联网服务提供商百度等中国公司已取得重大进展，甚至有人说中国人工智能已经走在了世界的前列。</p><p>但中国近年来在 AI 上取得的进展，是否真的让我们有底气在技术上与美国硬碰硬呢？恐怕答案是否定的。虽然中国近年来对 AI 发展战略十分重视，但是根据腾讯于 2017 年 7 月发表的《中美两国人工智能产业发展全面解读》和 CB Insights 最新报告中描述的概况，我们对中国 AI 的现状不能过于自信，就像华为创始人任正非所说，“这种自豪感是会害死人的”。这份报告从顶层设计、企业数量、产业布局、人才队伍、热点领域、投资趋势、巨头角力、中国未来八个方面全面分析了中美 AI 发展之间的比较。报告篇幅太长无法一一详述，但从中的若干数字和图片中，中国与美国 AI 之间的差距还是能够一眼看到的，比如在基础层平台支撑方面，谷歌、Facebook、微软等都已经推出深度学习算法开源平台，广纳人才，而中国虽有百度 PaddlePaddle，商汤 Parrots，旷视的 MegBrain 等，但与这美国几大巨头竞争还是相当勉强。下面是简单对中美近年来 AI 发展做对比得到的总结图：</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-aeefedb3878e1bf5b33c976f418e76e7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"493\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic4.zhimg.com/v2-aeefedb3878e1bf5b33c976f418e76e7_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-ba7ab075ed9bae733f920caa69309170_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"614\" data-rawheight=\"248\" class=\"origin_image zh-lightbox-thumb\" width=\"614\" data-original=\"https://pic1.zhimg.com/v2-ba7ab075ed9bae733f920caa69309170_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>附：</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-5b259f06ba57f134f61475bc4788af52_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"615\" data-original=\"https://pic3.zhimg.com/v2-5b259f06ba57f134f61475bc4788af52_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-4febdb7c97db6adfae9dd9d15dc3c2ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"577\" data-rawheight=\"362\" class=\"origin_image zh-lightbox-thumb\" width=\"577\" data-original=\"https://pic1.zhimg.com/v2-4febdb7c97db6adfae9dd9d15dc3c2ec_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e4f5aed9fc08b48d0ed764cb6a7cf935_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"629\" data-rawheight=\"347\" class=\"origin_image zh-lightbox-thumb\" width=\"629\" data-original=\"https://pic2.zhimg.com/v2-e4f5aed9fc08b48d0ed764cb6a7cf935_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-ca6454a96cdafd991118606d396dc80d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"566\" data-rawheight=\"326\" class=\"origin_image zh-lightbox-thumb\" width=\"566\" data-original=\"https://pic2.zhimg.com/v2-ca6454a96cdafd991118606d396dc80d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然中美贸易战最终走向依然成谜，但美国此次决定扩大审查范围，无疑代表着特朗普政府并不打算轻易收手。到底是动真格的打击，还是为了为美国给美国多挣得一些筹码，犹未可知。</p><p>基于上面的一些客观数据对比，我们不得不承认中国核心技术上确实存在短板，和美国相比，从顶层设计到基础研究的各个方面，中国都有差距。但在很多产业上中美市场其实是相互依存的，盲目自豪会毁了我们，但妄自菲薄也不能带来任何好处。接下来如何真正去缩小中国在核心技术上与美国的差距是所有从业者应该好好思考的问题，这可不是靠媒体发几篇情怀文或鸡血文就能解决的。</p><p>最后引用 2012 年任正非在华为内部会议上的那段让人醍醐灌顶的话作为结尾：“我们不要狭隘，做操作系统和做高端芯片是一样的道理。主要是让别人允许我们用，而不是断了我们的粮食。断了我们粮食的时候，备份系统要能用得上。”</p><h2>今日荐文</h2><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-251f7f06b9c9e883573f2d10841163de_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic3.zhimg.com/v2-251f7f06b9c9e883573f2d10841163de_r.jpg\"/></figure><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/jin0wDtbL2C8xOmvSucL6g\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">单机每秒最多可处理10亿条数据！eBay开源数据处理框架Accelerator</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>向17W+AI爱好者、开发者和科学家，每周一节免费AI公开课，囊括上万人的AI学习社群，提供最新AI领域技术资讯、一线业界实践案例、搜罗整理业界技术分享干货、最新AI论文解读。回复「AI前线」、「TF」等关键词可获取干货资料文档。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果你喜欢这篇文章，或希望看到更多类似优质报道，记得给我留言和点赞哦！</p>",
+                "comment_count": 350,
+                "image_url": "https://pic2.zhimg.com/50/v2-84136ce882d4ed9183ca6e09e7070b33_hd.jpg",
+                "voteup_count": 638,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoHNjcyNTEzNCCs56XXBSj+BDDeAkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIIMzYzMzYwNzM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559727292,
+                "is_labeled": false,
+                "excerpt": "美国在宠物经济上投入过多，以至于5G方面全面落了下风，毕竟推动社会进步的是高科技，而不是宠物利益链。我们要吸取美国的教训，美国曾经科技领先，可惜的是饲养宠物狗的玩狗之风导致美国人好逸恶劳，不思进取，经济结构也不合理。宠物狗耗费了大量的社会资…",
+                "excerpt_title": "",
+                "id": 68165284,
+                "topic_thumbnails": [],
+                "title": "美国在宠物经济上投入过多，以至于5G方面全面落了下风，毕竟推动社会进步的是高科技，而不是宠物利益链",
+                "url": "http://zhuanlan.zhihu.com/p/68165284",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-e8f6a48fe4dde875dfa376beb6c08069_{size}.jpg",
+                    "badge": [],
+                    "name": "阿信",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/da337905e1692887b162bd88f3401282",
+                    "url_token": "a-xin-53-59-12",
+                    "user_type": "people",
+                    "headline": "设计师",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-e8f6a48fe4dde875dfa376beb6c08069_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "type": "people",
+                    "id": "da337905e1692887b162bd88f3401282"
+                },
+                "created": 1559727292,
+                "content": "<p>美国在宠物经济上投入过多，以至于5G方面全面落了下风，毕竟推动社会进步的是高科技，而不是宠物利益链。</p><p>我们要吸取美国的教训，美国曾经科技领先，可惜的是饲养宠物狗的玩狗之风导致美国人好逸恶劳，不思进取，经济结构也不合理。宠物狗耗费了大量的社会资源，并且在管理上也浪费大量人力和精力去管理狗，这样反而把最重要的科技冷落了，美国养狗比例世界罕见，然而这并不值得自豪。国与国之际不是比赛谁的宠物狗多，而是谁先研发出高科技。</p><p></p>",
+                "comment_count": 1,
+                "voteup_count": 7,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMjc2Njg0ILyZ3ucFKAcwAUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjgxNjUyODQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1555909956,
+                "is_labeled": false,
+                "excerpt": "大家都知道中国贸易顺差最大来源国是美国，2017年，据中方统计中美贸易顺差为2758亿美元，而美方统计中美贸易顺差为3752亿美元。为了平衡中国的贸易顺差，特朗普将三十六计都使用了一遍。而中国最大的贸易逆差是谁？欧盟？韩国？日本？NO!NO!NO!是中国台湾…",
+                "excerpt_title": "",
+                "id": 63271726,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-6fbad69a012ccd529d8d435d466436ad_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-ede364d494b9b5fd2093a0d30c4d41f7_250x0.jpg"
+                ],
+                "title": "大陆与台湾贸易那些不方便说出的苦",
+                "url": "http://zhuanlan.zhihu.com/p/63271726",
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-73fe9da1b0e0bd2e84ee4627e5b9de50_{size}.jpg",
+                    "badge": [],
+                    "name": "爱吃鱼的大脸猫",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/73239f772ab25e607202c42a6d5d9d23",
+                    "url_token": "12345678-18-4",
+                    "user_type": "people",
+                    "headline": "关注公众号：三眼财经。美股A股直通车，全球视野，发掘投资机会",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-73fe9da1b0e0bd2e84ee4627e5b9de50_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "73239f772ab25e607202c42a6d5d9d23"
+                },
+                "created": 1555909956,
+                "content": "<p>大家都知道中国贸易顺差最大来源国是美国，2017年，据中方统计中美贸易顺差为2758亿美元，而美方统计中美贸易顺差为3752亿美元。为了平衡中国的贸易顺差，特朗普将三十六计都使用了一遍。而中国最大的贸易逆差是谁？欧盟？韩国？日本？NO!NO!NO!是中国台湾地区，这个结果相信很多人都比较意外，根据海关总署统计，2017年两岸双边贸易总值1.35万亿元人民币，占当年大陆外贸总值的4.9%。台湾是大陆的第七大贸易伙伴，其中大陆对台出口2979亿元，进口1.05万亿元，贸易逆差7534亿元，台湾总人口2300万左右，相当于在2017年大陆给台湾人每人发钱3.3万元人民币。震不震惊？意不意外？</p><p>再给一组很伤心的数据，根据2017年大陆出口企业排名，大半且居前列的企业都是台资企业。从下图可以看出，大陆依赖台湾的企业，就业稳定需要台资企业，台湾的企业也需要大陆的市场。从出口数据看，台资企业占据国内出口市场的半壁江山，在当前中美贸易摩擦下，台湾的企业也在摇摆是否要迁出国内的企业到东南亚或者印度去，三星天津工厂关闭，而三星越南工厂大额投资，已经开启了一个很坏的信号，天津电子相关产业链则遭到严重破坏，失业下岗成千上万工人，而台资企业占主导出口地位的大陆，不少企业也开始在越南投资设厂，鸿海、和硕、广达等劳动密集型产业近两年纷纷扩大东南亚和印度投资。从台湾企业看，以前考虑大陆的市场占决策权重更大，但现在大陆市场的权重占比已有所降低，避免中美贸易摩擦误伤分流到国外投资已见苗头。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-ede364d494b9b5fd2093a0d30c4d41f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"509\" data-rawheight=\"2999\" class=\"origin_image zh-lightbox-thumb\" width=\"509\" data-original=\"https://pic4.zhimg.com/v2-ede364d494b9b5fd2093a0d30c4d41f7_r.jpg\"/></figure><p>再回到大陆和台湾两地贸易上来，大陆对台贸易逆差主要还是在机电类上。至于逆差产生的原因，1、大陆鼓励从台湾进口，各种惠台措施不断出台，而台湾对大陆商品采取严格控制，设置高壁垒，2、两岸产业结构差异，导致对台湾产业依赖较高，可选择不多，3，台湾市场空间小，而大陆市场大，也是导致贸易逆差的一个重要因素。</p><p>我们再来详细分析一下产业结构差异导致逆差产生的原因，上文说了机电类是大陆对台逆差的大类产品，台湾机电类最主要的还是半导体产业，在全球都有着至高的影响力，台积电、联发科、鸿海精密（深圳富士康母公司）等为代表的台湾企业对大陆出口占主导，国内多数电子信息企业都有求于台湾企业，华为要台积电代工7纳米芯片，才能取得对苹果和三星手机有着部分优势，小米、OPPO、VIVO则有求于联发科的芯片，在中美贸易摩擦背景下，不能把宝全部压在高通上，也只有联发科的芯片才能顶替，好好维护这个金牌供应商才能在好不容易开拓出来的市场维护好，当美国制裁中兴通讯时，台湾政府施压联发科控制中兴通讯芯片发货，进行制裁配合时，不知各手机场是否在墙角瑟瑟发抖，背后发凉。鸿海更不用说，在大陆近100万员工，有着举足轻重的地位。还有台湾的面板产业依旧在国内市场有着强大影响力，而高端电子封测产业依旧是高品质的代名词，这些都是台湾对大陆顺差的主要来源，也是台湾的底气所在。</p><p>美国强硬要求中国缩减贸易顺差，随意拿捏国内，因为国内产业在国际上可以找到替代者，对美国来说无非是稍微贵一点，美国至始至终都保持着核心技术与竞争力。而大陆对台湾的巨大贸易逆差，而拿台湾无法，至少短期内没有好的措施来削减逆差。台湾这几家核心企业，大陆厂商短期难望其项背，不能跨过这个门槛，国内电子产业的脊梁就硬不起来，台湾从大陆赚取的贸易顺差还将持续扩大，2018年中美贸易冲突，台湾也是受益方，2018年台湾对大陆的贸易顺差有望再创新高！</p><p> 台独政客蔡英文当政2年，大陆与台湾贸易始终在持续快速增长，贸易逆差持续扩大，到底是台湾依赖大陆多点还是大陆依赖台湾多点呢？</p><p><b>（最后，请赶紧关注微信公众号：三眼财经，获取更多不一样的观点）</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-da0d3271442d6aaac43828e8a60d5558_b.png\" data-size=\"normal\" data-rawwidth=\"100\" data-rawheight=\"94\" class=\"content_image\" width=\"100\"/><figcaption>识别二维码，关注公众号:三眼财经</figcaption></figure><p></p>",
+                "comment_count": 2,
+                "image_url": "https://pic2.zhimg.com/50/v2-6fbad69a012ccd529d8d435d466436ad_hd.jpg",
+                "voteup_count": 11,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyMTg5ODgwIMSa9eUFKAswAkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjMyNzE3MjY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559101116,
+                "is_labeled": false,
+                "excerpt": "联想又辟谣了，义正言辞的表示不背汉奸的锅。此前，联想因为高管“制造移出中国”的言论被推上舆论风口，联想表示道歉并拿出了真金白银的投资“以证诚意”。联想也算的上是近年来的舆论苦主，从5G标准争议，到断供争议，再到此次的生产外迁争议，联想的辟谣…",
+                "excerpt_title": "",
+                "id": 67372098,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-35b725646f74d6033ba0302f9b008376_hd.jpg"
+                ],
+                "title": "再次辟谣的联想，还是没想明白几个道理",
+                "url": "http://zhuanlan.zhihu.com/p/67372098",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/05d586c9d4e79f2d19d1be85adcd2fe6_{size}.jpg",
+                    "badge": [],
+                    "name": "张小猫的猫",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/dc23e9eb99cb2ea02b713c7c9f369e4c",
+                    "url_token": "zhang-heng-63-14",
+                    "user_type": "people",
+                    "headline": "好吧",
+                    "avatar_url": "https://pic1.zhimg.com/50/05d586c9d4e79f2d19d1be85adcd2fe6_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "dc23e9eb99cb2ea02b713c7c9f369e4c"
+                },
+                "created": 1559101116,
+                "content": "<p>联想又辟谣了，义正言辞的表示不背汉奸的锅。</p><p>此前，联想因为高管“制造移出中国”的言论被推上舆论风口，联想表示道歉并拿出了真金白银的投资“以证诚意”。</p><p>联想也算的上是近年来的舆论苦主，从5G标准争议，到断供争议，再到此次的生产外迁争议，联想的辟谣一次又一次，形象更是一落千丈。</p><p>可一再辟谣的联想，时至今日，还是没有想明白几个道理，并不复杂的道理。</p><p><b>1.在微妙舆论态势下，不好说就干脆不要说</b></p><p>从CEO的“不做芯片”，到CFO的“产能搬迁”，事实上都是企业正常的商业选择。但在目前微妙复杂的舆论态势下，却必然会激起巨大的争议。至于原因，地球人都知道，可偏偏联想不知道，或者不怎么知道。只能说，联想或者部分联想高管，对宏观舆论形势缺乏基本的认知和判断，常常想当然以自以为正确的商业逻辑，挑战大众的舆论认知，结果是总想左右逢源，却总是里外不是人，外面人不买账，家里人更千夫所指。</p><p>正所谓言多必失，尤其在当下微妙环境。其实大众舆论完全体谅联想作为跨国企业的处境，也不需要联想非得亮明flag选边站，对于联想来说，只需要低调沉默本就可以万事大吉，可偏偏联想的一些人就是管不住嘴。</p><p><b>2.没成为靶子，不是优秀，而是不够优秀</b></p><p>不做芯片，不做操作系统，都没关系，做全球信任的合作伙伴，当然更是好事。不过得看什么时候说，非得对比被伤害的同道时候说，那联想的确是不够自知之明。因为在某些时候，你不成为靶子，不是自己有多优秀，恰恰是自己不够优秀，在对手眼里，你根本不够资格上桌而后被掀桌子。</p><p>不是以非善意却揣摩某些CEO的想法，可能至今还对几十年前大获成功的贸工技模式大为得意。但不说别的，单说2018年营收971亿元，净利24.2亿元，对比下许多IT巨头同期的营收和净利，实在看不出有何值得骄傲的。更何况在科技竞争日益强调核心技术实力的今天，所谓贸工技，说得好听点是整合，不好听点就是组装的模式。没有硬核在日新月异的科技产业玩，恐怕越来越难以为继。</p><p><b>3.一鼓作气，再而衰三而竭</b></p><p>或许完成国际化的联想，确实已经不太明白老祖宗一鼓作气再而衰三而竭的道理。想当初，联想遭遇5g标准风波，柳老爷子亲自上阵，又是全体宣言，又是一众大佬压阵，到如今先道歉再反驳的自相矛盾，联想的自我舆论气势何尝不是一路衰减。</p><p>错的就是错的，这个错就错在自己形势不明说话不牢，当初大阵仗的舆论攻势吃瓜群众尚且只当笑柄，如今苍白辩驳又岂能为联想震慑他人？非要和大众们硬刚下去，联想只怕会越来越被动！</p><p><b>4、最最重要的，重建信任比辟谣重要一万倍 </b></p><p>不要总是怪罪他人栽赃陷害和围观者的借题发挥，当自己也确实一再出现低级失误言行的时候，多想想自己是否有认知缺失或价值观的偏离。舆论本就复杂，联想不妨以谦卑的心态先检讨检讨自身，作为一个行业的旗手，究竟应该倡导些什么，引领些什么，如何能更好地与大众沟通，重建信任。</p><p>否则，今日辟谣，后续还会有更多争议产生，又能辟谣到几时。更何况，大众虽爱吃瓜围观，但眼睛更是雪亮的，从时间拉长的角度来说，基本的是非大多数人还是看得清的。</p><p>最后，还是借联想领导在记者会上的一句话回敬，作为全球信任的玩家，没了中国的信任，你的信任值几分？</p>",
+                "comment_count": 0,
+                "image_url": "https://pic3.zhimg.com/50/v2-35b725646f74d6033ba0302f9b008376_hd.jpg",
+                "voteup_count": 19,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMTAwNDM0ILz9t+cFKBMwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjczNzIwOTg="
+        }
+    ]
+}

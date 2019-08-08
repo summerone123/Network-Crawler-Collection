@@ -1,0 +1,262 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1438994361.66757",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1438980014.03&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1438980014.03030"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526570824,
+                "is_labeled": false,
+                "title": "4月大豆进口下降13.6%，中国停止购买美国大豆，咱们的后手在哪里？",
+                "excerpt": "5月8日，据海关总署公布数据，4月份，中国进口大豆692万吨，相较于2017年4月的810万吨同比较少13.6%。这个数据是相当可观的，要知道今年一季度，也就是1-3月，中国进口大豆1957万吨，还增加了0.2%。这13.6%的减少可以说是突发情况，全因中美贸易战而起。 <b>而…</b>",
+                "excerpt_title": "",
+                "id": 36587774,
+                "voteup_count": 119,
+                "created": 1525766302,
+                "url": "http://zhuanlan.zhihu.com/p/36587774",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-b5e8923ea079ae08265eb2bfdc2bb094_{size}.jpg",
+                    "type": "people",
+                    "name": "马骒驷",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/6f019a088b3af56ed999ecc1d11e7542",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "dai-zi-mu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-b5e8923ea079ae08265eb2bfdc2bb094_is.jpg",
+                    "is_org": false,
+                    "headline": "提供一个看问题的新角度",
+                    "badge": [],
+                    "id": "6f019a088b3af56ed999ecc1d11e7542"
+                },
+                "content": "<p>5月8日，据海关总署公布数据，4月份，中国进口大豆692万吨，相较于2017年4月的810万吨同比较少13.6%。</p><p>这个数据是相当可观的，要知道今年一季度，也就是1-3月，中国进口大豆1957万吨，还增加了0.2%。这13.6%的减少可以说是突发情况，全因中美贸易战而起。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而减少的进口量大都来自美国，美国农业部数据显示，截至 4 月 26 日，中国已经取消了约 13 万吨美国大豆采购订单。</b></p><p>财联社5月3日报道，全球最大油籽加工商Bunge行政总裁SorenSchroder表示，<b>中国基本上已停止购买美国大豆。</b>Bunge行政总裁称，中国目前主要从加拿大及巴西进口大豆。而自中国计划对美国农产品征收25％进口关税后，市场已停止进行相关的买卖以等待措施生效，相信这个情况很可能会持续下去。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>大豆进口的减少意味着，中国大豆进口或将出现十五年的来首次下降。</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b2f35cf0b7086e2733fc216ed1f698f2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"648\" data-rawheight=\"466\" class=\"origin_image zh-lightbox-thumb\" width=\"648\" data-original=\"https://pic3.zhimg.com/v2-b2f35cf0b7086e2733fc216ed1f698f2_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>国家粮油信息中心数据显示，中国2018/19年度预计进口量为9500万吨，较上年度减少100万吨。大豆缺口将有本国补足，大豆面积将同比增长8.8%，至847万公顷；产量预计在1580万吨，同比增长8.6%。</p><p>大豆增产的地方正是在东北，近日，吉林省、黑龙江省相继紧急下发文件，要求扩大大豆种植面积。</p><p>长春市农业委员会官网显示，4月28日长春市农委下发《关于迅速落实2018年大豆种植面积任务的紧急通知》，提出<b>“将扩大大豆种植面积作为当前农业生产的首要政治任务”</b>。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-366d31667bab02b153d8a66639b1dd16_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"490\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-366d31667bab02b153d8a66639b1dd16_r.jpg\"/></figure><p>黑龙江省农业委员会日前召开专题会议，向省内各市下达了2018年全省扩种大豆及新增耕地轮作试点任务表。4月29日，黑龙江省也下发了《关于扩大全省大豆种植面积的紧急通知》。</p><p><b>根据公开信息显示，国家下达黑龙江省今年新增500万亩大豆面积，并在已安排1150万亩轮作试点基础上，再新增200万亩耕地轮作试点扩种大豆。</b></p><p>对于一年一熟的东北地区来讲，所谓“轮作”，一般是指玉米与大豆的轮作倒茬种植，为了补偿农民当年不种玉米的损失，国家给参与轮作试点的农户一定补贴。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-19f6aeb301f9b1b34dab75499b48084e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-19f6aeb301f9b1b34dab75499b48084e_r.jpg\"/></figure><p><b>目前，相关任务已经传达至市级政府。</b></p><p>4月30日，黑河市政府召开了扩大大豆种植面积和耕地轮作休耕试点工作会议。会议要求，原则上每亩大豆生产者补贴标准高于玉米生产者补贴标准100元以上，<b>即大豆生产者每亩补贴达到200元以上</b>，玉米生产者补贴100元左右。</p><blockquote>黑龙江黑河市的大豆种植面积占全国大豆总面积的六分之一左右，是全国大豆种植面积最大、总产量最高的地级市。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>扩大大豆种植面积并不是没有代价，东北的玉米产量肯定会因此减少。</p><p><b>但总体来说还是利大于弊，而且咱们早就应该这么干了。</b></p><p>中国是一个人多地少的国家，人均耕地面积仅仅1.4亩，意味着紧靠中国自己的耕地是不可能满足中国人全部的粮食需求。这就需要我们做出取舍——什么粮食多种，什么粮食少种。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e8fe392f53feee2333169e3b3ec00952_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"497\" data-rawheight=\"262\" class=\"origin_image zh-lightbox-thumb\" width=\"497\" data-original=\"https://pic3.zhimg.com/v2-e8fe392f53feee2333169e3b3ec00952_r.jpg\"/></figure><p>现在，中国施行严格的粮食安全政策，口粮上要救绝对安全，大米、小麦、玉米三大主粮的自给率常年保持在97%以上。</p><p>而大豆因为亩产远低于玉米，再加上被分类成了油料作物，自给率已经降到15%以下。</p><p><b>虽然主粮完全自给的政策在一定程度上保证了国家安全，但一边倒地放纵大豆进口其实是在损害中国的利益。</b></p><p>从大豆全球出口的数据来看，美洲两国：美国、巴西几乎垄断了全球市场。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-0973fa3bf996d029f291036a25e5925c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"827\" data-rawheight=\"692\" class=\"origin_image zh-lightbox-thumb\" width=\"827\" data-original=\"https://pic1.zhimg.com/v2-0973fa3bf996d029f291036a25e5925c_r.jpg\"/></figure><p>从进口看，中国进口了全球大豆出口量的6成，高度依赖巴西与美国。目前最大的进口来源是巴西，占到进口总量的一半左右，其次是美国，两者合计占据中国超过八成的进口量。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1b8b6055d3f8120254c88983801988e6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"826\" data-rawheight=\"692\" class=\"origin_image zh-lightbox-thumb\" width=\"826\" data-original=\"https://pic3.zhimg.com/v2-1b8b6055d3f8120254c88983801988e6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a35cc1b8905c4b7a480bbeca600140df_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"843\" data-rawheight=\"695\" class=\"origin_image zh-lightbox-thumb\" width=\"843\" data-original=\"https://pic4.zhimg.com/v2-a35cc1b8905c4b7a480bbeca600140df_r.jpg\"/></figure><p><b>由于大豆出口存在高度垄断的特征，这意味着中国大豆进口受制于巴西与美国，这两家一家禁运就能让中国伤筋动骨，粮食上反而是不安全的。</b></p><p>而且，国际市场上，南北美洲在大豆供应上大体呈现季节互补。</p><blockquote>美洲三国的大豆收获期时间表：<br/>美国：10～11月期间；<br/>巴西：3～5月期间；<br/>销售季节按南北美的气候条件，美国一般是当年10月到次年3月，巴西为4月到9月。</blockquote><p><b>因此，在贸易战中，针对美国的限制政策造成的市场缺口，并没有其他北半球国家能够补足。即使转用巴西、阿根廷的供应来填补，对整个大豆的全球运输、存储体系都是一次压力不低的挑战。</b></p><p>于是，我们扩大了东北大豆种植面积，这意味着，对于贸易战带来的美国大豆缺口，中国已经准备好自己承担。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>问题来了，玉米的粮食安全怎么办呢？</b></p><p>其实，减少大豆进口，增加玉米进口，对于中国来说反而更加安全。<b>这是国际玉米市场的市场性质决定的。</b></p><p>从大豆全球出口的数据来看，国际玉米市场并不存在少数国家的垄断现象，北美、南美、欧洲都有大量的玉米出口。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-5e79e8e58367f0f492f8eb38961c1165_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"836\" data-rawheight=\"694\" class=\"origin_image zh-lightbox-thumb\" width=\"836\" data-original=\"https://pic2.zhimg.com/v2-5e79e8e58367f0f492f8eb38961c1165_r.jpg\"/></figure><p>中国不用担心因为少数国家的制裁而买不到玉米。考虑到中国的玉米进口量还不到国际玉米市场的3%，还有很大的安全空间。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-0553f766aecf232881c90ece36de9163_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"834\" data-rawheight=\"693\" class=\"origin_image zh-lightbox-thumb\" width=\"834\" data-original=\"https://pic4.zhimg.com/v2-0553f766aecf232881c90ece36de9163_r.jpg\"/></figure><p>按照这个思路，中国其实还可以放松对小麦、大米的进口。</p><p>相较于大豆、玉米，小麦的出口更加分散，而且出口大国中俄罗斯、哈萨克斯坦都是咱们的邻国，这两国分别占据国际小麦出口的12%和2%。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-bee22f3e023678794d016a54e2b8c133_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"826\" data-rawheight=\"695\" class=\"origin_image zh-lightbox-thumb\" width=\"826\" data-original=\"https://pic4.zhimg.com/v2-bee22f3e023678794d016a54e2b8c133_r.jpg\"/></figure><p>进口数据上，中国的小麦进口量仅占全球出口的2.5%，也就是说即使发生最坏的情况，中国也能够依靠邻国满足小麦的需要，扩大进口的安全余地很大。</p><p><b>而在所有的粮食中，大米是最适合放松限制的。</b></p><p><b>首先，国际市场上，大米的出口国大都在中国周边。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1678b6b3c1fe52fa10bfd3a55f2b63c2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"834\" data-rawheight=\"693\" class=\"origin_image zh-lightbox-thumb\" width=\"834\" data-original=\"https://pic3.zhimg.com/v2-1678b6b3c1fe52fa10bfd3a55f2b63c2_r.jpg\"/></figure><p>巴基斯坦是中国的铁杆，印度、缅甸是中国的邻国，<b>泰国、越南、柬埔寨在南海周围</b>，这六个国家合计占据国际大米市场的75%。</p><p><b>其次，相较于大豆要从美洲运输，大米进口距离近，更不容易被美国军舰封锁。</b></p><p>再加上南海人工岛屿的建设逐渐完善，中国有能力保证南海航线的安全，大米的粮食安全也就有了保证。</p><blockquote>据美国全国广播公司（CNBC）当地时间5月3日引述美国情报消息人士消息称，中国已在南海的三个前哨基地，部署了反舰导弹和地对空导弹系统。若获得证实，这将是中国首次在南沙群岛部署导弹。<br/>CNBC引述匿名消息人士报道，根据美国的情报评估，这些导弹是在过去30天内，移送到永暑礁、渚碧礁和美济礁。</blockquote><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-cfbf4658b86a33262f34766804615836_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-cfbf4658b86a33262f34766804615836_r.jpg\"/></figure><p><b>第三，大米恰好是东北的优势作物，而且大规模种植在集体农场。</b></p><p>集体农场意味着，作物种植可以使用政策调节，中国能够在不影响普通农民的情况下，将大米改种大豆。</p><p>而且，紧跟政策的集体农场使中国政府有能力随行就市，根据贸易环境、国际粮食市场的变化自由切换大米、玉米、大豆的种植面积。这将大大提高中国在国际粮食市场的博弈地位。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>从中美贸易谈判的结果看，中美贸易战还将继续，粮食牌会持续成为中美博弈的一个重点，大豆的粮食安全问题也愈发不可忽视。</p><p>现在，中美的实力差距也在10年、20年里有了巨大改变，此前对玉米、大米、小麦三大主粮一边倒粮食政策已经显得不合时宜。</p><p><b>应对来自美国的贸易挑战，中国有能力也有必要调整粮食政策，优化粮食布局，使我们的粮食进口更加安全，更加合理。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>新消息：</b></p><p>农业农村部官员16日称，2018年中国大豆种植面积预计增加1000万亩，达1.27亿亩，水稻、玉米面积调减，水稻比上年减少1000多万亩。</p><a href=\"https://link.zhihu.com/?target=http%3A//www.guancha.cn/economy/2018_05_17_457126.shtml\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-2eb8d66742169441135c62ce7617be64_180x120.jpg\" data-image-width=\"539\" data-image-height=\"429\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">2018年中国大豆种植面积预计增加一千万亩 压缩水稻</a><p></p>",
+                "comment_count": 103,
+                "image_url": "https://pic4.zhimg.com/50/v2-1c6f3000fd48b43e79b878fa7dc693a6_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-1c6f3000fd48b43e79b878fa7dc693a6_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-b2f35cf0b7086e2733fc216ed1f698f2_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-366d31667bab02b153d8a66639b1dd16_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjgyNTk4OSCescXXBSh3MGdAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2NTg3Nzc0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523230329,
+                "is_labeled": false,
+                "title": "抛售美债真的是中国的杀手锏吗？",
+                "excerpt": "最近中美贸易战，很多人嚷嚷着抛售美国国债来搞垮美国。Seriously？中国的奇人是每年都有，今年是特别多。首先，让我们看看什么是美国国债。美国国债顾名思义就是美国以政府的名义做担保向世界发行的债务。美国国债分为短期（一年期以下），中期（一年期到…",
+                "excerpt_title": "",
+                "id": 35436783,
+                "voteup_count": 213,
+                "created": 1523230329,
+                "url": "http://zhuanlan.zhihu.com/p/35436783",
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-6da3079ab480d66ca281771215468e71_{size}.jpg",
+                    "type": "people",
+                    "name": "宋元明",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/eb48c33de9f47d14eda60dc1be9a93dc",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "song-yuan-ming-13",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-6da3079ab480d66ca281771215468e71_is.jpg",
+                    "is_org": false,
+                    "headline": "请关注我的专栏：美国之妖",
+                    "badge": [],
+                    "id": "eb48c33de9f47d14eda60dc1be9a93dc"
+                },
+                "content": "<p>最近中美贸易战，很多人嚷嚷着抛售美国国债来搞垮美国。Seriously？中国的奇人是每年都有，今年是特别多。</p><p>首先，让我们看看什么是美国国债。美国国债顾名思义就是美国以政府的名义做担保向世界发行的债务。美国国债分为短期（一年期以下），中期（一年期到十年期），长期（十年期以上，最长为三十年）。其中短期债务不支付利息，中期和长期债务支付利息。国债是一个双方的合约，发债方保证到时付息还本，同时认购方也要保证不提前赎回。没有到期，美国政府不会支付认购方任何本金，美国政府也不会理会你要提前赎回的要求。</p><p>短期国债不支付利息，只是到期支付票面金额。既然不支付利息，为什么还有人去买呢？举个简单的例子，比如美国政府发行一个3个月的100美元国债，有很多人和机构竞拍，出价最高者得。由于不支付利息，所以竞购方的出价不会超过100美元，比如最高的人小A出价99美元，那么他买了这个100美元的国债，拿在手里面三个月，美国政府就会到期支付小A100美元。这相当于小A用99美元在3个月赚了1美元。假如小A在这三个月中的期限里刚过了一个月，由于急需用钱，可能会把这个债券按98美元的价格卖给小B。到期之后，小B就会从美国政府那里领到100美元，相当于小B用98美元在两个月中赚了2美元，小A则亏了1美元。同样，假如小B手上有闲钱，觉得放着也是放着，就是赚5毛钱也可以接受，那么小A也可以以99.5美元的价格将债券卖给小B。</p><p>中期和长期的美国国债是支付利息的，期限越长，利息相对越高。这时候竞拍美国国债时，认购方主要的出价就是看谁要求的收益率低。简单举例，比如美国政府要发一个1000美元的十年期国债，只有小A和小B认购。小A出价认购为500美元，年化1%，小B出价认购1000美元，年化要求2%。那么，小A就会全额中标，小B则会中标500美元。</p><p>上面只是简化了美国国债的发债流程，实际操作则比这个复杂的多得多。在一般情况下，比如目前的2018年，美国每次发债的时候，其认购竞拍金额大概是发债金额的3倍左右，大家认购的非常积极。为什么呢？</p><p>第一，因为美国国债的信用非常好，其建国发债的200多年间，从来都没有违约过，到点就会发放利息，到期就会偿付本金。甚至二战时，敌国日本和德国的机构所持有的美国国债，美国政府也照样偿付。说实话，信用这个东西，只有看时间积累，没有更好的办法。你也可以说，我们中国国债也没有违约过，但是才几十年的历史，信用积累仍然有限。而且中国自改革开放后还没有经历过真正的经济调整，到时候出现什么情况很不好说，所以很难让国外投资者完全放心。</p><p>第二，看国运。我们总是说美国年轻，但是美国200多年的建国史，其政府从来没有中断过。我们中国虽然号称5000年历史，但是新中国建立只有不到70年的历史，新中国肯定不会承认民国时期发的债券。这就看投资者是否信任这个国家的国运，比如20年期的债券，一定要保证这个国家的政府能在你投资后存在20年。投资者认购美债积极，也是对美国的政治制度投的信任票。</p><p>第三，美国国债的市场特别大，容易流通。</p><p>第四，虽然美债收益率一般，但是稳定，有保证还款，风险低，很多国家和机构拿美债做投资对冲时的压舱石。</p><p>美国政府每年在发债的时候，绝大部分都是中长期债务，中期债务占比35%，长期债务占比63%，短期占比只有2%左右。这很好理解，毕竟美国每届政府都知道自己最多只能做8年，任期内借得钱让后面的人去还呗。</p><p>目前我们中国持有的1.2万亿美元的美国国债中，绝大部分都是中长期国债，根本没有到期，那么中国就不可能现在让美国还钱，美国政府也不会理会中国要求现在赎回的要求。这样如果出售，只能在二级市场上出售。但是，1.2万亿的规模，如果集中抛售的话，很难找到接手方。买卖买卖，有买才能卖。按照目前市场价很难一时找得到接手方，这时候中国想怎么样呢？收益不要了，破净抛售？1万亿，我只卖7000亿，8000亿？这样应该能找得到买家。但是换回一堆美元又能做什么呢？</p><p>如果中国什么也不管，豁出去了，就是破净也要抛售。对美国的影响就是，今年的债不好发了，可能认购的规模变小了。认购的规模变小，那么竞标时，竞标方会提出更高的收益率，美国政府可能要支付更高的利息，仅此而已。</p><p>从另外一个角度来说，中国目前所持有的美国国债规模，只占美国国债存量的5%。5%的影响会对美债市场照成很大的影响，但是不是决定行的影响，不出一年，市场即可消化这个5%的抛售，然后一切回归正常，中国则啥也没有挣到。</p><p></p>",
+                "comment_count": 99,
+                "image_url": "https://pic3.zhimg.com/50/v2-183085a1a24a9b0d78af60107149778e_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-183085a1a24a9b0d78af60107149778e_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjM2NDg3MCD5zKrWBSjVATBjQABSEXRvcF9hY3Rpdml0eV9wb3N0WgU3NzA4OHIIMzU0MzY3ODM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "美国钢铁工人协会(United Steelworkers，USW)，全称叫：钢铁、造纸、林业、<b>橡胶</b>、制造业、能源以及相关工业与服务业的国际工会(The United Steel, Paper and Forestry, <b>Rubber</b>, Manufacturing, Energy, Allied Industrial and Service Workers Internationa…",
+                "created_time": 1525226186,
+                "id": 381152438,
+                "voteup_count": 14,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [
+                        {
+                            "topics": [
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "汽车",
+                                    "url": "http://www.zhihu.com/api/v4/topics/19551915",
+                                    "excerpt": "我国国家最新标准《汽车和挂车类型的术语和定义》(GB/T 3730．1—2001)中对汽车有如下定义：由动力驱动，具有4个或4个以上车轮的非轨道承载的车辆，主要用于：载运人员和（或）货物；牵引载运人员和(或)货物的车辆；特殊用途。",
+                                    "is_vote": false,
+                                    "introduction": "我国国家最新标准《汽车和挂车类型的术语和定义》(GB/T 3730．1—2001)中对汽车有如下定义：由动力驱动，具有4个或4个以上车轮的非轨道承载的车辆，主要用于：载运人员和（或）货物；牵引载运人员和(或)货物的车辆；特殊用途。",
+                                    "avatar_url": "https://pic1.zhimg.com/50/e803f3e7a832b035f9bd2dff87033133_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19551915"
+                                },
+                                {
+                                    "category": "n_wiki",
+                                    "is_black": false,
+                                    "name": "汽车设计",
+                                    "url": "http://www.zhihu.com/api/v4/topics/19593808",
+                                    "excerpt": "造车的艺术。涉及外观美术设计、工程学、以及人体工程学等众多范畴。",
+                                    "is_vote": false,
+                                    "introduction": "造车的艺术。涉及外观美术设计、工程学、以及人体工程学等众多范畴。",
+                                    "avatar_url": "https://pic2.zhimg.com/50/cba84f322_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19593808"
+                                }
+                            ],
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "id": "58579b5cf5724d6e821c955ba290c880"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/381152438",
+                "question": {
+                    "created": 1524728937,
+                    "url": "http://www.zhihu.com/api/v4/questions/274840785",
+                    "title": "中美轮胎特保案，为何是美国钢铁工人协会推动的？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274840785
+                },
+                "updated_time": 1525226345,
+                "content": "<p>美国钢铁工人协会(United Steelworkers，USW)，全称叫：</p><p>钢铁、造纸、林业、<b>橡胶</b>、制造业、能源以及相关工业与服务业的国际工会</p><p>(The United Steel, Paper and Forestry, <b>Rubber</b>, Manufacturing, Energy, Allied Industrial and Service Workers International Union)</p><p>注意加粗。</p><p>别被这个团体的简称给迷惑了。之所以保留United Steelworkers这个简称，乃是因为USW起家于钢铁行业，但是发展到今天70多年，早已成为一个跨多个制造行业的大型工会组织了。橡胶行业包括轮胎，也在USW的职能之中。</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTkzNjg1NDkgyrWk1wUoDjAAQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMzUxMzkxcgkzODExNTI0Mzg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "推测是为了切割手机软件与谷歌的关系，做到即使被制裁，也不影响华为手机的主要功能和市场。因为安卓系统真正被谷歌约束的命门就是谷歌提供的商店等服务。这个趋势在其他网络和无线设备上更明显一些，现在各产线纷纷自查自纠，尽量采用公司内部系统和芯片，…",
+                "created_time": 1526695818,
+                "id": 395478275,
+                "voteup_count": 101,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/f75db6b0846c472457a64553ee68bc93_{size}.jpg",
+                    "type": "people",
+                    "name": "有凤来仪表非凡",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/39d5a66da91f244a43888ecc21b5b7ef",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "wang-dai-28",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/f75db6b0846c472457a64553ee68bc93_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [],
+                    "id": "39d5a66da91f244a43888ecc21b5b7ef"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/395478275",
+                "question": {
+                    "created": 1526593990,
+                    "url": "http://www.zhihu.com/api/v4/questions/277614825",
+                    "title": "为什么华为手机从2018年5月10日起用不了谷歌商店了？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 277614825
+                },
+                "updated_time": 1526695818,
+                "content": "<p>推测是为了切割手机软件与谷歌的关系，做到即使被制裁，也不影响华为手机的主要功能和市场。因为安卓系统真正被谷歌约束的命门就是谷歌提供的商店等服务。</p><p>这个趋势在其他网络和无线设备上更明显一些，现在各产线纷纷自查自纠，尽量采用公司内部系统和芯片，避免关键时刻被卡脖子。</p>",
+                "comment_count": 53,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAxOTc1MTEyIIqP/tcFKGUwNUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzk2Nzk2N3IJMzk1NDc4Mjc1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558573981,
+                "is_labeled": false,
+                "title": "贸易自卫反击战，从稀土打响！",
+                "excerpt": "5月20日， 外交部例行记者会上有人问，在中美贸易战大背景下，中方领导考察调研稀土产业是几个意思，外交部发言人陆慷回应，这次调查很正常，希望大家<b>不要</b>随意<b>联想</b>。但我觉得这是外交部在给美国政府敲黑板、划重点，恰恰是希望美国展开联想。我们今天就来看…",
+                "excerpt_title": "",
+                "id": 66695209,
+                "voteup_count": 266,
+                "created": 1558573981,
+                "url": "http://zhuanlan.zhihu.com/p/66695209",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-e248f28ceb64e0206178e053807cb477_{size}.jpg",
+                    "type": "people",
+                    "name": "淡定明志",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/93b4fdc2cad1948b300ede5115c26048",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "dandingmingzhi",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-e248f28ceb64e0206178e053807cb477_is.jpg",
+                    "is_org": false,
+                    "headline": "三个孩子的爸爸，微信公众号“超级学爸”",
+                    "badge": [],
+                    "id": "93b4fdc2cad1948b300ede5115c26048"
+                },
+                "content": "<p>5月20日， 外交部例行记者会上有人问，在中美贸易战大背景下，中方领导考察调研稀土产业是几个意思，外交部发言人陆慷回应，这次调查很正常，希望大家<b>不要</b>随意<b>联想</b>。</p><p>但我觉得这是外交部在给美国政府敲黑板、划重点，恰恰是希望美国展开联想。我们今天就来看看稀土是不是我们的一张牌，这张牌威力有多大，什么时候出合适。</p><p>长久以来，稀土都被当做中国的一张<b>王炸</b>。1992年邓小平南巡时说过一句话：“<b>中东有石油，中国有稀土</b>。”意思是中国的稀土就如中东的石油一样，存在巨大价值和影响力。</p><p>邓公此言不虚，这句话包含了两层含义；第一，稀土对现代工业有和石油相媲美的地位；第二，中国稀土<b>当时的储量</b>有和中东石油相媲美的地位。</p><p>先说稀土有多重要呢？蛋总认为稀土的重要性越来越大，可能超过石油。石油被誉为现代工业的血液，而稀土被誉为工业的维生素，在民用和军事方面用途十分广泛。</p><p>而且稀土有个非常独特的特点，越是高科技，对稀土就越依赖，可以说全球所有的高科技产品，都离不开稀土，并且比石油更加残酷的是，几乎没有替代品。</p><p>举个简单的例子，<b>钕</b>（nǚ）这种元素，就是十七种稀土元素之一，其实已经是无处不在了，因为制造手机、耳机甚至是汽车，都会用到这种稀有的元素。</p><p>1983年，<b>钕铁硼</b>永磁体横空出世，轰动世界，因为这种材料一跃成为世界上磁性最强的永磁材料，比铁氧体高10倍（比如四氧化三铁为主的磁铁石），号称<b>永磁之王</b>。</p><p>蛋总曾经感兴趣，在网上给孩子买了几个钕磁铁玩具，吸引力超强，薄薄的两小片曾经把孩子的手夹伤了，才认识到这种磁铁的威力，大家一定都要注意。</p><p>以前收音机、扩音器都有一块大大的磁铁，无论体积还是重量都很大。但是有了钕铁硼磁铁之后，体积和质量就可以做很小了。</p><p>由于磁力超强，很快就被应用到了很多行业，包括永磁电动机、发电机、核磁共振成像仪、仪器仪表，已经成了汽车制造、通用机械、电子信息产业和尖端技术不可缺少的功能材料。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d817faffd76c3da386805bf93721313c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic1.zhimg.com/v2-d817faffd76c3da386805bf93721313c_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>另外，钕还可以被用作激光材料，既可以作为激光晶体，还可以用作大功率激光玻璃，然后被用在金属材料切割、打孔、焊接和激光手术等方面，甚至还被用于激光核聚变研究。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-f8051824cfdf9f1d1f06be8c1690828b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"255\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic4.zhimg.com/v2-f8051824cfdf9f1d1f06be8c1690828b_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>钕的作用还远不止这些，可以说简直是<b>威力倍增器</b>。所以在第四次科技革命中，钕也将大显身手。</p><p>比如特斯拉的Model3电动车，就离不开钕铁硼永磁电动机，因为它们比基于铜线圈的感应电机更轻、更强、更高效。而目前BMW、日产、吉利都在使用永磁体发展电动汽车。</p><p>钕这种材料，当然也可以永在国防领域，比如电磁弹射、电磁炮、激光武器、超静音潜艇，我不可以再多说了……</p><p>这只是17种稀土金属中的一种。这17种金属，已经在不同的高科技领域大显身手，而且作用不可替代，地位不言而喻。</p><p>在导弹，战机、核武器等军事武器装备的合金材料当中，同样需要掺入稀土成分，才能够大幅度提高产品性能。毫无疑问，稀土是一种涉及国防安全的<b>战略资源</b>。</p><p>稀土资源还关系到第四次科技革命和人类未来的竞争，目前世界每年的发明专利中，跟稀土有关的专利占据了总数的五分之一，稀土科技是人类未来的天王山。</p><p>因此可以得出结论，人类科技越发达，稀土的重要性就越突出。相反，越落后的国家越无所谓，因此中美日三国，在拼命地申请稀土专利，三国稀土专利占全球的一半。</p><p>说完了稀土的重要性，再说中国稀土储量的问题。邓公说这个话的时候，中国的稀土储量比中东石油储量要威猛得多。</p><p>中东石油储量占全球总储量的61.5%，但是1992年中国稀土储量是世界其他国家总和的五倍多，也就是说中国占比高达84%（还有说88%的）。</p><p>然而令大家失望是，现在中国的储量虽然仍是世界第一，但是已经下降到了32~39%。按2012年国新半《中国的稀土状况与政策》白皮书的说法，我国稀土储量约占世界总储量的23%。</p><p>还有一个更残酷的事实，那就是中国已经成了一个稀土进口第一大国。2018年全球稀土产量19万吨，但是中国却进口了5.3万吨（氧化物当量）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4430d29d8a2dd269c21f370b6d10c09a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic3.zhimg.com/v2-4430d29d8a2dd269c21f370b6d10c09a_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>更令人大跌眼镜的是，2018年美国也对中国出口稀土，美国对中国的稀土出口总量为2.8万吨，占了总进口量的一半（缅甸也不少）。</p><p>大家是不是突然感觉彻底绝望了？是不是觉得稀土牌没得打了？蛋总也曾经这么认为，但冷静下来一观察，稀土牌不但有牌可打，而且还要好好打。</p><p>第一，中国稀土储量所占比例的确下降了，但比例下降并不代表储量下降。80年代末的时候，中国探明储量是3800万吨，而世界其他各国总和是702万吨。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-7a61d84a28cbe3a0c371e92344d00b84_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"678\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic1.zhimg.com/v2-7a61d84a28cbe3a0c371e92344d00b84_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>而2017年底，中国稀土的储量高达4400万吨，储量占世界总储量的36.35%。其次是巴西及越南，储量达2200万吨，占全球总储量的18.17%；俄罗斯占14.87%；印度占5.7%。</p><p>中国的储量其实也增加了。也就是说虽然中国稀土存在滥采盗采的情况，之前也存在当土贱卖的情况，但中国储量占比下降的根本原因是，国外储量的不断发现。</p><p>第二，储量不代表可开采量。储量数字的背后，有各国力量博弈的影子。我国2012年发表白皮书之后，稀土价格狂涨了好几倍。为了掌握话语权，我们必须捂盘惜售，必须不能多说，毕竟物以稀为贵。</p><p>同样，发达国家为了打压稀土价格，也在不停地找矿。一旦找到新的稀土矿，就可以打压现有稀土价格。</p><p>比如日本曾经宣布太平洋海底有大量的稀土，声称比现有所有稀土矿藏多几百倍，足够世界开采几百年，然后得出结论——中国再不卖，就真的烂在手里变成土了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-02002c9a59ed883f172efe4a2e9b9d22_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"530\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic3.zhimg.com/v2-02002c9a59ed883f172efe4a2e9b9d22_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实蛋总还想告诉日本人，月亮上的稀土也不少，你倒是去采啊！太平洋5000米海底稀土矿储量是大，但跟月亮上的储量没有区别，所以纵然不断涨价，日本还不得不来中国买稀土。</p><p>第三，稀土共有17种元素，中国稀土储量样样齐全，产品线涵盖度百分之百，就像中国工业体系的完整度一样，这是外国所不具备的。</p><p>稀土分为<b>轻稀土</b>（镧、铈、镨、钕、钷）、<b>中稀土</b>（钷、钐、铕、钆、铽、镝）和<b>重稀土</b>（钬、铒、铥、镱、镥、钪、钇）。</p><p>其中中稀土和重稀土更为珍贵。外国目前发现的稀土储量目前都是轻稀土，而中稀土和重稀土中的钆、铽、镝、钬、铒、铥、镱、镥和钇已知可采储量，几乎<b>为中国独有</b>。</p><p>重稀土矿附加值高，放射性低、高科技应用元素多、综合利用价值大等优点，是我国南方地区独有的珍稀矿种。</p><p>以“镝”(<b>dī </b>)为例，凡是激光、核反应堆、计算机硬碟、汽电共生引擎等，都必须要使用镝，更令美国捉鸡的是，美国最自豪的“精准打击武器”，关键零件缺少镝就无法制造。</p><p>更令人欣慰的是，中国南方的中稀土和重稀土矿以离子形态存在，易采、易提取，可用电解质淋洗出来，天佑中华！</p><p>第四，中国是稀土储量大国，还是稀土<b>技术强国</b>。从1983年，我国就开始申请国际稀土专利，14年后的1997年，我们的稀土相关专利超越美国。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-9d03561563018ce93f2413c9855b37cd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"322\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic2.zhimg.com/v2-9d03561563018ce93f2413c9855b37cd_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>到了2011年，我国的稀土相关专利则比全球其它国家加起来都多，而在2011年到2018年之间，我们的申请速度增加了250%，比美国多了2.3万多件稀土相关专利。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f608fc5990f5cc6affb87de8f4485320_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"233\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic1.zhimg.com/v2-f608fc5990f5cc6affb87de8f4485320_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>上世纪90年代，美国是生产稀土的。但是后来中国的稀土产量上来之后，美国不是为了保留战略资源不开采，而是中国的稀土太便宜，他们完全招架不住，你以为他们愿意倒闭啊！</p><p>但是美国关掉稀土矿的同时，稀土加工企业也随即倒闭。这跟美国制造业空心化是同步的，美国全部进口的是成品，很长时间美国稀土产量是零。</p><p>有人说了，不是说2018年美国向中国出口稀土吗？是的，因为2017年<b>中国企业</b>盛和资源收了美国芒廷帕斯稀土矿，这个矿曾经供应了全球90%以上的稀土。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e1c8c58a706e37179ed608f56e2e536a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"295\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic3.zhimg.com/v2-e1c8c58a706e37179ed608f56e2e536a_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>刚才说，中国为啥是稀土进口大国，就是中国现在要保护自己资源，实行配额制，加上不断打击盗采滥采，国内的稀土加工行业产能过剩，严重吃不饱，只能选择进口。</p><p>也就是美国的中资企业，现在向中国出口稀土的原材料，中国加工过以后做成成品，再卖给美国，这就是真相！目前，中国稀土行业向全世界提供了85%以上的供应量。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a02163b0c51b6b85ea4b2f7863082097_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"301\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-a02163b0c51b6b85ea4b2f7863082097_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>第五，中国不仅仅在稀土资源上有优势，在很多有色金属上也具有绝对优势。比如锡、钨、锑、与稀土一起，并称为中国的四大战略资源。</p><p>除此之外，云南的金属<b>铟</b>（yīn）储量占全球的八成，有着很广泛的用途，合金中有了铟，可以大大提高合金的延展性，还能够抗磨损抗腐蚀。</p><p>铟合金还可以用来制造反应堆中的控制棒。因为它有着非常好的延展性，又能吸附在多种材料上，所以各种高空仪器以及宇航设备中都会需要它，比如F22的隐形材料。</p><p>在2006年的时候，日本把这种金属<b>铟</b>列为储备的对象，<b>美国也是金属铟的的使用大国，中国是唯一的进口来源国</b>，所以美国和日本都需要从中国进口这种铟。</p><p>还有一种<b>战略金属镓</b>（jiā），广泛地应用于无线电通讯、光纤通信、汽车雷达、LED 照明、太阳能电池等领域，所有用途几乎都和当前现代科技发展及低碳经济、绿色能源和环境保护相关。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-326ec5d9bdcacee54b085963e380ba55_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"327\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic2.zhimg.com/v2-326ec5d9bdcacee54b085963e380ba55_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前公布的镓的世界总储量约为 23 万吨，我国的镓金属储量居世界首位，约占世界储量的 80%~85%，国外金属镓的储量约为 4~5 万吨，其中美国镓储量为 0.45 万吨……</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以，综上所述，我们还是有牌可打的，无论是稀土，还是锡、钨、锑、铟和镓等战略金属，都是我们手中的好牌。</p><p>手里有好牌的，也要讲究怎么打。就像斗地主，别人出一张“三”，你不可能下去就扔王炸。蒋介石当年手中也有好牌，照样打的稀烂。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a32f96bce27776313d7c74a5275c6f18_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"331\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-a32f96bce27776313d7c74a5275c6f18_r.jpg\"/></figure><p><br/><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>比如轻稀土，虽然美国储量也有1300万吨，但远水不解近渴，按照美国的效率，一个厂弄起来起码也得两年时间，所以我们不要觉得美国有，我们就不敢制裁。</p><p>等他把厂子盖好了，人员配齐了，我们再突然恢复供应，把他新建的厂子给折磨倒闭。当年他们对付我们国内的企业，不也是这个套路？先是漫天要价，一旦国产了赶紧杀进来。</p><p>如果他们用盟友的稀土，那么我们还有一张知识产权牌，毕竟我们的专利多。他们不是爱打官司么，那就给他们弄点官司打打，找茬谁不会。</p><p>如果他们想谈判，我们要求派<b>中兴</b>式的太上皇，监督他们的稀土生产。到那个时候，他们就知道什么叫“以其人之道还治其人之身”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-37d5927ac8e52288fe61ea5f2ff44655_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"286\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-37d5927ac8e52288fe61ea5f2ff44655_r.jpg\"/></figure><p><br/><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果美国不生产稀土，而从其他国家进口，我们可以用知识产权的办法盯着这些国家，同时还可以从重稀土上让美国体会一下，英语单词“顾客Customer”的汉语读音——<b>卡死他们</b>。</p><p>因此，稀土不仅是我们的牌，而且是好牌。“你打你的，我打我的”一向是毛泽东军事思想的精华之一，那么贸易自卫反击战和华为保卫战，就从稀土打响吧！</p>",
+                "comment_count": 64,
+                "image_url": "https://pic1.zhimg.com/50/v2-bdc67c3310ae5eccc5dceb728fab9006_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-bdc67c3310ae5eccc5dceb728fab9006_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-d817faffd76c3da386805bf93721313c_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-f8051824cfdf9f1d1f06be8c1690828b_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjcQBxoJMTAyOTQ5Nzk3IJ3nl+cFKIoCMEBAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDY2Njk1MjA5"
+        }
+    ]
+}

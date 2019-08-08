@@ -1,0 +1,222 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1464137388.83475",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1463330407.1&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1463330407.09920"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524328587,
+                "is_labeled": false,
+                "title": "芯片：中国跟美国的差距不仅仅是发展年份这么简单",
+                "excerpt": "历史的确是证明了高科技才是发展的根本。 但为什么美国高科技发展的就这么日新月异？个人短见：一百多年前美国有个叫特斯拉的人挑战爱迪生，两人为交流电直流电谁更实用打的不可火热。一个年轻人敢于可以挑战发明大王，重要的支持者之一JP摩根。这算是美国…",
+                "excerpt_title": "",
+                "id": 35964966,
+                "topic_thumbnails": [],
+                "created": 1524327183,
+                "url": "http://zhuanlan.zhihu.com/p/35964966",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-6917783a612bbde50abe829a9409f901_{size}.jpg",
+                    "type": "people",
+                    "name": "三刀流海贼王",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/f41882dc772c073ab3debeb0cc487d16",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "san-dao-liu-hai-zei-wang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-6917783a612bbde50abe829a9409f901_is.jpg",
+                    "is_org": false,
+                    "headline": "自认为认识世界有独特视角的人",
+                    "badge": [],
+                    "id": "f41882dc772c073ab3debeb0cc487d16"
+                },
+                "content": "<p>历史的确是证明了高科技才是发展的根本。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但为什么美国高科技发展的就这么日新月异？</p><p>个人短见：一百多年前美国有个叫特斯拉的人挑战爱迪生，两人为交流电直流电谁更实用打的不可火热。一个年轻人敢于可以挑战发明大王，重要的支持者之一JP摩根。这算是美国金融与高科技结合最明显的开端。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>相差不是特别远的同时期中国，盛怀宣一边做着洋务运动重臣，确实给洋务运动推进起到了极大的帮助，但同时也是各种职务侵占。他的倒台是伴随着洋务运动官方势力倒台而倒台，没有任何人敢从商业正面刚。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>过了几十年后，美国出现一个著名的洛克菲勒公司解体案例。石油品质的统一，规模化降低成本，都是有利于消费者的。但根本就不允许垄断弄得其他人都没机会。中国当时的民国政府，不论是军阀，还是后来的蒋，宋，只要是这个国家，都可以是他个人的。国民经济简直就是倒退。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>再看当下美国，仅仅是因为想高度依赖机器人，导致产量迟迟达不到标准，特斯拉遭受着华尔街凶狠的做空。贾跃亭之前就是在美国有地的，现在轻松拿到地产100亿，接着又来广州拿地，厂房都没见到。不知道圈这些地不用，最后是不是盖厂房。又或者是中国人才太少了，钱只能投给贾布斯拿地了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>uber目前还是一家独立的小巨头，特斯拉也极可能是下一个巨头。反观国内腾讯，阿里各种收购，一开始只是买断互联网，现在是各种新兴事物（滴滴，快滴，共享单车，新零售）都要买断。一开始还推动了社会的发展，这往后貌似要成为遏制创新的主要力量了（类似于盛怀宣，本身很多技术都是拿的国外的，甚至商业模式很大程度上也是借鉴的国外）。至于有钱的地产商，他们眼中的高科技人才恐怕就属贾布斯了。暴富的金融行业继续榜地产大腿或继续玩杠杆套利游戏。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一百年前什么样，一百年后还是什么样。对方开放只是开通了那人家东西用的通道，人家愿意给你用的时候还好，可以养出少数富人，但更多的中国屌丝穷的婚都结不起了，小孩也生不起了。差距不是简单的年份可以解决。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>看一个程序员说过，为什么那么多好轮子，基本上都是国外的，其实不是国人蠢，而是没有时间，巨大的工作压力（对比国外了，在中国是习以为常）根本没有时间去弄。而这种文化还得到的极大的鼓励（狼性文化）。</p>",
+                "comment_count": 10,
+                "voteup_count": 30,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjU3NjQ1OCCPxu3WBSgeMApAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1OTY0OTY2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1522056102,
+                "is_labeled": false,
+                "title": "智商，你有吗？试一试？",
+                "excerpt": "网上近期贸易战又开始讨论了。看左派右派一通撕。本篇文章本来是前几天发的，因为“不可描述原因”，被删了。反省一下，删减一下，再发一下。看看有的电视上，《环球屎报》，带鱼等的说法，有时你会觉得，这智商岌岌可危啊！当你“百撕不得其姐”的时候，你…",
+                "excerpt_title": "",
+                "id": 34960933,
+                "topic_thumbnails": [],
+                "created": 1522056103,
+                "url": "http://zhuanlan.zhihu.com/p/34960933",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-c4049d9ab2e2b3c3b8f643f29ad0d8d5_{size}.jpg",
+                    "type": "people",
+                    "name": "王双增",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "一级建造师 造价工程师 二级建造师 监理工程师"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/2ac2a04852d6dc5f413774386fad2d2f",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "wang-shuang-zeng-29",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-c4049d9ab2e2b3c3b8f643f29ad0d8d5_is.jpg",
+                    "is_org": false,
+                    "headline": "工程培训师，社会问题吐槽师",
+                    "badge": [],
+                    "id": "2ac2a04852d6dc5f413774386fad2d2f"
+                },
+                "content": "<p>网上近期贸易战又开始讨论了。看左派右派一通撕。</p><p>本篇文章本来是前几天发的，因为“不可描述原因”，被删了。</p><p>反省一下，删减一下，再发一下。</p><p>看看有的电视上，《环球屎报》，带鱼等的说法，有时你会觉得，这智商岌岌可危啊！</p><p>当你“百撕不得其姐”的时候，你需要反省自己，我看到的，听到的只是真的吗？</p><p>“凡所有相，皆是虚妄”！佛早就告诉你了！</p><p>仔细想想，很多在电视上侃侃而谈的，“智商岌岌可危的”的说法，你会觉得不可理喻！</p><p>可是为什么还会侃侃而谈？</p><p>夜不能寐，终于想通了！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可能这些专家本来就是为了忽悠你而专门找的，让专家专门这样说的。</p><p>但是真正的政策制定，看这些人，就会被带到沟里去。</p><p>所以，政策的制定，应该另有一拨智囊团。</p><p>例如著名的**，</p><p>说的那些“雾霾挡住了m国卫星” ，“海带可以做国防力量”等等，只要有点常识的人都不会信。</p><p>但是为什么要在电视上说？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>因为电视观众里有很多是初中没有毕业的，小学没有毕业老大妈！（含思维能力不足的大学生、研究生）</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>他们没有分辨能力。需要专家给他们吃安神药，需要心灵鸡汤。<br/><br/></p><p>网上也传过这位专家给**上课的内部视频，</p><p>那才是真正的专家水平。</p><p>看看就知道，让你感到不是同一个人的讲话。</p><p>有人说看“经济类节目”可以长学问。这真的需要辨别能力。</p><p>例如经济类节目看**老板的访谈，**老板访谈，</p><p>你都会觉得他们好牛啊！说的真的振奋人心，是成功学的典范！</p><p>机场里到处播放“成功学”演讲！<br/>他们说“他们企业发展成功就是靠核心竞争力，靠大家团结的团队精神，靠…靠…靠…靠的是一切正能量的词 ，<br/>但是等他们被抓了，逃了，你才知道，<br/>真正靠的是背后力量。</p><p>靠的是DNA遗传基因！</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>所以看电视？ 还长学问？</b> <b>最终智商会受到影响的。</b>  </p><p class=\"ztext-empty-paragraph\"><br/></p><p>再例如，前些年，你看各个经济类的节目说起房价，</p><p>大都是说，”涨到头了！“”要下降了“。</p><p>专家们说的煞有介事，有图形，有表格，有曲线，有案例，有理论，有依据，有逻辑，有慷慨激昂，有咿呀漫语。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>只有个”任**“，坚持说“房价还会涨！”“我盖的房子不是给穷人盖得！”</p><p>结果那？说真话的成了社会公敌！不骂他几句就显得不那么时尚！</p><p>结果那？</p><p>我那时候也脑残，也骂过 。庆幸的是，醒悟的还算快，脑子转过弯了。</p><p>后来我成了他的粉丝。</p><p>我知道，他说的是真话。他是个说真话的人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>同样说真话的人，还有：********等等等等。</p><p>生活在中国，</p><p>能说真话！</p><p>他们都是大写的“人”。 </p>",
+                "comment_count": 2,
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjE3NDMyMyCn9+LVBSgEMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTg3MDM5cggzNDk2MDkzMw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "大概只有当年的英国东印度公司了。",
+                "created_time": 1524328609,
+                "id": 372849945,
+                "voteup_count": 6,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/6c1f507621379031089a8f93a033b2b7_{size}.jpg",
+                    "type": "people",
+                    "name": "yang leonier",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "计算机科学"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/12f809dcccd72583bc422fe9bfe90be6",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "yang-leonier",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/6c1f507621379031089a8f93a033b2b7_is.jpg",
+                    "is_org": false,
+                    "headline": "Black-frame Glasses and Belts",
+                    "badge": [],
+                    "id": "12f809dcccd72583bc422fe9bfe90be6"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372849945",
+                "question": {
+                    "created": 1524326825,
+                    "url": "http://www.zhihu.com/api/v4/questions/274193253",
+                    "title": "如果和中兴遭遇一样的处罚，有没有哪个公司可以不被打垮？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274193253
+                },
+                "updated_time": 1524328609,
+                "content": "大概只有当年的英国东印度公司了。",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc4NTIyMDcgodHt1gUoBjAAQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjA3MzAycgkzNzI4NDk5NDU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1522150466,
+                "is_labeled": false,
+                "title": "美国资本商品进出口贸易",
+                "excerpt": "A capital good is a durable good (one that does not quickly wear out) that is used in the production of goods or services. Capital goods are one of the three types of producer goods, the other two being land and labour, which are also kno…",
+                "excerpt_title": "",
+                "id": 35000969,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-f863baa4e3601aac77cad79281ca805a_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-f3674da02071a36b258ae890fef30984_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-8f6b67c85223f79f66cf3ee0a9777532_250x0.jpg"
+                ],
+                "created": 1522150412,
+                "url": "http://zhuanlan.zhihu.com/p/35000969",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_{size}.jpg",
+                    "type": "people",
+                    "name": "特布鲁",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "te-bu-lu-59",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_is.jpg",
+                    "is_org": false,
+                    "headline": "专注数据，关注社会 公众号：不惑门 (NCR2019_4)；",
+                    "badge": [],
+                    "id": "87a2a1d7bdeafde6d1500eafc4b1fa76"
+                },
+                "content": "<p>A capital good is a durable good (one that does not quickly wear out) that is used in the production of goods or services. Capital goods are one of the three types of producer goods, the other two being land and labour, which are also known collectively as primary factors of production. This classification originated during the classical economics period and has remained the dominant method for classification.</p><p>Capital goods, often called complex products and systems (CoPS) (Gann and Salter 2000; Hobday 2000), play an important role in today’s economy (Acha et al. 2004). Aside from allowing a business to create goods or provide services for consumers, capital goods are important in other ways. In an industry where production equipment and materials are quite expensive, they can be a high barrier to entry for new companies. If a new business cannot afford to purchase the machines it needs to create a product, for example, it may not be able to compete as effectively in the market. Such a company might turn to another business to supply its products, but this can be expensive as well. This means that, in industries where the means of production represent a large amount of a business&#39;s start up costs, the number of companies competing in the market is often relatively small.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>--Wikipedia</p><p>找不到资本商品的中文解释，就偷懒用一下维基百科的解释，请大家原谅。</p><p><a href=\"https://zhuanlan.zhihu.com/p/34922462\" class=\"internal\">美国和中国是要打贸易战吗？别被川普忽悠了</a></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-f863baa4e3601aac77cad79281ca805a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"862\" data-original=\"https://pic3.zhimg.com/v2-f863baa4e3601aac77cad79281ca805a_r.jpg\"/></figure><p>从美国商业分析局（BEA）公布的数据看，从1999年到2016年，美国的资本商品进出口贸易从对外顺差，逐渐变为对外逆差。2016年，资本商品对外贸易逆差，占美国商品贸易逆差的比例接近10%。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f3674da02071a36b258ae890fef30984_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"758\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"758\" data-original=\"https://pic1.zhimg.com/v2-f3674da02071a36b258ae890fef30984_r.jpg\"/></figure><p>2016年美国资本产品对外贸易逆差为740.63亿美元。从2009年以后，美国的资本商品贸易逆差占商品贸易逆差总额的比重逐渐上升，从-3.4%上升到9.84%。美国的资本商品出口占商品进口的比重经历了一个U型的发展历程，2008年，资本商品的出口占比在21.4%，2016年已经上升到26.9%。美国的资本商品出口占商品出口的比例呈现下降的趋势，1999年，美国资本商品出口占商品出口的比重为44.56%，2016年仅为35.71%。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-8f6b67c85223f79f66cf3ee0a9777532_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"756\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"756\" data-original=\"https://pic3.zhimg.com/v2-8f6b67c85223f79f66cf3ee0a9777532_r.jpg\"/></figure><p>按照BEA的分类，资本商品分为电气类、非电气类以及运输及航空器（不含汽车）。非电气类商品的贸易逆差增长幅度最大，2016年的贸易逆差规模达到了1，275.25亿美元，占到商品出口逆差的16.95%。在运输机航空器领域，美国依然保有比较大的全球竞争优势，对外出口保持贸易顺差，比例基本保持在商品出口贸易逆差的8%-9%之间。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-ba44338375741983605b8ff9df76851c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"762\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb\" width=\"762\" data-original=\"https://pic1.zhimg.com/v2-ba44338375741983605b8ff9df76851c_r.jpg\"/></figure><p>非电气类商品主要包括石油勘探、科学医药、工业服务、农业、商业、通信、计算机等6个领域。在石油勘探、科学医药领域，美国的商品出口保持对外顺差，反映出美国在这方面具备的竞争优势。</p><p>美国在工业服务领域的商品出口从2013年开始，由贸易顺差转变为逆差，2016年，贸易逆差占商品贸易逆差的2.54%。</p><p>美国在通信设备领域的贸易逆差从1999年开始逐渐增大，2016年，通信设备的贸易逆差已经占到商品贸易逆差的4.09%。</p><p>在计算机和半导体领域，美国的贸易逆差从2009年后大幅度上升，2016年，贸易逆差占商品贸易逆差的10.23%。是非电气类资本商品中，贸易逆差最大的一个领域。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d163121366ac0f87b6c3657e4ef7387b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"745\" data-rawheight=\"452\" class=\"origin_image zh-lightbox-thumb\" width=\"745\" data-original=\"https://pic4.zhimg.com/v2-d163121366ac0f87b6c3657e4ef7387b_r.jpg\"/></figure><p>在工业服务领域，美国在测量&amp;监控仪表、工业引擎\\泵\\压缩机等领域保持出口顺差，说明具有较强的竞争优势。而在材料运输、工业纺织品、造纸、机械工具、木材和玻璃加工、显像处理等领域，已经主要表现为贸易逆差。其中，显像处理的贸易逆差规模最大。曾经的柯达、施乐、宝丽来等行业巨头，不是倒闭就是被其它公司收购。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-0e6fdd8b709f42d612cc71b9b1dd6162_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb\" width=\"760\" data-original=\"https://pic3.zhimg.com/v2-0e6fdd8b709f42d612cc71b9b1dd6162_r.jpg\"/></figure><p>在计算机和半导体领域，外设的贸易逆差基本维持在每年300亿美元左右，而计算机的贸易逆差从1999年到2011年，每年都在逐步增长，2011年贸易逆差的规模达到了484亿美元，占当年商品贸易逆差的比例也达到了6.48%。2012年后，美国计算机产品的贸易逆差基本维持在420亿到450亿美元之间，贸易逆差占比超过了6%。</p><p>半导体领域是美国高科技的核心领域，也曾经是主要的商品贸易顺差领域。从2010年开始，半导体领域的贸易顺差规模逐渐下降，2014年已经从贸易顺差变为贸易逆差。</p><p>虽然在计算机和半导领域，美国掌握了从芯片、硬盘到操作系统等核心领域的绝对领先优势，通过全球一体化的生产方式，获得的是价值链顶端最丰厚的利润，但是不可否认的是，从计算机和半导体领域进出口贸易额及平衡关系的变化看，美国在这个领域正在逐渐失去其领先的优势。</p><p>资本产品，是提供现代化工业生产所需要的机器、设备领域，也是体现现代工业水平的高科技领域。美国从1999年在资本产品领域的贸易顺差，发展到2016年，占商品贸易逆差的10%比例的贸易逆差，说明美国在这个领域的竞争优势在逐渐衰退。除了在交通和航空器领域，石油开采、工业引擎\\泵\\压缩机、测量和监控仪器等领域还具备一些优势外，在计算机、通信、显像处理、纸张\\木材\\玻璃处理、材料运输等领域均已经成为了贸易逆差的领域。</p><p>而比起贸易逆差的金额更可怕的是，美国丢失了在上述领域的市场话语权，从而损失掉的收入和利润规模，远远超出人们的想象。</p><p>1999年，中国市场的交换机，每线的报价在1000元左右，到了2008年，中国移动集采的时候， 每线报价36元，而现在，交换机的用户价格估计在10元以下了。想想中国的13亿人口，14.4亿的手机用户，这是一个多么大的市场，如果按照核心网每线支持30个用户，仅电信市场每年就有5000万线的市场容量需求。如果按照电信设备3年一淘汰，每年的市场规模应该在1500万线到2000万线之间。</p><p>在过去的20年中，朗讯、摩托罗拉、SUN、3Com、柯达、施乐等很多曾经让我们顶礼膜拜、耳熟能详的，代表美国现代工业科技水平的科技巨头，逐渐消失在了全球化的进程中，也成为了人们追忆的过去。美国在资本产品领域的优势，也随着这些科技巨头的离去，而风光不在了。</p><p>美国政府最近启动的针对中国企业的所谓301 法案，其目的是为了保护其高科技资本产品领域的领先优势和市场地位。不过从过去20年的发展看，美国在这些领域所失去的优势，靠关税的保护，未必能找的回来，市场话语权和生产体系的建立，不仅需要时间，同时还需要市场契机。20年前，华为对美国厂家的策略，被美国政府用来对付华为，起码说明高科技的战火，已经打到了大洋彼岸，在全球经济一体化的今天，美国本土也已经不是靠打样阻隔而不受攻击的地方了。</p><p>*以上数据来自美国经济分析局（BEA）公布的数据</p>",
+                "comment_count": 0,
+                "voteup_count": 7,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjE5MDM3OSCM2OjVBSgHMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1MDAwOTY5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "经过谈判，两大经济体一致决定把世界第三大经济体摆上餐盘，大家一边“亲切友好的交流意见”，一边瓜分世界第三经济体。",
+                "created_time": 1522921141,
+                "id": 359274114,
+                "voteup_count": 22,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/27259a68a_{size}.jpg",
+                    "type": "people",
+                    "name": "南海",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/a95f13e848aaf10ab801d089829cf27c",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "nan-hai-14",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/27259a68a_is.jpg",
+                    "is_org": false,
+                    "headline": "卑微的活着，感恩每一天的生活",
+                    "badge": [],
+                    "id": "a95f13e848aaf10ab801d089829cf27c"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/359274114",
+                "question": {
+                    "created": 1522855922,
+                    "url": "http://www.zhihu.com/api/v4/questions/271111335",
+                    "title": "假使世界最大的两大经济体开战，战争会如何演变？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 271111335
+                },
+                "updated_time": 1522921142,
+                "content": "经过谈判，两大经济体一致决定把世界第三大经济体摆上餐盘，大家一边“亲切友好的交流意见”，一边瓜分世界第三经济体。",
+                "comment_count": 14,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUzODMzOTcgtd2X1gUoFjAOQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTIyMDQ4cgkzNTkyNzQxMTQ="
+        }
+    ]
+}

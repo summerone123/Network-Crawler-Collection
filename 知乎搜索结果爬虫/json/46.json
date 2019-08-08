@@ -1,0 +1,230 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439777754.48470",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439755149.9&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439755149.90410"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "美国人封杀中兴，但并未封杀华为、小米、OPPO等都知道是扯淡，不谈了<b>瑞士、丹麦、冰岛、新西兰、加拿大</b>，当下的国际分工中，都没有自己的手机芯片。然而，这些国家，人民安康幸福，二战后的世界秩序，也保证了他们不会受到外界威胁。他们不是国家竞争中的失…",
+                "created_time": 1548012456,
+                "id": 578309066,
+                "voteup_count": 54,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/0d4f7071812c1001513701e16dbce00a_{size}.jpg",
+                    "name": "秦风白",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/3fee1c32d7399aec29f9d07f9a6ffaf7",
+                    "badge": [],
+                    "user_type": "people",
+                    "url_token": "qin-feng-bai",
+                    "headline": "",
+                    "avatar_url": "https://pic3.zhimg.com/50/0d4f7071812c1001513701e16dbce00a_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "3fee1c32d7399aec29f9d07f9a6ffaf7"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/578309066",
+                "question": {
+                    "created": 1524291791,
+                    "url": "http://www.zhihu.com/api/v4/questions/274128007",
+                    "title": "针对近期中兴被美国封杀的事件，我看到这样一篇文章，请问谁能分析一下？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274128007
+                },
+                "updated_time": 1548012456,
+                "content": "<blockquote>美国人封杀中兴，但并未封杀华为、小米、OPPO等</blockquote><p>都知道是扯淡，不谈了</p><blockquote><b>瑞士、丹麦、冰岛、新西兰、加拿大</b>，当下的国际分工中，都没有自己的手机芯片。然而，这些国家，人民安康幸福，二战后的世界秩序，也保证了他们不会受到外界威胁。他们不是国家竞争中的失败者，而是<b>优胜者</b>。在现今的国际贸易体系中，他们并不需要完整的拥有这一切，依靠国际贸易即可，他们并不感到屈辱与失败。</blockquote><p>只看好的不看坏的，同为前英国殖民地的南非过的怎么样？美国南边的墨西哥、人口世界第二的印度、被封印几十年的朝鲜、前南斯拉夫地区、东欧各国，还有除了石油啥也没有的国家都过得怎么样？另外，这几个国家加起来敢挑战俄罗斯么？</p><blockquote>毕竟，<b>英法德</b>这些发达工业国家，也没有完整的技术树，即便是美国，其芯片也依赖于国际分工。</blockquote><p>所以人家搞了个欧盟抱团取暖啊，你是不是几十年不问世事了，英国脱欧都快把自己拖死了。</p><p>即便是欧盟内部，科技先进的英法德话语权也远重于其它国家，比如希腊。</p><blockquote><b>意识形态对抗导致了技术封锁</b>，从而使得完整获取技术树成为必要。另一方面它渲染出屈辱感，由此生产自力更生的产业链迷思，而芯片迷思则是最新的一个例子。</blockquote><p>那你告诉我凭什么是别人封锁我们，而不是我们封锁别人？另外咱们最开始闹革命的时候还是双半社会，世界上多数国家还没独立呢，按作者的意思咱们是不是该老老实实的做殖民地，把具有某个特殊意识形态的分子通通枪毙，这样就可以安心过好日子了？你想做蒋介石就直说嘛。</p><blockquote>以补贴等产业政策，去扭曲产品和要素价格，甚至以计划制度替代市场机制，提高国家动员资源的能力，把资源廉价的、密集的投向某个行业，实行进口替代政策。形象地说，是直道强行超车。</blockquote><p>按市场机制办事，结果就是垄断，在国家层面，这种垄断最直接的表现形式就是“核讹诈”，这可比技术封锁严重多了，咱们这个世界是谁最先搞“核讹诈”来着？</p><p>另外你也可以不赶超嘛，非洲草原、太平洋岛国、亚马逊雨林的土著数千年如一日的不赶超，人家活的也很自在嘛，都成了人类学研究的重要对象了。</p><blockquote>上世纪20年代的苏联工业化比重很小。苏联政府采取了不允许市场机制，利用国家垄断地位，扭曲工资、能源、原材料等要素价格，进行工农业产品不等价交换；用低利率政策、低汇率政策、通货膨胀、牺牲当前消费、进行强制性的工业化积累，发展重工业。苏联的赶超取得了成功。但却同时造成工业体系比例失调，人民生活水平低下。曾有这样一个苏联政治笑话：苏联可以造出最好的客机，西伯利亚的人就可以赶到莫斯科去排队买面包，然后当天返回。在不断的赶超战略之下，苏联误判，被美国诱导进入军备竞赛的赶超之中，终于崩溃。</blockquote><p>苏联解体这个就不谈了，老毛子自己都闹不清，据说已经到了怀疑赫鲁晓夫是托派、苏联高层长期有解散构想的阶段。</p><p>作者的解释基本就是后三十年官方解释的变种，前三十年的解释他肯定是不承认的。</p><p>当然也不能一点不谈，作者说苏联人民生活水平低下，我不知道这是在嘲讽谁，苏联解体之后俄罗斯人民过得好么？按作者的道理，邪恶的苏联已经完蛋了，技术封锁打破了，民主的俄罗斯可以从国际分工中获取它所需要的一切嘛，那么俄罗斯和俄罗斯人民得到了什么？北约东扩？乌克兰内战？</p><blockquote>1949年之后，原本既定的长期的新民主主义时期被快速结束，通过农产品“统购统销”，农业集体化，扭曲要素价格，压制消费，使产品与要素流向重工业部门。在“百花齐放”，继而反右扩大化的“阳谋”压制了不同言论之后，1958年底，中国的赶超战略开始了令人惊惧的一跳。</blockquote><p>为什么新民主主义搞不起来？因为农民、工人、学生、军队全在一个集体手上，全国最大工业基地、半数的农村基层政权都在这个集体手上，工农业生产被人家直接掌握，金融战都打不赢，怎么搞新民主主义？</p><p>你的文章告示贴出去，农民和工人认你么？你想夺人家的军权，人家的子弟兵比马超坚定多了。等院系调整结束，“天子门生”遍布四海，文人士大夫都断根了，新的知识分子们不管什么主义，阶级总是要谈一下的，人家的全面胜利早就注定了。</p><p>这个集体当初被反动政府用枪教做人，现在它自己杀回来了，你想和人家分庭抗礼伸手捞权，要脸不要脸？你打死过几个反动派？攻占过几座工业城市？管过几个省？你那点儿人，凑的出来全国几十个省级行政区和中央部委的长官么？</p><p>主裁、边裁、主办、协办，所有单位都是别人的人，你拿什么和人家斗？还好意思谈新民主主义，这个词谁创造的心里没点儿数么？</p><p>张口闭口按市场机制办事，怎么办事？人家这就叫按市场机制办事，从低端市场一路杀到高端市场，最终形成“x政军民学”全面垄断，剩下那些一杆枪都没有也不打算有的，人家花点钱把你供起来装点门面，省得有人成天叫嚣要反垄断。</p><p>还有所谓的“阳谋”：不让你说话，你说要言论自由；让你说话，你说着说着把自己权欲野心、反动本质都暴露了，你说这是阳谋。要不咱们今天也取消监管一礼拜，让各位尽情挥洒潘江陆海，看看各位斗得过黄色网站否？</p><blockquote>xxx则说，我去法国的时候，就是坐的万吨轮船。</blockquote><p>他还坐过飞机、捣过别人的巢呢(ಡωಡ) </p><blockquote>放弃赶超战略之后，中国用市场化机制理顺要素价格，更强调民生、老百姓的经济自由多了，消费也多了起来，随后，中国加入WTO，融入国际体系。</blockquote><p>任大炮：那是，老子最关注民生，谁让我们民不聊生，我就炸谁的房子。</p><p>刘强东：说得对啊，你看人家性解放生活多好，哪像咱们。</p><p>柳传志：刘老弟不要急，咱们做国际企业的，要有肚量。</p><blockquote>在计划经济时期，赶超战略之下，即便砸掉铁锅，饿殍倒地，也未能获得如此产量。而放弃赶超之后，中国却快速发展。</blockquote><p>印度：你什么意思？嘲讽我七十年跑不过别人四十年？</p><blockquote>补贴是有效的吗？</blockquote><p>特朗普：废话。</p><blockquote>企业是以利润导向，按经济规律办事的，没有企业愿意搞芯片，从业者工资低，不是因为没情怀，中国人太浮躁，而是因为经济发展水平，全球自由贸易分工，科研体系，乃至长期产权安排，都不倾向于自己搞芯片。</blockquote><p>雷军：fnndp，合着老子搞智能手机的时候经济水平、贸易分工、科研体系、产权安排就有利于我了？</p><blockquote>芯片不是空间站，火箭，导弹，这样的国家工程，而是讲性价比、良品率、利润的市场行为。</blockquote><p>马斯克：我的火箭也不是国家工程啊。</p><p>国家工程：我什么时候不讲究性价比、良品率、利润了？我花的是纳税人的钱，得来的利润都摊到纳税人头上去了，合情合理啊。难道非要聚敛到资本家手里才叫利润？要不我们把所有政府修的桥梁、铁路、水坝、电站通通拆了，让私人资本来修？</p><blockquote>中国完全独立的芯片体系大概率的会遇到性能低，良品率低，成本高等问题，需要政府补贴，且需要长期持续，而研究上也需要大量基础研究作为依托、也需花钱。那么，挤占其他领域的民生预算，也必然难免。</blockquote><p>芯片：老子堂堂一个工业领域的核心项目，既不是国家工程，又不是民生产业，那我是个什么东西？</p><p>作者：你是市场行为。</p><p>市场：我哪样东西不涉及到民生？</p><p>军工：军转民没听过啊。</p><blockquote>扭曲本该按市场化原则配置的要素效率到底如何呢？可以肯定的是，一批人要发财了。用砂纸抹掉外国公司logo的汉芯丑闻不远，新能源汽车大规模造假骗取国家财政补贴，已不了了之。显然，<b>没有补贴，私人资本投资的企业断不会这样自己骗自己。</b></blockquote><p>补贴：企业家居心不良，关我屁事？我能防贼偷，还能防贼惦记？其它民生领域乱七八槽的烂事少了？照这逻辑咱们搞什么政府，通通解散回家，毕竟有政府就有贪官嘛。</p><blockquote>芯片行业仅仅跟随性发展，就涉及巨大的投资。若要站在世界领先水平，更需要大量的研发投入，这些研发投入大、见效慢、周期长、且充满风险。显然，这需要给企业家以长远而稳定的预期；建立完善的知识产权保护体系；透明、公开的科研体系，远非一蹴而就之事。更重要的是，<b>这些东西，涉及更加基础的制度</b>。</blockquote><p>狐狸尾巴终于露出来了。</p><blockquote><b>产业政策、补贴必然陷入另一个恶性循环。</b>人类命运共同体的意思，必然包含着“你离不开我，我离不开你”。用非市场方式，试图快速的掌握完整的科技树，往小处说，是<b>小农意识</b>在国际关系、国际贸易领域的体现，往大了说，体现出的是中国对<b>和平与发展</b>的不信任，必然会引发外界的进一步反弹。</blockquote><p>政府：我补贴过的行业没有一千也有八百，哪个陷入恶性循环了？而且理论上所有行业都要看政府的政策行事，敢不看政府政策的都是黑色产业。</p><p>地主：真正的小农活着都费劲，他会懂这个？他也配懂这个？</p><p>特朗普：老子撤个军都费半天劲，和平，和个屁。</p><blockquote>饥荒结束之后两年，也就是1963年，一个男孩出生了。他的整个少年时期，都处于赶超战略阶段，物质贫乏、充斥着各种票证；他成年后，则经历了快速丰裕起来的生活。或许正是这两种对比，使他在自己风靡世界，描述人类与外星人抗争的小说《三体》中，这样描述人类的技术赶超：在技术赶超带来的大萧条之后，人类放弃了赶超，转而专注眼下的生活，但技术进步却飞快的出现了。<b>是的，即便刘慈欣可以看做是“工业党”，有“征途是星辰大海”的情怀，但他仍然写出了著名的“给岁月以文明，而不是给文明以岁月”。毕竟，经历过物质贫乏才能明白，人的岁月静好，才是一切的根本目的。</b></blockquote><p>很明显作者没有看过刘慈欣的另一部作品《地球大炮》，书中男主角在冬眠几十年后苏醒，发现他的儿子主导完成了“南极庭院工程”，从漠河挖穿了地心到南极，来运输货物和旅客。这个工程实施时发生过几次意外，牺牲的人很多，甚至包括男主角的孙女——她被困在地心永远无法出来。即便如此，哪怕赔上了自己的一切，男主角的儿子仍旧完成了这个得不偿失的超级工程。最终，这条贯穿地心的隧道成为人类向太空发射卫星和太空船的“地球大炮”。</p><p>刘慈欣在这本小说中，用主角驳斥过本文作者这类人，称呼他们为“哭哭啼啼的孟姜女”。</p><p>即使不谈地球大炮，单是在三体中，刘慈欣明显也并不认同“因为有国际分工，所以不需要发展芯片产业”之类的鬼话，否则人类应该和三体人和平共处，搁置争议共同开发才对。</p><p>作者试图用“给岁月以文明，而不是给文明以岁月”来支撑自己的观点，但他显然没有想过，在信息化浪潮滚滚向前的今天，一个不能自主生产芯片的文明还能算是文明么？如果是的话，那如我之前所言，人类大可停留在刀耕火种的阶段，成为外星文明研究社会学和生物学的众多对象之一。</p><p>如果说各种票证是物质贫乏的表现，那么花费巨资从国外进口芯片、割肾买iPhone是不是新时代物质贫乏的表现呢？如果是的话，这样一个物质贫乏的时代，有什么岁月静好可言呢？</p><blockquote><b>市场经济带来了人民的安康幸福，提供了长治久安的绩效合法性。</b>中国这40年的快速发展，在于以市场配置资源，也就是说，<b>是放弃重工业赶超的结果</b>。实际上，<b>抛掉宏大目标，关注日常生活，寻求个人幸福、自我实现的动机，才是经济发展，技术经济的真正动力</b>。美国60年代半导体初起之时，是如此；美国芯片产业的鼻祖仙童公司的八个叛逆者，也是如此；中国的快速发展，也是如此。</blockquote><p>这一段完全是胡说八道，完全无视四十年间政经民生的风风雨雨，大的不谈，强拆和矿难曾长期是国内舆论的热点，那些被强拆的人和在黑煤窑丧命的矿工有什么幸福可言？</p><p>放弃重工业赶超的国家会去搞载人航天、登月计划？会去买航母、造四代机？</p><p>至于抛弃宏大目标、专一寻求所谓个人幸福的人，社会对他们早有评价：精致的利己主义者。</p><blockquote>芯片迷思、赶超战略背后的本质问题是：如何认识国家与人的关系。某种程度上，<b>在并不真实的屈辱教育之下</b>，中国舆论已经丧失了<b>从个人、老百姓、从自己的角度</b>去看待世界的能力，取而代之的是动辄的大国视角，家国情怀。</blockquote><p>以个人视角来看，华裔在美国长期受到主流社会的忽视，台毒分子欺师灭祖、称自己祖母做慰安妇是自愿的。</p><p>以个人视角来看，借着市场经济飞起来的肥猪们纷纷外逃，拿着从我和我父辈、祖辈手中抢去、骗去的血汗钱逍遥快活。</p><p>以个人视角来看，一大批无德、无才、无骨、无行的无耻文人，正试图用自己浅薄的见识愚弄穷苦百姓，替不法的富一代洗白，给无能的富二代上位铺路。</p><p>以个人视角来看，精致的利己主义者们在出国无望之后，正试图抢夺他们本来万分鄙视的国内市场，争做资本家的走狗和乏走狗，学做新时代的假洋鬼子。</p><p>以个人视角来看，这群成天鼓吹法美师欧的无耻文人与精致的利己主义者们，和西汉末年成天鼓吹法尧禅舜的儒生、魏晋之时整日清谈的缙绅一样，必将酝酿出无数的祸端。</p><blockquote>爱因斯坦永久放弃德国国籍72年后，德国这个当初被爱因斯坦抛弃的国家，决定将2005年命名为“爱因斯坦年”，并决定将爱因斯坦的政治信条刻在政府大楼上：“<b>国家是为人而设立的，而人不是为国家而生存。”</b></blockquote><p>现实中的国家永远是为了统治者和统治阶级而存在的，理想中的国家永远是为了愿意为她奉献一切的人而存在的。</p><p>爱因斯坦造原子弹是为了反法西斯，而不是为了一小撮利用原子弹搞核讹诈的无耻政客与绑架整个国家的军工复合体。</p><p>一边做着资本家与帝国主义的乏走狗，一边以反战、博爱的形象行骗，这正是今日中国之白左。</p><blockquote>国家竞争，终究应该为国民服务，“<b>给人民以芯片，而不是给芯片以人民”。把国家奉献给中国人的勤劳与智慧，而不是把中国人的勤劳与智慧奉献给国家，</b>只有这样，中国才能在国家竞争中真正胜出。</blockquote><p>现实是人民没有芯片，人民要花钱从资本家手里买芯片，美国人民从美国资本家手里买芯片，中国人民也从美国资本家手里买芯片，即便是亲手生产芯片的工人，也是如此。</p><p>中国人有勤劳和智慧的，也有无耻和奸诈的，勤劳和智慧的人把自己的勤劳和智慧奉献出去，无耻和奸诈的人则用自己的无耻和奸诈攫取他人的勤劳和智慧，擦过嘴边的血迹，留下一句“是国家的错”。</p><p></p>",
+                "comment_count": 4,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTM1MjE1NTU2IKiXk+IFKDYwBEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzE5MjgzMHIJNTc4MzA5MDY2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-6e150369959c92f3dc9ad07a6877548b_hd.jpg",
+                "updated": 1559092693,
+                "is_labeled": false,
+                "excerpt": "<b>1. 凡事往最坏处想，争取最好的结果</b>备胎的价值是在关键时候起作用，所以无论企业多强大，备胎一直都要准备，更重要的是备胎享受与正胎一样的待遇，这个在绝大多数企业家价值观中属于养闲人，觉得没有必要，我们自古就有“晴带雨伞，饱带干粮”，有备无患，…",
+                "id": 67301477,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-6e150369959c92f3dc9ad07a6877548b_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-2bf51ee48c352d876113b4579e296e8e_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-b13dca69a03694d3eed3010e03354ace_250x0.jpg"
+                ],
+                "title": "面对面访谈：任正非对国人的启示",
+                "url": "http://zhuanlan.zhihu.com/p/67301477",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-fdf35fe96f3bc86a760d5b8ba2d219e4_{size}.jpg",
+                    "name": "消费品牌创新研究机构",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/266629bd43d9c146d40a2abe8cfd7c4f",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "user_type": "organization",
+                    "url_token": "xiao-fei-pin-pai-chuang-xin-yan-jiu-ji-gou",
+                    "headline": "为品牌立心",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-fdf35fe96f3bc86a760d5b8ba2d219e4_is.jpg",
+                    "is_org": true,
+                    "gender": -1,
+                    "type": "people",
+                    "id": "266629bd43d9c146d40a2abe8cfd7c4f"
+                },
+                "created": 1559037342,
+                "content": "<blockquote><b>1. 凡事往最坏处想，争取最好的结果</b></blockquote><p>备胎的价值是在关键时候起作用，所以无论企业多强大，备胎一直都要准备，更重要的是备胎享受与正胎一样的待遇，这个在绝大多数企业家价值观中属于养闲人，觉得没有必要，我们自古就有“晴带雨伞，饱带干粮”，有备无患，居安思危，无备自然有患，不是说说而已。</p><p>同时也诞生了华为的狼性文化，警觉敏锐的同时发现机会。给那些造不如买，造不如租的拿来主义上了生动的一课；我们有了自主知识产权不等于就不需要购买对手的相同产品，一样要消费别人产品，只有这样你才能有效融入世界，保持领先，立于不败之地。用美国人自己的话讲“越是对手越要接触”。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-2bf51ee48c352d876113b4579e296e8e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"995\" data-rawheight=\"663\" class=\"origin_image zh-lightbox-thumb\" width=\"995\" data-original=\"https://pic3.zhimg.com/v2-2bf51ee48c352d876113b4579e296e8e_r.jpg\"/></figure><blockquote><b>2. 个人利益与公司利益，大我与小我</b></blockquote><p>不管我们怎么想，改变不了中国经济是世界第二的事实，无论我们如何表达善意，在老大眼中老二永远是威胁。收拾不了老二中国，老三老四就会纷纷效仿，中国在老美那里就成了一个坏榜样。在这种大环境下，孟晚舟一时半会得不到有效解决，作为一个父亲，只能乐观的接受现状，明确表示“抓一个人不可能摧毁华为的意志”，让她在艰苦的岁月中磨炼自己“狱中博士”，但这绝不是最好的结局。</p><p>如果我们不吸取教训，努力发展自己内功，孟晚舟事件、中兴事件绝不是最后一个；落后就要挨打，这是道理更是常识。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b13dca69a03694d3eed3010e03354ace_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"994\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"994\" data-original=\"https://pic3.zhimg.com/v2-b13dca69a03694d3eed3010e03354ace_r.jpg\"/></figure><blockquote><b>3. 聚焦主要业务，拒绝诱惑，不要瞎乱发展</b></blockquote><p>华为28年坚持专注通讯设备初心不改，手机终端业务只是华为副业而已，再好也是副业；28年坚持对准一个城墙口冲锋，不计成本研发投入，成就当今世界通讯设备老大的市场地位。华为在移动通讯方面的有效专利数量超越苹果公司，拒绝华为意味着美国乡村老百姓没有信号可用，完全替换需要钱和时间，这就是战略坚持带来价值和意义，上天何时亏欠过认真做事的老实人。</p><blockquote><b>4. 任正非对待对手的态度</b></blockquote><p>把企业融入国家，把国家融入世界；学生就应该超越师父，儿子一定要比老子强，这个家庭、企业、国家才有希望。我们不是要消灭美国通讯，而是要在制高点会师，这是格局，也是胸怀。但是会师需要实力，我到了制高点你得有本事上来与我会师才行，这是智慧。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a10e0cd2f17d3791d5a23951482346d8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"993\" data-rawheight=\"665\" class=\"origin_image zh-lightbox-thumb\" width=\"993\" data-original=\"https://pic1.zhimg.com/v2-a10e0cd2f17d3791d5a23951482346d8_r.jpg\"/></figure><blockquote><b>5. 不要做一个完人，做完人很痛苦的，做一个有益于社会的人</b></blockquote><p>金无足赤，人无完人。完人实际上是很少的， 我不希望大家去做一个完人。大家要充分发挥自己的优点，做一个有益于社会的人，这已经很不错了。我们为了修炼做一个完人，抹去了身上许多的棱角，自己的优势往往被压抑了，成了一个被驯服的工具。</p><p>――任正非 2008 年 6 月在党员座谈会发言《不要试图做完人》</p><p>用人所长大家都知道，但是在实际企业管理过程中恨不得女人当成男人用，男人当成牲口用，希望既听话又无所不能，很少有人意识到这其实是一个既不现实、又错误变态的思想。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-00f9535853ff0f6d85506c3af9829c62_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"519\" data-rawheight=\"365\" class=\"origin_image zh-lightbox-thumb\" width=\"519\" data-original=\"https://pic3.zhimg.com/v2-00f9535853ff0f6d85506c3af9829c62_r.jpg\"/></figure><blockquote><b>6. 不要学大小通吃的霸王</b></blockquote><p>广交朋友，得道多助失道寡助；华为有能力进入更多领域，如8K电视、智能汽车....为什么不去做呢。大家试想一下，如果华为去做了，只会让大家害怕华为，只会让大家觉得华为是威胁。华为的哲学就是，努力把备胎做好放在那里少量应用，不去抢别人碗里食物。广交朋友，真正做到了共赢，而不是口头上的共赢，这难道不是“和合与共、天下大同”吗。赢者通吃的结果，就是没有朋友。</p><blockquote><b>7. 睿智果决，观点鲜明，不含糊，拒绝废话</b></blockquote><p>坚决否认自己不是民族英雄，明确反对民粹主义，坚定现在才是华为最佳状态，主张教育是强国的基础，反感资本渗透企业，誓死捍卫理想。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e3c53bdb192c924e7f8d46501caa717a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"518\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"518\" data-original=\"https://pic3.zhimg.com/v2-e3c53bdb192c924e7f8d46501caa717a_r.jpg\"/></figure><blockquote><b>8.</b> <b>一切商务行为都应该以客户为中心</b></blockquote><p>商业与民粹是两码事，当你掌握了核心技术，真正做到超值性价比，消费者会用行动支持你，不要怕产品卖不出去，而是应该着眼于你能给消费者带来什么价值，消费者为什么要选择你。做到以上两点，对手只会是非买不可，不买肯定是傻瓜，在当今世界拒绝优秀与先进，难道不是傻瓜吗？这是商业本质，很少有企业家专注于此。</p><blockquote><b>9.</b> <b>强国是在小学老师讲台上完成的</b></blockquote><p>用优秀的人去培养更优秀的人，没有教育，我们会返贫，再好的硬件都是人才创造的，而人才是教育出来，教育环境就是培养人才沃土，它属于软性的一面；世人只看见漂亮的硬件，却很少洞察厉害沃土才能苗壮的道理；古人云“一阴一阳之为道”，会讲会背的人多，用来观察事物的人寥寥。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-5e56708ed1e7be8506c7d86e3ac51290_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"993\" data-rawheight=\"664\" class=\"origin_image zh-lightbox-thumb\" width=\"993\" data-original=\"https://pic1.zhimg.com/v2-5e56708ed1e7be8506c7d86e3ac51290_r.jpg\"/></figure><blockquote><b>10.</b> <b>拒绝民族英雄称谓</b></blockquote><p>民族英雄不是自封的，而是需要用行动证明的，伟人不说自己是伟人，圣人从不承认自己是圣人，都是终其一生用行动证明的。</p><blockquote><b>11.</b> <b>金钱至上的社会中，你还能刨出一点精神来，这才是留给后人的宝贵财富。</b></blockquote><p>事业与个人利益从来就不是矛盾体，无私奉献的雷锋思想是不可以持续的，如果你专注的事业真正对社会有利，怎么可能没有回报呢。没有回报只有一种可能，你没有成功而已。走向成功最大的条件，不是金钱、设备.....而是恒久不变、追求成功的精神。</p><p>微软、华为、阿里......有一天肯定会消失，但是他们的精神会激励一批一批后继者，奋发向上，追求卓越。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a9701cbf82c42b3eefd41ccb10af0fa3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"528\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"528\" data-original=\"https://pic4.zhimg.com/v2-a9701cbf82c42b3eefd41ccb10af0fa3_r.jpg\"/></figure><blockquote><b>12.</b> <b>任正非传递出来最大价值让这个浮躁社会重归理性。</b></blockquote><p>曾几何时大家都喜欢赚快钱、用PPT圈钱、作假数据上市圈钱、炒房子、把高利贷包装成P2P坑人、把直销包装成微商与传销、当小鲜肉、当网红、研发一些没有内涵的游戏、抄近道走捷径.......乌烟瘴气，乱七八糟。<b>这个时候国家的践行社会主义核心价值观与强有力反腐败，同今天任正非关于华为专访犹如一剂良药、夏日清风，沁人心脾，回味无穷。及时拨乱反正，引人心归于正道，恢复风清气正的环境与沃土。</b></p><p>我们应该为祖国有这么优秀的企业家而感到荣幸，多一些这样的企业家，何愁国家不兴；前方的路长且崎岖，希望华为走的稳健，用实力展示中国企业的格局与胸怀。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>-</b> <b><i>END</i></b> <b>-</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>获取更多行业资讯，关注微信公众号 “ 消费品牌创新研究机构 ”</i></b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-ccdedfe43483b8a1f7081249f557e6a9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1166\" data-rawheight=\"455\" class=\"origin_image zh-lightbox-thumb\" width=\"1166\" data-original=\"https://pic2.zhimg.com/v2-ccdedfe43483b8a1f7081249f557e6a9_r.jpg\"/></figure><p></p>",
+                "comment_count": 0,
+                "excerpt_title": "",
+                "voteup_count": 3,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMDg0NzM3IJ6LtOcFKAMwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjczMDE0Nzc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523701394,
+                "is_labeled": false,
+                "excerpt": "主子最近对政治也开始有兴趣了。早上还没睡醒就开始问我，对美国发动对中国的贸易战争怎么看。我一下子醒了。。。怎么看？历史相同的相似呗。 每隔一段时间，就会出现一些新的势力，导致新的“分工”和“分赃”受到强烈冲击。大一的时候，我们哲学老师高老…",
+                "id": 35680715,
+                "topic_thumbnails": [],
+                "title": "新的冷战开始了吗？",
+                "url": "http://zhuanlan.zhihu.com/p/35680715",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-8ed25277c4841423fc0bcce9f5c84fbe_{size}.jpg",
+                    "name": "死胖子",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "Data Science"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/1538844d874e26275d799ffe50e5a929",
+                    "badge": [],
+                    "user_type": "people",
+                    "url_token": "si-pang-zi-18-18",
+                    "headline": "",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-8ed25277c4841423fc0bcce9f5c84fbe_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "type": "people",
+                    "id": "1538844d874e26275d799ffe50e5a929"
+                },
+                "created": 1523701394,
+                "content": "<p>主子最近对政治也开始有兴趣了。早上还没睡醒就开始问我，对美国发动对中国的贸易战争怎么看。我一下子醒了。。。怎么看？历史相同的相似呗。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>每隔一段时间，就会出现一些新的势力，导致新的“分工”和“分赃”受到强烈冲击。大一的时候，我们哲学老师高老师说，新势力在成长时期一定要避免和旧势力的直接冲突。但当新势力羽翼丰满后，这冲突其实不可避免的。由于这冲突讲彻底改变新势力或者旧势力的命运，所以双方都会全力以赴，拼尽全力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在中美贸易战，大家都喜欢谈贸易问题。其实，贸易只是一个借口，打垮你才是唯一的目的。借口还怕找不到吗？贸易顺逆差，知识产权，人权，南海问题，台湾问题。。。没有就捏造一个呗，打伊拉克不就是吗？所以，目的只有一个，阻止中国的科技进步和产业升级。就像当初对日本一样。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>日本30年前，与现在的中国是何等相似。外面风光，内藏忧患，潜力无限。而当时日本对待美国大哥的打压的态度是认怂。签下广岛协议，绝对服从美国。日本后来渐渐退出了新经济的核心圈，失去了新格局的话语权。作为工业强国却始终没有成为计算机/新产业强国，而始终停留在了“失落的xx年”魔咒中。而世人对日本的印象也一直停留在了80年代后期。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在，中国也面临如此局面，国家高举高达进行产业升级：新工业（高铁，大飞机，工业2.0），信息产业（互联网，人工智能），新兴产业（新材料，生物制药等），逐渐摆脱低端制造，旧体系的依赖，从而完成产业结构的调整。国内经济靠着精准的经济与行政手段保持脆弱的平衡，中产阶级群体渐渐成型、成长。现在正是我们新兴产业“创业”的关键期。这一次产业升级，如此重要，因为这不再是世界旧有分工的服从者，而是新分工的竞争者。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这次贸易战，其实背后就是一场“现代战争”，其实决定了中国未来30年的国运。日本人当年认怂，因为它在政治和军事上受到胁迫。中国当年在1999年南斯拉夫的时候，也认怂，但换取了WTO的机会，赢得了中国经济发展的第二春。那，现在呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>或许，从这以后，各国都要开始表态站队了。而这场贸易战或许也将改变一些国家之间的关系。一些新兴国家的命运也将从此改变，比如，印度，澳大利亚，阿联酋，爱尔兰，加拿大，韩国等。朝鲜已经站队了，虽然中朝都知道不会有深度的合作，但有人表态支持却是很好的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>天下大事，分久必合合久必分。既然，全球化浪潮告一段落，或者说，现在是民族主义的时代，那不如就顺应时代的召唤，调整思想，紧握拳头，全力以赴，打好这一战，开展新的大国竞赛时代。该抢人抢人，该圈地圈地，该联盟联盟。冲突的中心不再是欧洲，而是亚太。这次，哪些是北约，哪些是华约呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>三十年河东，三十年河西。又一个三十年。</p><p></p>",
+                "comment_count": 1,
+                "excerpt_title": "",
+                "voteup_count": 6,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjQ2MjYxNyCSrcfWBSgGMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NjgwNzE1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic3.zhimg.com/50/v2-8fe74ba5ad716314c74c164dc06ce75e_hd.jpg",
+                "updated": 1523943362,
+                "is_labeled": false,
+                "excerpt": "据悉，中美贸易战之火并未停息，依旧成为当下热议的话题，贸易战就是幌子，关键还是想遏制中国。近日，美国商务部又掀起一股巨浪——<b>美国政府禁止中兴通讯向美国企业购买敏感产品，声称中兴通讯曾向美国官员作虚假陈述。</b>将禁止美国企业向中兴通讯销售元器件…",
+                "id": 35775851,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-8fe74ba5ad716314c74c164dc06ce75e_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-785c315b11b68b8e08b9bc8a328df8c6_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-7f3d04daef2d1f5e1e4dbf6ad7df0815_250x0.jpg"
+                ],
+                "title": "中国“缺芯之痛”冷思考|美封杀中兴升级，华为或将成为下个目标？",
+                "url": "http://zhuanlan.zhihu.com/p/35775851",
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-3142d1830ba0287250f0453e6eec5274_{size}.jpg",
+                    "name": "小芯",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/c49c691bc12d8a7f8c1c0f403127fff2",
+                    "badge": [],
+                    "user_type": "people",
+                    "url_token": "xinhuattc",
+                    "headline": "芯华集成电路人才培训基地-用芯培养，芯华领航",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-3142d1830ba0287250f0453e6eec5274_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "type": "people",
+                    "id": "c49c691bc12d8a7f8c1c0f403127fff2"
+                },
+                "created": 1523943362,
+                "content": "<p>据悉，中美贸易战之火并未停息，依旧成为当下热议的话题，贸易战就是幌子，关键还是想遏制中国。近日，美国商务部又掀起一股巨浪——<b>美国政府禁止中兴通讯向美国企业购买敏感产品，声称中兴通讯曾向美国官员作虚假陈述。</b>将禁止美国企业向中兴通讯销售元器件，直到2025年，这时间有可能长达7年。此文一出已显然的将中美关系从贸易战的喊口号全面进入全方位对决状态。 </p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-785c315b11b68b8e08b9bc8a328df8c6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-785c315b11b68b8e08b9bc8a328df8c6_r.jpg\"/></figure><p>中兴通讯禁运事件爆发可谓是中美贸易战正式收到了第一份战局，而中兴通讯的主要业务有基站、光通及手机，而主要的芯片却无法实现自给自足，至少8成的产品中需要美国芯片厂商提供零部，这足以说明了芯片是中国对美国依存度最高，也是贸易量最大的品种。</p><p><b>封杀中兴全球影响盛大，华为或将是下个目标</b></p><p>此次美方封杀中兴，对中兴产品开发、规划、制造、销售等环节都会造成极大的影响，而中兴公司回应表明，“如果1-2个月内没有得到和解，就会影响通讯设备和手机等业务的正常生产与销售，而且中兴占全球电信设备市场份额约 10%，占中国有30%市场份额。这势必对于全球和中国的运营商网络建设带来一定影响，还会影响未来 5G 网络的推进。”</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-7f3d04daef2d1f5e1e4dbf6ad7df0815_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"277\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-7f3d04daef2d1f5e1e4dbf6ad7df0815_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>据悉，近年来中兴、华为等国内通信企业在布局海外市场的过程中，多次遭遇缺乏事实根据的安全调查，并遭受巨大损失。不仅如此，华为的美国之路也相当坎坷，早在此前也曾在海外遭遇过专利交易、反倾销诉讼、安全调查等阻碍，而且2018年1月30日，美国最大的电信运营商―― Verizon 便宣布停止对所有华为手机的销售计划，包括了华为刚在美国发布的 Mate 10 Pro。而后，六位美国高级情报机构负责人向美国参议院情报委员会报告中建议美国人不要使用华为或中兴提供的产品或服务。华为也很有可能成为贸易战中最容易受伤的企业。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-963ac2ff0138b949dde4aede4a82c16c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"271\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-963ac2ff0138b949dde4aede4a82c16c_r.jpg\"/></figure><p>而作为中国高新技术企业的华为、中兴所遭遇的这些坎坷是不可避免的。此次中兴的被封杀事件也更进一步的证实。而且美国对中国企业的防范和打压会还会持续，<b>那么，华为是否将会成为美方的下个目标？</b></p><p><b>中国“缺芯之痛”冷思考——加速半导体国产化</b></p><p>本次中兴通讯禁运事件，不仅对于通信产业冲击较大，敲响了中国半导体产业的警钟，更是警醒了中国对“缺芯之痛”的冷思考。</p><p>据悉，存储器芯片作为各类智能终端产品不可或缺的重要元器件，而全球的芯片一直掌握在三星、SK海力士、美光等巨头手里。外加上，半导体技术是信息技术的核心，更是美国等对中国大陆技术封锁的主要领域，因此中国企业在需求海外收购和技术合作方面存在困难，导致“缺芯”成为了中国集成电路产业链的主要短板之一。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-54b605988408223a54f42b457ec6d066_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"304\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-54b605988408223a54f42b457ec6d066_r.jpg\"/></figure><p>近年来，为了让中国改变全球集成电路领域最大贸易逆差国的局势，中国无论从财力及政策都大力支持发展集成电路产业，加速半导体国产化<b>，</b>以芯片制造为突破口，集存储器产品设计、技术研发、晶圆生产与测试、销售于一体，努力为中国打破主流存储器领域空白，实现产业和经济跨越发展提供重要支撑。</p><p><b>如何打破“缺芯之痛”——注重技术和市场创新是关键</b></p><p>针对此次的中兴通讯禁运事件已经表明了，如果中国不能解决芯片自主国产化，所谓的信息化时代会失去一个非常重要的依托和基础。所以打破“缺芯之痛”是当下重要的任务，重点投资集成电路芯片制造业是大势所趋，更是需要加速前行，大张旗鼓建设晶圆厂，从小处着力，支持本土芯片设计公司。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-78f0b19a6d48d1c6ff34f92dcab9a6f1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-78f0b19a6d48d1c6ff34f92dcab9a6f1_r.jpg\"/></figure><p>当然，除了需要国家政策及财力的大力支持，注重技术和市场的创新是关键。在发展集成电路道路上，更是要坚持创新驱动发展，打造从人才培育、基础研究、工艺技术、材料与装备制造到整机及应用的完整创新体系中。同时也要把自主发展与国际合作并重，融入全球集成电路产业体系和生态系统中，让中国能立足自身市场特点的基础上追求世界领先水平。</p><p>虽然当前国内芯片设计产业仍属薄弱，但我们相信，中国企业必然研发出更好的芯片，解决中国半导体产业的“缺芯之痛”。</p>",
+                "comment_count": 21,
+                "excerpt_title": "",
+                "voteup_count": 41,
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjUwMDcyNSDCj9bWBSgpMBVAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjEwOTAzMXIIMzU3NzU4NTE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-c066d5e0a890a44a90885ab8b755bc96_hd.jpg",
+                "updated": 1559634231,
+                "is_labeled": false,
+                "excerpt": "01<b>从中美主播辩论看美国衰落：</b><b>连一个有水平的辩论者都找不到</b> 昨天，中国CNTV的女主播刘欣与美国FOX电视台的女主播trish.regan(翠西.里根）进行了一场辩论。因为到最后一刻中央电视台都没有取得版权，所以这次视频直播只有在境外网站才能看到，普通中国人只…",
+                "id": 68027932,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-c066d5e0a890a44a90885ab8b755bc96_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-1edf7a99756b6730150fa747008d256d_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-54a1bc9c9fbc13b4cb227d4df7912830_250x0.jpg"
+                ],
+                "title": "【海那边】从中美主播辩论看美国衰落：连一个有水平的辩论者都找不到",
+                "url": "http://zhuanlan.zhihu.com/p/68027932",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-c8cfe7362ff0f7d98fc142a4a6e63cf6_{size}.jpg",
+                    "name": "海那边",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/fbffa9f02eaebb6dade0e96977249700",
+                    "badge": [],
+                    "user_type": "organization",
+                    "url_token": "hai-na-bian-yi-min-15",
+                    "headline": "全国最大的 移民和海外房产 互联网平台",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-c8cfe7362ff0f7d98fc142a4a6e63cf6_is.jpg",
+                    "is_org": true,
+                    "gender": -1,
+                    "type": "people",
+                    "id": "fbffa9f02eaebb6dade0e96977249700"
+                },
+                "created": 1559634231,
+                "content": "<p>01</p><p><b>从中美主播辩论看美国衰落：</b></p><p><b>连一个有水平的辩论者都找不到</b><br/></p><p>昨天，中国CNTV的女主播刘欣与美国FOX电视台的女主播trish.regan(翠西.里根）进行了一场辩论。因为到最后一刻中央电视台都没有取得版权，所以这次视频直播只有在境外网站才能看到，普通中国人只能通过央视给出的部分文字来了解这场辩论的过程与结果。</p><p>由于里根总是喜欢打断刘欣的讲话，又是在美国的主场，所以这场辩论限制了刘欣的发挥，<b>从央视文字报道里的“刘欣开场不到30秒被三次打断讲话”，就可以看出，这已经不是一场正常的辩论了。</b></p><p>以选美出身的美国女主播里根，作为一个主播记者，专业水平真的很难让人信服。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1edf7a99756b6730150fa747008d256d_b.jpg\" data-size=\"normal\" data-rawwidth=\"592\" data-rawheight=\"580\" class=\"origin_image zh-lightbox-thumb\" width=\"592\" data-original=\"https://pic2.zhimg.com/v2-1edf7a99756b6730150fa747008d256d_r.jpg\"/><figcaption>trish.regan(翠西.里根）</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>我不禁要问：<b>偌大的美国，号称世界第一强国的美利坚，连一个像样的记者，一个有水平的辩论者都找不到吗？美国的衰落已经到了这个程度了吗？</b></p><p>遥想当年，美国优秀记者辈出，如埃德加·斯诺、大卫.邓肯、海伦.托马斯、迈克.华莱士……</p><p>这些可以与各国元首平起平坐的传奇记者，是新闻的王者，引领着舆论的浪潮。</p><p>其中最为中国人民津津乐道的，就是<b>迈克.华莱士。</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-54a1bc9c9fbc13b4cb227d4df7912830_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"372\" data-rawheight=\"500\" class=\"content_image\" width=\"372\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>02</p><p><b>“美国的华莱士，</b></p><p><b>比你们不知道高到哪里去了”</b><br/></p><p>迈克.华莱士，出生于美国马萨诸塞州，父母是从俄罗斯逃往过来的犹太移民。</p><p>犹太人一直以来都富可敌国，最喜欢做的两个行业，一个是金融，一个就是传媒。<b>他们认为，这两个行业都可以掌控世界。</b></p><p>犹太青年华莱士，从小就立志投身传媒行业，做一位伟大的记者。</p><p>而立之年，他终于得偿夙愿，成为了CBS王牌新闻节目《60分钟》的主持人，是美国最知名的新闻节目主播。</p><p>他采访过七任美国总统，世界多国元首和名人，包括：<b>邓小平、江泽民、普京、阿拉法特、马哈茂德·艾哈迈迪内贾德、马丁.路德.金……</b></p><p>他以犀利的发问著称，不管对面坐的人多么有权势、有威望。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-10b5a326ad303c8fa91eaeb97eb79fd0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb\" width=\"508\" data-original=\"https://pic1.zhimg.com/v2-10b5a326ad303c8fa91eaeb97eb79fd0_r.jpg\"/></figure><p>1971年，华莱士采访前总统约翰逊，在谈到越南战争的时候，华莱士说，<b>“一切都变了……你让那场战争失控了。越战强暴了你，总统先生，然后，你强暴了整个美国。”</b>约翰逊愤怒地盯着华莱士，无言以对。</p><p>2006年，他采访了伊朗总统艾哈迈迪.内贾德，在他犀利的连珠发问下，艾哈迈迪.内贾德招架不住，不得不匆忙结束访问。</p><p>2006年，他采访普京，两人一开场就针锋相对，言辞激烈。华莱士直接问：<b>“为什么俄罗斯腐败盛行？所有问题都得靠钱解决？”</b>普京一时难以回答。</p><p>他对社会事件的追踪报道，让被掩藏的真相公之于众，影响力极大。</p><p>1998年，华莱士报道了神父性丑闻案，让几十年来神父道德沦丧问题曝光，美国人再也不能假装看不见，最后，罗马教廷不得不出来收拾残局，整顿神职人员。</p><p><b>华莱士对于采访人物的深刻洞察力，使得他能够问出非常刁钻的问题，还能够与被访者谈笑风生。</b></p><p>有人曾评价他的采访风格：华莱士惯于钻入被访者体内，30分钟后留下一具“尸体”。</p><p>曾有人对中国的年轻记者奉上忠告：<b>“美国的华莱士，那比你们不知道高到哪里去了！”</b></p><p>你们呀！图样图森破！</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-361ddc11a56858787ffccc04232d497e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-361ddc11a56858787ffccc04232d497e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>03</p><p><b>伟大的记者都在参与历史</b></p><p><b>平庸的记者只会听命宣传</b><br/></p><p>伟大的记者都在参与历史，而平庸的记者只会听命宣传。</p><p>华莱士这样的记者，就是参与历史进程的记者。<b>他们的谈笑风生，他们的犀利提问，他们的专业水平，他们的深刻洞察，影响着社会的舆论，改变了历史的发展。</b></p><p>可今天的美国，衰落了，2012年华莱士与世长辞，也带走了美国记者“无冕之王”的时代。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-82393888a0f75878ff1436388a315227_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-82393888a0f75878ff1436388a315227_r.jpg\"/></figure><p>今天的美国记者，向权势和大众双重投降。</p><p><b>一方面，他们不敢报道得罪权贵的新闻，一方面，他们又要逢迎大众的恶俗趣味。</b></p><p>从奥巴马时代开始，美国的记者就集体堕落。为了能够第一时间拿到白宫的新闻，他们放弃了“新闻自由”，他们报道的新闻不仅要经过讲话者的准许才能得到发表，甚至他们还愿意让政府代表修改编辑自己的新闻。<b>而这么做只是为了第一时间拿到新闻，因为只要抢占了先机，就意味着10万+和名声。</b></p><p>美国记者还善于制造假新闻。</p><p>大名鼎鼎的《纽约时报》，早已不复当年的风采。特朗普多次喷他们，说他们是“堕落的纽约时报”，制造假新闻。比如他们曾报道过一则解救美军女兵的新闻，但报道的记者根本就没有采访过这位女兵，却捏造出一系列虚构文章。</p><p>特朗普甚至用侮辱性的语言说：“纽约时报应该就涉及我的负面报道，向我跪下道歉”。</p><p>这样的侮辱，纽约时报的记者们也没敢正面回应，连最后的血性都没有了。</p><p><b>一个国家记者群体的堕落，是最危险的。</b></p><p>美国著名报人约瑟夫·普利策曾说：“倘若一个国家是一条航行在大海上的船，新闻记者就是船头的瞭望者，他要在一望无际的海面上观察一切，审视海上的不测风云和浅滩暗礁，发出警告。”</p><p><b>如果记者堕落了，这个国家就相当于没有发出警告的人。</b></p><p>今天的美国记者，还有谁敢去做船头的瞭望者，他们也只能闭上眼睛，听命宣传，哪怕这条船最终要撞上冰山，也还要为船长大唱赞歌！</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-4a9b75fe1da47b3eedb33a902b237bcb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2958\" data-rawheight=\"594\" class=\"origin_image zh-lightbox-thumb\" width=\"2958\" data-original=\"https://pic4.zhimg.com/v2-4a9b75fe1da47b3eedb33a902b237bcb_r.jpg\"/></figure><blockquote>如果您对我们的文章感兴趣，可以点击我们的知乎个人主页，查看更多。<br/><br/>更多内容请关注我们的公众号“海那边”~</blockquote>",
+                "comment_count": 6,
+                "excerpt_title": "",
+                "voteup_count": 3,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMjQ2MDU2ILfC2OcFKAMwBkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjgwMjc5MzI="
+        }
+    ]
+}

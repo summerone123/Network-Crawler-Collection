@@ -1,0 +1,235 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1442099861.38178",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1441942810.4&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441942810.39532"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "首先杠你题目中的“又”字，题主一看就没经历过猪肉18元一斤的恐惧，现在猪肉可是处在低位。正经答题，猪肉会涨价，但主要不是因为对美猪加税，而是对美国大豆加税。先说为何美猪加税影响小：1.中国现在每年生猪消费量大约在5500万吨左右，2017年进口美猪16…",
+                "created_time": 1522861348,
+                "id": 358828519,
+                "voteup_count": 10,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-616dd275701112cbf370e653c2d4bc1c_{size}.jpg",
+                    "badge": [],
+                    "name": "下一项",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "我曾经瘦过",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/614cadc3098c0c75bdd2c09c61a46626",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-616dd275701112cbf370e653c2d4bc1c_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xia-yi-xiang-75",
+                    "id": "614cadc3098c0c75bdd2c09c61a46626"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/358828519",
+                "question": {
+                    "title": "中国对美国加征关税税率百分之25中有猪肉，那么猪肉是不是又要涨价了？",
+                    "url": "http://www.zhihu.com/api/v4/questions/270865059",
+                    "created": 1522683472,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 270865059
+                },
+                "updated_time": 1522861485,
+                "content": "<p>首先杠你题目中的“又”字，题主一看就没经历过猪肉18元一斤的恐惧，现在猪肉可是处在低位。</p><p>正经答题，猪肉会涨价，但主要不是因为对美猪加税，而是对美国大豆加税。</p><p>先说为何美猪加税影响小：1.中国现在每年生猪消费量大约在5500万吨左右，2017年进口美猪16万吨，占比很小。2.美猪每斤到港价格是国猪的50%~75%，也就是说加上25%的额外关税也还是比国猪便宜。3.美猪因为长时间冷冻、产仔过快、大量使用瘦肉精、个别掺僵尸肉等原因，口感、营养、安全性要差一些（当然既然能经过边检吃是吃不坏的），口碑不好，主要用于肉制品加工厂，基本不会影响到生鲜市场。</p><p>再说大豆的问题。我们年进口美豆3200万吨，国产才2000多万吨，美豆占总进口量的三分之一，占中国年消费量的26.7%。我们知道，大豆最大宗的用途是制作成豆油和豆粕，而豆粕80%都用于畜禽饲料。既然说猪肉，就以猪为例，因为豆粕营养好毒性小，猪饲料中通常要掺到1/4。现在一斤猪肉中饲料钱大约占到3元钱。目前美豆关税几乎可以忽略不计（3%），美豆加税25%的话，用美豆豆粕饲养的国产猪肉成本涨几毛钱是必然的。当然经济是本很复杂的账，猪农可以改掺其他饼粕饲料，或者豆油厂可以改用巴西豆或者国产豆，但这些也会造成成本明显上涨。物价也不是说成本涨多少总价就涨多少这么简单，猪肉终端零售价涨一块钱是可以预期的。</p><p>那我不吃猪肉了总可以吧？没用，什么肉都会涨，鸡鸭牛羊全都用得到豆粕，食用油涨更多。</p><p>总之大战在即，望诸君减肥报国。</p>",
+                "comment_count": 1,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUzMDIxMjQgpIqU1gUoCjABQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNDY3MzQxcgkzNTg4Mjg1MTk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1541382348,
+                "is_labeled": false,
+                "title": "秋天里的一把火",
+                "excerpt": "终于没有人成为阻挡特朗普制裁伊朗的障碍，这一周美国要完成中期选举投票。从目前的情况来看，特朗普连任几乎无悬念。但这并不是特朗普想要的最后“胜利”，相反他已经意识到共和党很可能失去在国会中的多数席位。我们假设这是选举的最终结果，那么特朗普一…",
+                "excerpt_title": "",
+                "id": 48563691,
+                "voteup_count": 7,
+                "created": 1541382348,
+                "url": "http://zhuanlan.zhihu.com/p/48563691",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>终于没有人成为阻挡特朗普制裁伊朗的障碍，这一周美国要完成中期选举投票。从目前的情况来看，特朗普连任几乎无悬念。但这并不是特朗普想要的最后“胜利”，相反他已经意识到共和党很可能失去在国会中的多数席位。我们假设这是选举的最终结果，那么特朗普一意孤行的固执作风很可能得到抑制，即使屁股依旧在宝座上，但权力会被限制很多。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-70cbdd38b21fcb1f22a7dbec8ccd2447_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"856\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic4.zhimg.com/v2-70cbdd38b21fcb1f22a7dbec8ccd2447_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>目前外界猜测，民主党重新占领议会后，可能不会重启弹劾总统程序。可怕的是，他们随时可以这么做。一个好的政治体制总是要有纠错能力和制衡机制，喜欢宣扬自由平等意识形态的美国终究会走向何方？全球人民乐见其结果。</p><p>我看了一下美国目前公布的“暂时”豁免进口伊朗原油的名单，里面有中国。但这一名单随时可能会有变化。但我有一种不太好的预感，特朗普的述职报告、其他竞选者的竞选演讲中不太可能会发出对中国有利的声音。因此<b>从仓位上来讲，我建议在周三前适当的减仓</b>，毕竟还有一种可能，那就是共和党保持了国会中的多数席位。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-f775d8d6c74cae7b01b2ef56ae9f8aa6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"790\" data-rawheight=\"1098\" class=\"origin_image zh-lightbox-thumb\" width=\"790\" data-original=\"https://pic3.zhimg.com/v2-f775d8d6c74cae7b01b2ef56ae9f8aa6_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这个周末，最令我兴奋的消息就是人民币汇率收复6.88重要关口。这背后又和人民币离岸市场密切相关，因为最大的人民币离岸市场正是香港。上周我们在文章<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NDk4NDcyMQ%3D%3D%26mid%3D2651054994%26idx%3D1%26sn%3Dc1e70f5c0ec6b6c86c7a4823b6defaed%26chksm%3D84803fecb3f7b6fac2396e90d7eb2b1570424cff40d1ea39cafb2f5f24f48b3a7a14007f42a7%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">飞雪连天射白鹿，笑书神侠倚碧鸳</a>中说了做空人民币汇率的常用手段，需要向银行大量的借出人民币，那么调整汇率最重要的就是收紧人民币的流动性。所以央行才公布了本周三计划在香港发行200亿央票（3个月、一年期各100亿），这样积极的回收人民币流动性本身就是让空头很难借到钱。<br/></p><p>虽然200亿的规模并不大，但象征意义很大，接下来还可能继续发行。这种汇率市场上的动作，也是另一种形式的逼空。近两年来，特别是2017年汇率没有如某知名商学院EMBA班老师所说跌到1:8，正是因为央行的主动干预。毕竟人民币刚加入SDR，其稳定性至关重要。还有一个原因，我写在昨天小号“菠菜的星空”里（ID：bojinlicai），这里涉及<b>中国企业发的美元债券也需要汇率稳定</b>，否则企业的资金成本更高。</p><p>市场风格正在急剧变化，我上周多次喊大家买指数ETF，因为行情得到根本修复的前提是基金把之前减掉的仓位先自己买回来，那么这些钱一定会回到蓝筹和白马上。虽然我们一直看不上中国上市公司的财报，经常说这些大盘股的种种不顺眼，但不得不说，这些大户也是银行的大金主（大债主），是中国经济的支撑。而中小创，特别是创业板，行业特色明显，代表了中国经济的前沿和活力。2500的政策底已经明确，民企的焦虑也慢慢得到缓解，接下来就差点一把火了。</p><p>而点火的正是商务部牵头的进口博览会（11.05-11.10，之前文章有误我自己已经删了）。之前有路边社透露，进口博览会美国没有参加，但从现在公布的名单上看，美国不仅参加了而且来的企业数量排名第三。可以说在中美XX站的大背景下实属不易。我相信这次大规模的招商会一定会有很多惊喜爆出来，这也在年底冲关之际对冲了贸易顺差损失。毕竟我们还是要卖更多东西才能赚出GDP来，不管是高端的还是低端的，总得有人来买吧。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-26846278375664b84dd9725cd5736465_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1440\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-26846278375664b84dd9725cd5736465_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>菠菜更关心的是交易规则是否透明，这点证监会给了明确利好：</p><ol><li>不再玩窗口指导。这话显然是说给外资听的，要知道当年讨论加入MSCI的时候外国小伙伴最受不了的就是中国特色的监管手段）；</li><li>慎用暂停账户交易等监管措施。这点是说给场内活跃的游资、敢死队说的，意思是不要怕，继续梭哈来，要不成交量都没了；</li><li>没有IPO批文。本来这条放在这里有点不合适，但明显有呵护市场不希望再箱体震荡的意味在。我猜想，他们有政策底2500，会上也一定会有个目标来解决质押风险。想想12月底银行要冲考核，之前的临时政策都是缓兵之计，就是用时间换空间。</li></ol><p>留给市场的时间不多了，但我想决策层想化解质押风险绝不是想指数到2700就完了。因为大量质押是在3000点以上行成的。不指望牛市回来，但短期回暖可期。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-02ae40077a0df91dd5c527cc4f010acf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"951\" data-rawheight=\"419\" class=\"origin_image zh-lightbox-thumb\" width=\"951\" data-original=\"https://pic4.zhimg.com/v2-02ae40077a0df91dd5c527cc4f010acf_r.jpg\"/></figure><p>PS：重庆的一辆公交车落水前最后几分钟视频曝光，真是一个女人瞎折腾害了全车人的性命。愤慨之余，大家又在反思，在车上的乘客居然无一人制止，难道他们自己没有责任吗？看到危险不去采取力所能及的行动本身就是错误的。中国经济这辆巴士也在颠簸中行使，还好本朝有极强的纠错能力，把去掉的杠杆，在适时的加上。</p><p>只是，这个杠杆不会再加给负债累累的房地产行业了。</p>",
+                "comment_count": 2,
+                "image_url": "https://pic1.zhimg.com/50/v2-438dd20399b7714aa085a56975ede1bd_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-438dd20399b7714aa085a56975ede1bd_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-70cbdd38b21fcb1f22a7dbec8ccd2447_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-f775d8d6c74cae7b01b2ef56ae9f8aa6_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHOTg1MzUyMiDMwf7eBSgHMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQ4NTYzNjkx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "有亲戚问我，中国为什么连个芯片都生产不出来呢？ 我问，你希望儿子将来做什么？ 他说准备考公务员。 我说这就是中国生产不出芯片的原因。儿子名校硕士毕业签到令人羡慕的航天某院，虽在京城但环境偏僻落后，如到了五线小城，四人一间破宿舍，食堂死贵，这…",
+                "created_time": 1525962470,
+                "id": 388417766,
+                "voteup_count": 8,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/aadd7b895_{size}.jpg",
+                    "badge": [],
+                    "name": "匿名用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "avatar_url": "https://pic4.zhimg.com/50/aadd7b895_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "0"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/388417766",
+                "question": {
+                    "title": "为什么中国穷的时候造的出原子弹，有钱了又造不出芯片？",
+                    "url": "http://www.zhihu.com/api/v4/questions/275992962",
+                    "created": 1525515184,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 275992962
+                },
+                "updated_time": 1525966355,
+                "content": "<p>有亲戚问我，中国为什么连个芯片都生产不出来呢？</p><p><br></p><p>我问，你希望儿子将来做什么？</p><p><br></p><p>他说准备考公务员。</p><p><br></p><p>我说这就是中国生产不出芯片的原因。</p><hr><p>儿子名校硕士毕业签到令人羡慕的航天某院，虽在京城但环境偏僻落后，如到了五线小城，四人一间破宿舍，食堂死贵，这个落差……报到三天没和家人说几句话……中国科技人员的生存环境啊！</p><hr><p>我毕业后进入银行科技部做了个码农，也许知乎上会有很多人鄙视，为什么不去互联网？银行科技部加班很多，上班期间也是一直忙个不停，也要像互联网公司的码农一样，下班后自主学习，但我们在银行内部少拿着最低的工资，待遇和人力资源一样，但人力资源办公环境比我们好多了，我们是一个大部门挤一个办公室，人力资源比我们轻松一百倍，并且他们是管人的，升职加薪比我们快多了。</p><p>我知道很多工科生的工作都是这样的，做着最累最难的活，拿着最低的薪水。和公务员一比真的是太穷了，我在上海某银行软件中心税前14万，我朋友法学毕业考了上海的法院，税后十八万。于是我辞职回到江西某银行科技部，年薪税后七八万，而南昌这个地方的公务员普遍十几万。最后我决定辞职，专心考公务员，过自己想要的生活，顺便也期望自己在仕途上能有所发展，能对社会有帮助。</p>",
+                "comment_count": 4,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAwNjkwMDE3IOat0dcFKAgwBEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzYwNzIwMHIJMzg4NDE3NzY2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1547973620,
+                "is_labeled": false,
+                "title": "以下事件必将出现重磅变化，若中美达成贸易协定",
+                "excerpt": "1.农业补贴将立即取消，因为这种补贴有违市场公平，一直为美国所指责。2.各类工业补贴同理将取消。3.以政府信誉为企业背书的行为，比如国家市场监管总局已经 实施“对于过去评名牌、评著名商标的政府行为，2019年将一律取消。”这个有违市场公平的行为，我…",
+                "excerpt_title": "",
+                "id": 55311141,
+                "voteup_count": 5,
+                "created": 1547973620,
+                "url": "http://zhuanlan.zhihu.com/p/55311141",
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "wudai028",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "教授",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/e6f4b62927e1f9bbea0b00cd10d99491",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "wudai028",
+                    "id": "e6f4b62927e1f9bbea0b00cd10d99491"
+                },
+                "content": "<p>1.农业补贴将立即取消，因为这种补贴有违市场公平，一直为美国所指责。</p><p>2.各类工业补贴同理将取消。</p><p>3.以政府信誉为企业背书的行为，比如国家市场监管总局已经 实施“对于过去评名牌、评著名商标的政府行为，2019年将一律取消。”这个有违市场公平的行为，我在策划学第二版时已经用专题研究过，直到今天终于取消。各级政府出的对此类获奖给予奖励的政策文件，自然全部作废。</p><p>其实对于政府的各种补贴，根本不符合市场原理，本来正常的操作手段是：把这些庞大的资金改成市场形式的风险投资基金，而为什么过去没有这样实行，无非是政府机关的利益和权力的博弈，但这些行政行为的资金也滋生了很多腐败，导致很多官员成为阶下囚。</p><p>趁此机会改成市场行为的投资基金，这样的结果是砍掉了权力和利益的争斗，自然减少腐败，反而成会一件好事，官员的风险自然减少。</p><p>过去，可能签定协议后，我们有些政策根本没有落实到位，其他国家只是指责。但这次不同了，以此作为与中国达成贸易协议的条件。美国的要求是，假如美方认定中国违反协议，美国可以再次采取关税措施。</p><p>为此美国贸易代表罗伯特·莱特希泽要求能够持续核验美中达成的任何贸易协议，而定期评估可以成为一种解决办法。</p><p>这就要求不能再说一套做一套，必须保证政策的长效机制。</p><p>作者简介：吴粲（代蔚），策划经济学开拓研究者、时间终极问题研究者，某大学（仅为个人观点与学校无关，故隐去）策划经济学研究中心教授；广安满屋飘香酒业法人。</p>",
+                "comment_count": 10,
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAwNDIxMTQxIPTnkOIFKAUwCkAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINTUzMTExNDE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "老百姓是一个分裂的概念。曾经遇见一个跟我卖什么货币白银的小伙子，似乎是南京的，满口自然是恨国党那一套，口口声声的说，为什么他买车要贵，人家美国……我解释了一通，保护弱势产业，才有机会朝上攀登，一辆汽车N个零件，可以养活不知道多少工厂工人，…",
+                "created_time": 1526988161,
+                "id": 398474258,
+                "voteup_count": 94,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-ca77e3f8b5b12e51d3bd016c0cc21645_{size}.jpg",
+                    "badge": [],
+                    "name": "王诚",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "七字党客观公正CNN",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/7ba2bb432f3f9f34ccc19b4e6eec7f89",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-ca77e3f8b5b12e51d3bd016c0cc21645_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "wang-cheng-50-30",
+                    "id": "7ba2bb432f3f9f34ccc19b4e6eec7f89"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/398474258",
+                "question": {
+                    "title": "汽车进口关税降低至15%对老百姓有什么影响？",
+                    "url": "http://www.zhihu.com/api/v4/questions/278200883",
+                    "created": 1526983106,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 278200883
+                },
+                "updated_time": 1526988174,
+                "content": "<p>老百姓是一个分裂的概念。</p><p>曾经遇见一个跟我卖什么货币白银的小伙子，似乎是南京的，满口自然是恨国党那一套，口口声声的说，为什么他买车要贵，人家美国……</p><p>我解释了一通，保护弱势产业，才有机会朝上攀登，一辆汽车N个零件，可以养活不知道多少工厂工人，是个事业。</p><p>“关我什么事啊”。</p><p>我最后也没有在那他买什么白银，主要是他们公司整体的企业文化不行，每次打电话过来，也没有问我在干什么，直接来一句，最近你在我们那买了多少白银啊，有没有关注啊，你这样不行啊，得关注最新的趋势啊。</p><p>这个公司我就不说了，但是这种倾向很有趣。</p><p>这个话题下，肯定有人说，我就是个老百姓，我才不管呢，我自己有车就好。</p><p>肯定有人说，进口车就是好，我才不买国产车。</p><p>老百姓不是一个整体啊。</p><p>我之前在回答另一个贸易战问题的时候，只用了这么一张图。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-3f63931f1a31566ed8f837f58649cff0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-058b522e7792ebf34a3a6ea97797fd58_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-3f63931f1a31566ed8f837f58649cff0_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='500'%20height='334'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-058b522e7792ebf34a3a6ea97797fd58_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-3f63931f1a31566ed8f837f58649cff0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-3f63931f1a31566ed8f837f58649cff0_b.jpg\"></figure><p>古人云：<i>战胜于朝堂之上.</i></p><p>事实上也是这样，这是两种不同的思维作祟。</p><p>我们所知的公知，比如韩寒啊，罗公孙，矮太紧之所以被喷，大概其是他们把国与国的竞争当做了一场短跑，他们看见了某些浅显的现象，就赶紧想办法宣扬，目光只有一米，看见几个人，马上就是台湾最美丽的风景是人，全然不顾真实情况，</p><p>国与国竞争，是一场全面战争，是在学堂，朝堂，工厂里的全面竞争。</p><p>很悲哀的是，我们在舆论，在公知方面，已经全然输掉了。</p><p>这是一场全面长期的竞争，</p><p>对于老百姓来说，你可以选择买进口车，也可以去买国产车，</p><p>但是，真正的问题是什么？</p><p>有人 在控制你。</p><p>他们是一个集团，彼此也许不认识，但他们的目的是一致的，</p><p>他们拍这样的广告片，</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-d84d31adf93d61d4fe706961d3298dc1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"329\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-cd5045b1db66e40b1f868e0348e8d35d_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-d84d31adf93d61d4fe706961d3298dc1_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='329'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"329\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-cd5045b1db66e40b1f868e0348e8d35d_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-d84d31adf93d61d4fe706961d3298dc1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-d84d31adf93d61d4fe706961d3298dc1_b.jpg\"></figure><p>企图用反科学，反现代化的方式，给你洗脑，买他们根本没有科学含量的产品。</p><p>他们会用这样的话语，让你沦为俘虏。</p><blockquote>“你负责挣钱养家，我负责貌美如花”<br>“嫁个把你当女儿宠的男人”<br>“中3条以上的男朋友就该分手了”<br>“看他爱不爱你，就看他给你花了多少钱”<br>“他有多爱你，就看有多容忍你作”<br>“最佳男朋友评分标准，他及格了吗”<br>“你可以和左先生谈恋爱，但一定要嫁给右先生”<br>“中国男人配不上中国女人”<br>“男人出轨是为了性，女人出轨是为了爱”<br>“他爱不爱你，看购物车就知道了”<br>“男生爱一个人到满分是什么样的”<br>“买房我一分都不出，他应该在，他自己奋斗，加上他父母半辈子积蓄，买的房上，加你的名，不然就是不爱你、没诚意、算计你”<br>“不给彩礼，就是不爱你、没诚意、算计你”<br>“工资卡要上交，不然就是不爱你、没诚意、算计你”<br>“你是男的就应该XXXXXXX”<br>“送两百块钱的礼物，不如送她自由”<br>“他撩我一半就不撩了，肯定是渣男”<br>“他把你拍得这么丑，和他分了吧”<br>“你不给我买口红包包iphone，你不爱我”<br>“爱你的男人如果有100块钱，会给你花95”<br>“分不清口红颜色型号？直男AI！”<br>“有处女情结？直男AI！”<br>“不会拍照片？直男AI！”<br>“不会聊天？直男AI！”<br>“不喜欢我妆太浓？直男AI！”</blockquote><p>他们买热搜，将一个毫无演技的嫩模包装成明星</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-fdb5a9f942d6010fd472c37bffe396bb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"998\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-914de6a30a6e3a4760ab22d140718b69_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-fdb5a9f942d6010fd472c37bffe396bb_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='998'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"998\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-914de6a30a6e3a4760ab22d140718b69_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-fdb5a9f942d6010fd472c37bffe396bb_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-fdb5a9f942d6010fd472c37bffe396bb_b.jpg\"></figure><p><br></p><p>在这场战争中，普通 老百姓已经一败涂地，已经完全输给了资本。</p><p><br></p><p>台湾人喜欢标榜自己是自由的，同时做出那些丧尽天良的事情，</p><p>请你记住，你的自由，不能妨碍别人的自由。</p><p>你可以恨国，但请自己默默的恨吧，有本事自己出国</p><p>你可以爱国，那就默默的自己爱吧，做好自己要做的，就已经是爱国了。</p><p>我们要见证的，仅仅是个开始。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-0c91be986eb554221bea0c1d938369c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"490\" data-rawheight=\"183\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-f6b969818caccf994107e3761d1883d9_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"490\" data-original=\"https://pic4.zhimg.com/v2-0c91be986eb554221bea0c1d938369c5_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='490'%20height='183'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"490\" data-rawheight=\"183\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-f6b969818caccf994107e3761d1883d9_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"490\" data-original=\"https://pic4.zhimg.com/v2-0c91be986eb554221bea0c1d938369c5_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-0c91be986eb554221bea0c1d938369c5_b.jpg\"></figure><p></p><p></p>",
+                "comment_count": 57,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-096a7546f07198a185e11afec8301954_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-cd11bf6530d2a9e40a0dfaeb056f918e_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-202c806c390e6b447c8c300d1d538f13_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic2.zhimg.com/v2-096a7546f07198a185e11afec8301954_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTAyNTIwMDU0IIH7j9gFKF4wOUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNDA5ODAzN3IJMzk4NDc0MjU4"
+        }
+    ]
+}

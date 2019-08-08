@@ -1,0 +1,247 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441301420.25793",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1441287404.12&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441287404.11885"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "泻药大豆高额征税其实是把双刃剑（贸易战本来就是双刃剑）。2017年中国大豆产量仅1,500万吨左右，但消费量超过11,000万吨，而且消费量还在不断增加。美国在大陆的大豆进口国中位居第二，单计2017年中国就从美国进口大豆3,286万吨，在约9,600万吨总进口量中…",
+                "created_time": 1522816368,
+                "id": 358260578,
+                "voteup_count": 50,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-98d1fa9acb3cc02f827fa9af306c385f_{size}.jpg",
+                    "badge": [],
+                    "name": "徐雨鸣",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/7cdf534816f7850e24559784531b0caf",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "随便玩玩吧",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-98d1fa9acb3cc02f827fa9af306c385f_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xu-yu-ming-50",
+                    "id": "7cdf534816f7850e24559784531b0caf"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/358260578",
+                "question": {
+                    "title": "如果对波音公司及美国大豆征收高额关税会发生什么？",
+                    "url": "http://www.zhihu.com/api/v4/questions/270971490",
+                    "created": 1522759639,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 270971490
+                },
+                "updated_time": 1522935985,
+                "content": "<p>泻药</p><p>大豆高额征税其实是把双刃剑（贸易战本来就是双刃剑）。</p><p>2017年中国大豆产量仅1,500万吨左右，但消费量超过11,000万吨，而且消费量还在不断增加。美国在大陆的大豆进口国中位居第二，单计2017年中国就从美国进口大豆3,286万吨，在约9,600万吨总进口量中占比为34%。</p><p>虽然这其中有大量的大豆进口是为了平衡和美国之间的贸易差（川普上次来中国，就签了一个巨额的大豆贸易单子），而且中国已经在积极布局巴西等其他大豆主要出口国，但是如此巨量的大豆缺口，短时间还是很难用其他市场来完全弥补的。</p><p>虽然中国可以通过将大豆列入“主粮”的范围，通过积极的财政补贴来鼓励农民种植大豆的积极性，但是农作物毕竟是有周期性的。</p><p>我估计如果对于美国进口大豆征收高额关税，从短时间内，可能会造成中国饲料粮和成品油的价格上升，推动整个物价体系有所提高。但反过来说，平摊到中国巨大的市场里而言，并不会激起太大的风浪，而且中国也可以通过积极种植红薯等替代饲料粮来减少对进口大豆的依赖。（你没看错，进口大豆其实大部分是用来喂猪的）</p><p>而对于美国而言，失去中国整个巨大的进口市场，目前世界上还没有类似的市场能够用于替代的（印度的人均粮食消耗量很少，还是一个粮食输出国），对于美国农业的影响是非常厉害的。所以美国方面才会放出风说——中国不应该用大豆作为贸易战的条件（典型的强盗逻辑）</p><p>总而言之，中国这次对于美国贸易战的积极应对，绝对是有备而来的，大家拭目以待就是了。这还真有可能是新老世界领导者交替的一个序曲呢。</p>",
+                "comment_count": 34,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUxOTg5NDQg8KqR1gUoMjAiQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNDkwOTUycgkzNTgyNjA1Nzg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "要分清楚AOSP和Google Android的区别，类比Chromium和Google Chrome，前者是Google主导的开源项目，后者则是Google自身的产品。 Android作为开源项目，导致Google无法通过直接对软件收费盈利，很长时间内Google从Android直接获取的收益甚至不如MS直接从厂商…",
+                "created_time": 1524284485,
+                "id": 372309967,
+                "voteup_count": 53,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/aadd7b895_{size}.jpg",
+                    "badge": [],
+                    "name": "匿名用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/aadd7b895_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "0"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372309967",
+                "question": {
+                    "title": "谷歌有权撤销对中兴的安卓系统授权吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274107463",
+                    "created": 1524280031,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274107463
+                },
+                "updated_time": 1524284864,
+                "content": "要分清楚AOSP和Google Android的区别，类比Chromium和Google Chrome，前者是Google主导的开源项目，后者则是Google自身的产品。<br>Android作为开源项目，导致Google无法通过直接对软件收费盈利，很长时间内Google从Android直接获取的收益甚至不如MS直接从厂商哪里收到的专利费。既然公园本身不收钱，那么就只能开小卖部赚钱老。Google通过Android平台撸钱的方法，一个是Play Store分成，还有一个就是通过GMS向厂家收取授权费。最开始的Android自带Google各种服务的Apps，在某个版本之后，记得好像是ICS，Google把各种核心App逐渐从AOSP里面剥离，不再往AOSP里面发布新版，然后将这些剥离的应用放到GMS里面，包括核心的Play/Maps/YouTube等等，通过授权的形式从厂商哪里获取使用费，达到变相从Android项目获利的目的。<br>这里的Google的小九九是什么呢，目前在中国以外的地区，没有GMS，Android，除了温和的开源布道者，是基本无法使用的，很多自带应用停留在2.x的年代的版本。如果中兴无法获得GMS的授权，它依然可以发售基于AOSP的手机，但是你指望外国消费者自己去刷机么？没有GMS加持的Android没有实际的市场竞争力。隔壁Amazon不听话，现在FireTV连网络直连YouTube都做不到，嗯，就是这么惨。<br>回到你的问题，Google无权撤销公司使用Android源码的权力，但是它有拒绝其他公司接入并且分享它主导的商业Android生态系统的权力。",
+                "comment_count": 12,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc3NTM5OTQgxfjq1gUoNTAMQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTg4MjQycgkzNzIzMDk5Njc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "以短线来看，中兴退出市场，代表包含手机产品、基站等产品布局留下空白，如果华为动作够快，是很有机会填补这些市场的空间。华为在手机产品上的设计已经是世界一流水平，在东南亚、南美、印度等新兴市场过去与中兴也是竞争的很激烈，少了一个重要对手，代表…",
+                "created_time": 1524568022,
+                "id": 375169315,
+                "voteup_count": 166,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-a5164b88de46f6128580ee612ae903e9_{size}.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "name": "DeepTech深科技",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/b5379f1a6ed18db1d60c50fdf71b469b",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "headline": "科学、技术、产业。",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-a5164b88de46f6128580ee612ae903e9_is.jpg",
+                    "is_org": true,
+                    "type": "people",
+                    "url_token": "deeptech-shen-ke-ji",
+                    "id": "b5379f1a6ed18db1d60c50fdf71b469b"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/375169315",
+                "question": {
+                    "title": "华为海思能否在中兴芯片危机中获利？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274161016",
+                    "created": 1524310339,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274161016
+                },
+                "updated_time": 1524568022,
+                "content": "<p>以短线来看，中兴退出市场，代表包含手机产品、基站等产品布局留下空白，如果华为动作够快，是很有机会填补这些市场的空间。</p><p>华为在手机产品上的设计已经是世界一流水平，在东南亚、南美、印度等新兴市场过去与中兴也是竞争的很激烈，少了一个重要对手，代表华为目前遇到瓶颈的手机市场规模有可能可以进一步扩大。</p><p>而基站也和手机市场有点类似，且华为和中兴过去在基站生意的经营方式相当雷同，都是以杀价杀到见骨出名，少了中兴，华为不仅可能吃下更多基站市场，也能确保更好的获利。虽然欧美先进国家多所抵制，但新兴国家对这方面的需求居高不下，应该是不会造成太大影响。</p><p>另外，5G专利非常重要，即便是中兴倒了，政府也也不可能让这些有可能扭转中国产业地位的心血外流，最有可能的方式是新创一家公司来承接，亦或者是指定一家代表性企业来维护，华为海思是台面上最有机会的选择。</p><p>当然，很多关键料件及技术的缺失，是华为和海思在面临国际竞争之下的隐忧，若华为真的被拖累，在不短的时间内遭遇与中兴一样的制裁，前面讲到的情境可能就只会是昙花一现。</p><p>然而对美国而言，处理中兴已经算是一个很好的示范，特朗普也不会想要把中国产业往死里打，而是要能在做生意这件事占到上风，若继中兴之后再去打华为，对于国人反而为从恐慌转为反感，甚至走向全面对抗，这种可能同归于尽的战法不是特朗普的作风。</p><p>其实现在要讲制造、EDA工具，或者是什么砷化镓等关键技术的掌握都是马后炮，本来就没有的东西，喊再多也不会凭空冒出来，倒不如掌握现有的产业优势，比如说AI、制造，以及市场规模，然后低调点，顾全国际贸易观感，然后再鸭子划水，高调对抗从来就不是聪明的作法。</p><p>若能熬过这波低潮，且中国在制造、设计等技术缺口获得初步解决，那么不只华为，多数中国科技产业都能在获得相当丰厚的经验值，重新组织国际贸易策略，下次面对类似状况，就不会像现在这样手足无措了。</p>",
+                "comment_count": 67,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoIOTgyNzQwOTMg1p/81gUopgEwQ0AAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzIwMDEyN3IJMzc1MTY5MzE1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "当年知乎有人说美国给中国钢铝加关税是蠢办法，中国的钢铝绕行欧洲、加拿大，他们做个二道贩子白白赚钱。看看，话多了吧？这不就让大统领看去了？（还有中国抵制美国大豆转而购买巴西大豆，巧合的是美国大豆的出口量并没有显著变化，那岂不是。。。。）",
+                "created_time": 1528604473,
+                "id": 414020950,
+                "voteup_count": 49,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "8cc665c47aae4139d6911e54d2286e23"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/414020950",
+                "question": {
+                    "title": "为什么美国要制裁欧盟？",
+                    "url": "http://www.zhihu.com/api/v4/questions/280293611",
+                    "created": 1528455030,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 280293611
+                },
+                "updated_time": 1528605828,
+                "content": "<p>当年知乎有人说美国给中国钢铝加关税是蠢办法，中国的钢铝绕行欧洲、加拿大，他们做个二道贩子白白赚钱。</p><p>看看，话多了吧？</p><p>这不就让大统领看去了？</p><p>（还有中国抵制美国大豆转而购买巴西大豆，巧合的是美国大豆的出口量并没有显著变化，那岂不是。。。。）</p>",
+                "comment_count": 10,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTA1MzQ2NDEwILnO8tgFKDEwCkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNDU2MzYyMnIJNDE0MDIwOTUw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "答稀土的还是对美帝和其他国家的资源储量缺乏清醒的认识。 短期来看，如果中国对美国断供，影响最大的恐怕是iphone。前几年iphone 产量上不去的时候可是把苹果和消费者都急坏了。如果现在马上断供iphone ，富士康短时间内没办法把生产线和供应链转移到别的…",
+                "created_time": 1524622635,
+                "id": 375579760,
+                "voteup_count": 6,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/aadd7b895_{size}.jpg",
+                    "badge": [],
+                    "name": "匿名用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/aadd7b895_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "0"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/375579760",
+                "question": {
+                    "title": "中国就没有一件通过断供制裁美国的东西吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274413347",
+                    "created": 1524481493,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274413347
+                },
+                "updated_time": 1524622635,
+                "content": "答稀土的还是对美帝和其他国家的资源储量缺乏清醒的认识。<br><br>短期来看，如果中国对美国断供，影响最大的恐怕是iphone。前几年iphone 产量上不去的时候可是把苹果和消费者都急坏了。如果现在马上断供iphone ，富士康短时间内没办法把生产线和供应链转移到别的国家，最后的结果就是便宜了三星棒子。<br><br>另外我朝还有一个大杀器是easy girl（又称外F）。一旦断供，美帝不少低端人口的下半身会感到异常空虚。由此会产生更多社会矛盾，导致更多极端行为，也算是让美帝尝到一点苦头吧，毕竟不是人人都能像川大统领一样随便搞东欧嫩模。",
+                "comment_count": 4,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTgzNDg5NjEgq8r/1gUoBjAEQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjU2MjMwcgkzNzU1Nzk3NjA="
+        }
+    ]
+}

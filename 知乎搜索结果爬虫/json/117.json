@@ -1,0 +1,263 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1460408254.95835",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1460073725.71&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1460073725.71163"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524180862,
+                "is_labeled": false,
+                "excerpt": "(⊙_⊙) 每天一篇全球人文与地理微信公众号：地球知识局本文出自微信公号地球知识局——<a href=\"http://mp.weixin.qq.com/s/egj2faeQmkvGVhf5H92C4Q\">中兴是如何在美国建立商业帝国的？</a>NO.492-中兴美国生死作者：猫斯图制图：孙绿 / 编辑：棉花在移动通信领域兢兢业业几十年的中兴，终于也成为了美国刀下的羔羊。向中兴…",
+                "excerpt_title": "",
+                "id": 35893516,
+                "voteup_count": 127,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-bf03db9b87e182f3e2e52c63237c93e1_{size}.jpg",
+                    "badge": [],
+                    "name": "孙绿",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/b304c1b01299d8007bf3efa790627ffa",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "地球知识局局长，微信公众号：地球知识局",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-bf03db9b87e182f3e2e52c63237c93e1_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "sun-lu-66-67",
+                    "id": "b304c1b01299d8007bf3efa790627ffa"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35893516",
+                "title": "中兴是如何在美国建立商业帝国的？地球知识局",
+                "created": 1524180863,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4dcae2a096465d2d0feb8dfa2613ecdd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"298\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-4dcae2a096465d2d0feb8dfa2613ecdd_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>(⊙_⊙) </p><p>每天一篇全球人文与地理</p><p>微信公众号：地球知识局</p><p>本文出自微信公号地球知识局——<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s/egj2faeQmkvGVhf5H92C4Q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">中兴是如何在美国建立商业帝国的？</a></p><p>NO.492-中兴美国生死</p><p>作者：猫斯图</p><p>制图：孙绿 / 编辑：棉花</p><p>在移动通信领域兢兢业业几十年的中兴，终于也成为了美国刀下的羔羊。向中兴提供原材料的禁令一出，不仅中兴只能紧急停牌，连带着这些供应商的股价都应声暴跌。如果这是贸易战的一个环节，那还真是一场伤敌一千自损八百的战争。</p><p>但中国进驻世界市场的企业众多，在北美市场取得斩获的也不止中兴一家，为什么受伤的却是这家低调得不能再低调的技术型企业？除了通信安全的管制之外，也许还有更深层次的原因。</p><p>今天的文章，我们来看看中兴在美国有多努力，才建立了自己的帝国，又是多容易就要面临“楼塌了”的危局。</p><p>奠基了中兴的老董事长侯为贵对自己的投资一向非常有自信。这位技术骨干出身的企业家这样总结自己的投资哲学：“我跟踪了很多东西，一看到这个机会非常大，我就发力，一看到机会不大，渐渐就放弃了。”</p><p>在同样出身深圳的任正非带着他的狼性团队在全国范围乃至世界市场通过疯狂的地推、分销网络建立庞大的华为帝国，并在各个技术领域狂飙突进时，中兴却只对少数几个领域感兴趣。但是对每一个感兴趣的项目，侯为贵都不会随便放手，而是安静地深挖，直到挖出金矿为止。美国市场显然就是侯为贵眼里的富矿。</p><p>从2014年开始，人们就经常能从中兴时任北美CEO程立新的口中听到中兴的手机发展战略——ACW，也就是美国、中国、世界。立足美国市场，在发达国家打响自己的旗号，随之反噬中国市场并最终走向世界。这位来自浙大信电系的中兴高管深谙开拓美国市场，对这家在国内被华为等同行压制的通信公司的重要性。</p><p>程立新经常挂在嘴边的一句话，就是“没有美国市场就不能全球领先”。为了争夺美国市场，中兴确实也做了很多努力。在产品和技术领域，最典型的例子就是AXON天机的设计过程。这款手机的设计并不只是设计师的闭门造车，或者是中国产品简单地美国化，而是综合了中美两国消费者的需求而设计的。</p><p>新的双屏天机系列</p><p>整个系列确实打开了美国市场</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-323e681febbe1bde8f55c8988a0bfb7d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"352\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-323e681febbe1bde8f55c8988a0bfb7d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>市场也充分肯定了这种做法，这款手机最终刷新了当时中兴的手机销量记录，帮助中兴在美国的中低端消费市场得到了30%的市场占有率，中兴在那一年累积获得了2000万美国用户。上一次做到这一点的非美国手机企业，是诺基亚。</p><p>但这并非程立新一人之功，若非侯为贵的事先布局，中兴的美国之路不会走得这么顺畅。</p><p>1997年11月18日，中兴在深交所A股上市，时年55岁的侯为贵脸上却没有表现出什么喜悦。上一个财年，中兴通信的销售额6.8亿元，几乎同时起家的华为却已经到了26亿元。尽管侯为贵不认为任正非的激进打发有什么可取之处，但实实在在的收入差距还是会让一个有责任心的企业家多少感到一些焦虑。即使不超越华为，紧紧追逐这个老对手也是必须的。</p><p>而当时的“中华大战”，中兴能够用来翻盘的致胜点并不多。当时双方都在产品多元化方面下足了功夫，侯为贵和任正非甚至对研发团队下达了差不多的任务。回头来看，当时两家在产品结构上至少有70%是重合的。如此贴身肉搏，对性格淡泊的侯为贵来说还是第一次。不善于营销的他选择了低价策略，而任正非则稍微抬价，用于强力的品牌宣传。</p><p>然而任正非的狼性广告大获全胜，中兴必须想别的招数应对了。改革开放才十年光景，中国离加入世贸组织也还有4年，侯为贵已经想到了提前布局北美市场。</p><p>上市第二年，侯为贵就远赴美国主持设立了三家美国研究所，分别位于新泽西、圣迭戈和硅谷。如果仔细考量这三个研究所的选址，就会发现侯对美国的基本情况了解相当深入。新泽西靠近纽约，能感受这个国际大都会的市场脉动，为中兴打入中高端手机市场做好准备。圣迭戈和硅谷则是西海岸的科技重镇，还与中南美洲有着若即若离的关系，在技术和中低端市场风向的掌握上犹有好处。</p><p>以这三座研究中心为核心，中兴后来逐渐地扩大了在美国的研究队伍，最终形成了5中心300名员工的规模。</p><p>其中80%都是雇佣的美国当地技术人员，不仅促进了当地高技术人才就业，更对美国的种族平等起到了作用。</p><p>两年后，中兴的韩国研究所成立，拜师韩国的手机制造业。加上深圳总部，中兴在环太平洋地区建立的这一批研究中心，确立了中兴手机的研发基于这些市场消费者现实所需的基调。在消费市场仍然不理性、不规范的中国，当大量草根企业家还在焦头烂额地在国内攻城略地时，中兴已经摸到了打开国际市场的钥匙，准备用中国科技业之所长攻发达国家科技业之所短了。这也许真是被华为逼上绝路之后不得不做的另辟蹊径。</p><p>新泽西 圣迭戈 硅谷 韩国</p><p>深圳 南京 西安 三亚 北京 上海</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b9e83067c2eb8e895a3ae48d7929212a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"443\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-b9e83067c2eb8e895a3ae48d7929212a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>中兴在海外市场，尤其是北美市场的悄然发力没有躲过资本敏锐的目光。</p><p>2004年对中兴来说是极富转折性的一年。是年，中兴在港交所H股上市，把优质的公司资产暴露在了全世界资本市场的眼中。</p><p>同时，在中国政府的支持下，中兴在非洲开发了著名的“安哥拉模式”——在饱受内战之苦的安哥拉，中兴与其固网公用事业公司Mundo Startel和国有移动运营商Movicel合作完成了安哥拉4G国家骨干网。而安哥拉向中国进出口银行的还款方式，是原油。</p><p>这家低调的公司一时间名声大噪，不仅连续承接了非洲穷国埃塞俄比亚的千年项目、坦桑尼亚的国家光纤骨干建设、突尼斯和阿尔及利亚的3G建设，还把通信业的战旗指向了已经趋于成熟的美国。</p><p>中兴在非洲重点合作国家</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-ab423812dc4f0fbcf3a9f462d93a4a1f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"628\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-ab423812dc4f0fbcf3a9f462d93a4a1f_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>当时美国本土的几大通信业巨头包括AT&amp;T、朗讯、北方电子和摩托罗拉，都是久负盛名的大企业。在资本市场和他们自己的眼里，中兴根本就是一个连专利官司都洗不干净，在技术和营建能力上不值一提的中国对手。</p><p>但他们忘了，中兴的老板可是技术人员出身，对公司的技术生产能力之重视远远大于他们看到的品牌宣传能力。在中国的通讯企业都还没有拿到4G网络的经营许可证之前，中兴已经集中人力大量研发了LTE技术，到了2010年其技术储备已经占了全世界相关专利的7%。</p><p>和他们后来的老朋友高通一样，这是一家始终把技术先进性放在第一位的公司。</p><p>侯为贵当时对竞争的形势非常乐观：“中国应该说技术人才还是比较充裕的，所以能够在相当长的时间里有的高技术低成本优势。”的确，中国每年有200万工程专业的人才毕业，而美国只有40万。而且中国大学生能吃苦、愿打拼，在高压低收入的环境下依然能发挥强大的战斗力，席卷墨守成规的老巨头完全在情理之中。</p><p>于是2006年，朗讯宣布与法国阿尔卡特合并，驰骋美国通讯业100年的老字号北方电子也在3年后破产。摩托罗拉则因为在手机行业和通讯行业的双重打击被拆分吞并，离开了美国通讯业的主流。</p><p>与此同时，中兴在北美获奖无数，被美国和加拿大的同业协会屡屡评为优质运营商和投资者。利用与华为相似的人力成本优势和技术储备，中兴这朵墙内开的花在墙外飘香四溢，却也引来了杀身之祸。</p><p>2012年，中兴在美国的商业版图正在迅速扩张，却遭到了美国国会关于国家安全的指控。同时受到指控的，还有慢一拍进入北美市场，并且进展一直不是很顺利的华为。</p><p>不过美国国会的这一指控的调查已经被证明是一场闹剧，没有任何证据证明中兴对美国的通讯安全造成或者可能造成威胁。然而担忧仍然是存在的，通讯基础设备一旦设立就无法随意更换，而其功能又对国家安全影响巨大。任由从“战略竞争对手”来的服务商提供服务怎么也让人无法放心。</p><p>而被美国商务部发现对伊朗和朝鲜违禁销售美国技术以后，更是把中兴推上了风口浪尖。</p><p>此时的中兴高层也已经明白了什么叫“树大招风”。对于这样一个以低成本高技术短期内就占据大量市场的公司来说，这么多基建设施和手机销量已经可称怀璧其罪了，不及时改善和当地政府的关系必然在某些方面受到牵连。中兴高层于是养成了亲自跑华盛顿当面交流的习惯，每年两次与美国高层交换意见，做更多让对方安心的让步。</p><p>在移动端市场，中兴手机打入美国市场靠的就是拉拢喜欢无合约机的民众。这确实是一个增长中的市场，即使是在通讯设备已经趋于饱和的美国，无合约的中低端机型仍然在缓步增长中。在这方面做的技术储备，也有利于中兴今后掉头俯冲中国和印度的低端市场。但这种操作方式游离在美国传统电信企业熟悉的业务范围之外，难以监管，自然引起了美国政府的不适。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2bce3337ef505a5167e8104023a0a133_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-2bce3337ef505a5167e8104023a0a133_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>为了改观这种形象，中兴手机和美国当地的运营商合作，提供了更多二线运营商的分销渠道和运营商定制的预付费机，并进一步提升品质压低价格，让消费者实惠的同时拉动更多合作者一起发财。为电信服务商提供的硬件设备也在保持价廉物美的前提下尽量公开化。</p><p>配合对几支NBA球队的赞助（包括中国人感到亲切的休斯敦火箭和金州勇士、纽约尼克斯，后来又囊括了芝加哥公牛与克里夫兰骑士）拉动的知名度，中兴在安全和禁售风波之后很快就东山再起，在2015年一波爆发进入了美国移动设备销售量前四名的行列，市场占有率7.8%，全球利润增长高达94%。相比同期华为在美国市场的颓靡表现，中兴在美国的经营显然更对路。</p><p>有这样的市场表现打底，中兴对美国的就业市场和税收贡献越来越大，在与美国政府的减罚谈判上也有了更多的底气。最终，在2016年制裁大棒没有完全落下，只是对中兴进行了罚款和整改的惩罚，尚算可以接受的结果。</p><p>到了2018年初，中兴在美国的市场占有率已经达到了15%，改任手机部门CEO的程立新更是高调宣布即将杀回中国市场，三年内成为国内主流。</p><p>但就在此时，制裁案被旧事重提，中兴再次受到了美国商务部的调查和处罚。无论美国人是不是把中兴当成了贸易战的祭旗，它在美国违法违约的行为证据确凿。即使被重罚也在法律范围之中，连中国商务部都无法出声力挺。</p><p>中兴在美国市场十几年的苦心经营，很可能就要因为一时糊涂眼看它楼塌了。注重技术而不重组织建设和商业运作的中兴，也许这一次要为自己的企业文化付出巨大的代价。</p><p>得知中兴被重罚的消息，创始人侯为贵以71岁高龄再次出马，奔赴美国试图解决问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-131fcf02c073bc7646456ab2e2046f3b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"347\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-131fcf02c073bc7646456ab2e2046f3b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>侯在美国经营多年，在白宫、国会、商务部里总有些说得上话的朋友。但在新一轮贸易战的大背景下，这些人精能开口为一家中国企业说多少好话，也实在是很难预料。浪荡江湖几十载的老爷子不会不知道这背后的难处。</p><p>多少年的技术积累、客户研究、对官方的让步即将毁于一旦。不知道他在哀叹企业之不幸的同时，会不会和我们一样，怒继业者之不争。</p><p>每天一篇全球人文与地理</p><p>微信公众号：地球知识局</p><p>END</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-186b089f710f297486d2ec040038521f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"562\" data-rawheight=\"844\" class=\"origin_image zh-lightbox-thumb\" width=\"562\" data-original=\"https://pic4.zhimg.com/v2-186b089f710f297486d2ec040038521f_r.jpg\"/></figure><p></p>",
+                "comment_count": 25,
+                "image_url": "https://pic4.zhimg.com/50/v2-4dcae2a096465d2d0feb8dfa2613ecdd_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-4dcae2a096465d2d0feb8dfa2613ecdd_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-4dcae2a096465d2d0feb8dfa2613ecdd_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-323e681febbe1bde8f55c8988a0bfb7d_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjsQBxoHNjU0NzkxMiD/zuTWBSh/MBlAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTIyNjI2cggzNTg5MzUxNg=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "很开心知乎下面没有看到微博上的谣言根据美国农业部最新数据，埃塞俄比亚大豆产量将增长5k公吨在MY18/19达到12万公吨。此前在2017.6-2018.2期间，印度越南分别进口埃塞俄比亚26576MT及20284MT大豆，占比达到埃塞大豆产量79％，同期中国进口量为5148MT，仅占…",
+                "created_time": 1536383325,
+                "id": 487674353,
+                "voteup_count": 25,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/2e2d60f26589e87d52f75345951b0f2e_{size}.jpg",
+                    "badge": [],
+                    "name": "天天要好好向上",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/a50f03ae63ca2d952661e6fbc359c5a0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic2.zhimg.com/50/2e2d60f26589e87d52f75345951b0f2e_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "tian-tian-17-92",
+                    "id": "a50f03ae63ca2d952661e6fbc359c5a0"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/487674353",
+                "question": {
+                    "created": 1536309074,
+                    "url": "http://www.zhihu.com/api/v4/questions/293745022",
+                    "title": "如何看待进口埃塞俄比亚大豆？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 293745022
+                },
+                "updated_time": 1536383325,
+                "content": "<p>很开心知乎下面没有看到微博上的谣言</p><p>根据美国农业部最新数据，埃塞俄比亚大豆产量将增长5k公吨在MY18/19达到12万公吨。此前在2017.6-2018.2期间，印度越南分别进口埃塞俄比亚26576MT及20284MT大豆，占比达到埃塞大豆产量79％，同期中国进口量为5148MT，仅占9％。最近一期埃塞进口8900MT vs 出口48000MT</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-65a4f22e3546a67e3294c077470720b7_b.jpg\" data-rawwidth=\"1263\" data-rawheight=\"651\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-2e73e1a373d335f0be44bd968a9cf58a_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1263\" data-original=\"https://pic3.zhimg.com/v2-65a4f22e3546a67e3294c077470720b7_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1263'%20height='651'&gt;&lt;/svg&gt;\" data-rawwidth=\"1263\" data-rawheight=\"651\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-2e73e1a373d335f0be44bd968a9cf58a_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1263\" data-original=\"https://pic3.zhimg.com/v2-65a4f22e3546a67e3294c077470720b7_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-65a4f22e3546a67e3294c077470720b7_b.jpg\"></figure><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-9c7ef033f42e6492aae41148f2987df5_b.jpg\" data-rawwidth=\"957\" data-rawheight=\"104\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"957\" data-original=\"https://pic4.zhimg.com/v2-9c7ef033f42e6492aae41148f2987df5_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='957'%20height='104'&gt;&lt;/svg&gt;\" data-rawwidth=\"957\" data-rawheight=\"104\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"957\" data-original=\"https://pic4.zhimg.com/v2-9c7ef033f42e6492aae41148f2987df5_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-9c7ef033f42e6492aae41148f2987df5_b.jpg\"></figure><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-98b9c4482183b1da54c9c8e941a5e444_b.jpg\" data-rawwidth=\"1247\" data-rawheight=\"568\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-af4a37750a68ed6f8ca07978c96fdcde_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1247\" data-original=\"https://pic4.zhimg.com/v2-98b9c4482183b1da54c9c8e941a5e444_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1247'%20height='568'&gt;&lt;/svg&gt;\" data-rawwidth=\"1247\" data-rawheight=\"568\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-af4a37750a68ed6f8ca07978c96fdcde_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1247\" data-original=\"https://pic4.zhimg.com/v2-98b9c4482183b1da54c9c8e941a5e444_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-98b9c4482183b1da54c9c8e941a5e444_b.jpg\"></figure><p></p>",
+                "comment_count": 14,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/80/v2-f4d267e36869547c10d90499164b2e93_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-dcba92deb118e02441916637de964478_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic4.zhimg.com/v2-f4d267e36869547c10d90499164b2e93_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTE4NzM3MjgyIN2yzdwFKBkwDkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNzU1Mzk3NnIJNDg3Njc0MzUz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "埃塞俄比亚近些年的大豆产量趋势图2017年美国农业部统计的埃塞俄比亚大豆出口量海关总署在公告中说的也很清楚:“埃塞俄比亚是新进大豆出口国”、“丰富我国大豆进口来源”。也就是以后大豆进口渠道会越来越丰富，改变以前美国一家独大的局面。（有人说埃塞…",
+                "created_time": 1536381509,
+                "id": 487659388,
+                "voteup_count": 26,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/e69da96c7_{size}.jpg",
+                    "badge": [],
+                    "name": "Hilda Woo",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "西班牙语"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/55e299bd8fa4b80a11491b587b439b20",
+                    "gender": 0,
+                    "user_type": "people",
+                    "headline": "不从事西班牙语相关工作 &amp; AndrewGarfield",
+                    "avatar_url": "https://pic2.zhimg.com/50/e69da96c7_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "hilda-wu",
+                    "id": "55e299bd8fa4b80a11491b587b439b20"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/487659388",
+                "question": {
+                    "created": 1536309074,
+                    "url": "http://www.zhihu.com/api/v4/questions/293745022",
+                    "title": "如何看待进口埃塞俄比亚大豆？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 293745022
+                },
+                "updated_time": 1536399086,
+                "content": "<p>埃塞俄比亚近些年的大豆产量趋势图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-a73245f065655792afd2772538385cb4_b.jpg\" data-rawwidth=\"1125\" data-rawheight=\"2436\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-082ad2f2b77f306e54c646ecd836e6b8_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1125\" data-original=\"https://pic4.zhimg.com/v2-a73245f065655792afd2772538385cb4_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1125'%20height='2436'&gt;&lt;/svg&gt;\" data-rawwidth=\"1125\" data-rawheight=\"2436\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-082ad2f2b77f306e54c646ecd836e6b8_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1125\" data-original=\"https://pic4.zhimg.com/v2-a73245f065655792afd2772538385cb4_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-a73245f065655792afd2772538385cb4_b.jpg\"></figure><p>2017年美国农业部统计的埃塞俄比亚大豆出口量</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-f047b2c081e9f641c921e573e8cc3da2_b.jpg\" data-rawwidth=\"920\" data-rawheight=\"467\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-2cae7eb40a53a70adf44cb4429703137_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"920\" data-original=\"https://pic3.zhimg.com/v2-f047b2c081e9f641c921e573e8cc3da2_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='920'%20height='467'&gt;&lt;/svg&gt;\" data-rawwidth=\"920\" data-rawheight=\"467\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-2cae7eb40a53a70adf44cb4429703137_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"920\" data-original=\"https://pic3.zhimg.com/v2-f047b2c081e9f641c921e573e8cc3da2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-f047b2c081e9f641c921e573e8cc3da2_b.jpg\"></figure><p>海关总署在公告中说的也很清楚:“埃塞俄比亚是新进大豆出口国”、“丰富我国大豆进口来源”。也就是以后大豆进口渠道会越来越丰富，改变以前美国一家独大的局面。</p><p>（有人说埃塞俄比亚才产那么点大豆怎么满足我国需求，拜托，这又不是什么xxx唯一指定供货商，我国也不只从这一个地儿进口好么！</p>",
+                "comment_count": 16,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/80/v2-131413f49cf72949dd22c0e4d48270c7_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-34ecaf52b827d8a8681cf161a243c548_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic4.zhimg.com/v2-131413f49cf72949dd22c0e4d48270c7_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTE4NzM0NTM3IMWkzdwFKBowEEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNzU1Mzk3NnIJNDg3NjU5Mzg4"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "如果是说金融业的话，那肯定是没有做好准备工作。中国的金融业基本上是国企的市场，从银行到证券公司到保险公司到都是国企背景，要么就是红二代白手套这些，要说和外国金融公司对战，那估计是前景很不乐观。要我说要开放先对内开放，先让民营企业厮杀出一片…",
+                "created_time": 1523600311,
+                "id": 365833437,
+                "voteup_count": 17,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-a82d344ed30dc67573789fa18a8130a0_{size}.jpg",
+                    "badge": [],
+                    "name": "kulja",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "政治、公共管理"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/28f4bfbc6ea95c935bc06270a72af977",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "塞粉",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-a82d344ed30dc67573789fa18a8130a0_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "apzat-79-6-50",
+                    "id": "28f4bfbc6ea95c935bc06270a72af977"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/365833437",
+                "question": {
+                    "created": 1523329436,
+                    "url": "http://www.zhihu.com/api/v4/questions/271714330",
+                    "title": "大幅开放市场对中国有那些影响，中国是否做好准备工作？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271714330
+                },
+                "updated_time": 1523600312,
+                "content": "<p>如果是说金融业的话，那肯定是没有做好准备工作。中国的金融业基本上是国企的市场，从银行到证券公司到保险公司到都是国企背景，要么就是红二代白手套这些，要说和外国金融公司对战，那估计是前景很不乐观。要我说要开放先对内开放，先让民营企业厮杀出一片天地，掌握中国市场主动权，然后外国金融机构想进来就很难了。汽车业就是因为对内开放不足，结果让外国人把市场占了。</p>",
+                "comment_count": 16,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTY1NzY2MjIgt5fB1gUoETAQQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNjU1ODkxcgkzNjU4MzM0Mzc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "有也不要给流氓公司背书。中兴这种猪队友，真是丢中国人的脸。",
+                "created_time": 1524039914,
+                "id": 370001757,
+                "voteup_count": 11,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [
+                        {
+                            "topics": [
+                                {
+                                    "is_black": false,
+                                    "name": "芯片（集成电路）",
+                                    "introduction": "半导体元件产品的统称。是集成电路（IC, integrated circuit）的载体，由晶圆分割而成。",
+                                    "excerpt": "半导体元件产品的统称。是集成电路（IC, integrated circuit）的载体，由晶圆分割而成。",
+                                    "is_vote": false,
+                                    "url": "http://www.zhihu.com/api/v4/topics/19583435",
+                                    "avatar_url": "https://pic2.zhimg.com/50/0621f6843_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19583435"
+                                }
+                            ],
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "name": "谢丹",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "微电子"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0af2152d91ab986e5ddb889af3ba2dff",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "拉黑就是“现在该买了？”“现在该卖吗？”",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xie-dan-9",
+                    "id": "0af2152d91ab986e5ddb889af3ba2dff"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370001757",
+                "question": {
+                    "created": 1523969202,
+                    "url": "http://www.zhihu.com/api/v4/questions/273674413",
+                    "title": "对于美国4月16日宣布的禁止美国企业向中兴通讯出售任何电子技术或通讯元件的禁令，我们究竟有没有底牌？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273674413
+                },
+                "updated_time": 1524039914,
+                "content": "<p>有也不要给流氓公司背书。</p><p>中兴这种猪队友，真是丢中国人的脸。</p><p></p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTczMzQwODIg6oHc1gUoCzACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMDkxNjgwcgkzNzAwMDE3NTc="
+        }
+    ]
+}

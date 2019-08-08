@@ -1,0 +1,243 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1442195154.14171",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1442099861.38&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1442099861.38178"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1551840916,
+                "is_labeled": false,
+                "excerpt": "【文/观察者网专栏作者 李晔】网络上很多人对孔院有一些误解，甚至有一些阴谋论，如认为“孔子学院就是花纳税人的钱给老外”、“孔子学院是推广孔子思想和中国传统文化的机构”，甚至还有“孔子学院是间谍机构”等说法。作为一名入行15年的对外汉语教师，同…",
+                "excerpt_title": "",
+                "id": 58438016,
+                "voteup_count": 14,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_{size}.jpg",
+                    "type": "people",
+                    "name": "中国一带一路网",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/36eb424c507b2f772b4d3ffff5c25824",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "zhong-guo-yidai-yilu-wang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-52ddb43fefb51e99bf573c810d891ca1_is.jpg",
+                    "is_org": true,
+                    "headline": "传递信息 沟通文明 合作共赢 （微信号：ydylgov）",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "36eb424c507b2f772b4d3ffff5c25824"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/58438016",
+                "title": "说孔子学院是“间谍机构” 对外汉语教师：有点想笑",
+                "created": 1551840916,
+                "content": "<p>【文/观察者网专栏作者 李晔】</p><p>网络上很多人对孔院有一些误解，甚至有一些阴谋论，如认为“孔子学院就是花纳税人的钱给老外”、“孔子学院是推广孔子思想和中国传统文化的机构”，甚至还有“孔子学院是间谍机构”等说法。</p><p>作为一名入行15年的对外汉语教师，同时也作为前汉办的外派教师，我以问答形式给大家科普一下孔子学院到底是怎么一回事。</p><h2><b>1.孔子学院是干什么的？</b></h2><p>说起来，孔子学院从2004年开始建立，到现在已有15年的历史了。在15年前，孔子学院远没有今天的规模和影响力。</p><p>孔子学院的领导部门是国家汉语国际推广领导小组办公室（简称国家汉办），成立于1987年。以下是国家汉办的官方介绍——</p><blockquote>国家汉办是中国教育部直属事业单位，致力于为世界各国提供汉语言文化的教学资源和服务，最大限度地满足海外汉语学习者的需求，为携手发展多元文化，共同建设和谐世界做贡献。</blockquote><p>从这个简介中我们可以看出，国家汉办的职能简单来说就一个——教汉语。</p><p>我们从孔子学院的主要职能介绍中也能看出这点——</p><blockquote>其主要职能是：面向社会各界人士，开展汉语教学；培训汉语教师；开展汉语考试和汉语教师资格认证业务；提供中国教育、文化、经济及社会等信息咨询；开展当代中国研究。</blockquote><p>简单地说，就是更好地在国外教汉语。尽管孔子学院在新闻媒体上总是以文化活动的形式出现，但一直以来媒体都忽视了孔子学院的这一主要职能。</p><h2><b>2.为什么要办孔子学院？</b></h2><p>首先从最宏观的角度来看，一个国家的经济取得发展，那么这国家的软实力也必然得到相应的提升。然而，2000年前后我国经济进入飞速发展阶段，而我国的软实力却并未随着这波经济的发展，取得显著的强化。虽然2001年中国正式加入世贸组织后，很多跨国公司纷纷入驻中国，来华留学生人数也是逐年提高，但这离构建强大的软实力的设想仍有遥远的距离。</p><p>那么该如何提升中国的软实力呢？最好的方法是大力发展文化产业——文化产业会极大提升本国文化在外国的影响力，而且能获取巨大经济利益，是提升软实力的上上策。</p><p>国外在这方面有三个成功的例子：美国好莱坞电影、日本动漫、韩国偶像。如美国电影《复仇者联盟3》仅上映11天就在全球收割了10亿美元的票房，此外也让众多地球人知道了美国队长，了解了美国的“自由民主”精神。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-41018c5df0ff7798a104e333dee93a13_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"454\" data-rawheight=\"236\" data-thumbnail=\"https://pic4.zhimg.com/v2-41018c5df0ff7798a104e333dee93a13_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"454\" data-original=\"https://pic4.zhimg.com/v2-41018c5df0ff7798a104e333dee93a13_r.jpg\"/></figure><p>发展文化产业当然很好，但建立一套完整、成熟的文化产业体系非一朝一夕之事。那么别的国家怎么办呢？</p><p>欧洲国家为推广本国语言文化，在别国开设了非商业性质的语言学习机构，比较著名的有德国的歌德学院、西班牙的塞万提斯学院、法国的法语联盟等等。国家汉办的领导在重点考察了上述学院后，下定决心开设孔子学院——孔子学院的命名跟歌德学院、塞万提斯学院是一样的。</p><p>简单地说，孔子学院的模式就是跟国外的大学合作，开设一个教学点：没老师，孔子学院送老师；没教材，孔子学院送教材。外方大学简直高兴死了，可以开设中文专业，基本费用可以减半，何乐而不为呢？</p><p>在汉办的努力下，孔子学院成为了国家文化海外推广的核心战略。一旦中国人开始集中力量办大事，效果都是不得了的——</p><blockquote>截至2018年12月31日，全球154个国家（地区）建立了548所孔子学院和1193个孔子课堂。</blockquote><p><b>3.孔院的意义和作用在哪里？</b></p><p>我入行15年，差不多教了2000多个外国人，几乎什么人都有。</p><p>在7、8年前，大部分外国人对中国的印象主要来自三个渠道：1.新闻报道；2.海外华人；3.香港电影。</p><p>其中，对中国人有相当多的刻板印象，包括但不限于：</p><blockquote>1.中国人都吃狗肉，会吃宠物狗。<br/>2.中国人都会功夫，平时走路都用轻功。<br/>3.中国钱多人傻，会在奢饰品店疯狂地买买买。<br/>4.中国人的眼睛非常小。<br/>5.中国人完全没有自由。</blockquote><p>很多外国人几乎完全没见过中国人，就算见过，也没有深入交流过。</p><p>这时，一个外国人来孔子学院学习，见到了笑容可掬的汉语老师，了解到中国人也与他们一样是有喜怒哀乐的普通人，通过学习汉语对中国文化产生了兴趣，以后到中国留学、跟中国搞国际贸易，甚至去中资公司工作。这，就是孔子学院最大的意义。</p><p>此外，就国外普遍来看，基本上能学汉语的都是当地的社会精英，通过孔子学院大幅度提高他们对中国的好感度，在未来会有不可估量的影响力。如埃塞俄比亚前总统穆拉图·特肖梅就曾于1976年以公派生的身份在北京语言大学和北大留学，汉语很不错，回国从政后对中埃关系助力良多。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-05c9fce7e6b9ccd8b30775d02d94ec70_b.png\" data-size=\"normal\" data-rawwidth=\"483\" data-rawheight=\"363\" class=\"origin_image zh-lightbox-thumb\" width=\"483\" data-original=\"https://pic1.zhimg.com/v2-05c9fce7e6b9ccd8b30775d02d94ec70_r.jpg\"/><figcaption>穆拉图学籍卡</figcaption></figure><p>而现在，孔子学院也成为共建“一带一路”的重要一环。</p><h2><b>4.孔子学院的老师都是什么人？</b></h2><p>孔子学院的教师主要有两类群体：</p><p>（1）志愿者：一般是学对外汉语、教育学、汉语言文学、小语种的在校本科生或研究生，派出前要通过汉办的选拔考试，之后还要接受3个月的集中培训。</p><p>（2）公派教师：一般是大中小学的在编教师，同样的，派出前也要经过选拔考试和培训。</p><p>由此可见，派出的主体都是“正规军”。其中派出最多的，一般为各个大学院校对外汉语系的本科生和研究生。</p><p>我是对外汉语专业毕业的，在校期间主要学习：现代汉语、古代汉语、中国文学史、商务英语、对外汉语教学法、对外汉语教学概论、教育心理学、语言学。在孔子学院的培训期间，这些课程一般还会找一些专家学者再讲一遍，同时会根据具体外派国家情况，指派小语种教师进行教学。</p><p>社会上一般对汉语教师存在两个误解：1.随便什么人都可以教汉语；2.只要英语好就能教汉语。</p><p>事实上，一个优秀的对外汉语教师不但要经过大量的学习，要有长时间的教学实践经验，而且还要掌握发展快速的汉语教学理论。</p><p>如果不信，可以给你一个思考题：</p><blockquote>我学了三年汉语。<br/>我学了三年汉语了。<br/>我学三年了汉语。</blockquote><p>这个“了”是什么意思？为什么第二个句子有两个“了”？为什么第三个句子不对？</p><p>至于英语问题，汉语老师在上课时是要尽量不说英语的，说多了学生会投诉，领导会认为你的教学出了大问题。因此不用英语还能讲明白课程，顺利完成课程任务，也成了所有对外汉语教师面临的一个大课题。</p><h2><b>5.孔子学院的老师每天都在干什么？</b></h2><p>最主要的，就是教汉语；如果再细分一下，就是更有效率地教汉语，和更有意思地教汉语。</p><p>一个孔子学院老师的日常就是备课、上课、批改作业、组织考试、管理学生，这些都可以说是更有效率地教汉语。</p><p>还有一些任务就是组织学生活动：一部分是课堂活动，如策划一节书法课、组织一次剪纸课、带学生去中餐馆；另外就是学校要求组织的活动，如安排学生做一次文化汇演、培训报名参加汉语桥的选手、举办一场中文卡拉OK大赛等等。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-b46b9a0d105fdf0733d9bbd86f1aa84b_b.jpg\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"547\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-b46b9a0d105fdf0733d9bbd86f1aa84b_r.jpg\"/><figcaption>给学生上书法课</figcaption></figure><h2><b>6.孔子学院都教什么？</b></h2><p>简单来说就是教汉语，语言为主，文化为辅。</p><p>针对初中高级的学生，都有相应的教材；如果再细分，有综合、听力、口语、写作、阅读方面的教材。目前国内流行的教学理念是听说读写全面进步，一些综合性的教材也是比较流行的。</p><p>如果从另外一个方向分，那么HSK（汉语水平考试）应试课程、商务汉语课程、零起点日常口语也是非常流行的课程。</p><p>至于外界传闻的儒家文化，一般来说初中级课程如果涉及了，也就是简单介绍，最多讲10分钟，讲多了容易耽误课堂进度；高级课程中，如果学生有学习中国文化或古汉语，儒家经典是绕不开的。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-13426b711553cd240380163a8c3f8985_b.png\" data-size=\"normal\" data-rawwidth=\"783\" data-rawheight=\"1063\" class=\"origin_image zh-lightbox-thumb\" width=\"783\" data-original=\"https://pic2.zhimg.com/v2-13426b711553cd240380163a8c3f8985_r.jpg\"/><figcaption>出自孔子学院主打教材《HSK标准教程》</figcaption></figure><h2><b>7.孔子学院是否属于文化洗脑？遇到政治问题怎么办？</b></h2><p>这块一直以来是外界对孔子学院误解最深的一块。</p><p>事实上，孔子学院老师首先是被要求回避意识形态问题的。更重要的是，孔子学院老师也没有能力对学生进行文化洗脑。</p><p>孔子学院老师最多强调的是文化认同，这文化认同还是建立在求同存异的基础上，对于他国的文化习惯， 就算作为中国人很难接受，孔子学院老师也被要求不予评价。</p><p>大部分情况，孔子学院老师不论是考试时还是培训时，都被告知要尊重别国的思想文化，在很多时候显得很“怂”——不过也有例外，那就是遭到种族歧视。一旦受到种族歧视，比如听到“你们这些中国猪”或“我觉得中国人都很笨”这种言论时，汉语老师是有必要跟中外方孔子学院院长反馈情况的。</p><h2><b>8.孔子学院不受当地政府监管？从事间谍活动？</b></h2><p>孔子学院章程明确规定，要遵守当地国家法律法规。如果不受当地政府监管，相信孔子学院也不可能在全世界开设500多所。事实上，孔子学院与当地政府打交道时，一直比较“怂”。</p><p>说“从事间谍活动”，那就更是无稽之谈。汉语老师能接触到的无非是学汉语的学生，还有当地中文系的同事，我不认为一个汉语老师能提供什么有价值的情报。</p><h2><b>9.美国为什么要关闭孔子学院？</b></h2><p>政治和经济层面的解读已经非常多了，我就从学术层面聊聊这事。</p><p>有一个非常令人震惊的事实是，美国的对外汉语教学起步更早，出现了众多大师级的人物，并长时间内在学术水平上碾压国内。对外汉语圈内公认的祖师爷、清华四大导师之一的赵元任先生，正是美国汉语教学的奠基人之一。</p><p>美国的对外汉语教学研究起源于二战。为了应对太平洋战场，美国哈佛大学开设了陆军特别训练班中文部，找来赵元任先生主持中文教学。而国内的对外汉语学术的重启，则是改革开放后的事情了。</p><p>现在，美国大学主流的对外汉语教学理论与国内的理论基础有很多不同，美国的理论根基是听说法，教学已形成“北美汉语教学模式”，而国内的理论根基是功能法，理念与美国非常不一样。</p><p>简单说来，美国的教学理念是精英化教学，就是找到最好的学生、最适合精英的教学方法、最好的老师、在最短的时间内让学生掌握汉语。现在美国哈佛大学、普林斯顿大学、耶鲁大学都有中文项目，学习压力非常大，能跟下来的都是社会精英。</p><p>而国内的对外汉语教学则是针对所有国家不同水平的学习者。这几年国内教学水平发展迅速，比较重视语言功能的应用，也非常注重听说读写全面发展。</p><p>为什么我们常听说美国要关闭孔子学院的新闻？就算美国关闭了当地的孔子学院，其大学的中文教学也不受影响，这就是美国“无所顾忌”的原因之一。</p><p>总之，孔子学院为汉语教学而存在，将其视作“间谍机构”既是对中外正常文化交流的“污名化”，也是对本国学生的不信任，更是自身不自信的体现。而作为一名多年从事对外汉语教学的教师，我希望未来不论是孔子学院，还是其他方式的文化推广，都能摸索出良性的发展道路。</p><p>（文章仅代表作者本人观点）</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-05c9fce7e6b9ccd8b30775d02d94ec70_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-b46b9a0d105fdf0733d9bbd86f1aa84b_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-13426b711553cd240380163a8c3f8985_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "Cj4QBxoJMTAxMTE1NjU2IJTt/OMFKA4wAEAAUhF0b3BfYWN0aXZpdHlfcG9zdFoGMTE1MDYxcgg1ODQzODAxNg=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "题主现在用的就是苹果手机，不知道为什么，感觉不舒服了，真的有点不舒服，爷爷成年即为党员，外公更是是建国前参加我党，今天和他们聊到中国崛起了，然后看到中美贸易战，接着又看到美国制裁华为的新闻，感觉怪怪的，第一次感觉这种贸易战是我们每个人都会…",
+                "created_time": 1522261796,
+                "id": 353076183,
+                "voteup_count": 6,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-e415d5c468e1e1c7eb2107c8b1e4990a_{size}.jpg",
+                    "type": "people",
+                    "name": "思福",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/8ed6459a92eefea2ea492a0ca592ec16",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "qian-shu-20-26",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-e415d5c468e1e1c7eb2107c8b1e4990a_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [],
+                    "id": "8ed6459a92eefea2ea492a0ca592ec16"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/353076183",
+                "question": {
+                    "created": 1522261002,
+                    "url": "http://www.zhihu.com/api/v4/questions/270298274",
+                    "title": "中国如果对美苹果手机加税，使民众要付更多的钱买苹果，你还会买苹果手机么？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 270298274
+                },
+                "updated_time": 1522261796,
+                "content": "题主现在用的就是苹果手机，不知道为什么，感觉不舒服了，真的有点不舒服，爷爷成年即为党员，外公更是是建国前参加我党，今天和他们聊到中国崛起了，然后看到中美贸易战，接着又看到美国制裁华为的新闻，感觉怪怪的，第一次感觉这种贸易战是我们每个人都会参与其中的，也是第一次感觉国家发展与我们每个人都息息相关，并不想抵制什么，也不是倡导什么，只是第一次觉得，用国产牌子，其实蛮骄傲的（我爸是坚定的国货支持者，看新闻的时候骄傲在我面前骄傲的炫耀他的华为手机，那时候感觉真的很奇怪，第一次真正客观地审视自己过去的观念）用国货好像真的蛮不差的，毕竟我们不是印度啊之类的国家，我们有自己真正的技术，和别人比起来物质上并不差的技术。贸易战其实真的和我们每个人都息息相关，这次是中美赌国运的斗争，和日本车之类不一样，我们中华民族争第一的斗争，国货绝不能输，中国绝不能输，我一个人很微小，但我想试一试，好吧，我把自己也当成战士了，但是好像我们每个人都是战士，我想试一试，以一个战士的身份。国货不能输，中国不能输。",
+                "comment_count": 4,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTQyNTU4MzYgpL7v1QUoBjAEQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyMzQxNTM5cgkzNTMwNzYxODM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "我一般出行前都关注下新闻气象，最近这么大规模的台海军演绝对会导致航路资源紧张，必定会延误，一周前新闻都铺天盖地预热了。 这两天南来北往的“常旅客”，每年经历无数夏秋季节的各种航路管制事件，聪明有经验的都基本高铁出行了。 转自航旅圈大号“停机…",
+                "created_time": 1524314121,
+                "id": 372661549,
+                "voteup_count": 283,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-22e733a07a8c0128cb9599e6af87f1d4_{size}.jpg",
+                    "type": "people",
+                    "name": "老中医包治一针灵",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/78c5088a37240a076d3067dfca8db447",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "hale-wu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-22e733a07a8c0128cb9599e6af87f1d4_is.jpg",
+                    "is_org": false,
+                    "headline": "好好好熬哈哈",
+                    "badge": [],
+                    "id": "78c5088a37240a076d3067dfca8db447"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372661549",
+                "question": {
+                    "created": 1524135438,
+                    "url": "http://www.zhihu.com/api/v4/questions/273920541",
+                    "title": "如何看待2018年4月19日国内航班大面积延误，是什么原因引起的？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273920541
+                },
+                "updated_time": 1524314121,
+                "content": "我一般出行前都关注下新闻气象，最近这么大规模的台海军演绝对会导致航路资源紧张，必定会延误，一周前新闻都铺天盖地预热了。<br><br>这两天南来北往的“常旅客”，每年经历无数夏秋季节的各种航路管制事件，聪明有经验的都基本高铁出行了。<br> 转自航旅圈大号“停机坪”《军演下的航班延误，乖乖听话才算爱国》<br><br>附带原文链接：<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/8qRsVdOCBnDyNDuN2aFAog\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">mp.weixin.qq.com/s/8qRs</span><span class=\"invisible\">VdOCBnDyNDuN2aFAog</span><span class=\"ellipsis\"></span></a><br><br>内容截取：<br><br>4月18日,我们在电视里实时目睹了中国近年来最高调的一次军事演习。<br><br>早上8时，我陆军航空兵部队开始在东南沿海举行跨昼夜海上实弹射击演练。<br><br>晚上23:00后，随着最后一架直升机降落，此次海上实弹射击演练圆满结束。<br><br>据央视报道，这次演练紧贴实战，使用导弹和火箭弹对海上浮动靶标和模拟舰船等多个目标实施攻击。<br><br><br>台海军演，其中的敏感性不用多做解释了吧。<br><br>对这次“亮剑”，网络上称赞叫好声一片，爱国热情被进一步激发，无数的豪言壮语一时间充斥在两微一端的留言板上。然而，当“真枪实弹”碰触到了个别人的切身利益后，这些人又是另一幅面孔，十分令人失望。<br><br><br>军演前后这几天，国内许多机场由于空域被“其他用户”占用，发生了大面积航班延误，不少航班延误超过五六个小时，为做好相关保障，很多机场和航司的员工通宵达旦彻夜加班，有的甚至从早上一直忙碌到次日凌晨4、5点才下班，累到虚脱。<br><br>就在这种情况下，我们又从个别旅客那里听到了一些不太和谐的声音。<br><br>有的张口就骂娘闭口要赔偿。<br>有的大声喧哗煽动他人闹事。<br>有的摔水瓶扔盒饭砸柜台。<br>有的嫌航司免费安排的酒店不够高档。<br>有的甚至口出狂言诋毁解放军。<br><br>网上发帖的时候又是点赞又是欢呼，咋到了自己利益受点影响时就变得不理解不理智了？<br><br>又没有让你舍身从戎沙场冲锋，就一个军演让你等几个小时就就受不了了？<br><br>你说航空公司骗人机场信息闭塞，你可知军演几点开始几点结束都是国家机密凭啥告诉你？<br>。。。。。。",
+                "comment_count": 32,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoIOTc4MTgwMTEgieDs1gUomwIwIEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzE0NjQ4MnIJMzcyNjYxNTQ5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "对于这次贸易战，我持有谨慎而乐观的态度。 所谓贸易战的“输赢”就是哪方先让步而已。而在现在这种条件下，美方让步的可能性大得多。 很多人会觉得， 美国人家大业大，所以输得起。 恰恰相反，正是因为美国人家大业大，所以他们才更加输不起。 知乎上众多…",
+                "created_time": 1522915303,
+                "id": 359204464,
+                "voteup_count": 99,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-61103b7813cafcd2808f590324badb51_{size}.jpg",
+                    "type": "people",
+                    "name": "Dieci Anni",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "微电子工程"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/fbfea6a80cdcea66428bcb474cc53bab",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "Dieci-anni",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-61103b7813cafcd2808f590324badb51_is.jpg",
+                    "is_org": false,
+                    "headline": "从统计上讲，关注我比不关注的收益更多。",
+                    "badge": [],
+                    "id": "fbfea6a80cdcea66428bcb474cc53bab"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/359204464",
+                "question": {
+                    "created": 1522601332,
+                    "url": "http://www.zhihu.com/api/v4/questions/270747586",
+                    "title": "如何看待 2018 年 4 月 2 日中国再一次对美国的贸易反击战？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 270747586
+                },
+                "updated_time": 1522915387,
+                "content": "<p>对于这次贸易战，我持有谨慎而乐观的态度。 </p><p>所谓贸易战的“输赢”就是哪方先让步而已。而在现在这种条件下，美方让步的可能性大得多。 </p><p>很多人会觉得， 美国人家大业大，所以输得起。 </p><p>恰恰相反，正是因为美国人家大业大，所以他们才更加输不起。 知乎上众多小布尔乔亚已经把这一点表现的淋漓尽致。 </p><p>买房会降低生活质量，所以不买房。 生孩子会降低生活质量，所以我不生孩子，更别提二胎。 国内生活质量差，所以我要移民。 越是这种有些小钱但是又无法跨越阶级的人，就越会注重自己的“生活质量”。</p><p>美国这种人的数量，比中国这种人的数量，要多得多。 </p><p>别看贵网站吹的天花乱坠，在现实生活中， 非一线城市年收入能到十万的， 可能连总人口1%都不到。 “生活质量”这个词对于相当一部分人来说是奢侈品。 </p><p>在往上倒几代人，他们对这个看的就更淡了。 </p><p>难道现在的十八亿亩耕地能饿死人吗？</p><hr><p>中国人还在浴血奋战的抗日的时候，美国人在看猫和老鼠。 </p><p>中国人在自然灾害的时候，美国人在喝果珍。 </p><p>中国人还在换粮票的时候，美国人开始使用家庭电脑。 </p><p>长安街还没有几辆车的时候，纽约停车位已经不好找了。 </p><hr><p>中国的很多老一代还保留着“艰苦生活”的作风， 这种作风在美国就从未兴起过。 </p><p>要是论国内社会的倒退，无非就是回到九十年代，洗衣机就算“大件”的年代，谁不是从那时候过来的，再差能差到哪里去？</p><p>买不起苹果就买华为小米，买不起西门子就买海尔美的， 世界最大工业国难道生产一些生活必需品很困难吗？</p><p><br></p><p>但是相反，要是美国人回到买不起车或者加不起油的时代，他们知道怎么活吗？美国的中产阶级会叫唤成什么样子？</p><hr><ul><li>我只针对不作死的普通国人，卖房借钱上二十倍杠杆做多空期货的，U R on ur own. </li></ul>",
+                "comment_count": 13,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUzNzA3NjYg56+X1gUoYzANQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNDQxMjQxcgkzNTkyMDQ0NjQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "打了前段时间那些中必输、中国不敢打的脸。美国认怂，先放风说可以讨论，会以达成协议结束，然后又说什么公示期延长，6月份之前不加征。 一些人也跟着放风说什么中国要妥协。结果，现在美国还要等待6月，中国直接来了。 事实再次说明，在西方彻底搞定俄罗斯…",
+                "created_time": 1522643118,
+                "id": 356489173,
+                "voteup_count": 44,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "环球同此凉热",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/567a6bf6d9598c85ce22a7490dd91ab6",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "huan-qiu-tong-ci-liang-re-77",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "时事观点看的东方时事解读，但只代表个人理解，不代表东方",
+                    "badge": [],
+                    "id": "567a6bf6d9598c85ce22a7490dd91ab6"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/356489173",
+                "question": {
+                    "created": 1522602415,
+                    "url": "http://www.zhihu.com/api/v4/questions/270748696",
+                    "title": "如何解读：中国对美国128项进口商品加征关税？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 270748696
+                },
+                "updated_time": 1522643281,
+                "content": "<p>打了前段时间那些中必输、中国不敢打的脸。</p><p>美国认怂，先放风说可以讨论，会以达成协议结束，然后又说什么公示期延长，6月份之前不加征。 一些人也跟着放风说什么中国要妥协。结果，现在美国还要等待6月，中国直接来了。</p><p><br></p><p>事实再次说明，在西方彻底搞定俄罗斯之前，拿中国没办法。 谁怕谁啊。</p><p><br></p><p>第二，这也说明，“人民币原油期货”对西方金融霸权的冲击不准备暂停，而是准备继续冲击，不断加码。</p><p>西方想玩“三毒”、“四毒”，最近西方让港台一些人狂嚣，得想清楚，你到底有没有底气。 还在和西方讨价还价，接近妥协的俄罗斯，你也要想清楚，看清楚：在搞死俄罗斯之前，西方没资本和中国打。</p><p><br></p><p>第三，注意大连铁矿石期货、郑州PTA期货国际化的消息。</p>",
+                "comment_count": 17,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTQ4NzY4MzEgruGG1gUoLDARQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNDQxNDkwcgkzNTY0ODkxNzM="
+        }
+    ]
+}

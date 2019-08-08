@@ -1,0 +1,228 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1442864646.59504",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1442790081.86&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1442790081.85571"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1555930293,
+                "is_labeled": false,
+                "excerpt": "<i>70年代初，中国大型民用客机“运10”试飞成功后同麦道、空客合作。1997，波音收购麦道；空客单方面终止AE100合作，中国航空工业被彻底绞杀。</i> 4月19日，有媒体爆出华芯通将于4月30日关闭，所有的员工将在此之前离开公司。此消息一出，在电子圈内转疯了，很多…",
+                "excerpt_title": "",
+                "id": 63324896,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-f93ac9c5e0b201ebfb02d49740d3c973_{size}.jpg",
+                    "badge": [],
+                    "name": "芯扒客",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/fcbedf717f789d228c05ca940027f444",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "IC深度内容挖掘者news.bom.ai 关注芯扒客公众号",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-f93ac9c5e0b201ebfb02d49740d3c973_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "chipgossip",
+                    "id": "fcbedf717f789d228c05ca940027f444"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/63324896",
+                "title": "40万阅读网友神评论，华芯通和瓴盛是“麦道”和“运十”翻版？",
+                "created": 1555930293,
+                "content": "<p><i>70年代初，中国大型民用客机“运10”试飞成功后同麦道、空客合作。1997，波音收购麦道；空客单方面终止AE100合作，中国航空工业被彻底绞杀。</i><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>4月19日，有媒体爆出华芯通将于4月30日关闭，所有的员工将在此之前离开公司。此消息一出，在电子圈内转疯了，很多人表示，“华芯通倒闭”是在所难免的事。2016年1月，中国贵州省和美国高通公司签署战略合作协议并成立合资企业华芯通，根据协议，合资企业首期注册资本18.5亿人民币（约2.8亿美元），其中贵州方面占股55%，美国高通公司方面占45%，而高通的主要意图是借助中国政府补贴和扶持发展ARM服务器处理器。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-fb6f4b4ff3b5947fbb3ce761caa35182_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-fb6f4b4ff3b5947fbb3ce761caa35182_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>贵州占股55%，看似处于主导地位，但是合资公司的实际主导权还是在高通手上。因为大多数的外资科技公司仅向国内提供技术授权，<b>而非知识产权的转移，而国内资本投入越多，被绑架的就越深。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于“华芯通倒闭”事件，在芯扒客的“今日头条”引起了众多网友的关注和热评。事件背后，有意思的还是在网友神评</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4b08acea7f64c622a35c904ef134d0e2_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"64\" data-rawheight=\"64\" class=\"content_image\" width=\"64\"/></figure><p>。</p><p><b>网友评论：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-05149d5ab88ed8100103cb7894952fb8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1079\" data-rawheight=\"1645\" class=\"origin_image zh-lightbox-thumb\" width=\"1079\" data-original=\"https://pic1.zhimg.com/v2-05149d5ab88ed8100103cb7894952fb8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-931688173f8c53c8f7a4d56f3a2d2937_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1734\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-931688173f8c53c8f7a4d56f3a2d2937_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e3e0d2c0c27f00f6f57f9807e9cb519a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1642\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-e3e0d2c0c27f00f6f57f9807e9cb519a_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-268328b93d617cdea83bf4c2fa0b9e67_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1610\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-268328b93d617cdea83bf4c2fa0b9e67_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>以上仅是笔者截图的一小部分，但是评论的大部分观点认为<b>高通利用国内企业“巧骗”政府高额补贴，目的是为了阻止中国高科技的发展，高通的核心技术是不会拿出来的</b>，譬如华芯通的CPU就是高通的“马甲产品”，高通抽身而去，华芯通也就离“死”更进一步。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有一位ARM的管理层人士透露：在高通宣布自己不做服务器芯片的那一刻起，这个合资项目注定走向灭亡。无论如何分析，华芯通的“死”是必然结果。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有网友称：高通曾经也威逼利诱迫使华为放弃自主研究芯片，但是华为拒绝了，因此才有了今天的成绩，“偷懒”才是真正的死亡。不少网友对华为开始路转粉了~</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-7d4f7e70409b10c301eba24ad514f4e1_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"64\" data-rawheight=\"64\" class=\"content_image\" width=\"64\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-52de80439627ac9e8c2ccaabc8a952b9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1079\" data-rawheight=\"1623\" class=\"origin_image zh-lightbox-thumb\" width=\"1079\" data-original=\"https://pic2.zhimg.com/v2-52de80439627ac9e8c2ccaabc8a952b9_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>评论中，网友多次提及麦道和运10事件，说这两起事件有神一样的相似，有些朋友可能不理解其中的来龙去脉，笔者用简洁的语言给大家科普下，如有不全，欢迎补充。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>事情的开始是这样的。我国早在70年代初已计划发展大型民用客机，1980年运10试飞成功，几乎飞遍了中国的东西南北，北京、合肥、哈尔滨、乌鲁木齐、广州、昆明、成都，成为当时少数能制造100吨量级客机的国家之一，<b>这本是中国航空制造抢占先机，从无到有的开端。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而运10刚刚起飞就被终止经费，背后利益关系、政治角力、种种说法层出不穷。最后的结果是，中国承诺销毁运10技术资料、拆除装配线，上马同麦道公司的合作项目，麦道提供技术，我国组装MD82，技术方面严重依赖美国。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>没有自主发展的能力，就是任人宰割的羔羊。中国企图依靠同麦道、空客合作发展航空工业。悲剧的是，<b>1997年，波音收购麦道，强制中方销毁麦道技术资料；1998年，空客单方面决定终止AE100合作，中国航空工业发展计划彻底被绞杀，绞杀的极为粉碎的那种！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b282f72ccbded199f2a39f79ca783456_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"402\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-b282f72ccbded199f2a39f79ca783456_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国的代价是错过了20多年的民航工业发展黄金时期，错过了千亿级别的航空市场。空客、波音逐渐壮大，中国目前为止也没有造出大型飞机，任凭空客、波音在我国领域上空飞翔，并支付千亿订单，即使小小的一颗零件的价格都是令人咋舌。这究竟是不是一场阴谋？如同此次“华芯通倒闭”事件，不约而同的相似。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>说完过去和现在，咱们说说未来。华芯通失败后，高通和大唐合资公司瓴盛的发展备受质疑。有网友问：<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a4482af958ce03a312f4295e0a246e06_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1079\" data-rawheight=\"1631\" class=\"origin_image zh-lightbox-thumb\" width=\"1079\" data-original=\"https://pic3.zhimg.com/v2-a4482af958ce03a312f4295e0a246e06_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-c296953e9c0dd80a7392450a471feca4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1634\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-c296953e9c0dd80a7392450a471feca4_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>瓴盛科技和紫光竞争的如何？瓴盛事件，要从2017年5月说起，大唐电信发布公告，全资子公司联芯科技将与高通合作，成立合资公司瓴盛科技，瓴盛科技的业务将聚焦低端手机芯片市场。高通与联芯合资建公司致力于手机的低端芯片，受到冲击最大的莫过于紫光展讯。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>消息发出时，紫光集团董事长赵伟国就在朋友圈做出了尖锐的评论：</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4a411009dc733c96bd10cfc0d76d19b1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"883\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-4a411009dc733c96bd10cfc0d76d19b1_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>联芯与高通合资成立瓴盛科技主攻低端手机芯片，极有可能使瓴盛科技成为高通的代理人，但是高通是不会把核心技术转让给合资公司的。众所周知，对于国内芯片，尤其是移动芯片行业来说，中低端产品中展讯、联发科是其主要的竞争对手，而这两家展讯更胜，大唐与高通合资，主攻中低端市场，不难理解展讯的母公司集团董事长赵伟国炮轰。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最新消息称，瓴盛科技已经在成都率先落地，已选定办公地点，预计6月将正式启动。瓴盛科技将成为在双流区落地的第一个芯片设计公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>据悉，瓴盛科技SoC芯片项目总投资达104亿元，是国家第二批重大外资项目之一，目前研发团队有400人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-34b195c6aa406b08894efdda87017a11_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"950\" data-rawheight=\"712\" class=\"origin_image zh-lightbox-thumb\" width=\"950\" data-original=\"https://pic2.zhimg.com/v2-34b195c6aa406b08894efdda87017a11_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>华芯通事件后，也给瓴盛科技蒙上了阴影，究竟又是一场阴谋还是真正的“引进、走出”？华芯通的失败是过分的依赖高通，如果能早些独立，结局也许不至于如此悲壮。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国高通入股瓴盛科技，如果瓴盛真的壮大了，那么以紫光展锐为代表的中国本土企业自然会受到挤压，再加上国内半导体根基本身就薄，激烈竞争后是否会扼制本土企业的发展也是一个问题。“以技术换市场”，究竟利弊？最终取决于我们已经提供了市场，最后能学习到、消化掉的技术有多少。真正的核心技术，市场换不来，有钱也买不来，必须靠自己研发、自己发展。</p><p>本文首发于“芯扒客”微信公众号：Chipgossip，欢迎关注订阅</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-fb6f4b4ff3b5947fbb3ce761caa35182_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-05149d5ab88ed8100103cb7894952fb8_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-931688173f8c53c8f7a4d56f3a2d2937_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "Cj4QBxoJMTAyMjAxNjk0ILW59uUFKAIwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdFoGMTgwMzIzcgg2MzMyNDg5Ng=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "1869年7月7日，同治八年农历五月二十八日，深夜，在保定府直隶总督衙门的后花园里，清帝国声望最隆、权势熏天的汉人大臣曾国藩困坐愁城。他对幕僚赵烈文说，当今之世已是“民穷财尽，恐有异变”, “吾日夜望死，忧见宗之陨”。3年后，曾国藩“如愿以偿”地…",
+                "created_time": 1522834161,
+                "id": 358516408,
+                "voteup_count": 9,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-7f35d2f159068170275006dae2721cce_{size}.jpg",
+                    "badge": [],
+                    "name": "小逸",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/db23967cabe09f4c5614cd2960aa9f67",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-7f35d2f159068170275006dae2721cce_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "xiao-yi-28-16-53",
+                    "id": "db23967cabe09f4c5614cd2960aa9f67"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/358516408",
+                "question": {
+                    "title": "如何看待2018年4月4日中国拟对面美国14类106项商品加征25%关税清单？",
+                    "url": "http://www.zhihu.com/api/v4/questions/271060787",
+                    "created": 1522829277,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 271060787
+                },
+                "updated_time": 1522834161,
+                "content": "1869年7月7日，同治八年农历五月二十八日，深夜，在保定府直隶总督衙门的后花园里，清帝国声望最隆、权势熏天的汉人大臣曾国藩困坐愁城。他对幕僚赵烈文说，当今之世已是“民穷财尽，恐有异变”, “吾日夜望死，忧见宗之陨”。3年后，曾国藩“如愿以偿”地去世了。不过，在生命的最后几年里，这位才智超群的湖南人极力推动洋务运动，这成为中国近代企业的启灶，他和李鸿章、张之洞等人创办的轮船招商局、江南造船厂、开滦矿务局至今余脉尚存。<br><br><br>100多年后的1974年10月，中国正陷入“文化大革命”的浩劫。当时中国最重要的思想家顾准正处于生命的最后时刻。那时，深爱他的妻子已在绝望中自杀了，亲密的朋友们相继背叛消沉，连他最心疼的子女们也同他划清了阶级界限，而“文革”浩劫似乎还没有任何终结的迹象。就在这样的秋风萧瑟中，医生在顾准的痰液培养结果中发现了癌细胞。顾准把44岁的“干校棚友”吴敬琏叫到病房，冷静地说：“我将不久于人世，而且过不了多久就会因为气管堵塞说不出话来，所以要趁说得出话的时候跟你做一次长谈，以后你就不用来了。”在这次长谈中，顾准认为中国的“神武景气”￼一定会到来，但是什么时候到来不知道，所以，他送给吴敬琏四个字，“待机守时”。两个月后，顾准去世，吴敬琏亲手把他推进了阴冷的太平间。这位日后中国最有影响力的经济学家回忆说：“我在回家的路上就是觉得特别特别冷，觉得那是一个冰冷的世界，顾准就像是一点点温暖的光亮，但是他走了，然而我想，他还是给我们留下了光亮……”过了4年，顾准预言成真，中国告别意识形态的禁锢，开始了改革开放的伟大试验。<br><br>那是一个已经虚弱至极的国家，从领导者到匹夫百姓，一开始都显得茫然无助，外援无望，内资困乏，僵硬的体制捆住了所有人的手脚。那些在日后改变时代和自己命运的人们出身卑微，几乎没有受过任何商业教育。星火从穷乡僻壤燃起，自东南沿海而兴，跌跌撞撞，时隐时现，倔强寸进，终成燎原大势。40年后，他们创造了一个商业无比活跃、经济持续增长时间最久的国家，他们自己也成了全世界最不容易被打败的商人。<br><br><br>                     —————吴晓波《激荡三十年》<br><br>帝国主义亡我之心不死<br><br>既如此 那便战个痛快<br><br>未来几十年中华民族伟大复兴的篇章由我们这代人来书写 前路曲折跌宕 但有前人留下的光亮这条道路注定辉煌  ",
+                "comment_count": 10,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUyNDUzMTUg8bWS1gUoCTAKQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNTEwODM3cgkzNTg1MTY0MDg="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "作为芯片从业人员，既然大家都在关心这个事，就给大家科普一下。 <b>首先，感谢对芯片行业的关心。</b> 第一个问题：<b>“像麒麟芯这样的手机芯片中兴为何不能购置呢？”</b><b>因为，很久以前华为自己说过，海思的麒麟芯片暂时不对外出售。</b>这是很久前说的话，那是还没制裁中…",
+                "created_time": 1524401804,
+                "id": 373486626,
+                "voteup_count": 9,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "微电子技术"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "5b32fc4d663ae4ffe936b7dd50e7220a"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/373486626",
+                "question": {
+                    "title": "龙芯、麒麟芯和申威等芯片为什么不能帮助当下的中兴？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274145238",
+                    "created": 1524301346,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274145238
+                },
+                "updated_time": 1524401804,
+                "content": "<p>作为芯片从业人员，既然大家都在关心这个事，就给大家科普一下。</p><p><br></p><p><b>首先，感谢对芯片行业的关心。</b></p><p><br></p><p>第一个问题：</p><p><b>“像麒麟芯这样的手机芯片中兴为何不能购置呢？”</b></p><p><b>因为，很久以前华为自己说过，海思的麒麟芯片暂时不对外出售。</b></p><p>这是很久前说的话，那是还没制裁中兴。</p><p>如果中兴买了华为的麒麟970高端芯片，然后用到千元机上，你觉得谁还买华为的mate10、华为P20保时捷？</p><p>现在中兴被制裁，就算中兴保证用在高端机上，华为放水卖给中兴麒麟970，但是，别忘了，美国对中兴的制裁不止芯片，还包括软件技术及技术服务。以软件技术为例，比如手机的安卓系统是美国谷歌的，那么按照制裁，中兴手机不能采用安卓系统，那么请问，中兴自己开发个手机系统，没有微信微博知乎，没有快手火山抖音，广大的人民群众能否继续支持中兴手机呢？</p><p><br></p><p>第二个问题：</p><p><b>“以及申威这么牛逼的技术，为何不能放一点水当民用咧？”</b></p><p>申威的处理器是用在超级计算机上的，与手机、基站上的CPU是不一样的。</p><p>申威处理器，据说有上千个核，但是单核能力弱。好比有几千只小蚂蚁。</p><p>手机处理器，以华为麒麟970为例，总共才8个核，但是单核能力强。好比有8只大象。</p><p>虽然古话说，蚁多咬死象，但是许多大象能干的事，几千只蚂蚁却干不了。</p><p>所以，目前申威的处理器单核性能太低，根本无法用到移动终端上。</p><p><br></p><p><b>所以，不是华为、申威不帮中兴，而是爱莫能助。</b></p><p><b>就算解决了芯片，还有操作系统呢。</b></p><p></p><p></p>",
+                "comment_count": 6,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc5NjgwNDcgjI3y1gUoCTAGQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTk2NjMycgkzNzM0ODY2MjY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1556692774,
+                "is_labeled": false,
+                "excerpt": "继英国允许华为在非核心技术领域提供零部件后，德国、阿联酋也有意不在建设5G网络中排除华为设备。另外美国中东友邦阿联酋的国营电信公司在2019年上半期报告当中也公布了其将使用华为设备建设300座5G基站的合同，而这令美国对华为发起的封杀行动再次遭遇挫…",
+                "excerpt_title": "",
+                "id": 64407979,
+                "voteup_count": 6,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "",
+                    "id": "478c6d458f33d698368f3b02e2badab4"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/64407979",
+                "title": "华为 欲戴王冠，必承其重",
+                "created": 1556692774,
+                "content": "<p>继英国允许华为在非核心技术领域提供零部件后，德国、阿联酋也有意不在建设5G网络中排除华为设备。另外美国中东友邦阿联酋的国营电信公司在2019年上半期报告当中也公布了其将使用华为设备建设300座5G基站的合同，而这令美国对华为发起的封杀行动再次遭遇挫折，美国人不得不再次警告盟友，若使用华为设备将会重新考虑情报共享。</p><p>当2018中美贸易战正式开打之初，<b>我们讲说贸易战只是美国人以贸易为借口，其实质是釜底抽薪去消耗我们货币发行基础的外汇储备之外，更是以打击中国制造2025，抢夺技术高地控制权为目的.</b> <b>下一个十年，将会5G跟AI人工智能的十年</b>。而在过去的十年时间当中，通过政策性的扶持跟引导，通过对人才与资金的鼓励跟支持，中国比任何一个国家花费在研究跟开发中的投入都要多。现在与美国相比，不论是在5G领域还是AI范畴，中国目前起码领先三年。2019年2月19日，联合国下属的世界知识产权组织（WIPO）公布数据：2018年，中国科技企业华为提交了5405份专利申请，在全球所有企业中排名第一。WIPO总干事弗朗西斯•高锐感慨道，这是有史以来，一家公司创下的最高纪录。<b>山中一日，城中十年。如果美国2018年还不动手的话，当5G跟AI人工智能商业化之时，中国的公司与企业将会在全世界范围之内出现全方位的一次弯道超车</b>。</p><p>华为从一个外包通信设备公司做起，做程控交换机，做通信芯片，深入农村，去拉电话线，拉网线，建基站，到做手机，做视频安防芯片，自研巴龙基带，自研手机SOC，再到今天，成为世界第一通信设备商，成为世界前三的智能手机厂商，成为唯一能够提供商用5G网络的服务商。一路走来，华为的成长史不可谓不艰辛，能有今日的成就与地位，华为着实不易。但也正因华为身处5G行业龙头的地位身份，<b>从2018年开始，美国以国家安全为由，用政府背景为借口，在全世界极力煽动挑唆，先打中兴再攻华为。只是中兴易打，华为难攻，如今华为的体量相当于中兴+联想+小米+Oppo，美国人不得不利用群狼战术来完成撕咬。</b></p><p><b>中美贸易战，双方即便可以达成一纸合约，但对于华为而言，接下来所面对的困难跟挑战都将会是全方位的。除了可能将在全球各地面对多场诉讼之外，华为也将会面对在产业链的关键元器件上遭遇来自美国方面的限售与禁售。美国人也必将会利用其最拿手跟最擅长的金融制裁这一杀手锏，通过迫使全球各大外资银行中断与华为之间的合作，从而达到影响华为总部与各个海外子公司之间的资金周转效率目的</b>。4月24日，华为发布了任正非3月接受有线电视新闻网（CNN）采访的文稿，其中任老表示，美国的打压令他感到兴奋，因为这让华为更加团结。抚今追昔，爆发于1894年的中日甲午战争，其过程被越来越多人视为是李鸿章以一人之武装跟日本一国之间的战争。<b>而今天，在面对美国倾一国之力针对华为所发起的群狼战术之时，对于华为来说，欲戴王冠，必承其重，对于我们而言，这已不仅仅再只是华为一家公司的战斗。</b></p>",
+                "comment_count": 0,
+                "image_url": "https://pic4.zhimg.com/50/v2-447e78e7df35eb8d5acef2d1c3a87db6_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-447e78e7df35eb8d5acef2d1c3a87db6_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyNDQyMjE0IKb+pOYFKAYwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjQ0MDc5Nzk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1555900070,
+                "is_labeled": false,
+                "excerpt": "本期有两张关于楼市的极为重要的图表我比赵云武功高 我比赵云武功高 <i>昨天</i>关于中美贸易战，在特朗普说“大概需要四周左右的时间完成协议的签署”这句话之后，已经过去了三周的时间。而近一周来，谈判双方进入了缄默状态。与此同时，美欧、美日贸易谈判正式开…",
+                "excerpt_title": "",
+                "id": 63250987,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/c7a995fcbb022165f33a15e5e73101ef_{size}.jpg",
+                    "badge": [],
+                    "name": "王磊建",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "计算机及技术及应用"
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/9826b6a98b0485890d389e4de3c1f20e",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "互联网 / 金融投资 / 围棋、羽毛球爱好者",
+                    "avatar_url": "https://pic4.zhimg.com/50/c7a995fcbb022165f33a15e5e73101ef_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "wang-lei-jian-3",
+                    "id": "9826b6a98b0485890d389e4de3c1f20e"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/63250987",
+                "title": "本期有两张关于楼市的极为重要的图表",
+                "created": 1555900070,
+                "content": "<h2>本期有两张关于楼市的极为重要的图表</h2><p>我比赵云武功高 我比赵云武功高 <i>昨天</i></p><p>关于中美贸易战，在特朗普说“大概需要四周左右的时间完成协议的签署”这句话之后，已经过去了三周的时间。而近一周来，谈判双方进入了缄默状态。与此同时，美欧、美日贸易谈判正式开始，于各国来说，这都是极为关键的一个时段！<br/> <br/>在国内，3月份的宏观金融数据正式出台，多个数据超过预期。这种数据的走向，已经很好的体现在股市和楼市两个资产池的价格走势之中。关于楼市，本周给读者看两张非常重要的图表；对于股市来说，下周可能会出现再一次的高开低走。<br/><br/><b>1、贸易战部分</b><br/><br/></p><hr/><p><br/> <br/>4月18日，《华尔街日报》说，下一轮谈判日期已经敲定，彼时将完成最后冲刺。不过，还有一些重要问题没有解决。<br/> <br/>会是哪些重要问题还没有解决呢？<br/> <br/>回顾谈判之初，美方提出了六个重要事项，即：强制技术转让、知识产权、服务、货币（汇率）、农业及非关税贸易壁垒。<br/> <br/>再回顾自谈判至今，我方已经做出的改变和通过行政与法律手段即将做出的改变，我们事实上已经（基本）满足了美方所有的诉求。<br/> <br/>剩下的，只有三个问题：1）执行机制；2）已经增加的关税如何处理；3）非关税贸易壁垒；<br/> <br/>上一周，美财政部长姆努钦表示，双方已经就“协议执行机制”这一极为重要的问题达成一致。若如此，则所谓的重要问题只剩下最后两条。<br/><br/>1） 已增加关税的彻底取消问题；<br/>2） 我方部分补贴政策的延续问题；<br/> <br/>关于问题1，美方多名关键人员，包括特朗普在内，曾在多个场合声称会保留部分对中国增加的关税。基于特朗普和美方众多高官对我国5G等高科技产业的敌视和忧虑态度，我们预计美国很有可能会坚持对我国部分高科技产品延续加征关税。<br/> <br/>关于问题2，武功君曾经在很多涉及投资理念的文章中提起过投资的“四择策略”。首当其冲的，就是择策。而择策的重要特征，就是发改委是否强力参与对某个行业的财务性支持政策。这对于我国来说，是经济结构调整和产业政策的重要手段，是很难给予彻底放弃的。<br/> <br/>4月初，特朗普在接受采访的时候表示，预计美中签署贸易协议还需要四周左右的时间。三周的时间过去了，而此刻，谈判双方陷于了沉默状态。<br/> <br/>在重大的谈判之中，这种沉默很常见。<br/> <br/>《优势谈判》一书的作者，罗杰.道森在其著作中曾经推荐过这一策略。美国政坛很多人，深受罗杰.道森的影响。<br/> <br/>不过我们认为，这一沉默策略，也许是我方刻意而为，而不是美方的刻意而为。<br/> <br/>其原因，在于正在开展的美欧、美日贸易谈判。<br/><br/> <br/><b>2、美欧日俄中东部分：</b><br/><br/></p><hr/><p><br/> <br/>2018年7月25日，特朗普会见欧盟委员会主席容克，同意暂停美欧贸易战。漫长的时间过去了，美欧贸易谈判却一直原地踏步。<br/> <br/>其原因，我们在之前的《一周回顾》中做过蜻蜓点水的解读。这里我们不妨再回顾一下有关内容。<br/> <br/><br/>3月8日，欧盟贸易委员马姆斯特罗姆声称，她和美国贸易代表莱特希泽就如何应对中国的工业政策和改革世界贸易组织等课题进行了富有成效的交流。虽然双方对于存在的问题意见一致，但对于解决方案则存在争执。<b>美国总统特朗普若希望有一个伙伴协助华盛顿向中国施压，要求中国遵守全球经济规则，那美国就应停止对欧盟施加关税。</b>马姆斯特罗姆说：“<b>我们遇到了一个问题：中国正在向市场倾销，中国正在补贴其产业，这造成全球性扭曲。我们就此看法一致。那么解决方案是什么？好吧，我们认为就是合作来应对中国……解决这些问题的办法并不是对欧盟征收关税。这为什么这么难以理解？</b>”<br/><br/>由上述内容，我们可以明显解读出欧盟内部存在的一种想法：欧美联合，对中国合围！这是一种非常“政治正确”的想法，如果是传统建制派人士身为美国总统，也许这种想法还真有可能被成功实施。然而历史的进程安排了特朗普，这个对所有的传统和政治正确都嗤之以鼻的革命政治家。迄今为止，欧盟的想法完全没有得到有效的响应。<br/> <br/>但是于中国来说，这种风险还是不得不给予严重关注的。<b>武功君在3月11日和3月17日的文章中，都对这种可能性做了分析和预警。3月底，首长到访欧洲，当着马克龙和默克尔的面说了一段话，对他们进行了直接的警示和提醒；同时，又通过巨额的采购，一软一硬，对欧盟的态度进行了双向纠正。</b><br/> <br/>4月15日，欧洲理事会表决，授权欧盟委员会与美国就削减关税举行谈判。就上述授权，法国投出了反对票，表面的理由是：法国不同意与退出《巴黎气候协定》的美国进行贸易谈判；实质上的原因是：已经深陷黄马甲反对浪潮的马克龙，无法再承受失去法国农民支持的风险；而美国一直要求，如果欧洲想要达成贸易协议，就必须将农业纳入谈判范围。<br/> <br/>除了农业问题，航空补贴争端也是美欧贸易谈中中难以逾越的鸿沟。<br/><br/>4月8日，美国贸易代表办公室（USTR）公布了价值110美元的对欧盟报复清单，这是针对2018年5月15日WTO上诉机构裁定欧盟4个成员国存在非法补贴航空企业的事实采取报复措施。USTR估计欧盟在空客上的补贴导致美国每年损失110亿美元，因此要进行相应金额的报复。但是在2019年3月18日，WTO上诉机构也最终裁定美国存在通过华盛顿州税减免形式对波音提供非法补贴的事实，并且并未停止，对欧盟也造成了损害。因此，欧盟也在酝酿报复措施。<br/> <br/>你看，补贴的问题，不但中国存在，你们美国和欧洲也存在呀。<br/> <br/>所以我们说，中美贸易谈判此时此刻的缄默，大概率是我方的刻意而为。借力打力，我方将尽力争取最后两个问题上获得正确的结果。<br/><br/>1） 取消所有已经增加的关税；<br/>2） 关于补贴的问题，既然大家都存在，那就不要纠缠了<br/><br/><br/><b>3、国内部分：</b><br/><br/></p><hr/><p><br/> <br/>关于宏观：3月份宏观金融数据正式出台，数据背后的含义如何，我们已经单独撰文谈了观点，请移步此文阅读：<b><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzUzNjAyOTM0OA%3D%3D%26mid%3D2247484743%26idx%3D1%26sn%3D84cf01715666ec860dd7cabfed45434f%26chksm%3Dfafd348ccd8abd9ab344ad6f5affc403580818993eee52f4d358404e66423c40ebc4fe9356ec%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">《3月份宏观金融数据释放了什么信号》</a></u></b><br/> <br/>4月19日，ZZJ召开会议，分析研究当前经济形势和经济工作。其中的关键词部分如下：<br/><br/>1） 坚持宏观政策要稳、微观政策要活、社会政策要托底的总体思路；<br/>2） 注重以供给侧结构性改革的办法稳需求，坚持结构性去杠杆；在推动高质量发展中防范化解风险，坚决打好三大攻坚战<br/>3） 加快金融供给侧结构性改革，着力解决融资难、融资贵问题<br/>4） 要坚持房子是用来住的、不是用来炒的定位<br/>5） 积极的财政政策要加力提效，稳健的货币政策要松紧适度<br/>6） 以关键制度创新促进资本市场健康发展，科创板要真正落实以信息披露为核心的证券发行注册制<br/> <br/><b>上述内容，要解读需要花费很长的篇幅，就宏观部分来说，我们认为一季度经济开局良好，跟宏观金融适度宽松有较大关系。整体而言，货币政策为GDP增速兜底是“社会政策要托底”的必然结果，“宏观政策要稳”和“稳健的货币政策要松紧适度”，以及再次强调“供给侧改革”和“三大攻坚战”，说明大水漫灌可能性比较小。如中美贸易协议谈妥，则我们之前预期的年内M2增速回到9以上，有可能不会达到了。至于之前预期的降准2次，降息1次，预计央行也要观察第二季度的宏观经济数据再做决定。</b><br/> <br/><b>关于楼市：</b><br/> <br/>本周，给大家看一下几组数据，图一：房地产开发投资累计同比；图二：商品房销售额累计同比；<br/><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e5b9bf98be121a853a0a12c1e532ad38_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e5b9bf98be121a853a0a12c1e532ad38_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2239b7c5c91f2079798cda9baeddc127_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"291\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-2239b7c5c91f2079798cda9baeddc127_r.jpg\"/></figure><p><br/> <br/><br/>请大家认真审视上面两张图。<br/><br/>第一张图，房地产开发投资累计同比，最近三年一季度的数据分别是：2017年9.1%,2018年10.4%，2019年11.8%；同比增幅逐步提升；<br/>第二张图，商品房销售额累计同比，最近三年一季度的数据分别是：2017年25.1%，2018年10.4%，2019年5.6%；<br/><br/><b>这两个数据存在非常严重的背离情况， 同步考虑ZZJ会议重申用来住，不用来炒这个定位。我再次强烈建议诸位，无论你是房地产开发商，还是个人投资者，请远离三四线城市的一切房地产投机乃至投资行为。</b><br/> <br/><b>关于股市：</b><br/><br/>近期以来，我们一直强调三个指数的背离风险。我们对未来的预测基于过去的经验，过去的经验告诉我们，日线背离带来阶段性顶部的概率是极高的，君子不立于危墙之下。操作上进入防守状态是理性的态度。<br/> <br/>上周一，在宏观金融数据的刺激之下，技术的背离带来了高开低走的结果。<b>市场在这个位置反复震荡，并不是说调整已经结束了，而是可能还没有到来。</b><br/> <br/>1） 从政策面来说，管理层绝不希望疯牛出现；在科创板顺利推出之前，股指位置过高过热，对于科创板的后续发展极为不利；<br/>2） 技术层面上来说，背离尚未消失；五浪的形态依然存在，且随时五浪终结第一波段；<br/>3） 从资金面上来说，宏观金融数据虽然一季度超过预期，但是ZZJ会议也明示了继续宽松的力度有限；<br/>4） 从基本面上来说，一季度报表即将密集披露，本轮上涨需要基本面给予一次成色的检验；<br/><br/>综合上述分析，我们认为在这个四月底，还是极有可能构成本轮上涨一个很重要的顶部位置。后续发展形成五穷六绝局面，正好在六月底左右与科创板推出的时间点重合共振，再起新一轮行情。<br/><br/>而就下周来说，警示读者，股指可能再次出现高开低走的局面。<br/> <br/><b>================</b><br/>欢喜的事教会我们善良，而悲伤的事也让我们成长；所以如果事与愿违，请相信上苍一定另有安排；因为凡是过去，皆为序章。<br/><b>================</b></p>",
+                "comment_count": 1,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-e5b9bf98be121a853a0a12c1e532ad38_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-2239b7c5c91f2079798cda9baeddc127_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "Cj4QBxoJMTAyMTg1MjQ2IKbN9OUFKAIwAUAAUhF0b3BfYWN0aXZpdHlfcG9zdFoGMTI5MDI4cgg2MzI1MDk4Nw=="
+        }
+    ]
+}

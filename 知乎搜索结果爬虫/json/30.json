@@ -1,0 +1,222 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439250780.81390",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439226765.11&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439226765.11012"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524149421,
+                "is_labeled": false,
+                "excerpt": "中美贸易摩擦未止，美国商务部4月16日突然宣布，将禁止美国公司向中兴通讯销售零部件、商品、软件和技术7年，直到2025年！背后的理由是所谓的中兴违反了美国限制向伊朗出售美国技术的制裁条款。 显然，中兴问题已演变为大国棋盘上一个博弈的劫点，该如何应…",
+                "excerpt_title": "",
+                "id": 35890705,
+                "voteup_count": 784,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-37fab791008d818f4fcfcb3c1d3420c0_{size}.jpg",
+                    "type": "people",
+                    "name": "樱桃大房子",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "十年专业地产研究 | 微信公众号：樱桃大房子",
+                    "badge": [],
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/ca54ba6d368cd8995d648f7fe2475a2b",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-37fab791008d818f4fcfcb3c1d3420c0_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "url_token": "chenxy667788",
+                    "id": "ca54ba6d368cd8995d648f7fe2475a2b"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35890705",
+                "title": "转： 中兴启示录：靠送外卖，我们永远赢不了未来的竞争",
+                "created": 1524149421,
+                "content": "<p>中美贸易摩擦未止，美国商务部4月16日突然宣布，将禁止美国公司向中兴通讯销售零部件、商品、软件和技术7年，直到2025年！背后的理由是所谓的中兴违反了美国限制向伊朗出售美国技术的制裁条款。</p><p>　　显然，中兴问题已演变为大国棋盘上一个博弈的劫点，该如何应对？</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1101ed18b27088caafe072a365f8dfa9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"305\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-1101ed18b27088caafe072a365f8dfa9_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　作 者：永恒之蓝</p><p>　　来 源：格隆汇（ID：hkstocks）</p><p><b>　1</b></p><p>　　1984年，农历甲子年。 </p><p>　　中国经济已摆脱70年代末近乎崩 溃的境地，但依然在艰难中趔趄前行，经济总量在世界总盘子里几乎可以忽略不计。那年的4月，云南边防部队发起了收复老山、者阴山的作战。就是在这种近乎总体灰色的大基调下，那年的第二届春晚，来自香港歌手张明敏的一首《我的中国心》，响彻大江南北。</p><p>　　彼时，中国的改革开放刚刚过去6个年头，一切都还刚开始，一切都还在摸索中。“洋装虽然穿在身，我心依然是中国心，我的祖先早已把我的一切烙上中国印”，朴素而真挚的感情，朗朗上口的歌词，唱出了全球华人对历经磨难后终于开始经济改革的祖国的深情赞美和无限期待。 </p><p>　　作为改革开放的总设计师，从那年年初开始，邓小平就在几个新建的经济特区考察调研，在深圳的题下了“深圳的发展和经验证明，我们建立经济特区的政策是正确的”的题词。而他在当时中国最先进的公司宝钢的题词是：“掌握新技术，要善于学习，更要善于创新。”</p><p>　　遗憾的是，被建国前30年各种折腾耽误了太多时间的国人，一门心思想的是如何抄捷径追赶英美，所以绝大多数人充分理解并执行了前两句，却极少有人领会伟人第三句话的高瞻远瞩与内涵。</p><p>　　也许，所有人都没想到，始于1978年的改革开放，40年的时间，中国从一个积贫积弱近乎崩 溃的经济体，在动乱的泥沼里腾飞，一跃成为全球第二大经济体，超英赶美已经从口号变为现实。</p><p>　　如果不是因为一个叫特朗普的疯子发起的贸易战，我们大概率会陶醉在过去40年的“经济奇迹”与“大国崛起”的耀眼光环里，感觉良好，乃至一醉不起。 </p><p>　　1820年，嘉庆25年，大清GDP占到了彼时全球近三分之一。整个大清罔顾欧洲已如火如荼的产业革命与技术创新，依旧沉浸在东方帝国的歌舞升平中。短短75年后，洋人的几艘坚船利炮就彻底鉴定了帝国的成色。</p><p><b>　2</b></p><p>　　任谁也没有想到，中美贸易战中最先倒下的，不是所谓要被淘汰的传统产业或者外贸企业，而极可能是一家在中国改革开放特区引以为豪的标签式高科技企业：中兴通讯。</p><p>　　从3月美国总统特朗普签署一份总统备忘录，宣布将对价值 600 亿美元的中国进出口产品征收“惩罚性”关税开始，中美贸易战持续升温。 </p><p>　　在中美之间你来我往交锋一阵后，随着博鳌论坛上中国表态将扩大对外开放，中国领导人在主旨演讲中推出：大幅度放宽市场准入、创造更有吸引力的投资环境、加强知识产权保护、主动扩大进口等更具开放性的四大开放举措后，贸易战稍微降温。</p><p>　　舆论也一直依据过往经验，习惯性认为这些表面的剑拔弩张，不过是美国政客为应付中期选举的一些间歇性作秀而已，会随着中国的象征性让步与利益集团的游说而很快偃旗息鼓。 </p><p>　　但这次很明显是个例外。美国昨晚突然宣布封杀中兴通讯，令看似舒缓了的形势彻底变味，陡转急下。 </p><p>　　美国商务部在美东时间4 月16日宣布，将禁止美国公司向中兴通讯销售零部件、商品、软件和技术7年，直到2025年3月13日，并对中兴通讯处以 3 亿美元罚款，理由是中兴违反了美国限制向伊朗出售美国技术的制裁条款。</p><p>　　中兴通讯AH股今日均宣告紧急停牌。</p><p>　　昨日晚间美股中兴通讯主要供应商股价大跌： </p><p>　　此外，A 股多家科技板块公司股价走低，海康威视、大华股份盘中股价触及跌停。战场之上，人人自危。 </p><p>　　这次的全面封禁，其实是美国商务部和联邦调查局在2012 年就中兴未经授权向伊朗出口，违反美国对伊朗的贸易制裁规定而制裁的追加。当时美国发现中兴曾与伊朗的电信公司签署 1.2 亿美元合约，当时中兴通讯与专利授权公司 Vringo 在美国打官司，中兴高层还因担心遭逮捕而拒绝出庭。</p><p>　　之后，在 2016 年整个事件彻底爆开，因为美国政府取得中兴内部极为机密的文件，档案中指导如何规避美方制裁措施，例如建议中兴利用空壳公司来向受禁运的国家出口美国产品，而中兴就是根据该策略向伊朗输入美国制造的产品，包括美国企业的软硬件。</p><p>　　美国司法部国家安全部门主管 Mary McCord 表示，中兴最高管理层允许并批准该计划，而且中兴还多次欺瞒、误导联邦调查员。</p><p>　　2017 年 3 月中兴认罪，就美国指控其违法向伊朗及朝鲜出售美国科技及妨碍司法调查达成和解，并同意支付 8.92 亿美元罚款，后续中兴若违反与美国商务部的协议，还须额外支付 3 亿美元罚款。</p><p>　　根据和解协议，中兴承诺解雇 4 名资深员工，另有 35 人接受取消奖金或被谴责的纪律处分。 </p><p>　　但匪夷所思的是，中兴事后并未对39名相关人员作出处罚，且向美国商务部做出了虚假陈述： </p><p>　　之后我们就看到了昨晚的那份全面封禁令：禁止美国公司想中兴销售零部件、商品、软件和技术，直到2025年3月13日。</p><p>　　这对仍有相当大部份芯片、零部件、操作系统、软件都与美国厂商有紧密关系的中兴而言，将会陷入无零件可买、也无技术这支援的绝境之中，无疑就是一份死刑判决。 </p><p>　　以目前中兴产品来看，包含手机、平板等消费类电子产品以及电信设备为主，其中电信设备占营收以及相关服务占约 6 成，而消费类电子产品则占约 3 成。 </p><p>　　其中，中兴的电信设备部分的关键组件，比如说光传输的发送器与接收器等，还是以国际大厂作为零件供应主要来源，电信设备中的零件亦有不少来自美国的供货商。</p><p>　　整体来看，外来零件占其料件比例至少有 6 成以上，而来自美国供应商的料件至少占了这 6 成的一半以上。而在手机产品方面，<a href=\"https://link.zhihu.com/?target=http%3A//stock.finance.sina.com.cn/usstock/quotes/QCOM.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">高通</a>目前是中兴最大的应用处理器来源之一，占其手机产品约 6 成。</p><p>　　而遭受制裁之后，中兴不论在通信设备，或者是手机产品，都将面临断炊的危机，通信设备虽可能在零组件取得一部份中国本地供货商的支持，但缓不济急；而在手机产品上，由于往后就无法拿到来自Google 的安卓系统授权，这意味着中兴手机不只是无法进入美国市场，而是连其他市场都无法进入。 </p><p>　　除非中国政府为了避免“头牌”科技公司一打就死的尴尬而出手“养”着它，否则，从商业运营角度，这家公司已陷入事实上的“濒死”状态。</p><p>　　而如果美国政府制裁持续过久甚至扩大化，引发整个多米诺骨牌效应，不单中兴，整个整机产业都可能面临灭顶之灾。皮之不存毛将焉附，对于中国靠科技最短板的核心——芯片而言，若失去国产整机厂作应用支撑，又谈何发展机会？</p><p>　　我曾经说过，特朗普不只是一个普通商人，从战略和大局观角度，他是一个如假包换的高段位棋手，在我们眼里看似的无理手，前后勾连后，已赫然成势，此时再投出精准的胜负手。 </p><p>　　你问何谓胜负手？</p><p>　　如果你国家高科技产业的基础命门被对方一把拽住并掐死，你认为这算不算胜负手？</p><p>　　到今天这个地步，中兴自己已经无能为力，能救中兴的只有中国政府：看中国愿意放弃哪些利益，保留哪些利益。一个中兴对美国无关紧要，将中兴惩罚致死是一种姿态，通过谈判放行中兴是另外一种姿态。</p><p>　　中兴问题已演变为大国棋盘上一个博弈的劫点，区别只在于，对中国，是一个舍谁的负劫，对美国，则是一个取谁的无忧劫。</p><p><b>　3</b></p><p>　　我们之所以在文初提及那首对中国寄予深情赞美和无限期待的歌曲《我的中国心》，是因为我们真正、一直缺乏的，不是内心的拳拳爱国心，而是那份科技创新领域的匠心。</p><p>　　这让我们空有世界第二大经济体的荣耀，却在现代高科技领域的核心基础——中国“芯”上，无比脆弱和落后。 </p><p>　　3月23日商务部宣布拟对约30亿美元的美国进口商品加征关税后，原商务部副部长、中国国际经济交流中心副理事长魏建国24日表示，继宣布第一批中止减让产品清单之后，中国正在研究第二批、第三批清单，比如飞机、芯片领域。而且，中国可以采取的措施不仅限于商品领域，旅游业等其他行业也有可能。 </p><p>　　然而，事实上，拿科技产业的核心要件——芯片开战，我们并没有什么胜算，因为掌握芯片这枚武器的扳机，根本不在我们手里。</p><p>　　诚然，中国是世界最大的半导体消费市场，中国每年需要进口2300亿美元芯片，而且连续多年位居单品进口第一位。但是，我们需要铭记的是，这2300亿美元芯片，要么是客户指定，不能更改的芯片，要么是中国不能自主设计生产，必须要进口的芯片。 </p><p>　　想要用芯片来要挟和制裁美国，一丁点胜算都没有。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-65aee1f0a79ac955cdfc8e65456d6630_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"309\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-65aee1f0a79ac955cdfc8e65456d6630_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　然而目前，全球芯片仍主要以美日欧企业为主，高端市场几乎被这三大主力地区垄断。在高端芯片领域，由于国内厂商尚未形成规模效应与集群效应，所以其生产仍以“代工”模式为主。</p><p>　　食物链的顶端，基本还是美国公司：<a href=\"https://link.zhihu.com/?target=http%3A//stock.finance.sina.com.cn/usstock/quotes/INTC.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">英特尔</a>和<a href=\"https://link.zhihu.com/?target=http%3A//stock.finance.sina.com.cn/usstock/quotes/AMD.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">AMD</a>的CPU，高通的手机处理器，英伟达的AI芯片、博通的光通信、无线通讯等芯片。 </p><p>　　2018年3月23日，IC Insights公布全球2017年Fabless（小编注：无厂半导体公司）情况。美国企业占全球份额约53%，加上即将迁回美国的新博通，美国占比约69%，可谓一家独大！</p><p>　　中国大陆2017年占全球比约11%，低于台湾地区的16%，排名第三。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-0a9e2dcafd8ff1b8d6a2659ab34473fd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"309\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-0a9e2dcafd8ff1b8d6a2659ab34473fd_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　而我们能够实现国产替代的芯片，大部分集中在电源，逻辑，存储，MCU，半导体分立器件等中低端产品。</p><p>　　除了海思麒麟芯片还可以勉强和高通顶级对决，龙芯的CPU，展讯处理器+基带芯片，同创国芯的FPGA，长江存储的Falsh，Vanchip的RF芯片，汇顶科技的指纹芯片等等，都还在追赶的二万五千里长征路上。</p><p>　　在对稳定性和可靠性要求很高的通信、工业、医疗以及军事国防，航空航天的大批量应用中，国产芯片距离国际一般水平差距尤大。尤其是一些技术含量很高的关键器件：高速光通信接口、大规模FPGA、高速高精度ADC/DAC等核心领域，还完全依赖美国供应商。</p><p>　　国产替代，目前还只是一个美好的梦想！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-366862f7d0e4f6f4bf905cdbcfd78a1d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"309\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-366862f7d0e4f6f4bf905cdbcfd78a1d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-f0b9382e3cb7e929f7e0ba7accb130e9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-f0b9382e3cb7e929f7e0ba7accb130e9_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　中国芯片自给率之低，甚至远低于石油：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-515957444cefcc18a63cee8033eb01b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"309\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-515957444cefcc18a63cee8033eb01b8_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　全球半导体市场规模达3200亿美元，全球54%的芯片都出口到中国，但国产芯片的市场份额只占10%。全球77%的手机是中国制造，但其中不到3%的手机芯片是国产的。 </p><p>　　芯片产业长期被国外厂商控制，不仅每年进口需要消耗2000多亿美元外汇，超过了石油和大宗商品，是第一大进口商品，更关键的是，我们所谓的“高科技”，更像是纸糊的风筝，徒有其表，稍有风雨，直线坠落。</p><p>　　在这里，即使中国人拥有聪明的头脑和勤奋，也极难赶超。高难度的产业背后蕴藏的是巨大的利益和商业价值。</p><p>　　集成电路被誉为电子工业的粮食，除了对国家和行业安全有着巨大的意义，在商业价值上同样是予取予求。美国Linear，<a href=\"https://link.zhihu.com/?target=http%3A//stock.finance.sina.com.cn/usstock/quotes/ADI.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ADI</a>等企业的综合毛利率接近70%，而我们A股的芯片公司，平均毛利仅约30%。 </p><p>　　2017年开始，存储芯片涨价超过100%，MLCC涨价超过10倍，中国制造业成本整体上涨5%-15%，但无力反抗。</p><p>　　这就是被人捏住命门，你没有太多反抗的余地。</p><p>　　中兴一打就趴的脆弱，只是一个缩影。</p><p>　　而这一切，都拜我们长期追赶中的拿来主义（其实就是机会主义），只学习，不创新，也极度缺乏创新的文化、机制与土壤。 </p><p>　　现在我们回过头看看35年前改革开放总设计师在宝钢公司的题词，或许会深谙其中深意：“掌握新技术，要善于学习，更要善于创新。”</p><p><b>4</b></p><p>　　在美国宣布对中兴全面封杀的几乎同时，中国商务部宣布了对原产美国的进口高粱实施临时反倾销措施：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-125c09b3e94b0b3993b200d92862e3b7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"522\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"522\" data-original=\"https://pic4.zhimg.com/v2-125c09b3e94b0b3993b200d92862e3b7_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　这个画面的画风，颇显滑稽和诡异，一个业内大咖在他的朋友圈是这样评述的：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-fdf5b280f46fd38174f59da4333aec11_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"250\" class=\"content_image\" width=\"300\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　美国打“芯片”，中国打高粱。中兴如果最终逃不过此劫，基本可以说是咎由自取。现在我们应该至少明白两点∶现代战争早已不是靠飞机军舰打赢的，以及大国崛起不可能靠央视的喧嚣与文宣爱国口号的浮夸，而是核心高科技领域的匠心与日积月累的寂寞积累与投入！</p><p>　　哪怕我们真的要和美国人打一架，总不能靠高粱，石头，瓦块以及没来由的大国自信？</p><p>　　然而，可悲的是我们诸多的创业者和投资人都还迷糊在模式创新的游戏里，几百亿投了一堆破单车和外卖。</p><p>　　中兴事件注定将成为中国崛起路上的一个标志性事件。自家的头牌“高科技公司”一打就趴下，多少显示了大国崛起的成色。这或许令我们难堪，但绝不是坏事，因为它能给我们所需要的疼痛的清醒。 </p><p>　　以中国今日之经济体量与弹性，只要我们知耻而后勇，断然放弃那些有用没用、自我迷醉的“爱国情怀”与那些纯粹着眼赚钱的“学习”与抄袭，扎扎实实去做科技研发投入与积累，时间最终会站在我们这一边。</p><p>　　靠送外卖，我们永远赢不了未来的竞争。</p><p><b>欢迎关注微信公众号：樱桃大房子（ytdfz8），专注研究房地产十年，通过深入研究宏观经济走势，为读者把握房地产涨跌的短周期，不唯空，不唯多，只唯实。</b></p>",
+                "comment_count": 403,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-1101ed18b27088caafe072a365f8dfa9_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-65aee1f0a79ac955cdfc8e65456d6630_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-0a9e2dcafd8ff1b8d6a2659ab34473fd_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoHNjU0Njc3NSCt2eLWBSiQBjCTA0AAUhF0b3BfYWN0aXZpdHlfcG9zdHIIMzU4OTA3MDU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "很像当年与风车做争斗的人。 特朗普定会成就让美国走下坡路的第一任总统，世界第一的超级强国，选一个外行来做司机，真真切切很疯狂。 人类历史上最恐怖的时段，应该不说暴君，而是暴民，美国是不是已经陷入了爆民时代呢？ 2008年的金融危机，实际是美国人…",
+                "created_time": 1537837409,
+                "id": 497672943,
+                "voteup_count": 14,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "上山若随",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "西方经济学"
+                    },
+                    "is_advertiser": false,
+                    "headline": "无兵法  不创业",
+                    "badge": [],
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/7058008d1dcef75499b8aa30f9d965b5",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url_token": "shang-shan-ruo-sui",
+                    "id": "7058008d1dcef75499b8aa30f9d965b5"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/497672943",
+                "question": {
+                    "created": 1537210214,
+                    "url": "http://www.zhihu.com/api/v4/questions/295083743",
+                    "title": "中肯的评价一下美国总统特朗普？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 295083743
+                },
+                "updated_time": 1540059464,
+                "content": "<p>      很像当年与风车做争斗的人。</p><p>      特朗普定会成就让美国走下坡路的第一任总统，世界第一的超级强国，选一个外行来做司机，真真切切很疯狂。</p><p>      人类历史上最恐怖的时段，应该不说暴君，而是暴民，美国是不是已经陷入了爆民时代呢？</p><p>      2008年的金融危机，实际是美国人的危机，因为有印钞权，美国成功将这次危机转化成为全球危机，美国还没有什么事，倒是欧洲停止，中国麻烦。现在美国挺过了危机，美国第一个外行总统竟然完成了这么大的一件事，历史应该给予一个正确的评价。</p><p>       现在特朗普就是要毁掉这个印钞权，全世界一定要紧张注意，帮助他完成目标。</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTIwNTU0OTcwIOGSpt0FKA4wAEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNzg1MTEwMHIJNDk3NjcyOTQz"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558869979,
+                "is_labeled": false,
+                "excerpt": "在上一波产业全球化之中，美国依据其独一无二的美元和强大的科技力量，掠夺了全球大部分的利润，美国科技企业的利润都是几十倍，甚至上千倍万倍的利润。就拿微软和Intel来讲，成本几乎可以忽略不计，在加上美元不可替代的地球货币地位，美国基本上就是在拿…",
+                "excerpt_title": "",
+                "id": 67058882,
+                "voteup_count": 6,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-e7e1e50dbe4bf9efd79028b31e0ccf0b_{size}.jpg",
+                    "type": "people",
+                    "name": "阴阳五行高斌",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "阴阳五行逻辑思维还原者",
+                    "badge": [],
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/387e72c2e632834d0184137b9dcc6443",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-e7e1e50dbe4bf9efd79028b31e0ccf0b_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url_token": "yin-yang-wu-xing-gao-bin",
+                    "id": "387e72c2e632834d0184137b9dcc6443"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67058882",
+                "title": "对美博弈的策略",
+                "created": 1558869526,
+                "content": "<p>在上一波产业全球化之中，美国依据其独一无二的美元和强大的科技力量，掠夺了全球大部分的利润，美国科技企业的利润都是几十倍，甚至上千倍万倍的利润。就拿微软和Intel来讲，成本几乎可以忽略不计，在加上美元不可替代的地球货币地位，美国基本上就是在拿美元这个印刷品换取世界各国的商品。如今在他们大赚特赚的同时，不小心扶植了发展中国家的产业。如今，发展中国家的蓬勃发展已经在侵蚀美国的全球市场，甚至在悄悄地建立与美国企业展开激烈竞争的制造工业，比如：中国的超级计算机不但领先，而且数量基本赶上美国，中国的飞机制造业，华为的手机，阿里巴巴，京东等，特别是中国的网上消费增长速度特别吓人。印度的GDP 已经超过了美国最初的宗主国英国，发展中国家的发展太迅速，以至于在美国没有意识到的情况下，已经让美国感到了震惊。美国的自尊心和优越感不能允许这些情况继续下去，所以，无论谁做美国的总统，要延续美国的优势就是他的主要工作，在振作美国产业的同时，还要对主要的竞争对手进行残酷地打击，这就是双管齐下。</p><p>作为被美国视为竞争对手的中国，在遭受打击的情况下，应该如何应对呢？是睚眦必报，以眼还眼，以牙还牙呢？还是另辟蹊径，采取比较智慧的做法？那就是满足强者的心理欲求，采取示弱的方式来让强者变得更加骄纵，就如周文王对待商纣王的应对策略。其实，周文王的应对策略是姜子牙的谋划，其具体手段体现在《六韬》的《文伐》中，基本上就是对敌国的和平演变政策。</p><p>文王问太公曰：“文伐之法奈何？”太公曰：“凡文伐有十二节：</p><p>“一曰，因其所喜，以顺其志，彼将生骄，必有好事，苟能因之，必能去之。</p><p>　　“二曰，亲其所爱，以分其威。一人两心，其中必衰。廷无忠臣，社稷必苊。</p><p>　　“三曰，阴赂左右，得情甚深，身内情外，国将生害。</p><p>　　“四曰，辅其淫乐，以广其志，厚赂珠玉，娱以美人。卑辞委听，顺命而合。彼将不争，奸节乃定。</p><p>　　“五曰，严其忠臣，而薄其赂，稽留其使，勿听其事。亟为置代，遗以诚事。亲而信之，其君将复合之，苟能严之，国乃可谋。</p><p>　　“六曰，收其内，间其外，才臣外相，敌国内侵，国鲜不亡。</p><p>　　“七曰，欲锢其心，必厚赂之；收其左右忠爱，阴示以利；令之轻业，而蓄积空虚。</p><p>　　“八曰，赂以重宝，因与之谋，谋而利之，利之必信，是谓重亲；重亲之积，必为我用，有国而外，其地大败。</p><p>　　“九曰，尊之以名，无难其身；示以大势，从之必信，致其大尊；先为之荣，微饰圣人，国乃大偷。</p><p>　　“十曰，下之必信，以得其情；承意应事，如与同生；既以得之，乃微收之；时及将至，若天丧之。</p><p>　　“十一曰，塞之以道。人臣无不重贵与富，恶死与咎。阴示大尊，而微输重宝，收其豪杰。内积甚厚，而外为乏。阴纳智士，使图其计；纳勇士，使高其气。富贵甚足，而常有繁滋。徒党已具，是谓塞之。有国而塞，安能有国。</p><p>　　“十二曰：养其乱臣以迷之，进美女淫声以惑之，遗良犬马以劳之，时与大势以诱之，上察而与天下图之。</p><p>　　“十二节备，乃成武事。所谓上察天，下察地，征已见，乃伐之。”</p><p>也可以采用老子在《道德经》中的兵法描述：“用兵有言：「吾不敢為主，而為客；不敢进寸，而退尺。」是谓行无行；攘无臂；扔无敌；执无兵。祸莫大於轻敌，轻敌几丧吾宝。故抗兵相若，哀者胜矣。”应该做到“能而示之不能，强而示之弱，实而示之虚”，毕竟中国的实力确实比不得美国，更不可以夜郎自大，自我感觉了不起啦。要想取得最后的胜利，接受些暂时的委屈、收缩一下大国自尊心还是很有必要的。</p><p>同时，还要追求“多道多助，失道寡助”的效果，在全球，去团结一切可以团结的国家，争取得到最大的支持和帮助，为最后的决战积蓄力量。</p><p>战略决战绝不是可以一蹴而就的，中国和美国的博弈将是长期的艰苦斗争，不要指望短期之内就会握手言和，即使出现那种情况，也是一方制造的假象，以此引诱对方上当的。在整个的博弈过程中，必然会穷尽各种手段、计策和谋略，势必要谨慎应对，做好长期抗战的准备。</p><p></p>",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMDMwNzExIJbsqecFKAYwBUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjcwNTg4ODI="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1557879560,
+                "is_labeled": false,
+                "excerpt": "在两千多年前，秦始皇创造了一个中央集权的大帝国，整个帝国在始皇帝的掌控下，如臂使指，始皇帝的意志通过一种全新的官僚体系，贯彻到帝国的所有角落，这个官僚体系就如同人身上的毛细血管，皇帝的意志通过这些毛细血管，输送到身体的各个部分，畅行无阻。…",
+                "excerpt_title": "",
+                "id": 65766394,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/5c07a68c70c8cfa29d9e101ea381eade_{size}.jpg",
+                    "type": "people",
+                    "name": "风中绿李",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "正是江南好风景，落花时节又逢君。",
+                    "badge": [],
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/77a5cc76f7dcf79c206e0e9b13127e08",
+                    "avatar_url": "https://pic2.zhimg.com/50/5c07a68c70c8cfa29d9e101ea381eade_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "url_token": "sedehan-sedehan",
+                    "id": "77a5cc76f7dcf79c206e0e9b13127e08"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/65766394",
+                "title": "闲言碎语，不知所云。",
+                "created": 1557837976,
+                "content": "<p></p><p>在两千多年前，秦始皇创造了一个中央集权的大帝国，整个帝国在始皇帝的掌控下，如臂使指，始皇帝的意志通过一种全新的官僚体系，贯彻到帝国的所有角落，这个官僚体系就如同人身上的毛细血管，皇帝的意志通过这些毛细血管，输送到身体的各个部分，畅行无阻。在最高统治者的权力失去掣肘的同时，国家中的小民也就彻底暴露在了国家和皇帝的意志面前，不再有任何的保护。</p><p>我们把这样一种制度，叫做秦制。它有两个特点，在中央和地方的关系上，表现为中央集权，而在中央集权之下，则表现为皇帝的个人专制。这套叫做秦制的制度，延续了两千多年，哪怕当皇帝制度被推翻，秦制却借助着一些西方舶来的意识形态，在现代技术的支撑之下，反而死灰复燃，甚至获得了加强。</p><p>所谓秦制，它建立在耕与战的基础之上，耕即农耕，是它的经济基础，而这种经济基础则服务于战的目的，所谓的战就是通过武力征服周围的异己势力，从而使整个国家统一于一个人的意志之下，这个人就是皇帝，所以整个秦制它是为围绕着使皇帝的权力达到极致的这一最终目的而建立的，可以用一个词概括：定于一尊。</p><p>那么从这里我们反观某些制度，当历史的环境发生改变，只要它这个目的没有改变，秦制就如同幽灵一样，没有散开，只不过它的手段发生了某些改变。比如耕与战中的耕，它变成某种国家资本主义，而战则同样可以改换一些形式和说法，比如国家主权不可侵犯、某某民族的复兴、国家统一高于一切、先军政治、意识形态的输出等等诸如此类的东西。</p><p>世界上存在着两种主要的冲突，第一种是神权专制的伊斯兰世界与世俗化的现代文明的冲突，另一种就是秦制与以自由主义和个人主义为基础的现代文明的冲突，与神权专制相比，秦制它由于没有宗教的羁绊，更有利于它利用各种现代的技术条件，它更加适应当下的历史环境，比如有些国家就利用这些条件，完成了所谓的“经济奇迹”，在军事实力上，也逐渐成为了区域上的霸权，并有开始逐渐暴露出自身的野心、进而挑战世界上的文明秩序的迹象。</p><p>我们所说自由主义和个人主义，它无非就是建立在对个人价值和个人独立的肯定和尊重的基础之上的一种意识形态。如果把人视为一个能量体，他的欲望就是这种能量的无限扩张，而他人的存在就是一种异己的力量，因为他人本身也是一个能量体，他人的存在这个事实本身就构成了对另一个能量体的能量的无限扩张的阻碍，所以承认他人的存在，承认异己也有存在的权利，这可以说是人类文明迄今为止的一个最大的成就，在这种妥协和相互制衡之中，才产生了文明，它体现为现代的各种政治和法律制度，它建立在对个人存在的高度宽容和肯定的基础之上，在此之上通过妥协和相互制衡而产生的力量平衡建立规则和秩序。</p><p>而我们所说的秦制，它的目的在于使皇帝这个能量体的能量扩张不受任何阻碍，那么任何异己的存在对这种制度来说都是一种“敌对势力”，所以它建立在绝对不宽容的基础之上，它不能承认个人存在的权利，所以它的本质就是一种与人为敌的制度，它建立在对人本身的仇恨和敌视的基础之上，它所炮制是一个充满敌意的世界和对周围的世界充满敌意的人民。在皇帝制度之下的秦制，皇帝的权力它毕竟还有来源于社会上的习俗和传统的认可而来的正当性，所以它相对来说，对于“异己势力”的敌意和焦虑没有那么迫切，而现代的“秦制”，它的权力来源则没有任何正当性的依据，它既没有社会上的习俗和传统的依据，也没有法律上的正当依据，甚至和法律上所规定的权力来源南辕北辙，一切都是暗箱操作，这种合法性的焦虑或者说意识形态的破产，则使任何宽容和异己的空间都将不复存在，所有公开发表的声音都必须统一在一个声调之下，指鹿为马的赵高生在这样的时代，都可能要深感自身的幼稚。</p><p>我们观这两种制度或者说意识形态，它是在根本目的上存在着不可调和的矛盾，当苏联这个极权政体垮台，有一些更加顽固的东西由于某种传统因素或者历史的机缘而存在了下来，可以说目前的世界，已经到了两者之间对决的历史的关口，它将关乎每个人的命运，拭目以待吧。</p>",
+                "comment_count": 0,
+                "image_url": "https://pic2.zhimg.com/50/v2-4c671bc8059417f37903ad0b8314da07_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-4c671bc8059417f37903ad0b8314da07_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyNzQzNzU0IJjx6uYFKAIwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjU3NjYzOTQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523959972,
+                "is_labeled": false,
+                "excerpt": "2016年3月，美国对中兴发起制裁，理由是中兴违反美国对伊朗出口管制政策。最终，中兴向美政府支付8.9亿罚金，换取“监外察看”。昨日，美国商务部再次对中兴发起制裁。理由是中兴当年承诺处罚35名员工，但并未进行实际处罚。典型的“鸡蛋里挑骨头”。在中美…",
+                "excerpt_title": "",
+                "id": 35792791,
+                "voteup_count": 224,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-58bb595df95f63215f602a2e885b2872_{size}.jpg",
+                    "type": "people",
+                    "name": "叉叉符",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "headline": "《叉叉快评》评论员",
+                    "badge": [],
+                    "user_type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/13254f99c5bce06085a1224a3044accf",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-58bb595df95f63215f602a2e885b2872_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url_token": "dylen-sul",
+                    "id": "13254f99c5bce06085a1224a3044accf"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35792791",
+                "title": "中兴任人宰割的背后——还原真实的美国半导体产业",
+                "created": 1523959972,
+                "content": "<p>2016年3月，美国对中兴发起制裁，理由是中兴违反美国对伊朗出口管制政策。最终，中兴向美政府支付8.9亿罚金，换取“监外察看”。</p><p>昨日，美国商务部再次对中兴发起制裁。理由是中兴当年承诺处罚35名员工，但并未进行实际处罚。典型的“鸡蛋里挑骨头”。</p><p>在中美“贸易战”的紧要关头，很明显，美方这是在拿中兴当“棋子”。</p><p>那么为何中兴如此受伤？如此受气？</p><p>根本原因是——<b>美国集成电路产业冠绝全球！</b></p><h2><b>集成电路，没有什么比它更重要</b></h2><p>集成电路，也就是“芯片”，它的成本极低，基本原料是沙子（二氧化硅）！科技含量却极高，只有少数科技发达国家（地区）才能设计生产。成本几毛钱，市场价格则高达几十元。这是暴利中的暴利。</p><p>都说石油重要，但随着可燃冰、天然气、太阳能等新的能源开发出来，石油的可替代性越来越强。但集成电路，却无可替代。所有带电设备的计算、存储、传输功能都要仰仗着它。可以说，没有集成电路，整个社会都将瘫痪。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d006e2d0e854090c217b467a339e418f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"914\" data-rawheight=\"509\" class=\"origin_image zh-lightbox-thumb\" width=\"914\" data-original=\"https://pic4.zhimg.com/v2-d006e2d0e854090c217b467a339e418f_r.jpg\"/></figure><p>2017年，我国集成电路进口额超过1.6万亿元，远超其他所有大宗商品。可以说，发达国家的高品质生活，很大程度上，靠着集成电路所带来的高利润。</p><p>为了打破发达国家的垄断，我国在集成电路上的投资是空前的。单单存储器的总投入即高达4300亿元！但是，跟美国等相比，差距也是悬殊的，并且面临着越来越多的围堵。</p><h2><b>美国，集成电路产业空前强大</b></h2><p>可以说，集成电路产业的领先是美国科技领先的一个很好例证。</p><p>集成电路最早由美国发明。冷战期间，美国一些公司意外发明了集成电路这玩儿。其后，美国一路狂奔，诞生出英特尔、AMDIBM、TI、镁光、飞思卡尔等一众一流企业。八十年代受到日本企业的短暂冲击，但在贸易战和广场协议等一系列打击下，日本企业节节败退。时至今日，全球集成电路产业链基本牢牢掌控在美国手中。</p><p>2017年，<b>全球前十大集成电路公司中，美国独占6家</b>！（NXP公司即将被高通并入）。合计营收1300亿美元（超过1万亿元）！单单这六家企业，已占据全球1/3市场份额。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-85aef9f6159166cc107092053558dbca_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"519\" data-rawheight=\"314\" class=\"origin_image zh-lightbox-thumb\" width=\"519\" data-original=\"https://pic3.zhimg.com/v2-85aef9f6159166cc107092053558dbca_r.jpg\"/></figure><p>在重点细分行业，美国的优势更加明显。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-12e5f9eb829ea736549dfe98c0305443_b.jpg\" data-size=\"normal\" data-rawwidth=\"522\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb\" width=\"522\" data-original=\"https://pic4.zhimg.com/v2-12e5f9eb829ea736549dfe98c0305443_r.jpg\"/><figcaption>产业链各环节均有美国企业卡位</figcaption></figure><p><b>生产装备</b>。一套芯片生产线动辄上百亿，大头花在装备上。可以说，只要中国的装备制造商未能成长起来，那么中国每年几千亿的产业扶持投入将大部分以装备采购形式流入国外，尤其是美国。美国拥有全球第一大半导体装备公司——应用材料（Applied Materials），全球前十大装备公司中，美国占据四家：应用功能材料、Lam、KLA-Tencor和Teradyne。另外，全球最高端半导体设备——光刻机，其最高技术掌握在荷兰ASML手中，它的产品长期对中国禁运。而美国英特尔、苹果、高通等公司均是ASML的大股东。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-5ff217871783e805ee46f946891706ad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"641\" data-rawheight=\"297\" class=\"origin_image zh-lightbox-thumb\" width=\"641\" data-original=\"https://pic2.zhimg.com/v2-5ff217871783e805ee46f946891706ad_r.jpg\"/></figure><p><b>集成电路制造</b>。芯片的设计和制造早已分家，设计公司专心设计芯片，将图纸交由制造商制造出来。这一块，美国英特尔、韩国三星、台湾地区台积电最为领先。目前，英特尔7nm工艺已经准备就绪，5nm、3nm也都在规划之中，而中国的中芯国际则刚刚在14nm工艺上实现部分突破（在美国高通公司帮助下完成）。可以说，美国处于全球第一方阵，而中国与美国之间隔着两三代的差距。</p><p><b>通信芯片</b>。在这个领域，高通堪称神一般的存在。高通骁龙芯片几乎垄断着Android系列旗舰机型（除却华为）。它是全球最大的移动芯片供应商，手中专利高达13万件之多！全球几乎所有手机生产商都要给高通缴纳高额专利使用费。2G、3G、4G、5G，高通一直在引领。</p><p><b>人工智能芯片</b>。人工智能（AI）代表着未来，其中最高科技当属AI芯片。虽然中国也取得了不错的成绩，但在AI芯片上却乏善可陈，仅有初创企业寒武纪公司在大规模研发AI芯片。而在美国，谷歌、Facebook、英伟达、苹果、高通、英特尔等大佬均已研发多年。谷歌的TPU芯片性能早已超越传统芯片几十倍，英特尔巨资将人工智能芯片巨头Mobileye收入囊中，高通也470亿巨资收购汽车芯片NXP。在AI芯片上，美国冠绝全球无疑。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-02eb65b196cfa8bb517a5fed7ba3e381_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"954\" data-rawheight=\"582\" class=\"origin_image zh-lightbox-thumb\" width=\"954\" data-original=\"https://pic2.zhimg.com/v2-02eb65b196cfa8bb517a5fed7ba3e381_r.jpg\"/></figure><p><b>量子计算芯片</b>。相比传统芯片，量子计算芯片的计算速度堪称压倒性。借助自研的Bristlecone（狐尾松）量子芯片，谷歌开始测试72位量子计算机。2018年CES展上，Intel高调宣布已经成功设计、制造和交付49量子比特（量子位）的超导测试芯片。与之对比，中国中科大团队才仅仅实现10量子比特操作。差距悬殊。</p><h2><b>对他国集成电路的打击，美国一贯坚决</b></h2><p>美国将集成电路当做战略级、核心级产业。他国一旦对美国造成潜在威胁，美国总是会毫不留情打击。</p><p>上世纪八十年代，日本集成电路产业崛起。为了打击日本，美国政府对日本动用301审查，对日本产品征收高额关税。其中，广场协议的签订也与此有关系。最终，日本迎来“失去的十年”，在全球集成电路领域节节败退，再也无法对美国构成威胁。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-0a7b85d927de898e450becb42c592d8c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"650\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"650\" data-original=\"https://pic1.zhimg.com/v2-0a7b85d927de898e450becb42c592d8c_r.jpg\"/></figure><p>中国的产业扶持再次引来美国的警惕。特朗普一上台，美国白宫便发布《确保美国半导体的领导地位》，此次对华301审查中，集成电路占据大幅篇幅。可以说，未来美国对中国集成电路产业的打击将持续走强。</p><p>无芯片，不自主！中兴之鉴在前，无论围堵多么猛烈、前途多么艰难，自主芯片的支持都须一往无前。</p><p>崛起的中国，离不开强大的集成电路产业。</p><p></p>",
+                "comment_count": 40,
+                "image_url": "https://pic3.zhimg.com/50/v2-68f0e92859e4432e9708eae3a67b447f_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-68f0e92859e4432e9708eae3a67b447f_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-d006e2d0e854090c217b467a339e418f_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-85aef9f6159166cc107092053558dbca_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "Cj0QBxoHNjUwNzU1NSCkkdfWBSjgATAoQABSEXRvcF9hY3Rpdml0eV9wb3N0WgYxMDc0NjJyCDM1NzkyNzkx"
+        }
+    ]
+}

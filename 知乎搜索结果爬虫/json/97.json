@@ -1,0 +1,234 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1448035813.43977",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1447513031.65&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1447513031.65414"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1550024610,
+                "is_labeled": false,
+                "excerpt": "我在近期某个经济学家的论坛上，听到一些学者认为消费对GDP增长的贡献非常有限，乘数效应比较小，因此不管怎么拉动消费，学界大多对经济基本面悲观。或许在西方主流经济学（特别是供给学派）的价值体系里，我们做什么都不够市场化，都显得变扭。还记得当时…",
+                "excerpt_title": "",
+                "id": 56579263,
+                "voteup_count": 8,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "gender": 0,
+                    "type": "people",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "url_token": "xing-kong-cai-fu",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/56579263",
+                "title": "大方向定了！2019消费升级机会众多",
+                "created": 1550024610,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>我在近期某个经济学家的论坛上，听到一些学者认为消费对GDP增长的贡献非常有限，乘数效应比较小，因此不管怎么拉动消费，学界大多对经济基本面悲观。或许在西方主流经济学（特别是供给学派）的价值体系里，我们做什么都不够市场化，都显得变扭。还记得当时一位教授说，消费对GDP的乘数效应也就9倍左右云云。</p><p>如果不是为了保持礼貌我真的想转身离开。<b>经济学理论只告诉我们消费是具有乘数效应的，然而并没有确切的方法评估乘数的变化，更无法预测变化的趋势。</b>假如今天菠菜买了一部华为手机花了5000元，那么3000元华为要用于再采购材料、用于生产，比如用200元买了OLED屏幕，而生产屏幕的京东方又会用100元去买材料，投入研发，以此类推就是消费的乘数效应，也就是5000元能产生5万元的国民收入的增加。</p><p>这个逻辑里最大的Bug就是乘数是多少取决于终端产品的劳动附加值，也就是越复杂，生产流程越多的高科技产品带来的乘数效应就越大。如果你买件衣服带来的乘数效应是10，那么买手机可能就是20倍，买电动车就是30倍（举个栗子）。从这个角度看发展消费并不是发展大家去购买基础消费品，而是那些<b>乘数效应大的科技类商品</b>。</p><p>从2015年到2018年我国消费对经济增长贡献率均在50%以上。近些年也是电商大力发展的年代，因此<b>保证消费增长就是保证经济增长</b>。拉动经济增长的三驾马车分别是投资、进出口和消费。目前前两项难度更大，后面还有很多政策都是针对拉动消费的，可以说只要是中国人民想买的都是未来的投资机会。</p><p>基于上述逻辑，商务部昨天召开了新闻发布会说讲加快实施<b>消费升级行动计划</b>2019年重点工作，推动消费市场平稳增长。这里注意到一个时间节点，今年4月份还将召开全国性专题会议推进落实（显然是在3月5-20日之后）。那么看看落实什么：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、买车。因为受中美贸易摩擦影响，去年汽车整体消费增速有所回落。不鼓励买房了，如果汽车消费上不去还怎么消费升级？发改委等部门前几天也出台了6项政策，其中包括有序推进老旧汽车的更新、报废更新，持续优化新能源汽车补贴结构，促进农村汽车更新换代。这里面去年受影响的主要是进口车以及一些生产零部件。而一旦修复，相关企业值得投资。我还是要提新能源车，新的北斗定位、AI、物联网等相当大的应用场景是在电动车上（<b>整车、零部件</b>……只能帮大家这么多了）；</p><p>2、智能家电和新型数码产品。这个范围比较广，除了常见白马外，手机消费基本成为都市人群的刚需。3年内不换手机的，估计也就是50岁以上的了。昨天早盘OLED板块异动也代表了整个数码产品板块一直有大资金参与。京东方这种盘子不是游资能搞的了的；</p><p>3、其中还提到有机食品、服装等。其实菠菜自己到比较看好化妆品消费升级，只是国产化妆品没有做得特别好的。但从消费数字上看进口化妆品消费激增，这也对国产品牌有一定的带动效应。话说我身边刚进投行圈的90后小男生也开始用化妆品了，我真是费解了；</p><p>4、整个发布会看完了之后第一直观感觉是2019年消费增速下滑的担忧氛围凝重，因此才会出台这么多刺激政策。消费增速放缓了，那么GDP呢？</p><p>连涨两天了，接下来冲击半年线。半年线一旦站稳意味着大多数股票半年以来是盈利的，上次站上这个位置是一年前。此时做多气氛越来越浓。然而，14-15日的谈判也临近了。想上车的安心等回调，今天盘中会有分化。</p><p>今天没有展开写商业银行，从节前发永续债补充资本金开始，到现在可以让商业银行理财子公司买永续债，这些都有利用商业银行资产负债表状况改善。简单的说是资本金多了，<b>不良率</b>就下降了，因此如果有长期资本在买入商业银行现在也机会跟买，而且大银行股也是指标股对稳定大盘有影响。</p>",
+                "comment_count": 0,
+                "image_url": "https://pic2.zhimg.com/50/v2-e1f9c308dcdecb53e766b8c1afda833c_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-e1f9c308dcdecb53e766b8c1afda833c_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAwNzAzMDM1IKL/jeMFKAgwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINTY1NzkyNjM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "中兴来了一位洋大人，这位洋大人，叫罗 斯科?霍华德，堪称中兴的太上皇。 2018年8月24日，美国商务部长罗斯宣 布，美国将派霍华德团队入驻中兴公司，并任 命霍华德为中兴特别合规协调员。这个常春藤 出身且精通法学的前联邦检察官已经接受任 命，未来他将紧…",
+                "created_time": 1538367571,
+                "id": 501772087,
+                "voteup_count": 12,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/aadd7b895_{size}.jpg",
+                    "gender": 1,
+                    "type": "people",
+                    "name": "匿名用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/aadd7b895_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [],
+                    "id": "0"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/501772087",
+                "question": {
+                    "created": 1524032597,
+                    "url": "http://www.zhihu.com/api/v4/questions/273755260",
+                    "title": "一个禁卖芯片搞死中兴通讯，是不是说明中国的高科技弱不经风？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273755260
+                },
+                "updated_time": 1538367571,
+                "content": "<p>中兴来了一位洋大人，这位洋大人，叫罗 斯科?霍华德，堪称中兴的太上皇。</p><p><br></p><p>2018年8月24日，美国商务部长罗斯宣 布，美国将派霍华德团队入驻中兴公司，并任 命霍华德为中兴特别合规协调员。这个常春藤 出身且精通法学的前联邦检察官已经接受任 命，未来他将紧盯中兴的一举一动。</p><p><br></p><p>世上太上皇分两种，一种是李世民他爹李 渊，当李世民玄武门政?变，成功宰了自己的 哥哥和弟弟后，天下就掌握在李世民手里了。 李渊只能退位，成为太上皇</p><p><br></p><p>玄武门之变是公元626年，李渊驾崩是公 元635年，这期间9年，李渊都是闷闷不乐 的，虽说是太上皇，名义上比李世民还大一个 级别，按理说，李世民还得听他的。但事实上 所有的权力都掌握在李世民手里，而他，却几 乎跟被软禁差不多。來澈祕号??患辨屬 另一种太上皇，就!i庆他爹乾隆。乾隆 其实才是中国掌权时间最长的皇帝，只不过因 为他特别崇拜祖父康熙，不愿在皇帝的在位时 间上超过他。因此，公元1795年，乾隆退位， 传位给十五子顒琰，自己成为太上皇。可实际上，整个国家依然牢牢掌握在乾隆 手里，几乎所有的事，嘉庆帝都必须先请示乾 隆之后，才能做出决定。嘉庆怕乾隆到什么程 度昵？嘉庆虽贵为皇帝，却连乾隆的宠臣和珅 都很忌惮。直到1799年，乾隆死了，嘉庆帝才 算真正掌权，也只有他死了之后，嘉庆帝才敢 对和珅下手。</p><p><br></p><p>罗斯科?霍华德就是第二种太上皇，他到中 兴，可不是去吃茅台的，而是拿鞭子来监督中 兴的。霍华德拥有中兴公司前所未有的权力， 只要他需要，中兴公司都必须老老实实配合， 他将确保中兴严格遵守美国的出口管制法律法</p><p>规。</p><p><br></p><p>按照中兴与美国的和解协议，霍华德团队 在中兴的一切幵销，都由中兴负责。霍华德也 将会定期向美国商务部报告，一旦被他发现， 中兴又违规了，偷偷将美国技术出口:给美国制裁的国家。</p><p><br></p><p>美国商务部将会立即启动禁售令，禁止任 何美国公司与中兴公司合作，从此中兴不得从美国公司那里拿到美国技术。</p><p><br></p><p>这是中国企业第一次被来自美国的洋大人 如此直接监管，也难怪我们的粉红会感到愤怒 和屈辱，他们认为，这不仅是对中兴的侮辱， 也是对我国的侮辱。</p><p><br></p><p>奇怪的是，粉红们对中兴之前屡次三番违 背契约，践踏规则的行为，却不生气。说了很 多次了，中兴所以被美国重罚，是因为它将美国技术出口给受到美国制裁的国家如伊朗朝鲜。</p><p><br></p><p>你如果用自己的技术，你想给谁都行，没人管你。但你用美国技术，在使用之前，也跟人家签了契约，保证一定会遵守契约遵守美国法律。签完你就撕毁契约了，被美国抓现行 后，还不断撒谎，对抗调查等，你被揍，是不 是活该呢？</p><p><br></p><p>咱们中国人是没有契约精神的，其实每个 人都清楚，国人签过的契约，通常都不会当 真，私底下还是会偷偷毀约。契约的种子，就这不是中兴一家的问题，而是整个国家都 如此。我们的人民，也是没有契约精神的。只 不过自己不敢承认罢了。当有人指出这个事实 时，国人还会气得破口大骂。</p><p><br></p><p>中兴倒霉，只是因为他刚好被美国抓到。 那些没有被抓到的或者合作对象不是美国， 又有多少会遵守契约昵？公你患辨 没什么好气的，中兴能逃过一劫跟美国政 府实现和解，已经是吃了狗屎运了。美国的鹰 派比我们的粉红还愤怒，他们是想直接把中兴 干破产的，是老川决定放过中兴，顶住压力， 才救了中兴小命。</p><p><br></p><p>如果接下来，中兴还敢搞小动作，不遵守 契约，被太上皇霍华德发现，那就谁也救不了 中兴了。到时，中兴就可以准备棺材了。</p>",
+                "comment_count": 5,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTIxMzAwNzYwINPAxt0FKAwwBUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzEwOTc1NXIJNTAxNzcyMDg3"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "耻辱程度超过了银河号与南海撞机。",
+                "created_time": 1537169055,
+                "id": 493191881,
+                "voteup_count": 11,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-2147748e5330438e59c48162cc09a665_{size}.jpg",
+                    "gender": -1,
+                    "type": "people",
+                    "name": "dexa",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/244e73102a1b447ba1849759955f182a",
+                    "url_token": "dexa",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-2147748e5330438e59c48162cc09a665_is.jpg",
+                    "is_org": false,
+                    "headline": "太阳底下无新事",
+                    "badge": [],
+                    "id": "244e73102a1b447ba1849759955f182a"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/493191881",
+                "question": {
+                    "created": 1536571516,
+                    "url": "http://www.zhihu.com/api/v4/questions/294104383",
+                    "title": "如何看待美国任命罗斯科·霍华德(Roscoe C. Howard Jr.)为中兴通讯特别合规协调员？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 294104383
+                },
+                "updated_time": 1537169055,
+                "content": "耻辱程度超过了银河号与南海撞机。",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTE5NzQwMjE4IJ+t/dwFKAswAEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNzYzMzc0NHIJNDkzMTkxODgx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "中兴死了，并且死得毫无尊严，随着美国合规小组的到来，中兴的一切经营、研发活动对于美国来说都变得透明，所有中兴的研发人员要想清楚了，你所做的一切工作，都在美国商务部的监控下，你们的美国同行总会先你们一步出成果拿专利..........如果我是罗斯科·…",
+                "created_time": 1536633751,
+                "id": 489378775,
+                "voteup_count": 64,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "gender": 0,
+                    "type": "people",
+                    "name": "绝不颤振顾颂芬",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/440fc579cc11bfd4a6745740fd6a0f14",
+                    "url_token": "jue-bu-zhan-zhen-gu-song-fen",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "badge": [],
+                    "id": "440fc579cc11bfd4a6745740fd6a0f14"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/489378775",
+                "question": {
+                    "created": 1536571516,
+                    "url": "http://www.zhihu.com/api/v4/questions/294104383",
+                    "title": "如何看待美国任命罗斯科·霍华德(Roscoe C. Howard Jr.)为中兴通讯特别合规协调员？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 294104383
+                },
+                "updated_time": 1540814207,
+                "content": "<p>中兴死了，并且死得毫无尊严，随着美国合规小组的到来，中兴的一切经营、研发活动对于美国来说都变得透明，所有中兴的研发人员要想清楚了，你所做的一切工作，都在美国商务部的监控下，你们的美国同行总会先你们一步出成果拿专利..........</p><p>如果我是罗斯科·霍华德，我会把办公室设在中兴总部最醒目的地方，并张贴布告：举报有奖！我的合规小组里面，可能有CIA的人，他们会在中兴四处乱窜，逮住选中的目标就问：你愿意和我们合作吗？听说你儿子高考连二本线都不够，想不想去美国克莱登大学留学？我可以写推荐信（当然你要和我们合作才行）.........，谅中兴也没有胆量把和我合作的人都开除了，要有这个胆量当初就不会跪了...........，当十年过后，合规小组任期届满从中兴退出，将会留下一个被阉割了研发能力、充满007的中兴。</p><p>现在看来，在中兴这件事情上，美国得到了想得到的一切，一是通过杀鸡儆猴，给所有和美国有业务联系的中国企业念了一遍紧箍咒，这些中国企业以后在面对美国的时候会更加束手束脚，美共（和党）中央的决定会更顺利地在这些企业贯彻；二来高通等美国公司可以继续凭借供应链赚钱，并且有机会阉割中兴的研发能力，以后美国赚钱会赚得更顺利；第三、这是1949年以后第一次在中国执行美国的法律，并且是通过美国政府从与中国政府直接对话达到的。中国得到什么呢？一个几万人的工作机会，花了十四亿美元买来的，以及一队美国太上皇。</p><p>如果回到半年前，会不会有不同的选择呢，有的，这需要眼界、意志和勇气，这个方法就是放弃中兴，用准备交给美国的十四亿美元，遣散绝大部分的中兴员工，停止大部分业务，转型专利流氓，据我所知，中兴的通信专利在中国仅次于华为，还包括很多5G专利。按这个方案，中兴也几乎没发展机会了，但是会给美国造成损失，中兴不再需要美国的芯片了，但会对美国公司挥舞专利大棒，美国会发现，中兴这个凯子变成流氓了。</p><p>胡乱写的，见笑了。</p><p>——————————————分隔线——————————————</p><p>中兴内部通告续聘美方监察官两年 五年内双边监管   2018年10月27日 07:15     </p><p> 文/袁媛     </p><p>       日前，《中国经营报》记者独家获悉一份中兴公司名为“内部公示文件：关于监察官任命公告（根据2018年10月3日《监察官监察条件变更命令》拟定）”的文件，其中称，将延长自2017年7月20日开始的监察期。在此期间，独立监察官James M。 Stanton将被中兴延续聘任至2022年3月22日。该监察官将继续履行2017年《认罪协议》《认罪协议》附件A（修改版）以及美国法院的《同意公司监察官任命状》中规定的职责。   </p><p>   内部公示文件的发出，源于一份《监察官监察条件变更命令》：得克萨斯州北区美国地方法院10月3日签发命令，修改法院于2017年3月22日批准生效的协议所列载的对公司的监察条件。法院对监察条件的修改包括以下主要条款：延长法院任命的监察官的任期至2022年3月22日；授予监察官与SSA（美国社会保障管理总署）约定的特别合规协调员享有的相同的、可以接触与遵循《2018年出口管制改革法案》《出口管理条例》和命令相关的特定文件、信息、设施和人员的权限。     之所以发出这样的变更命令，据中兴通讯在10月7日发布的公告称，是因为中兴公司、深圳市中兴康讯电子有限公司及美国商务部工业与安全局于2018年6月达成的替代和解协议所述的行为导致。    </p><p>   上述监察官，系美国法院于2017年7月派遣至中兴。而今年9月，美国商务部派遣的“特别合规协调员”（以下简称“SCC”）Roscoe C。 Howard， Jr。（霍华德）业已进驻中兴。至此，中兴进入美国政府的双重监管时期，中兴发布的几份相关文件都提到，公司必须同时与SCC和监察官充分合作。    </p><p>   监管严厉    </p><p>   据悉，James M。 Stanton为美国得克萨斯州的一名律师，为Stanton 律师事务所的合伙人，于2017年3月22日被美国法院任命为监察官，于2017年7月20日开始监察中兴。而Roscoe C。 Howard， Jr。为美国知名律所Barnes &amp; Thornburg的诉讼部门合伙人，曾任哥伦比亚特区检察官，于2018年8月24日被美国工业安全局（BIS）选定为SCC。    </p><p>   中兴公司内部的文件显示，Stanton职责是持续监察、审查、评估和汇报中兴公司及其全球子公司和关联企业对美国出口管制法律法规、2017年3月和解文件以及2018年10月3日美国法院《监察官监察条件变更命令》的遵守情况。Howard主要负责协调、监察、评估并汇报中兴公司及其全球范围内的子公司和关联企业对美国出口管制法律法规、2018年6月和解文件的合规工作。   </p><p>  双方相同的权限是，均拥有全面且完整的接触所有相关的公司员工、账目、记录、系统、文件、审计、报告、设施和技术信息的权利。    </p><p>   不同的是，根据文件显示，Stanton被视为兼职的美国司法人员，并将向美国法院汇报。其不是中兴公司或美国司法部的员工或代理人，亦不是中兴公司的法律顾问，中兴公司与其之间没有也不会形成律师-客户关系。而SCC独立于中美双方，平等地向中兴公司总裁和董事会以及BIS汇报工作，并在履行其职责时咨询BIS。任职期间，Howard将为中兴内部提供合规义务的专业知识方面的指导。而且，Howard还会成为中兴和美国政府之间的沟通新渠道：作为中美两方的中间人，既将美国政府及BIS的建议和反馈转达给中兴，又把中兴履行合规义务的成果展示给美方。   </p><p>   另外的不同是，Stanton需要每年向美国法院递交一份报告，其余的中期报告可自行决定是否提交；另外，Stanton需在2020年7月以前就中兴对2018年6月《替代和解协议》与《替代命令》以及受相关法律管制的出口、再出口、转移（在国内）对于美国出口管制法的遵守情况进行两次年度稽查，同时向BIS 和中兴董事会递交稽查报告。而协调官Howard在任期第一年，每季度向BIS汇报一次，自第二年起，每半年汇报一次；此外，Howard团队还会展开6次合规稽查工作，并向中美双方提交稽查报告。   </p><p>  中兴配合   </p><p>  在上述内部文件中，中兴公司方面亦表示：“中兴公司总裁已于2017年7月2日向全体员工宣布，我司将完全致力于出口合规，致力于通过协作、透明和支持的方式来配合监察官的工作。自监察期开始以来，我们欢迎并将继续欢迎监察官的监督，使我司更强大、更合规。根据美国法院的《监察官监察条件变更命令》，我在此要求中兴公司及其子公司和关联企业的所有董事、管理人员和员工全力协作，高效、真实且完全地配合监察官根据其职责所提出的要求，继续努力以促使监察官在中兴监察期内的工作顺利和成功地完成。”   </p><p>      另外相关的描述也再次强调了配合监管对中兴的重要性：“正如与SCC的合作一样，在整个监察期内，各位与监察官及其团队的合作至关重要。自2017年7月20日监察期开始后，部分员工将收到监察官关于获取文件、数据或其他信息的要求。监察官还将要求与部分员工进行访谈。我想强调的是，各位必须非常认真地对待这些要求，并以真实、及时和完整的方式回应这些要求，绝不干涉或妨碍监察官履行其监察公司合规情况的职责。保持快速、高效、准确地满足监察官的要求，对于中兴公司业务的持续健康发展和成功至关重要。”   </p><p>   类似的描述，也曾在SCC就位时出现过：“一些员工会收到SCC提出的关于文档、数据或其他信息的要求。SCC也会访谈某些员工。我在此强调，必须认真重视这些要求，以真实、及时和完整的方式回应这些要求，并不得以任何方式干扰或妨碍SCC对公司的合规工作进行监察。快速、高效、准确地满足SCC的要求对于中兴公司业务的持续健康发展和成功至关重要。”    </p><p> “对于中兴这种在监管期内的企业，原则上保守商业机密肯定是比较困难的，比如销售渠道类的信息，如果不对监察官披露，可能是典型的对抗审查，但是对于技术秘密等，是否可以不公开，还要看监察官的具体要求或具体交易的情况来分析。”北京高文律师事务所合伙人、法学博士管健对记者分析。管健专业从事WTO和国际贸易法领域的案件代理和理论研究，包括贸易救济、贸易政策、贸易壁垒、出口管制和争端解决等。   </p><p>  在管健看来，这样的监管权限很大，但是也不能毫无边界。如果涉及中国的保密法律之类的问题，例如中兴如果承担国家级项目还需要另外研究解决方案。   </p><p>  双边监管状态持续   </p><p>  按照目前的双边监管框架，两方合规监管人员代表美国不同的系统，其工作是否会有重复审查、冲突，尚且不得而知。虽然在中兴两份不同的文件中，分别有“美国得克萨斯州法院依据公司与美国政府2017年3月达成的协议指定了现任监察官James M。 Stanton，SCC的工作职责是在现任监察官职责之外的另行的职责”“监察官的职责是美国工业安全局（BIS）根据2018年6月公司同BIS达成的协议所任命的特别合规协调员Roscoe C。 Howard之外的职责”，但尚无更明确的解释或分工。   </p><p>  至于合规工作的开展是否会因为要求过多，比如要随叫随到等影响员工日常工作，是否会因为监察范围过大侵犯员工本人隐私等权利，是否会有员工因为沟通不畅被判定为“阻碍调查”，因此受罚，目前还没有相关的信息提示。但一位中兴内部人士在接受《中国经营报》记者采访时坦言，工作上还没与合规官产生交集，也没有听其他同事谈及过，所以暂时不知道是否会产生什么影响，也不清楚合规官的工作流程和方式。   </p><p>  管健则分析，按照美国的惯常做法，对于违反美国出口管制的行为，一般都是由商务部或财政部发起调查，如果涉及刑事问题，美国司法部才会介入。     </p><p>  按照上述分析，中兴事件至此主导的还是美国商务部。业内也有传闻称，现在中兴内部更多主导稽查工作的还是美国商务部派遣的团队。一位不愿意透露姓名的中兴人士告诉记者，美国商务部派遣的SCC是要常驻深圳，而美国法院派遣的监察官并没有常驻深圳。   </p><p>  从美国商务部的公告也可以看出其对中兴事件的重视。商务部部长罗斯说：“今天的任命是美国商务部对中兴通讯采取的前所未有的措施的延续，Howard先生非常精通公司合规问题，他曾作为联邦检察官审理过100多个案件，并曾在合规和道德问题上向私营企业提供帮助。”据悉，Howard曾两次担任共和党和民主党总统的助理独立律师，并曾担任哥伦比亚特区和弗吉尼亚州东区的助理美国检察官。在担任助理独立律师期间，曾担任独立顾问办公室的首席检察官，调查美国住房和城市发展部有问题的方案、官员和活动。在第二次担任助理独立律师期间，Howard在美国农业部前部长A·迈克尔·埃斯皮的欺诈、虚假陈述和酬金调查及审判中担任首席出庭律师。</p><a href=\"https://link.zhihu.com/?target=https%3A//news.sina.com.cn/c/zj/2018-10-27/doc-ihmxrkzx4858928.shtml\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-a81c1e9a88254a7b8ea3e02ca2fcc208_180x120.jpg\" data-image-width=\"900\" data-image-height=\"381\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">中兴内部通告续聘美方监察官两年 五年内双边监管</a><p><br></p><p>中兴还是死了的好！！！！！</p>",
+                "comment_count": 17,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTE5MDQ3NDk4IJfX3NwFKEAwEUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNzYzMzc0NHIJNDg5Mzc4Nzc1"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1536825920,
+                "is_labeled": false,
+                "excerpt": "今年，我一直强调税务是重头戏，无论是国内闹得沸沸扬扬的范冰冰偷税漏税被查事件，或是华谊兄弟老板抛售股票事件，还是美国对中国90%以上进口商品征收25%以上的关税，<b>今年全球的第一大关键词，毫无疑问就是：税务！</b>从我个人创业经历看来，公司想要平稳安全…",
+                "excerpt_title": "",
+                "id": 44463271,
+                "voteup_count": 12,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-f45f2e2b614c9a5113eef0e0d473a677_{size}.jpg",
+                    "gender": 1,
+                    "type": "people",
+                    "name": "Wade",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59a9c4825e6d0d2b5a05c0d51bbf2449",
+                    "url_token": "wade-5-70",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-f45f2e2b614c9a5113eef0e0d473a677_is.jpg",
+                    "is_org": false,
+                    "headline": "【闯盟跨境】最新资讯、运营干货技巧知识分享",
+                    "badge": [],
+                    "id": "59a9c4825e6d0d2b5a05c0d51bbf2449"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/44463271",
+                "title": "范冰冰消失的第100天，你嗅到了什么信息？",
+                "created": 1536825920,
+                "content": "<p>今年，我一直强调税务是重头戏，无论是国内闹得沸沸扬扬的范冰冰偷税漏税被查事件，或是华谊兄弟老板抛售股票事件，还是美国对中国90%以上进口商品征收25%以上的关税，</p><p><b>今年全球的第一大关键词，毫无疑问就是：税务！</b></p><p>从我个人创业经历看来，公司想要平稳安全的发展，我们今年一定要从三个方面去看待和规范我们的税务问题：</p><ul><li>国内税务</li><li>关 税   </li><li>国外税</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>1) 国内税务</b></h2><p>“尊敬的客户，根据《非居民金融账户涉税信息尽职调查管理办法》等监管规定，我行现针对存量对公客户开展尽职调查。 请收到本通知起90日内前往任一开户网点填报税收居民身份信息。 如逾期办理，我行将根据您在我行已有资料中的非居民标识信息报送相关账户信息。感谢合作！[招商银行]”</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以上这段话是最近招行发给我的，需要公司法人去银行做资料完善登记。我们的进出账在银行，而银行则在国家税务总局的监控范围之下。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>换言之，我们所有银行卡的进出账全部在国税局的监控范围之内！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果你是任何一个公司的法人，那你的全部银行卡的累计收款数额和单笔收款数额最好得控制一下，不管是公司账户还是个人账户，一旦被银行检测到资金流向异常，就很有可能会被税务局盯上。</p><p>2018年是税务改革大年，金税三期数据比对升级、国地税合并联合稽查、社保划归税务征管、个税改革……让还在设置“两套账”的企业无所遁形，也让公对私、私对公之间的账户走款成为税务稽查的重点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我的个人建议是：</p><ol><li>最好不要用任何一个公司法人的银行卡去收款</li></ol><p>2. 如果真的要用法人的账号去收款，请注意以下两点：个人与个人银行、个人与单位银行之间金额超过20万元以上属于大额交易，个人银行短期内（一个月内）累计达到100万元以上属于可疑交易</p><p>3. 如果做公司，最好把公账正规化</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这里附一张企业银行通知，大家可以参考一下：<br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-4a6d943ce87fb8a6ca533eb7060d4d60_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"386\" data-rawheight=\"346\" class=\"content_image\" width=\"386\"/></figure><h2><b>02)  关税</b></h2><p>说到关税，大家脑海里首当其冲出现的词必定是“特朗普”“美国”“中国”“90%以上商品”“25%以上关税”</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-4414d433c7420474b29a23d5d7754018_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"250\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>今年的外贸出口整体形势都比较严峻。如果是正规报税，那这个关税到底谁来承担，是你自己还是你的国外消费者？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然说羊毛出在羊身上，但是如果万一只有你的羊毛出在了羊身上，别人的羊毛却被自己硬生生的扯下来了呢？以中国人做出口的性格，尤其是传统B2B工厂，很多想法是宁愿不赚钱，也要先走量。这种做法就是伤敌一千自损八百，到最后大家都没得做。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果不是正规报税的话，万一货被查了，就很难要的回来，这里的风险又很大。所以说今年的出口，真的比较难。<br/></p><p>还有进口的问题，很多微商代购或者做进口奶粉化妆品的朋友，其实说难听一点，都算是走私和偷税漏税，国家不查你还好，万一查你，人财两空是一定的。如果你的偷税漏税金额过大，可能还有牢狱之灾。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-f29f90bea30cef000971158e3ffeddcd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"300\" class=\"content_image\" width=\"300\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>我个人建议，能正规尽量正规，可以通过出口退税来补自己的利润，这一块的利润不要忽视，有些产品16个点的退税金额还是相当高的！</p><h2><b>03) 国外税务</b></h2><p>这个应该是目前所有做跨境电商从业者最为担忧的一个问题，尤其是经历过欧洲VAT补税之后，对于销售额更加大的美国是更加的忧心忡忡。</p><p>我这里给大家简单介绍一下欧洲VAT是一个什么情况。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-3dc38951e0f94890313b027c9f896638_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"250\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>首先VAT是政府行为，所有销售金额的产生，都必须正常缴税，如果以前卖货没有缴税的，必须补税。如果你不按照欧洲政府的要求来做，那你就要进入欧洲的黑名单，以后别想去欧洲了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然后前面这个“你”是谁？这个“你”就是指以你为法人，注册了一个公司，用这个公司注册了任何一个电商平台的卖家账号，并且在欧洲做产品销售，那么这个公司就必须正常缴纳欧洲税务，如若不然，这个公司的法人就会被欧洲政府纳入黑名单，以后去不了欧洲。<br/></p><p>从2017年开始，亚马逊欧洲站的VAT就非常严苛，第一个大问题是补税（也就是把你账号在欧洲的所有销售历史加起来去收税，所以很多大卖家的欧洲站都不要了，因为真的会一次性被罚400万磅的！），第二个就是正常缴税（意味着你要么牺牲利润保住你的竞争力，或者牺牲你的竞争力来保住你的利润）</p><p>我一直觉得2018年下半年或者2019年上半年，美国站的税务问题也会到来。但个人认为美国政府应该不会要求补税，如果真的补税，我相信所有中国卖家都玩不下去，而且亚马逊也会直接崩盘。但是后期正常缴税我觉得不可避免。所以大家要做好准备。</p><p>我心里的想法是，如果大家真的都能做到羊毛出在美国消费者羊身上，跨境电商都还可以玩的很好。如果真的有一些资本进入的大公司，不顾税务，死拼价格，那真的是伤敌一千自损八百，到最后就剩一地鸡毛了。</p><p>说实话，今年做跨境，最担心的不是什么爆单，而是税务的问题，如果处理不好，公司就会变得岌岌可危！希望大家看完这篇文章能够重视自己的税务，把雷区能够排干净！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-e932355c4eb6069c74e65384ba5f7413_b.gif\" data-size=\"normal\" data-thumbnail=\"https://pic4.zhimg.com/v2-e932355c4eb6069c74e65384ba5f7413_b.jpg\" class=\"content_image\"/><figcaption>点赞大卖！</figcaption></figure><p><b>如果你还有其他疑问，可以关注我的微信公众号“wade说”，有趣有料纯干货定期分享</b></p>",
+                "comment_count": 4,
+                "image_url": "https://pic3.zhimg.com/50/v2-b96e6b94c6564b6b480c70b2575f427b_hd.jpg",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-b96e6b94c6564b6b480c70b2575f427b_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-4a6d943ce87fb8a6ca533eb7060d4d60_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-4414d433c7420474b29a23d5d7754018_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHODk0MjY2OCDAtOjcBSgMMARAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQ0NDYzMjcx"
+        }
+    ]
+}

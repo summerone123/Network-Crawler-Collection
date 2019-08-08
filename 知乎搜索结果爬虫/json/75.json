@@ -1,0 +1,237 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441332633.44643",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1441301420.26&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1441301420.25793"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "1、美国的GDP计算方式和中国是不同的，所以每个季度刚出来的数据上下浮动是很大的，几个季度之后的调整数据才比较准确。2、预期数据就更不准确了。美国人经常能干出来上个月还预期2%，下个月突然就预期4%的事情来。所以这个数据看看就好。3、之所以给出这样…",
+                "created_time": 1529690815,
+                "id": 423963968,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-03c5749233eacc3157d89f96a11b922b_{size}.jpg",
+                    "name": "杏子",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "理论物理"
+                    },
+                    "headline": "轻小说《天才都是美少女》连载中",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "chendong-wang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-03c5749233eacc3157d89f96a11b922b_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/3863c189933f1181cbe1998ef830ef09",
+                    "badge": [],
+                    "id": "3863c189933f1181cbe1998ef830ef09"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/423963968",
+                "question": {
+                    "title": "如何评价美国2018年预期gdp增幅为4%？",
+                    "url": "http://www.zhihu.com/api/v4/questions/281882127",
+                    "created": 1529575191,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 281882127
+                },
+                "updated_time": 1529690815,
+                "content": "<p>1、美国的GDP计算方式和中国是不同的，所以每个季度刚出来的数据上下浮动是很大的，几个季度之后的调整数据才比较准确。</p><p>2、预期数据就更不准确了。美国人经常能干出来上个月还预期2%，下个月突然就预期4%的事情来。所以这个数据看看就好。</p><p>3、之所以给出这样的预期数据，是因为4/5月份美国的各项经济指标数据较好。所以美国经济确实在转好是没问题的，美国经济在西方发达国家中一枝独秀。</p><p>4、之所以会这样，主要是特朗普减税法案的作用。去年年末特朗普签了减税法案。减税力度那么大，肯定会对经济有刺激作用，美国经济增长如果不加速才比较奇怪。</p><p>5、需要观察的是减税法案对经济的刺激作用能持续多久。减税法案使得美国政府赤字率和负债率再上新高，属于高风险的刺激经济的方式。如果美国经济增长加速时间不够久的话，就没办法通过扩大税基的方式补充赤字，也没办法通过经济增长来降低政府债务占GDP比重。</p><p>6、我比较怀疑2018年美国全年的GDP增速达到4%的可能性。毕竟一季度只有2.2%，后面三个季度要维持4.2%才能完成目标。</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTA3MTUzNDg4IL/1tNkFKAcwAkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyNDkxNjgxOXIJNDIzOTYzOTY4"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic3.zhimg.com/50/v2-819dc4b15362ca0ab2ed8afdc3ddb9e5_hd.jpg",
+                "updated": 1534831220,
+                "is_labeled": false,
+                "excerpt": "贸易战的目标三重：美国利益最大化、压制中国、全球化规则重塑。所以不是贸易战，是技术冷战和金融热战和体制持久战。 <b>放弃幻想，准备战斗，但决战可能还是金融，汇率，利率，股指。</b> <b>特朗普方案</b> 川总貌似出招混乱，背后逻辑缜密，应该是直男背后的男人帮支…",
+                "id": 42574111,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-819dc4b15362ca0ab2ed8afdc3ddb9e5_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-eec5b8f0cbdcfbf204e29f8f144142ba_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-691383e7c76e06aa372e50296578f2c3_250x0.jpg"
+                ],
+                "title": "邵宇 | 全球化的至暗时刻与“中国方案16条”",
+                "url": "http://zhuanlan.zhihu.com/p/42574111",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-b1eeeea2d8f0daf7d6921eaa3939021f_{size}.jpg",
+                    "name": "宇观新时代",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "东方证券首席经济学家",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "yu-guan-xin-shi-dai",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-b1eeeea2d8f0daf7d6921eaa3939021f_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/a59a67ae0b119b60579b2bc04eebcee3",
+                    "badge": [],
+                    "id": "a59a67ae0b119b60579b2bc04eebcee3"
+                },
+                "created": 1534831220,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-eec5b8f0cbdcfbf204e29f8f144142ba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-eec5b8f0cbdcfbf204e29f8f144142ba_r.jpg\"/></figure><p>贸易战的目标三重：美国利益最大化、压制中国、全球化规则重塑。所以不是贸易战，是技术冷战和金融热战和体制持久战。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>放弃幻想，准备战斗，但决战可能还是金融，汇率，利率，股指。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>特朗普方案</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p>川总貌似出招混乱，背后逻辑缜密，应该是直男背后的男人帮支招：</p><p>1，减税压制中国吸收fdi（资本含技术）；</p><p>2，CFIUS、FIRMMA压制中国ODI（购买技术）；</p><p>3，配合301阻断技术扩散（目标2025）；</p><p>4，ZTE直接打断中国制造产业链（制裁扩散）；</p><p>5，移民政策降低他人学习能力（千人计划，理工签证）；</p><p>6，令人困惑的弱美元，在加息周期保持出口竞争力，随时可能变脸给出致命的雷霆一击（HK，阿根廷，土耳其）。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>中国方案</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p><b>对外</b><br/></p><p>1. 以战止战：贸易服务投资，威慑重点但可替代的跨国企业；</p><p>2. 精准打击：区别建制和鹰派，有保有压；</p><p>3. 合纵连横：减税开放拉拢G6，中日韩东盟一体化；</p><p>4. 扩大开放：促进非美非鹰来源的贸易和直投；</p><p>5. 贬值汇率：战略威慑，双向波动加入逆周期因子；</p><p>6. 重配外储：战略威慑，推动美债利率上升预期；</p><p>7. 关闭资本账户：肉烂锅中，阻止资本外流；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>对内</b><br/></p><p>1. 保持定力，适当补水：M2接近名义GDP增速；</p><p>2. 壮士断腕：叫停非重点城市群区域平台机构，过剩产能僵尸企业；</p><p>3. 刮骨疗毒：资管新规，杀死影子银行但同时平移刚兑型产品为净值型产品给资本市场机构；</p><p>4. 釜底抽薪：不动产登记全国联网，出台空置稅为房地产税热身；</p><p>5. 平准市场：国家队必要时出手稳定股市债市汇市；</p><p>6. 降低税负：增值税和个人所得税减税幅度扩大，参与全球税收竞争；</p><p>7. 要素改革：农村土地城市群户籍，竞争性国资退出；</p><p>8. 强化政策性金融机构：专注小微企业和租赁式住房；</p><p>9. 稳定修复再平衡宏观资产负债表：央行，中央财政发挥托底和最后贷款人功能</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>可能风险</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p>1.  台海的竞争嗯，南海围绕岛礁;</p><p>2.  伊朗的石油的禁运。制裁中国的公司,这可能来自于对于类似华为的主机。</p><p>3.  汇率和资本外逃，攻击金融系统，双刃剑，美国股市中国的楼市</p><p>4.  一带一路围攻，印太战略，aiib项目，进口博览会</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-691383e7c76e06aa372e50296578f2c3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"533\" data-original=\"https://pic4.zhimg.com/v2-691383e7c76e06aa372e50296578f2c3_r.jpg\"/></figure><p><br/><br/><br/><b>邵宇</b><br/><br/>东方证券首席经济学家、总裁助理。复旦大学金融学博士，复旦大学金融研究院研究员暨研究生导师，牛津大学John SWIRE学者，中国人民银行货币政策委员会专家库成员，研究领域覆盖全球宏观策略，固定收益和金融工程。<br/><br/>代表作：《全球化4.0：中国如何重回世界之巅》、《穿越镀金时代》、《危机三部曲》、《微观金融学及其数学基础》。<b>即将出版《全球化3.5：逃逸三重修昔底德陷阱》</b></p>",
+                "comment_count": 0,
+                "excerpt_title": "",
+                "voteup_count": 2,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHODUyMzE0NCD01O7bBSgCMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQyNTc0MTEx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "中美贸易战，首先大家要明确一点。关税是防御战术，不是进攻战术！所以现在贸易战中占优势的是中国；处于弱势，被迫防御的那个才是美国！中国的关税无关痛痒？呵呵，对中国无关痛痒就对了。真对中国有关痛痒的美国自己都禁止出口了，还用得着中国加什么关税…",
+                "created_time": 1522775192,
+                "id": 357955690,
+                "voteup_count": 16,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-f2caa92e48343f6940070b5b089caffa_{size}.jpg",
+                    "name": "超级淡水鱼",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "dsydsydsydsy-39",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-f2caa92e48343f6940070b5b089caffa_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/7a4b2cc6305d38ea665775e2d45d389b",
+                    "badge": [],
+                    "id": "7a4b2cc6305d38ea665775e2d45d389b"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/357955690",
+                "question": {
+                    "title": "如何看待2018年4月2日中国对美国128项进口商品加征关税 猪肉加征25%？",
+                    "url": "http://www.zhihu.com/api/v4/questions/270759578",
+                    "created": 1522629570,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 270759578
+                },
+                "updated_time": 1522775192,
+                "content": "<p>中美贸易战，首先大家要明确一点。关税是防御战术，不是进攻战术！所以现在贸易战中占优势的是中国；处于弱势，被迫防御的那个才是美国！</p><p>中国的关税无关痛痒？呵呵，对中国无关痛痒就对了。真对中国有关痛痒的美国自己都禁止出口了，还用得着中国加什么关税？至于对美国是不是无关痛痒？中国在乎吗？现在正跳脚的是美国的农民，又不是中国的。反正现在中国人肥胖率偏高，正需要减肥呢。</p><p>至于网上有人扯什么美国一旦制裁中国，中国无还手之力啊？中国物价房价要崩啊？我只能呵呵，都懒得批了，大伙有兴趣就看看我的其他文章分析吧。</p><p>总之，中美贸易战一旦开打，影响的国家地区按负面影响从大到小排列如下：</p><p>1、除中美外的其他工业国。</p><p>其他工业国（经济体）会受到最严重负面打击，特别是德日韩台等所谓美国盟友。</p><p>不信看新闻就知道了，美国第一波钢铝贸易制裁受损最严重的不是中国，反而是这些美国小弟。即使是后来美国提什么赦免也根本没有德日韩这帮孙子的份。</p><p>而中国现在也打算牺牲韩台的半导体市场份额做筹码和美国谈判了。下一步如果要加大筹码开放汽车市场，牺牲的肯定就是德日的汽车市场份额了。</p><p>大佬开干前，先让小弟去做炮灰，这就是混社会的定理。等把手下小弟都死得差不多了，就该大佬亲自上场了。要不然大佬养小弟是做什么的？</p><p>2、美国。</p><p>请大家记住：美国是因为<b>无法用武力和其他阴谋颠覆中国，才被迫使用了贸易战</b>这种下策！！</p><p>这就和黑帮大佬要对付一个人的套路是一样的。如果你很弱，他不会和你讲什么道理的，直接派小弟过来把你捆了丢河里就行了。如果你是个比较麻烦的刺头，他就试着先用大道理欺骗你，用金钱收买你，同时想法私下来暗算你。只有当你是真正能威胁到他地位，甚至取代他的人。而他又对你无计可施的时候，他才会撕破脸公开抹黑你，恐吓你，孤立你。</p><p>所以看看美国现在的招数，你就知道中国现在处于什么地位了。</p><p>贸易战一旦宣布要使用，首先就对美国的国际威信造成巨大伤害。不信看看现在多少国家和西方媒体反对美国的贸易战就知道了，换了以前，他们敢吗？更不要说美国国内的股指下跌了多少？投资人可不傻，他们的钱更不会说谎！如果有人扯什么中国股市也跌了？我只能说，中国那玩意能配叫股市？它哪怕跌成负数也对中国没影响好吧！</p><p>如果正式开始贸易战，美国更是首先受损失的，因为美国物价会大幅上涨，社会矛盾会首先激化。而且现在还没有任何国家能替代中国的制造业地位。如果美国要让制造业回流？那就意味着小弟再也没什么用了，大佬准备自己干活了。对于已经没用的小弟，你说大佬会做些什么呢？</p><p>如果有些人扯什么美国随便找一个发展中国家就能代替中国的制造业地位？我只能说，它要是真能找的到？现在就不用对中国威胁用什么贸易战了好吧！你见过还没招到新工人就把老工人全开掉的老板吗？当然，破产跑路的除外。</p><p>3、中国。</p><p>中国现在已经不惧怕和美国正面刚了。事实上，正是因为中国先放弃了“韬光养晦”，开始展露尖牙，这才开始让美国感到恐慌的。这就像大佬正准备装体面人，阴谋对付一个看不顺眼的小弟呢，没想到小弟先开始对自己叫板了。</p><p>不信看看现在中国的变化吧，“中国制造2025”战略规划？大国复兴的口号喊得震天响？这像一个韬光养晦的国家能干的事？再看看官媒？什么《大国崛起》？《厉害了，我的国》？《辉煌中国》？《创新中国》？这在干嘛？这是以前装孙子的时候能干出来的？</p><p>说白了，中国现在就是在向美国大佬叫板呢！中南海不傻，他们知道自己在干嘛！</p><p>至于什么贸易战？呵呵，石油人民币推出来是干什么的？莫非真以为中国很稀罕美国印的那些绿色废纸不成？</p><p><br></p><p>其他关联文章：</p><p><a href=\"https://zhuanlan.zhihu.com/p/21792790\" class=\"internal\">超级淡水鱼：谈中美贸易战争</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/34921818\" class=\"internal\">超级淡水鱼：谈中美贸易战争之  中国贸易战术一详解</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/34929072\" class=\"internal\">超级淡水鱼：谈中美贸易战争之 中国贸易战术二详解</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/35048566\" class=\"internal\">超级淡水鱼：谈中美贸易战争之 中国贸易战术三详解</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/34892763\" class=\"internal\">超级淡水鱼：谈中美贸易战争2之贸易战争的本质</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/21797971\" class=\"internal\">超级淡水鱼：美联储和美元的本质</a></p>",
+                "comment_count": 3,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTUxNDM1NzYgmOmO1gUoEDADQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNDQzODc3cgkzNTc5NTU2OTA="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558058416,
+                "is_labeled": false,
+                "excerpt": "在最新的全球5G专利能力榜中华为毫无疑问登顶TOP1昨天华为又强势回应美国封锁而今天这么刚的华为不仅因为自身实力硬气还因为20年来背后有一个强大的“后宫”——<b>17家咨询团队！</b><b>01 华为与咨询公司的渊源 </b>华为从1996年开始，累计支付给各类咨询公司的咨询费高…",
+                "id": 66071871,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-eff76f77b587b34fc03ca84ae8b127e3_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-afb12cc46d249e2ff6462fd8cb6ba307_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-d95633db648f810b132b8d2a80d0593e_250x0.jpg"
+                ],
+                "title": "华为和他的后宫团队们",
+                "url": "http://zhuanlan.zhihu.com/p/66071871",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-5508867783ad1e0871911a34056719b0_{size}.jpg",
+                    "name": "UniCareer职优你",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "专注技能提升的职场大学。 | 公众号：UniCareer",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "url_token": "unicareerzhi-you-ni",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-5508867783ad1e0871911a34056719b0_is.jpg",
+                    "is_org": true,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/a3b3c7e6e48486942fdf42037f4fa89f",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "a3b3c7e6e48486942fdf42037f4fa89f"
+                },
+                "created": 1558058416,
+                "content": "<p>在最新的全球5G专利能力榜中</p><p>华为毫无疑问登顶TOP1</p><p>昨天华为又强势回应美国封锁</p><p>而今天这么刚的华为</p><p>不仅因为自身实力硬气</p><p>还因为20年来背后有一个</p><p>强大的“后宫”——<b>17家咨询团队！</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-f0e1ea99ace1c09747b52ce030e9555f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"229\" data-thumbnail=\"https://pic4.zhimg.com/v2-f0e1ea99ace1c09747b52ce030e9555f_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-f0e1ea99ace1c09747b52ce030e9555f_r.jpg\"/></figure><h2><b>01  华为与咨询公司的渊源  </b></h2><p>华为从1996年开始，累计支付给各类咨询公司的咨询费高达几十亿美金，帮助华为构建了研发、供应链、财经、人力资源、市场等方面的制度、流程体系。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-eff76f77b587b34fc03ca84ae8b127e3_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"546\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-eff76f77b587b34fc03ca84ae8b127e3_r.jpg\"/><figcaption>*图片来源：CMKT咨询圈</figcaption></figure><p>咨询公司即使如MBB，也有不少翻车的黑历史，这也导致咨询公司一贯的盈利模式，都是靠不同级别的费率乘以人和天数，而不承诺结果。<b>咨询顾问给的方案往往被质疑纸上谈兵，项目过后即被束之高阁。</b></p><p>业内流行着一个自黑的经典笑话，概括对咨询的诟病：</p><blockquote>一个小伙子，跑到大草原上，对牧羊的老先生说，我来帮您算算，您有多少只羊吧。如果算对了，给我一只羊作为报酬。<br/>然后，动用了各种高级工具，卫星拍摄、抽样统计、建模估算……<br/>得出结论后，小伙子得意洋洋地抱起一只羊。<br/>老先生说，如果我能说出你是哪个公司的，您能把它还给我么？<br/>好呀。<br/>你是麦肯锡的。<br/>为什么呢？<br/><b>首先，你不请自来；</b><br/><b>其次，你告诉了我，一件我已经知道的事；</b><br/><b>最后，你抱走的不是羊，是我的牧羊犬。</b></blockquote><p>但是在20年前，华为掌门人任正非在意识到华为的管理问题之后，就考察了几家咨询公司，最终决定向IBM购买咨询服务。<b>至此华为开始拓充自己的咨询后宫。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-afb12cc46d249e2ff6462fd8cb6ba307_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"681\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-afb12cc46d249e2ff6462fd8cb6ba307_r.jpg\"/><figcaption>*图片来源：网络 | 任正非</figcaption></figure><h2><b>02  华为的最强“后宫” </b></h2><p><b>1、华为咨询“初恋”：IBM</b></p><p><b>华为是IBM在中国的第一个管理咨询项目，而IBM也是华为第一次和咨询公司合作。</b>当时的华为面临着如何在扩张过程中解决管理不善、效率低下和浪费严重的问题。任正非希望IBM为当时的华为解决<b>流程管理</b>变革。当时IBM出价也毫不手软，华为5年要投入20亿元人民币（这是当时华为一年的营收）。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-fb0ea3254d6ce7ba0d7422968fcea2e7_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"208\" data-thumbnail=\"https://pic4.zhimg.com/v2-fb0ea3254d6ce7ba0d7422968fcea2e7_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-fb0ea3254d6ce7ba0d7422968fcea2e7_r.jpg\"/></figure><p>IBM当时非常硬气地阐（打）述（脸）了华为管理的问题，包括缺乏准确前瞻的客户需求关注、反复做无用功、没有跨部门的结构化流程、依赖难以复制的个人英雄、项目计划无效且实施混乱等毛病。</p><p>而在IBM入驻华为后，以IPD(集成产品开发Integrated Product Development）为试点，把这种跨部门合作的体系，<b>在产品立项阶段便将研发、市场、采购、制造、财务等部门黏合在一起，避免了研发部门单打独斗的情况</b>，到03年所有华为的产品项目都采用了IPD体系。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d95633db648f810b132b8d2a80d0593e_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"529\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-d95633db648f810b132b8d2a80d0593e_r.jpg\"/><figcaption>*图片来源：网络</figcaption></figure><p>华为真正的做到了把竞争力建立在对流程的依赖上，而不是对人才的依赖上。而这，正是“初恋”IBM传授的理念。</p><p><b>2、美世：任总，有一种爱叫做放手</b></p><p>现在的华为采取的是轮值CEO的制度，但是在最开始可不是这样。</p><p>在华为成立初期，企业规模较小，领导权集中在公司唯一的总裁任正非手里。03年已经59岁的任总意识到自己的专制已经成为管理的障碍。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-6ed33432adf5484d774a5525d636e620_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb\" width=\"533\" data-original=\"https://pic1.zhimg.com/v2-6ed33432adf5484d774a5525d636e620_r.jpg\"/></figure><p>这个时候，<b>专注于人力咨询的美世咨询（Mercer）出手了，引入经营管理团队（EMT）系统</b>，从大权独揽变成8位高管集体决策。任正非坚持不当主席，由8名成员轮流担当。EMT主席相当于CMO，由EMT成员轮流担当，每人任期六个月。</p><p>而且美世咨询在Vault上又蝉联人力咨询企业的冠军了哦。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-351aa542b7f7a8dbe963feb10d54936e_b.jpg\" data-size=\"normal\" data-rawwidth=\"405\" data-rawheight=\"230\" class=\"content_image\" width=\"405\"/><figcaption>*图片来源：网络</figcaption></figure><p>而在HR咨询公司排名第6的<b>Hay Group（合益集团）也是华为的后宫之一</b>，可能有的同学不太了解HayGroup，但是人家可是隐藏的大佬：</p><blockquote>HayGroup是一家全球性管理咨询公司，客户包括IBM、联合利华等，全球前十名的企业中，有9家在使用合益的体系。</blockquote><p>HayGroup帮华为设计了三张表，用来客观评价正常情况下每个岗位的能力要求、风险和责任度，每一个岗位对应相应的级别，从而建立起了25级的薪酬架构体系。华为前几年还一直用的是这套薪酬体系。</p><p><b>网传一句话“华为员工爱加班，因为分赃分的好”，不抗拒996一定是很热爱工作（资），而和其人力资源的科学管理是分不开的</b>。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-fec7ba5458b15449149a113dc52d931a_b.jpg\" data-size=\"normal\" data-rawwidth=\"624\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb\" width=\"624\" data-original=\"https://pic3.zhimg.com/v2-fec7ba5458b15449149a113dc52d931a_r.jpg\"/><figcaption>*图片来源：网络</figcaption></figure><p><b>3、PwC：CEO报销多了也要罚</b></p><p><b>华为在财务体系上，既有初恋IBM，又有新晋的PwC加持内部改革。</b>构建了外部审计、内部控制、业务稽核的三级监控，来降低公司的财务风险和金融风险。</p><p>（除了PwC，华为也与KPMG、DTT合作完善了核算体系、预算体系和审计体系流程，所以说华为你花心机智啊）</p><p>到目前为止，华为公司在国内账务已经实行了共享，<b>而且华为有自己独立的审计体系。</b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-6d2916bc47a2ab2d4f110201ceeb5961_b.jpg\" data-size=\"normal\" data-rawwidth=\"820\" data-rawheight=\"653\" class=\"origin_image zh-lightbox-thumb\" width=\"820\" data-original=\"https://pic2.zhimg.com/v2-6d2916bc47a2ab2d4f110201ceeb5961_r.jpg\"/><figcaption>*图片来源：网络 | 华为2018年财务体系</figcaption></figure><p>各位学Accounting的同学来看看，华为现在的财务和内审体系有多厉害：</p><ul><li><b>全球统一的会计核算</b>，并且实现了统一的全球会计科目的编码 <br/></li><li>华为要求会计核算四个统一：<b>流程/制度/编码/表格统一</b> <br/></li><li><b>内部审计权威性高，隶属董事会</b>，任总一次去日本出差报销差旅费时把住酒店时的洗衣费也计算在内了，华为的差旅费报销制度中是不允许员工报销此类费用，内审发现后将之写到了审计意见中... ... <br/></li><li><b>财务管理部的员工职能高度细化</b>，曾有一个被派到毛里求斯的财务在网上吐槽说工作大半年除了点票没干过别的活... ...</li></ul><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-ea2bcfa2867ff72ac64db791473d01aa_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"297\" data-thumbnail=\"https://pic3.zhimg.com/v2-ea2bcfa2867ff72ac64db791473d01aa_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-ea2bcfa2867ff72ac64db791473d01aa_r.jpg\"/></figure><p><b>4、奥美：华为也是广告公司</b></p><p><b>华为如今被称为通讯界的奥美。</b>经常有一些让人拍案叫绝的广告。实际上华为在品牌塑造、广告宣传上的成长，也<b>源于品牌管理上与奥美、正邦等广告咨询公司合作</b>等，多方面借用外脑，实现全面的成长。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a8b4183854fd05ec3400df99e44c38db_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"541\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-a8b4183854fd05ec3400df99e44c38db_r.jpg\"/><figcaption>*图片来源：网络 | 来自华为</figcaption></figure><p>华为对咨询团队的信任，最终都成为彼此成就的过程。华为系咨询专家，是咨询界一道亮丽的风景，而在Uni酱统计的19年国内应届生的毕业薪资榜中，Tier 1 - Tier 3的咨询公司都给出了非常客观的薪资。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-80d21fefab08e71747e70abf1e2f01ce_b.jpg\" data-size=\"normal\" data-rawwidth=\"647\" data-rawheight=\"695\" class=\"origin_image zh-lightbox-thumb\" width=\"647\" data-original=\"https://pic3.zhimg.com/v2-80d21fefab08e71747e70abf1e2f01ce_r.jpg\"/><figcaption>*图片来源：UniCareer自制</figcaption></figure><p><b>03 如何进入不同类型的咨询公司？ </b></p><p>想要进入咨询行业的学生，经常有困惑：“我是学xxx的，咨询公司会要我吗？”</p><p>实际上，高要求的咨询公司相对来说唯一不挑的就是专业了。比如<b>经济学、管理类、理学、工学、甚至文学出身的同学，都有进入咨询公司的可能</b>（Uni酱也见过学设计学的美硕同学做咨询的）。</p><p><b>1、毕业就想进咨询公司，现在需要做什么</b></p><p>如果你想进入咨询公司，从现在才开始，其实已经有些晚了，因为你的学校、PTA、实习都是被筛选的考核点。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-8bb49e6c234082104116d9fae6ba44fb_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-8bb49e6c234082104116d9fae6ba44fb_r.jpg\"/><figcaption>*图片来源：UniCareer自制</figcaption></figure><p>而顶尖管理咨询公司的面试流程大多相似，以Roland Berger（RB）为例子，和大家介绍一下流程。</p><ul><li><b>Pre-talk：</b>过一遍简历和基本的Behavioral 问题。第一轮的面试中也可能会遇到脑洞大开的Brain Teaser，例如有同学曾经被问到如何将几个点没有交叉地相连起来。</li><li><b>2个Case：</b>由两位Manager (经理) 面试。</li><li><b>Partner面：</b>主要是<b>对软实力的考察</b>，看你是否能融入团队或公司的文化。而和这些Partner的面试，基本五年、十年都不会有太大变化，所以大家可以上网看看面经作为参考。</li></ul><p>那么20届毕业的学生，现在该如何规划自己的时间？前MBB的Jim导师给出了专业的回答👇</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-ce63a7311d1a77eeaa26908564c78872_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-ce63a7311d1a77eeaa26908564c78872_r.jpg\"/><figcaption>*图片来源：UniCareer自制</figcaption></figure><p>大家最重视的Case其实只占面试的一部分。而对个人的性格和特质的考察，在面试阶段越往后的阶段，则显得越重要。除此之外，建议大家用2周时间，先好好修改你的简历。</p><p><b>中文简历修改举例：</b></p><blockquote>一位Corporate Finance背景的学员曾经在Asset Management做实习工作，<br/><br/>她的简历是这样的写的：我做了XX量化分析，XX外汇的Position。这样一份简历，交到咨询公司的HR手里，人家第一个反应就是“Ta在拿咨询公司做备胎!”而不是真正想做咨询。因为他们要么看不懂你写这些专业术语的是什么，要么看懂了觉得你还是想去做金融。<br/><br/>Uni导师给她的修改方案是，将整个经历描述成几种技能，例如交流能力和分析能力，交流能力后面的描述内容是她如何在实习中负责和全球分支沟通，特别是伦敦的同事协作完成项目。</blockquote><p> 华为的很多能力，实际上是由咨询公司引导，不断内化后形成了华为的超强组织能力。对于即将毕业的我们其实也是一样的道理——咨询公司带给我们的，最终还是需要不断内化，才能让自己更加强大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>今日福利</b></p><p><b>私聊回复关键词【团队】</b></p><p><b>▼即可领取▼</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-cbf32aab5424fd2437d7708d1b89c157_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1357\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-cbf32aab5424fd2437d7708d1b89c157_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1a02105811ea0bb114a058f44913c6d9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1236\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-1a02105811ea0bb114a058f44913c6d9_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-f19a34d9b41e82b3f69c1005b8e0abb8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1053\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-f19a34d9b41e82b3f69c1005b8e0abb8_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b8a9b23aad50bba76912cd4380ba1084_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1508\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-b8a9b23aad50bba76912cd4380ba1084_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-3d51021e8180ab473a6eb6af1a212b5b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"926\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-3d51021e8180ab473a6eb6af1a212b5b_r.jpg\"/></figure><p><b>以上内容供大家参考，希望能对大家有所帮助，如果喜欢，欢迎点赞告知，欢迎留言讨论。</b></p><blockquote><i>UniCareer(职优你)是为大学生以及在职精英提供系统专业的在线职场技能学习平台，致力于提高大学生职场硬技能和核心通用能力，帮助求职者高效地获取超in的行业动态，对接靠谱的内推工作机会，欢迎添加：UniCareerChina73，了解详细情况。</i></blockquote>",
+                "comment_count": 2,
+                "excerpt_title": "",
+                "voteup_count": 11,
+                "type": "article"
+            },
+            "attached_info": "Cj0QBxoJMTAyODExNTI5ILCr+OYFKAswAkAAUhF0b3BfYWN0aXZpdHlfcG9zdFoFNzQ5NjRyCDY2MDcxODcx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic2.zhimg.com/50/v2-ebac525441a86ad1cd514a886d55596d_hd.jpg",
+                "updated": 1522149161,
+                "is_labeled": false,
+                "excerpt": "中美贸易大战开打，神仙打架，殃及池鱼！老大和老二打，往往最受伤的是老三、老四。所以，我们看到了这条新闻：中美股市在上周五纷纷暴跌，但是周一、周二创业板指数却大幅上涨，至于这次贸易大战对A股市场的影响究竟如何，A股市场是否一蹶不振，还是特立独…",
+                "id": 35006776,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-ebac525441a86ad1cd514a886d55596d_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-d69648c21b4c519e8a650a67488f8a13_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-058a928acd0bb6431b33cf305a5bb0f7_250x0.jpg"
+                ],
+                "title": "中美贸易大战，投资者如何操作？",
+                "url": "http://zhuanlan.zhihu.com/p/35006776",
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-0967f0bb407de35fcfd47899d4518435_{size}.jpg",
+                    "name": "中魁",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "骨灰级宅男夹头，个人公众号:中魁交易室",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "yishenfeiqi9551",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-0967f0bb407de35fcfd47899d4518435_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url": "http://www.zhihu.com/api/v4/people/2a6ee16982b3402f60fccf395b943e41",
+                    "badge": [],
+                    "id": "2a6ee16982b3402f60fccf395b943e41"
+                },
+                "created": 1522149161,
+                "content": "<p>中美贸易大战开打，神仙打架，殃及池鱼！老大和老二打，往往最受伤的是老三、老四。</p><p>所以，我们看到了这条新闻：</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d69648c21b4c519e8a650a67488f8a13_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"523\" data-rawheight=\"276\" class=\"origin_image zh-lightbox-thumb\" width=\"523\" data-original=\"https://pic4.zhimg.com/v2-d69648c21b4c519e8a650a67488f8a13_r.jpg\"/></figure><p>中美股市在上周五纷纷暴跌，但是周一、周二创业板指数却大幅上涨，至于这次贸易大战对A股市场的影响究竟如何，A股市场是否一蹶不振，还是特立独行，走出独立的慢牛行情，这个事情是谁也无法预测的，但是总体来说，对某些行业、某些个股进行规避，我觉得才是投资者现在应该掌握的正确姿势。<br/></p><p>先看看这张中美贸易图：</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-058a928acd0bb6431b33cf305a5bb0f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"659\" data-rawheight=\"642\" class=\"origin_image zh-lightbox-thumb\" width=\"659\" data-original=\"https://pic4.zhimg.com/v2-058a928acd0bb6431b33cf305a5bb0f7_r.jpg\"/></figure><p>中国向美国出口的大多数都是高科技产品，而从美国进口的却大多数是农副产品。这样看上去，给人的感觉，中国才是高科技发达国家，而美国才是农业大国。其实不是，美帝的最为核心的东西比如航母、芯片、尖端的医疗、软件等等他是不卖的，除了这些东西，美帝卖的最多的就是美钞。是的，这个是全球商品结算的通货，他只要印好美钞，再掌握着全球最无敌的海军，以及全球的高科技领域的最为尖端的技术，其他的，无所谓了！<br/></p><p>再谈谈上述向美国出口的几个行业：<br/></p><p>一、航空航天</p><p>航空航天领域，即使美国佬不打压，不征收关税，我觉得也是是非常不值得研究和投资的行业。航空航天领域及其容易受到原油价格、国际政策等等因素的影响，并且以现在科技实力，很难产生出巨额的利润，以及爆发的增长。<br/></p><p>二、钢铝</p><p>钢铝一直是我国的产能过剩的行业，也一直是重度污染，国家环保政策不断打压的行业，并且是周期行业。早期，特朗普就对其钢铁、铝业分别征收的关税，虽然部分龙头的钢铁、铝业的股票在前两年国家供给侧改革推出后，股票价格大幅上涨，但是这是政策市，是靠国家强硬的手段，国家的意志推动的业绩大幅改善，周期股的投资，一直也有在市盈率降低之后离场的逻辑，且国家供给侧改革的目的可能已经达到，后续是否继续出台更为强硬的改革措施，本身就存在较大的疑问，这里美国再度加收关税。总的来说，我觉得这个行业能规避就规避。<br/></p><p>三、医疗</p><p>近端时间，医疗板块确实很好，很多个股都不断创出一年新高，大幅上涨。在我的大量基本面分析、研究中，大部分的国内的医疗、医药上市公司的业务主要集中在国内，我国有着医疗行业所渴求的人口红利，而且美国的对医疗、医药的要求极为严苛，国内少有公司能够满足欧美严苛的行业标准，进入欧美的医药市场。而且，美国本身就有着辉瑞、强生、默克、雅培等等医药巨头。这些公司在国内的医药上市公司面前所存在的优势基本上是碾压性的！所以，医疗板块反而受到贸易战的影响较小，这几天，医疗板块的大幅上涨，或许也是反映了这个逻辑！<br/></p><p>四、通讯机械</p><p>这个领域就要具体来看，通信机械领域涵盖十分宽广，这个主要要看公司的对外贸易、对外业务是否占比较多，如果对美出口占比较多就值得重点观察了。这里有个小技巧，基本上每家上市公司的半年报、年报都有详细的出口贸易额及其占比，投资者可以通过巨潮等网站很方便的查找。<br/></p><p>五、其他</p><p>至于机器人、农机装备、新材料、新能源汽车这些比较专业的领域，就比较考虑投资者对行业信息了解的能力圈了，我的观点大致同上，仔细考察公司的对美业务，占比多少，总的来说，影响较少，但是行业、公司却往往缺乏增长性，具体分析，区别对待。<br/></p><p>结束语：</p><p>美对华600亿商品征收关税，其实600亿只占有美去年从中国进口额的八分之一左右，从现在的情况来看，这个还是比较能够接受的范围。<br/></p><p>我认为市场高估了中美贸易大战的影响，在股票投资这块，我更加倾向于投资中国的消费股以及医药板块，这些股票将长期受益于我国自身人口红利所带来的强大的内需，国酒贵州茅台，最近也跌落至60日均线附近，茅台是中国最具有定价权的企业之一，我同样也认为，茅台酒的价格远远没有到达天花板。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>个人持仓：</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e22410947f178e4072fd9f4e211e197e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"110\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic3.zhimg.com/v2-e22410947f178e4072fd9f4e211e197e_r.jpg\"/></figure><p><b><i>更多精彩文章，欢迎关注个人微信公众号：Chungkui君的交易室</i></b></p>",
+                "comment_count": 0,
+                "excerpt_title": "",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjE5MjcyNyCpzujVBSgEMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1MDA2Nzc2"
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=4538.19939",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=4543.64776&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=4543.64776"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "不请自来。站在微电子从业人员的角度来随便侃侃，算是科普，让更多关心芯片的人更了解芯片。 <b>首先表明观点：国家全力投资芯片，是完全正确的！</b><b>因为，中美之间的芯片技术差距，那不仅仅是一万亿美金资本上的差距，而且是几十年的时间上的差距，几万优秀工程…</b>",
+                "created_time": 1524238850,
+                "id": 372026608,
+                "voteup_count": 798,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "微电子技术"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "type": "people",
+                    "headline": "",
+                    "user_type": "people",
+                    "url_token": "",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "id": "5b32fc4d663ae4ffe936b7dd50e7220a"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372026608",
+                "question": {
+                    "created": 1524191862,
+                    "url": "http://www.zhihu.com/api/v4/questions/273984602",
+                    "title": "如何看待中国将不计成本加大芯片投资？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273984602
+                },
+                "updated_time": 1524238851,
+                "content": "<p>不请自来。</p><p>站在微电子从业人员的角度来随便侃侃，算是科普，让更多关心芯片的人更了解芯片。</p><p><br></p><p><b>首先表明观点：国家全力投资芯片，是完全正确的！</b></p><p><b>因为，中美之间的芯片技术差距，那不仅仅是一万亿美金资本上的差距，而且是几十年的时间上的差距，几万优秀工程师的差距。这些都不是能够一蹴而就的。</b></p><p><b>出来混，早晚是要还的。</b></p><p><b>欠下的课，还是得一点点补。</b></p><p>这次中兴被美国制裁，而中国没有丝毫的还手之力，让很多有些膨胀的国人大跌眼镜，终于看到了中国在芯片领域与美国的真实差距。</p><p>虽然作为中国的芯片设计人员，我很不爽美国这么打我们脸，但是，塞翁失马焉知非福，若从此知耻而后勇，正当时。</p><p>但愿这一巴掌，真正打醒中国人。</p><p><br></p><p>之前一直强调我们已经成为全球GDP第二的大国，各种大国重器振奋人心，这些的确值得我们骄傲，但是在骄傲过后，也要看清我们与世界发达国家的差距。</p><p>这么说吧，在芯片领域，中美之间的强弱关系是：美国缺了中国，美国照样玩得转；中国缺了美国，直接断粮，是生死存亡。</p><p><br></p><p>估计许多其他领域的同仁不太清楚芯片的设计制造过程及分工，下面就以开饭店为例子做说明，有不恰当之处，还请包涵。</p><p>开一个饭店，</p><p>看得见摸得着的，需要大楼场地，需要烹饪的厨师、上菜的服务员，需要各种鸡鸭鱼肉等食材，需要各种油盐酱醋茶等调味料，需要用到锅碗瓢盆微波炉抽油烟机等工具。</p><p>看不见摸不着的，需要各种饭菜的烹饪手法、火候、配方等。</p><p>对比芯片行业，</p><p>（1）场地。各种先进的生产芯片工厂、设计师呆的办公室、测试工程师的防静电实验室，这些属于场地；</p><p>（2）厨师。芯片架构师、前端逻辑设计师、验证工程师、后端工程师、版图工程师、工艺工程师、测试工程师等，这些属于人力，对应饭店的厨师。</p><p>（3）鸡鸭鱼。高纯度的多晶硅、正负掺杂材料、导线金属等，这些属于原材料。</p><p>（4）调味料。各种工艺过程中用到的试剂，比如光刻胶、显影液、腐蚀性酸性溶液等，这些属于调味料。</p><p>（5）锅碗瓢盆。芯片设计师用的EDA工具软件，加工工艺线上用到的机器比如刻蚀机、光刻机、高温恒温加热炉等，芯片封装的机器比如切割机等，芯片测试用到的示波器等，这些都属于巨贵的高端设备。</p><p>（6）烹饪手法、火候、配方。芯片设计中用到的算法、电路结构、工艺中的扩散温度、扩散时间、扩散浓度等就属于这些。</p><p><br></p><p>那我们现在掌握到什么程度呢？</p><p>场地，先进的芯片生产工厂，我们最先进的中芯国际，与台积电的差距，还很遥远。</p><p>厨师，经验丰富的芯片设计师还不够多，菜鸟工程师每年毕业一批，因为自身待遇比不过互联网，且大城市房价高昂，退出芯片领域转型的人不少。这个，美国也没好多少。</p><p>鸡鸭鱼，各种原材料，以前是全部依赖进口，包括超净水，芯片工艺用到的超净水，比我们喝的纯净水纯度高多了，饮用纯净水中包含大量的钠离子、钾离子等金属离子会严重损坏芯片功能，所以需要用超净水，这个东东以前我们也做不出，只能进口，不过，现在不用了。现在部分原材料国内公司能提供替代品，算是不错的进步了。</p><p>调味品，各种试剂，大部分依然依赖进口。</p><p>锅碗瓢盆，各种设备，我们能制造的很少，大量依赖进口，不过，最近几年不断在某些环节突破垄断，比如刻蚀机。</p><p>烹饪手法、火候、配方，凭借芯片设计师的聪明与勤奋，算法我们进步最大，但是底层的电路结构、加工工艺还很欠缺。特别是工艺中的参数，这些个东东，都是经过大量重复试验测试出来的经验参数，老外花了那么多钱和时间和人才才搞定的，自然是严密封锁，在美国，就算华人都不被允许参与芯片公司的核心部门，就是怕泄密。</p><p><br></p><p>可以看到，几乎没有哪一条是我们掌握而美帝没有的，反而是我们全方面的受制于人。</p><p>这一次美帝制裁中兴，看似强大的中兴瞬间就危急存亡了。</p><p>所以，国家全力投资芯片产业，是完全正确且必须的。</p><p><br></p><p>还有，国家高层一直很清楚，一直在努力追赶，不要无脑喷国家不作为。</p><p>其实，在这次制裁以前，中国就一直在加大对芯片产业的投资，而且都是数百亿美元的大投资。比如oled显示屏生产线，大尺寸晶元生产线，大存储生产线。这些大投资，以前只是我们圈内人了解关注更多而已。</p><p>去看看这个回答。我觉得说的不错，点个赞。</p><a href=\"https://www.zhihu.com/question/273640508/answer/371830262\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-82fddc35af80a40de11cbab21ae8f5bb_ipico.jpg\" data-image-width=\"554\" data-image-height=\"485\" class=\"internal\">美国决定一颗芯片也不给中兴，中国高端制造业能突破重围吗？</a><p><br></p><p><br></p><p>再说开去。</p><p>这一次美帝制裁中兴，看似强大的中兴瞬间就危急存亡了。</p><p>以往我们认为中兴是高科技芯片企业，在美帝眼中就跟皮包公司一样。</p><p>这就是因为，没有掌握真正的高科技。</p><p>整个就是一买办思维。</p><p>没有对比就没有伤害。</p><p>华为就做得很好。</p><p>华为海思是真正掌握关键技术的高科技公司。虽然他的芯片也是台积电代工的，麒麟CPU内核是ARM的，那有啥，高通的也是台积电代工的，也是ARM的内核。华为是真正有能力与高通一较高下的高科技企业。如果美帝制裁华为，至少华为不至于立马瘫痪，还有挣扎的余地。</p><p><b>华为，一家值得尊敬的公司。</b></p><p>其他的高科技企业，比如手机行业的小米、OPPO、VIVO，电脑产业的联想等巨头，那都是和中兴一个档次的，关键芯片CPU全是买的，如果美帝也来个制裁，这些公司就是下一个中兴。</p><p>这些号称风口上的猪，依然还是猪，现在风停了，下场是什么，自己不清楚么。</p><p><br></p><p><br></p><p>除了华为，国内还有一家芯片企业是掌握核心科技的--龙芯。</p><p><b>龙芯，又一家值得尊敬的公司。</b></p><p>网上很多喷龙芯的。这些往往都不是芯片领域的人。真正的芯片人（比如我这样的愤青），是很尊敬龙芯的，尊敬龙芯的那群工程师。</p><p>龙芯的确存在一些问题，现在的芯片性能也的确无法满足广大吃鸡群众的需求。但是，龙芯这么多年来，曲折挣扎到今天，一直承担着人有我也要有的国防重担。</p><p>虽然龙芯的处理器目前性能不够，但是一直在进步。而且，龙芯有很多掣肘，比如，经费不多，国家真的投的钱不多，不要动不动就说投了龙芯几百亿，真有那么多，那龙芯肯定比现在强多了。而且，龙芯目前已经盈利了，公司发展越来越好，相信龙芯会成为中国的脊梁。</p><p>看这个回答对龙芯和兆芯的比较，我觉得写得很有道理。</p><a href=\"https://www.zhihu.com/question/35661142/answer/371375399\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">如何看待兆芯?</a><p>下面简单总结下上面引文的解答，说说龙芯的处理器为啥性能不如Intel和AMD。</p><p>龙芯目前的架构设计已经比较先进了，早说过了，算法架构这种靠聪明勤奋的，对中国人来说从来不是很难得事。</p><p>为什么性能还有巨大差距？</p><p>主要差距在工艺。龙芯因为你懂得原因，不能采用最先进的台积电、Intel工艺，只能用目前还不怎么地的中芯国际等二流公司的工艺线，这个对性能的影响是巨大的。</p><p>如果将龙芯的设计交给台积电等一流大厂代工，芯片性能立马上一个台阶。一定程度上说，龙芯这是替中芯国际背锅了。</p><p>我觉得龙芯是值得中国人尊敬的芯片公司。</p><p><br></p><p>做一个最恶劣的假设：</p><p>美国制裁中兴，如果制裁扩散，那么上面提到的小米、OPPO、VIVO、联想等科技巨头一被制裁就是下一个中兴，若不再给中芯国际提供工艺线所需的各种设备和原材料、试剂，那么中芯国际也要止步现在的28纳米，龙芯的芯片的性能也无法得到提升，断供目前正在兴建的各种大存储、大晶元、OLED面板等项目所需的先进设备，造成光有大量厂房缺无法生产变成了纯房地产，造成数千亿美金的投资打水漂，那中国的科技实力就真的被扼杀了。</p><p>说一句，此存亡危机之秋，也不是没有可能啊。</p><p>但愿是我想多了。</p><p>所以，国家必须全力以赴投资芯片产业。</p><p>作为个人，支持国产，从我做起，手机买华为。（这条五毛啊）</p>",
+                "comment_count": 103,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoIOTc3MDIzNDUggpTo1gUongYwZ0AAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzE2MDc3NHIJMzcyMDI2NjA4"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "这个答案是被某个大V点赞了么……一天之内涨了一百多个赞，惶恐..... ———-原回答————- 工程师：今被封锁亦死，研发或数十年血本无归亦死，等死？给半导体工程师涨待遇可乎？ 答：待遇是不可能涨的，这辈子也不可能涨的，还是多搞几次奉献主题的教育…",
+                "created_time": 1524243023,
+                "id": 372071161,
+                "voteup_count": 286,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-1861371e41850141c3eb3771c85ccd3b_{size}.jpg",
+                    "name": "9DarkOldAncestor",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/ad766ac46df7c2683290230001f2b440",
+                    "type": "people",
+                    "headline": "来自L77星云",
+                    "user_type": "people",
+                    "url_token": "jiu-ming-lao-zu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-1861371e41850141c3eb3771c85ccd3b_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "id": "ad766ac46df7c2683290230001f2b440"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372071161",
+                "question": {
+                    "created": 1524060593,
+                    "url": "http://www.zhihu.com/api/v4/questions/273813538",
+                    "title": "中兴被美国制裁，会给国人什么样的启示？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273813538
+                },
+                "updated_time": 1524975668,
+                "content": "这个答案是被某个大V点赞了么……一天之内涨了一百多个赞，惶恐.....<br><br>———-原回答————-<br>工程师：今被封锁亦死，研发或数十年血本无归亦死，等死？给半导体工程师涨待遇可乎？<br><br>答：待遇是不可能涨的，这辈子也不可能涨的，还是多搞几次奉献主题的教育来得实惠。<br><br>工程师：人全跑了怎么办？！<br><br>答：多搞几次奉献主题教育<br><br>工程师：即使不走，出工不出力怎么办？<br><br>答：再多搞几次奉献主题教育<br><br>工程师：那国产芯片还有未来吗？！<br><br>答：多搞几次奉献主题教育就好了<br><br>工程师：你们这样以后谁还来这个行业？！<br><br>答：面向全社会多搞几次奉献主题教育<br><br>工程师：... ...<br><figure><noscript><img data-rawheight=\"302\" src=\"https://pic3.zhimg.com/50/v2-eb4b7e1380636564a80863229e843157_b.jpg\" data-rawwidth=\"400\" class=\"content_image\" width=\"400\"></noscript><img data-rawheight=\"302\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='302'&gt;&lt;/svg&gt;\" data-rawwidth=\"400\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-eb4b7e1380636564a80863229e843157_b.jpg\"></figure>",
+                "comment_count": 74,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-eb4b7e1380636564a80863229e843157_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-eb4b7e1380636564a80863229e843157_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoIOTc3MTA0MDkgz7To1gUongIwSkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzEyMjY3NHIJMzcyMDcxMTYx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "反倾销的经济影响 反倾销既影响出口国的经济发展，又影响进口国的经济发展，常常会对进口国和出口国双方造成“双输”的结果。反倾销对进口国经济的影响主要表现在：影响出口。一方面，进口国通过反倾销限制某种产品进入，必然增加国内该产品的生产，而国内…",
+                "created_time": 1524127096,
+                "id": 370867984,
+                "voteup_count": 72,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-d2df85741d34cb6ac6776af89bb8c25c_{size}.jpg",
+                    "name": "嫣儿",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "宏观经济学"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/ddfbf70d757b035b73ef9668bf5d0aca",
+                    "type": "people",
+                    "headline": "顾问-嫣儿",
+                    "user_type": "people",
+                    "url_token": "yan-er-49-13",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-d2df85741d34cb6ac6776af89bb8c25c_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "badge": [],
+                    "id": "ddfbf70d757b035b73ef9668bf5d0aca"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370867984",
+                "question": {
+                    "created": 1524127036,
+                    "url": "http://www.zhihu.com/api/v4/questions/273902281",
+                    "title": "中美贸易对中国企业有何影响？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273902281
+                },
+                "updated_time": 1524127096,
+                "content": "<p>反倾销的经济影响 反倾销既影响出口国的经济发展，又影响进口国的经济发展，常常会对进口国和出口国双方造成“双输”的结果。</p><p>反倾销对进口国经济的影响主要表现在：影响出口。</p><p>一方面，进口国通过反倾销限制某种产品进入，必然增加国内该产品的生产，而国内生产该产品的企业由于缺少国际竞争优势，增加的产量难以出口； 另一方面，进口国扩大该产品的生产，会增加对本国稀缺的生产资源的需求，进口国原本利用这些资源生产具有国际比较优势的产品，由于资源需求增加以致资源成本提高，从而减弱了这些产品的国际竞争能力，出口贸易受挫。</p><p>影响产业结构调整。</p><p>在经济全球化的背景下，各国产业结构的调整需要更多地考虑国际分工的因素，才能实现经济资源最佳配置，进口国利用反倾销保护该国落后的没有竞争优势的传统产业，既破坏业已形成的国际分工，又阻碍进口国产业结构的调整。</p><p>影响社会净福利。</p><p>反倾销以牺牲国内消费者和其他商品生产者的利益为代价，仅仅保护特定商品的生产者的利益，不仅使进口国损失国际分工和生产专业化的利益，而且使消费者损失国际交换利益，从而使整体福利水平下降，产生社会净福利损失。</p><p>反倾销对出口国经济的影响主要表现在：影响出口。</p><p>... 反倾销的经济影响 反倾销既影响出口国的经济发展，又影响进口国的经济发展，常常会对进口国和出口国双方造成“双输”的结果。</p><p>反倾销对进口国经济的影响主要表现在：影响出口。</p><p>一方面，进口国通过反倾销限制某种产品进入，必然增加国内该产品的生产，而国内生产该产品的企业由于缺少国际竞争优势，增加的产量难以出口； 另一方面，进口国扩大该产品的生产，会增加对本国稀缺的生产资源的需求，进口国原本利用这些资源生产具有国际比较优势的产品，由于资源需求增加以致资源成本提高，从而减弱了这些产品的国际竞争能力，出口贸易受挫。</p><p>影响产业结构调整。</p><p>在经济全球化的背景下，各国产业结构的调整需要更多地考虑国际分工的因素，才能实现经济资源最佳配置，进口国利用反倾销保护该国落后的没有竞争优势的传统产业，既破坏业已形成的国际分工，又阻碍进口国产业结构的调整。</p><p>影响社会净福利。</p><p>反倾销以牺牲国内消费者和其他商品生产者的利益为代价，仅仅保护特定商品的生产者的利益，不仅使进口国损失国际分工和生产专业化的利益，而且使消费者损失国际交换利益，从而使整体福利水平下降，产生社会净福利损失。</p><p>反倾销对出口国经济的影响主要表现在：影响出口。</p><p>出口国产品遭遇进口国反倾销时，出口国产品在进口国的市场将会迅速地缩小，甚至被迫退出进口国市场。</p><p>反倾销还具有一定的连锁效应，一个国家对出口国的产品采取反倾销措施，常常会有另外一个或几个国家跟进，也就同样的产品提出反倾销。</p><p>反倾销对出口国出口贸易的影响具有非常大的破坏性作用。</p><p>影响产业结构发展。</p><p>反倾销会极大地打击出口国具有国际比较优势的产业，这些产业往往在出口国经济中占有举足轻重的地位，在整个产业结构中担负重要的支撑作用。</p><p>出口国遭受反倾销的产业，其大量的出口产品只有转回头来投入到本国市场，与本国原有的产品抢夺市场，这势必造成市场供求失衡，价格下跌，以至于产品严重积压，大批工厂被迫停产，严重影响出口国产业结构的正常发展。</p><p>影响规模经济。</p><p>具有规模经济特点的企业在一个相当大的产量范围内，随着产量的增加，单位产品的成本递减，因而具有贸易优势。</p><p>但规模经济的实现与市场容量有密切关系，只有市场广阔，企业才有条件进行大规模生产，提高经营效率，降低成本，实现规模经济，产品出口到国际市场上才有竞争力。</p><p>而反倾销则会造成市场缩小，限制出口国企业规模经济。</p><p>四是影响利用外资。</p><p>反倾销会使出口国外资企业逐渐减少或丧失海外市场份额，危及外商投资者的经济效益，从而影响外商对出口国投资的信心，甚至导致外商从出口国撤资，对出口国扩大利用外资产生恶性影响。</p><h2>规模经济对汽车产业的影响</h2><p>在昨天特朗普签署对话贸易备忘录之后；日元跌破105关口，最低下挫至104.62简单的说，美股狂跌，恐慌指数VIX明显上涨。</p><p>而外汇方面避险日元狂飙：美元/，华尔街惨遭血洗，为2016年11月以来最低水平、推高进口价格导致两国国内消费减少，进而导致全球经济放缓；中国的紧张局势将会抑制全球贸易。</p><p>FX168资深分析师许亚鑫称，美国/...</p><h2>中美贸易战会对股市造成什么影响？</h2><p>很直观的影响就是全球股市都在跌，美国的股市跌的也很厉害，但是人家可以做空啊。</p><p>中国的股市跌势一样跌，但是跌了赚不了钱。</p><p>而从中国股市本身来讲，中美贸易战会导致国内的目光转向高端制造业等领域，自然会这些领域是大利好，那么股票自然机会涨嘛！</p><h2>中美经贸关系的现状、问题、前景</h2><p>近几年来中美经贸关系总体上呈现了不断发展的态势。</p><p>一方面在中国加入WTO的新形势下，双方都高度重视中美经贸发展的加深与扩大，两国高层战略对话及部门间的接触频繁，增进了理解与信任。</p><p>另一方面，中国经济的持续高速增长以及美国经济的复苏也为中美经贸发展创造了宽松的外部环境。</p><p>一、双边经贸合作与发展继续扩大 据中国《海关统计》，2002年1-7月，中美贸易额为510.31亿美元，其中对美出口362.99亿美元，同比分别增长13.8%和21.3%。</p><p>自美进口147.33亿美元，同比下降1.2%。</p><p>今年以来，美国对华直接投资仍保持了高速的增长，继续居各国对华投资的第一位。</p><p>1-6月，美国对华直接投 资项目数为1457个，合同金额43.57亿美元，实际使用美资24.54亿美元，分别比去年同期增长了18.7%、17.4%和19.7%。</p><p>美国对华投资有三个显著特点：一是实际投资额高；二是单项投资额高；三是在制造业的投资比例大。</p><p>美国对华投资的强劲趋势出于两个原因：中国巨大的市场空间、经济的健康发展和投资环境的改善以及美商对中国加入WTO后的良好预期。</p><p>二、制约中美经贸关系发展的不利因素 （一）美国贸易保护主义回流，加强了对其国内产业的保护美国自2001年经济增长减速以来出口持续下降。</p><p>2002年经济虽然开始缓慢复苏，其全球贸易颓势仍未根本好转，1-7月，美国商品和服务出口同比下降了7.4%。</p><p>加上今年国会举行中期选举，为了党派利益，共和党需要争取国内产业界的支持。</p><p>因此，布什政府在贸易政策上逐步退缩并加强了贸易保护主义倾向，先后实施了限制钢铁进口的“201”条款，颁布了新的农业补贴法案。</p><p>虽然此次钢铁保障措施并非专门针对中国，但也直接影响了我国每年3.7亿美元的钢铁出口。</p><p>种种迹象显示美国的贸易保护有愈演愈烈之势，并将采取措施在未来签订的贸易协定中更多地加入保护本国工人权益的条款，扩大钢铁、纺织、汽车、造船业等国内制造业部门的利益。</p><p>美国扩大保护钢铁与纺织等业界利益将对我出口产生不利影响。</p><p>（二）用跨机构监督程序和中国执行评估报告对中方施压今年是中国加入WTO第一年，美国政府将监督和促使中国执行WTO承诺作为其贸易政策的长期首要目标。</p><p>目前已建立起了由美国贸易代表办公室协调，布什政府贸易政策工作组委员会监督的跨政府部门机构。</p><p>该机构包括三个层次：工作组和小组委员会；贸易政策审议小组；国会国家经济委员会。</p><p>主要依靠商务部、农业部、国务院、财政部、劳工部、美国专利与商标办公室收集信息和作出评估。</p><p>2002年6月，美中安全审议委员会发表了一份《美中经济关系对美国家安全影响》的报告，认为中国在税率安排方面有些拖延和不协调，颁布了不科学而影响贸易的生物技术法规、没有严格遵守有利于外国保险公司的规定以及在快递服务领域存在限制措施等。</p><p>美方表示在年底WTO中国过渡审议机制中提出讨论，可以预见在今后的双边经贸谈判中我方将面临较大的压力。</p><p>（三）美国对华贸易逆差将继续成为敏感问题 关于贸易不平衡问题，双方都认识到存在贸易统计上的差异。</p><p>从长期来看随着中国自美进口逐步增长，中美间贸易不平衡状况将得到改善。</p><p>但是在短期内，由于中国市场开放循序渐进以及名义关税率较高实际关税率低的事，期待美国商品和服务一下子大量地进入中国市场是不现实的。</p><p>美国出口商却不愿正视这个现实，因此当出口并非像他们想象那样快速增长时，各种各样的压力随之而来，甚至演变成贸易战。</p><p>在美国贸易逆差是敏感的话题，衍生出许多的辩论，包括对强势美元政策的质疑等等。</p><p>其中的主流又是认为贸易逆差中以对华贸易逆差最甚，原因是中国市场不开放，应严厉限制中国对美国的出口。</p><p>据美方统计，2002年美国贸易逆差持续攀升，1-7月其贸易逆差达2533.17亿美元，比去年同期增长了5.5%，其中对华贸易逆差524.72亿美元，同比增长17.6%，居各国第一。</p><p>（四）中美反倾销、反补贴斗争不容忽视 美国无视中国社会主义市场经济体制的建立和完善的现实，多年来始终援引美国《1988年综合贸易与竞争法案》第1316条规定，即“在行政当局做出取消的决定之前，已确定的任何一个外国为非市场经济国家的结论仍保持有效”以及调查中“行政当局的任何决议都是不容司法审议的”。</p><p>由于美国歧视性地坚持对中国“非市场经济国家”的认定，严重损害了中国企业和产品的利益。</p><p>截止2001年9月，美国对中国的反倾销调查已达87起，影响中国数十亿美元的对美出口。</p><p>由于中国加入WTO后15年内外国对中国产品进行反倾销调查时可沿用“非市场经济国家”标准，美国更视之为防止中国出口激增的有效武器，必将充分加以利用。</p><p>另一方面，反补贴将是影响今后中美贸易的新因素。</p><p>根据美国反补贴税法，对运往美国的任何产品的生产、制造或出口提供补贴者，要另外征收相当于补贴额的关税，但仅限于市场经济国家。</p><p>由于美国视中国为“非市场经济体制”国家，过去未对中国采用反补贴手段。</p><p>一旦我国摘掉了非市场经济国家的帽子，反补贴问题会接踵而来，对此，我应提早有所准备。</p><p>事实上，为防止中国因加入WTO而对美出口激增，...【极品项目】操作简单：时间自由安排，当天学习、当天操作、当天收益</p><p><br></p><p>详细加微信wangyun1858  验证回复888</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc0OTE0NzIg+Krh1gUoSDACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTQyNDAzcgkzNzA4Njc5ODQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "制裁华为，华为在美国没有投资，在美国通信设备市场只占1%的份额，。手机芯片和基站芯片上，华为大部分都能通过海思做到自给自足，而中兴就不一样，中兴在美国有很多投资，而且在美国手机市场排第四，手机芯片和基站芯片，中兴几乎全部依赖进口。可以毫不夸…",
+                "created_time": 1524104529,
+                "id": 370545172,
+                "voteup_count": 15,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-8a44debccfb07aa6ad97ef283613e98f_{size}.jpg",
+                    "name": "张三",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/f1f728315235a775177523f1786451e2",
+                    "type": "people",
+                    "headline": "",
+                    "user_type": "people",
+                    "url_token": "zhang-san-6-72-56",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-8a44debccfb07aa6ad97ef283613e98f_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "badge": [],
+                    "id": "f1f728315235a775177523f1786451e2"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370545172",
+                "question": {
+                    "created": 1523977188,
+                    "url": "http://www.zhihu.com/api/v4/questions/273691367",
+                    "title": "美国商务部制裁中兴，为什么出制裁华为呢？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273691367
+                },
+                "updated_time": 1524104529,
+                "content": "<p>制裁华为，华为在美国没有投资，在美国通信设备市场只占1%的份额，。手机芯片和基站芯片上，华为大部分都能通过海思做到自给自足，而中兴就不一样，中兴在美国有很多投资，而且在美国手机市场排第四，手机芯片和基站芯片，中兴几乎全部依赖进口。可以毫不夸张的说，制裁华为，华为只少一碗饭，制裁中兴却可以要中兴半条命。</p>",
+                "comment_count": 19,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc0MzI4OTcg0frf1gUoDzATQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMDk1NDk4cgkzNzA1NDUxNzI="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "美国制裁中兴，其实是中美贸易战一个猛烈战火的信号。<b>而中美所谓的贸易战，归根结底，是一场“科技冷战”</b> 美国全面针对中国2025，制造业强国计划中兴被制裁的时间为7年，7年后正好就是2025，这不会是巧合。 实话实说，中美科技冷战的第一个牺牲者，中兴，如…",
+                "created_time": 1524115897,
+                "id": 370705434,
+                "voteup_count": 929,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_{size}.jpg",
+                    "name": "捷克甜糖",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/097e844fdfb8462488c0af2a809c6265",
+                    "type": "people",
+                    "headline": "搜索公众号“微观系列”，关注我 获取更多好文",
+                    "user_type": "people",
+                    "url_token": "yue-han-zao",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/e57a1b4041e9ff2fdd539e6cbde85e7e_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "badge": [],
+                    "id": "097e844fdfb8462488c0af2a809c6265"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370705434",
+                "question": {
+                    "created": 1524060593,
+                    "url": "http://www.zhihu.com/api/v4/questions/273813538",
+                    "title": "中兴被美国制裁，会给国人什么样的启示？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273813538
+                },
+                "updated_time": 1524122551,
+                "content": "<p>美国制裁中兴，其实是中美贸易战一个猛烈战火的信号。</p><p><b>而中美所谓的贸易战，归根结底，是一场“科技冷战”</b></p><p><br></p><p>美国全面针对中国2025，制造业强国计划</p><p>中兴被制裁的时间为7年，7年后正好就是2025，这不会是巧合。</p><p><br></p><p>实话实说，中美科技冷战的第一个牺牲者，中兴，如果不能与美国达成新的妥协或者和解，其面临的处境将会非常凶险。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-c7cf609d1cd3e9964b9c053c598130dd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"482\" data-rawheight=\"323\" class=\"origin_image zh-lightbox-thumb\" width=\"482\" data-original=\"https://pic2.zhimg.com/v2-c7cf609d1cd3e9964b9c053c598130dd_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='482'%20height='323'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"482\" data-rawheight=\"323\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"482\" data-original=\"https://pic2.zhimg.com/v2-c7cf609d1cd3e9964b9c053c598130dd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-c7cf609d1cd3e9964b9c053c598130dd_b.jpg\"></figure><p><br></p><p><br></p><p>肯定有人问，为什么美国的这次制裁影响这么大？</p><p>美国一句话制裁你，你就完了？</p><p>中兴通讯，虽然是中国第二大的通讯设备厂商，包括中国移动和中国联通，都是中兴的主要客户。</p><p><b>但“中兴”设备的上游供应链，主要来自美国。</b></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-973ffd3c7da4336caee77c4da0046f66_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"242\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-973ffd3c7da4336caee77c4da0046f66_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='242'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"242\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-973ffd3c7da4336caee77c4da0046f66_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-973ffd3c7da4336caee77c4da0046f66_b.jpg\"></figure><p><br></p><p><br></p><p>中兴一季度对外采购额</p><p>上图可以清楚的看到，在一季度“中兴”对外采购的金额上，美国以34%的占比，一枝独秀，遥遥领先于日韩，和港台地区。</p><p>也就是说，中兴公司能够良好运作，其对于美国“产品”的依赖，高达34%。超过三分之一。</p><p>那中兴到底向美国买了什么东西，让这次制裁对中兴可能是生死存亡的大事呢？</p><p>从下图可以一目了然。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-202d11783eccd08e57f8e1b17d1f9e8b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"211\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-202d11783eccd08e57f8e1b17d1f9e8b_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='211'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"211\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-202d11783eccd08e57f8e1b17d1f9e8b_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-202d11783eccd08e57f8e1b17d1f9e8b_b.jpg\"></figure><p><br></p><p><br></p><p>中兴主要采购的十家美国公司</p><p>中兴公司几乎所有的高端芯片，核心专利权都是向美国购买的。</p><p>高通、博通、微软、英特尔、美光、英伟达，这些鼎鼎大名的美国科技巨擘，都是中兴的产品供应商。</p><p>4月16日，美国政府一声令下，这些巨擘公司一刀，将所有与中兴公司的联系，完全切断。</p><p>少了美国那34%的关键零组件的出口，中兴还如何运转？</p><p>说到这里可能有些朋友还是不太理解，我尽量用最简单的方式把事情说清楚吧</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-3f0a7efc97d5c5deae46076847bd5129_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"318\" class=\"origin_image zh-lightbox-thumb\" width=\"558\" data-original=\"https://pic4.zhimg.com/v2-3f0a7efc97d5c5deae46076847bd5129_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='558'%20height='318'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"558\" data-rawheight=\"318\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"558\" data-original=\"https://pic4.zhimg.com/v2-3f0a7efc97d5c5deae46076847bd5129_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-3f0a7efc97d5c5deae46076847bd5129_b.jpg\"></figure><p><br></p><p><br></p><p>中兴公司总共有三大业务板块</p><p><b>信号基站</b></p><p><b>光通信</b></p><p><b>手机</b></p><p>这三大板块，如果少了美国的关键零组件或美国关键专利授权，这三大板块都很难活下去。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-28105dca7d9f2f223f5c526c16eff2b4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-28105dca7d9f2f223f5c526c16eff2b4_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='339'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-28105dca7d9f2f223f5c526c16eff2b4_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-28105dca7d9f2f223f5c526c16eff2b4_b.jpg\"></figure><p><br></p><p><br></p><p><b>信号基站领域</b></p><p>信号基站大家都知道吧，最容易理解的例子就是没有手机基站转换和发射信号，那我们的手机就是一块废铁。</p><p>而基站发射端主要是将基站信号BB转化为中频IF，然后再进一步调高到高频RF，最后发射出去的过程。</p><p>在这个转换过程中最关键的一样东西，是“射频芯片”。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-4c8b4464535fad1ec147937f47e5ffc2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"411\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-4c8b4464535fad1ec147937f47e5ffc2_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='640'%20height='411'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"411\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-4c8b4464535fad1ec147937f47e5ffc2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-4c8b4464535fad1ec147937f47e5ffc2_b.jpg\"></figure><p><br></p><p><br></p><p>“射频芯片”是什么概念？</p><p>无线电信号通信转换成一定的无线电信号波形， 并通过天线谐振发送出去的一个电子元器件</p><p>打个形象的比喻，一个人体格强壮，四肢发达，但是它脑子不好使，大脑发出的命令无法传给四肢，那这个人，就是个废人。</p><p>中兴的信号基站也一样，什么东西都很好，可如果没脑子不好，“射频芯片”不好，那它就是一块等着生锈的废铁。</p><p>而这关键的大脑“射频芯片”，完全是美国独家提供，日本韩国欧洲，其他任何国家的技术成熟度都替代不了美国。</p><p>这就是为什么中兴每年要花那么多钱向美国购买，因为美国是独此一家。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-a7e1d65acd53bf0ae2e40fedc04fc014_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"266\" class=\"content_image\" width=\"400\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='266'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"266\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-a7e1d65acd53bf0ae2e40fedc04fc014_b.jpg\"></figure><p><br></p><p><br></p><p><b>光通信领域</b></p><p>最简单的讲光通信就是让我们能长距离，快速传送影片，图像等信息的一种通信技术。</p><p>没有光通信技术，你手机看不了片，电脑上网贼慢。</p><p>而在光通信技术领域里，最关键的三样东西<b>是模块，光芯片，电芯片。</b></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-e18bee76930066219c64563fb2194126_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"578\" data-rawheight=\"261\" class=\"origin_image zh-lightbox-thumb\" width=\"578\" data-original=\"https://pic4.zhimg.com/v2-e18bee76930066219c64563fb2194126_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='578'%20height='261'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"578\" data-rawheight=\"261\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"578\" data-original=\"https://pic4.zhimg.com/v2-e18bee76930066219c64563fb2194126_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-e18bee76930066219c64563fb2194126_b.jpg\"></figure><p><br></p><p><br></p><p>上图来源于工信部的产业路线图，能一目了然的看到在光通信的三样关键零组件的自制率上，我们还只能造中低阶的。</p><p>中低阶的概念就是10Gb/S以下的</p><p>目前世界主流产品使用的都是40-100Gb/S的，而中低端的10-40G/S的产品，利润很少，而40-100Gb/S高端的产品，则始终牢牢卡死在美国手中。</p><p>上面这张图只列到25Gb/S以上的，没有继续细分下去，因为再细分的话，在40-100Gb/S的高端光通信领域，<b>我们的国产化率，几乎是0</b></p><p>换句话说，如果中兴无法进口到美国的“模块，光芯片，电芯片”，那中兴的另一大领域，光通信，也将一败涂地。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-dbce6dfac1cff361f9304dad86c94428_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"532\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb\" width=\"532\" data-original=\"https://pic4.zhimg.com/v2-dbce6dfac1cff361f9304dad86c94428_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='532'%20height='284'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"532\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"532\" data-original=\"https://pic4.zhimg.com/v2-dbce6dfac1cff361f9304dad86c94428_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-dbce6dfac1cff361f9304dad86c94428_b.jpg\"></figure><p><br></p><p><br></p><p><b>手机领域</b></p><p>中兴的最后一个领域，手机。</p><p>中兴手机一直不是热门品牌，在公司内的占比也不如基站建设和光通信来的大，而且和之前两个问题一样。</p><p>中兴手机，就算99%都能自制，而且自制的很好，但就是那1%的核心零部件，芯片，被美国人死死恰在手里。</p><p>中国的其他手机也一样，小米，OPPO,VIVO，牌子再响，广告做的再大，那最关键的大脑，那1%，全都被美国人死死掐住。</p><p><b>华为是唯一的例外，华为旗下的海思半导体是极富远见的，让华为手机不受制于美国人。</b></p><p>但是不得不说，手机不受制于美国人，但更重要的射频芯片，华为还是必须向美国购买。</p><p>那为什么是中兴？</p><p>中国那么多高科技公司，为什么美国选择拿中兴开刀？</p><p>一张图告诉你。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-00ba66b59e1b23bc590f5eab083b446a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"442\" data-rawheight=\"417\" class=\"origin_image zh-lightbox-thumb\" width=\"442\" data-original=\"https://pic4.zhimg.com/v2-00ba66b59e1b23bc590f5eab083b446a_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='442'%20height='417'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"442\" data-rawheight=\"417\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"442\" data-original=\"https://pic4.zhimg.com/v2-00ba66b59e1b23bc590f5eab083b446a_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-00ba66b59e1b23bc590f5eab083b446a_b.jpg\"></figure><p><br></p><p><br></p><p>这张图说的是从2G时代开始，到今天,已经在布局的5G时代，电信设备制造商的不断厮杀，优胜劣汰。</p><p>从2G,3G,4G,5G（测试中）各家设备厂商所占的份额一直在变。</p><p>2G时代，群雄逐鹿，各显神通</p><p>3G时代，先死一片</p><p>4G时代，格局逐步奠定。</p><p><b>而即将到来的5G时代，通讯设备的蛋糕由诺基亚，爱立信，中兴，华为，四家公司瓜分，其中两家中国公司合计占有的份额超过了50%</b></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-02a3ad659072b7987ff1353f6503b1c0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"528\" class=\"origin_image zh-lightbox-thumb\" width=\"508\" data-original=\"https://pic4.zhimg.com/v2-02a3ad659072b7987ff1353f6503b1c0_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='508'%20height='528'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"528\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"508\" data-original=\"https://pic4.zhimg.com/v2-02a3ad659072b7987ff1353f6503b1c0_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-02a3ad659072b7987ff1353f6503b1c0_b.jpg\"></figure><p><br></p><p><br></p><p>五大电信设备制造商的5G测试量</p><p>全球五大电信设备制造商的5G测试量排名中，我们的华为和中兴分列2、4位。</p><p><b>中国依旧占据5G的“半壁江山”。</b></p><p><b>也就是说，中国正在拥有5G时代的话语权。</b></p><p>三流的公司卖产品，二流的公司卖服务，一流的公司卖标准。</p><p>我之前就不断强调，谁拥有5G时代的话语权，谁就能制定5G时代的标准。</p><p>而谁能主宰5G时代，谁就能主宰未来世界。</p><p>中国将主宰5G时代的光芒正逐渐闪现</p><p><b>而此时，美国出现了</b></p><p>一纸贸易禁令，直接将中兴打残。</p><p>打残中兴等于是打残中国未来5G的一条腿</p><p><br></p><p>美国在准确，凶狠，恶毒的狙杀中国的高科技未来，尤其是美国最在乎的5G领域。</p><p>那朋友们肯定会问，中国5G的一家已经被打，美国下一步是不是要打华为了？</p><p>我个人分析，美国并不会那么快的去打华为。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-cbdf5e7be7b2d7c246a6908391fe4f0c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"564\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb\" width=\"564\" data-original=\"https://pic4.zhimg.com/v2-cbdf5e7be7b2d7c246a6908391fe4f0c_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='564'%20height='325'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"564\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"564\" data-original=\"https://pic4.zhimg.com/v2-cbdf5e7be7b2d7c246a6908391fe4f0c_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-cbdf5e7be7b2d7c246a6908391fe4f0c_b.jpg\"></figure><p><br></p><p><br></p><p>原因有二</p><p>1，伤敌一千自损八百。</p><p>没错，美国可以打残中兴，但同时也会对美国自己的企业造成重大贸易损失。别忘了，中国的这些科技厂商，是你美国公司的最大客户。</p><p>2，让中国在谈判桌上处于被动。</p><p>美国最终的目的是遏制中国高科技发展，但它同时又需要继续从中国这里赚取巨额利益。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-4e5afc513cf14805ec1b50c106679598_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"657\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-4e5afc513cf14805ec1b50c106679598_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='500'%20height='657'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"657\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-4e5afc513cf14805ec1b50c106679598_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-4e5afc513cf14805ec1b50c106679598_b.jpg\"></figure><p><br></p><p><br></p><p>《经济学人》中美科技冷战</p><p>那怎么办呢？</p><p>就是通过谈判，谈判出一种即限制中国高科技发展，又不至于和中国彻底撕破脸的结果。</p><p>而为了达成这结果，先打你的中兴，让你知道我的实力，让你怕，然后再打你的大疆，你的小米，打你所有需要我美国核心零组件和专利权的科技公司。</p><p><b>这就是美国的最终套路，他不能让中国爬到他头上，但也不能让中国过于矮，中国像十多年前一样给美国人当奴隶，当生产玩具、衣服、洗脸盆、运动鞋的廉价国家对美国来说是最好的。</b></p><p><b>但这又怎么可能。中国永远不会再成为那个用几亿条牛仔裤换你一架波音飞机的中国。</b></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-5af588943f168e091d51f892280fdb4c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"232\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-5af588943f168e091d51f892280fdb4c_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='450'%20height='232'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"232\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-5af588943f168e091d51f892280fdb4c_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-5af588943f168e091d51f892280fdb4c_b.jpg\"></figure><p><br></p><p><br></p><p>但目前的情势，对中国很不利。</p><p>中美贸易战有个很严重的问题，就是它完全不对等。</p><p>大家有没有想过这问题呢？</p><p>美国先后对中国卖给美国的商品施加总计1500亿美金的惩罚性关税。</p><p>中国反报复美国50亿美金再加之后的500亿。</p><p>那么问题来了</p><p>中国卖给美国一年5056亿</p><p>美国卖给中国一年1034亿</p><p><br></p><p>美国制裁中国5056亿商品中的1500亿</p><p>中国制裁美国1034亿商品中的550亿</p><p>那么，美国再继续制裁我们，我们该怎么办？</p><p>美国如果将制裁金额提高到2000亿，那我们怎么办？</p><p>我们一共才买美国1034亿，换句话说在贸易战中我们的报复弹药一共就1034亿，可美国有5056亿。</p><p>那我们的弹药打完了，该怎么办？</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-5af588943f168e091d51f892280fdb4c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"232\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-5af588943f168e091d51f892280fdb4c_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='450'%20height='232'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"232\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-5af588943f168e091d51f892280fdb4c_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-5af588943f168e091d51f892280fdb4c_b.jpg\"></figure><p><br></p><p><br></p><p>还有一个更严重的问题。</p><p>我们制裁美国大豆，玉米，猪肉，牛肉，葡萄酒一堆东西是很好，也能打到特朗普的支持州。</p><p>可正如我上面所说，大豆玉米，猪肉牛肉葡萄酒，这些东西所占每年进口1000多亿的一小部分，剩下的绝<b>大部分是类似于中兴公司这种，向美国购买核心零组件，关键专利权的。</b></p><p>我们可以完全不吃美国的大豆，玉米，牛肉，猪肉，我自己就从来不吃美国的猪肉和牛肉，但我们的中兴公司，华为公司，小米公司，大疆公司，一大堆高科技公司，能不向美国购买核心零组件和关键专利权吗？</p><p>如果不买美国的，那我们买谁的？</p><p>日本还是欧洲？</p><p>那像中兴要买的射频芯片是美国独此一家的技术呢？该怎么办？</p><p>没有这些芯片和专利，中国的高科技公司将立刻陷入困境。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-f4fd33f15c6a739c421873b7f526d8aa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic1.zhimg.com/v2-f4fd33f15c6a739c421873b7f526d8aa_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='540'%20height='375'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"540\" data-original=\"https://pic1.zhimg.com/v2-f4fd33f15c6a739c421873b7f526d8aa_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-f4fd33f15c6a739c421873b7f526d8aa_b.jpg\"></figure><p><br></p><p><br></p><p>有人说那正好借这个机会中国人自制。</p><p>我们当然要自制，也一直在自制，我查阅的大量资料中，也很清楚这二十年来我们一直在自制。</p><p>最好的例子就是当年美国利用GPS钳制我们，我们痛下决心，投入巨大人力财力，开发了自己的北斗卫星系统。</p><p>北斗系统，完整构建后，一点也不输美国的GPS</p><p>但，远水救不了近火。</p><p>眼前美国正在制裁我们，一把刀已经砍掉了我们的一条腿，而这些尖端科技产品，从研发到产品成熟再到量产，没个三五年是不可能成功的，这三五年，怎么办？</p><p>除了谈判，恐怕别无选择。</p><p>中国可能需要牺牲其他利益，来换取与美国的和解。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-c6b4b118d92d9eb002895ef7d70c7e1c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-c6b4b118d92d9eb002895ef7d70c7e1c_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='340'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-c6b4b118d92d9eb002895ef7d70c7e1c_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-c6b4b118d92d9eb002895ef7d70c7e1c_b.jpg\"></figure><p><br></p><p><br></p><p>不过历史一直证明，委曲求全来的和平，从来不是和平，美国上半年和你和解了，下半年会再制造个借口来讹诈你一笔。</p><p>大家都知道我经常在文章里骂美国，基本十篇文章有六篇是骂美国的，但正因为我对美国的险恶有所了解才更觉得忧心忡忡，更觉得美国可恶。</p><p>中兴的例子，证明了美国的凶恶，它把中低端的东西都放给你，自己却牢牢掌握着所有核心零部件，虽然那核心零部件只占整个生产链的1%。</p><p>它如果想对付你，只要掐住这1%，你就从一个巨人，成为了一个残疾人。</p><p>华为是少数真正在改变这点的公司，也是我最佩服的公司。</p><p>关于中美贸易战，微观系列会持续为您观察。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-c5c52b4f4267f39c1cfe08c70317acbb_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"326\" data-rawheight=\"203\" data-thumbnail=\"https://pic4.zhimg.com/50/v2-c5c52b4f4267f39c1cfe08c70317acbb_b.jpg\" class=\"content_image\" width=\"326\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='326'%20height='203'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"326\" data-rawheight=\"203\" data-thumbnail=\"https://pic4.zhimg.com/50/v2-c5c52b4f4267f39c1cfe08c70317acbb_b.jpg\" class=\"content_image lazy\" width=\"326\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-c5c52b4f4267f39c1cfe08c70317acbb_b.gif\"></figure><p><br></p><p><br></p><p><b>看完的朋友，欢迎搜索公众号，微观系列，关注我</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-212ce68367cf05940275486a021ad21e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-212ce68367cf05940275486a021ad21e_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='540'%20height='340'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-212ce68367cf05940275486a021ad21e_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-212ce68367cf05940275486a021ad21e_b.jpg\"></figure><p><br></p><p>版权所有，转发请注明</p><p>我是江平舟，平凡世界里的，一叶孤舟。</p>",
+                "comment_count": 151,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/80/v2-c7cf609d1cd3e9964b9c053c598130dd_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-973ffd3c7da4336caee77c4da0046f66_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-202d11783eccd08e57f8e1b17d1f9e8b_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic2.zhimg.com/v2-c7cf609d1cd3e9964b9c053c598130dd_200x112.jpg"
+            },
+            "attached_info": "CkQQBBoIOTc0NjIwMTUgudPg1gUooQcwlwFAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMjMxMjI2NzRyCTM3MDcwNTQzNA=="
+        }
+    ]
+}

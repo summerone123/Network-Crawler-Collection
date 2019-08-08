@@ -1,0 +1,235 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1472827320.79792",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1471916296.3&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1471916296.29802"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "华为和小米并不用担心，毕竟有自己的芯片，虽然是ARM的公版架构。。。但是毕竟还是有个备用。其实这件事未必不是一件好事，每次美帝搞事，都是在给我朝上课啊，他美帝针对我们什么，我们就点哪棵天赋树。对于我朝的研发能力我还是有信心的。再说句题外话吧…",
+                "created_time": 1524318602,
+                "id": 372715563,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-b29f01852a463995caf744eea72ce204_{size}.jpg",
+                    "badge": [],
+                    "name": "看山不是山",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/bad536f2991d66c69106260b4f682a59",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "民族主义",
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-b29f01852a463995caf744eea72ce204_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "hrjwxhn39",
+                    "id": "bad536f2991d66c69106260b4f682a59"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/372715563",
+                "question": {
+                    "title": "中兴这么被卡脖子，下个会不会就是华为，联想，小米之类的公司？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273768228",
+                    "created": 1524038133,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273768228
+                },
+                "updated_time": 1524318602,
+                "content": "<p>华为和小米并不用担心，毕竟有自己的芯片，虽然是ARM的公版架构。。。但是毕竟还是有个备用。</p><p>其实这件事未必不是一件好事，每次美帝搞事，都是在给我朝上课啊，他美帝针对我们什么，我们就点哪棵天赋树。对于我朝的研发能力我还是有信心的。</p><p>再说句题外话吧，据说华为已经开始着手研发自研架构了，到时候华为在手机领域除系统以外应该是可以不依赖于美帝。</p><p>华为和中兴在我看来也并不会像大唐和巨龙一样，毕竟侯为贵和任正非两人都不会是等闲之辈。</p><p>至于计算机芯片。。。这个不仅我朝，全世界都tm依赖美帝，暂时没什么办法。但是好像前段时间我朝研发出来了一款x86的芯片，不知道性能如何，可能也就将就用吧。。。</p><p>OS方面，我认为短时间还是要高度依赖美帝，没有办法的办法。。。。</p><p>然后总结一下，这次事情，不能说是一件坏事，这是给我朝的一次警醒，是一次巨额学费的课，我相信在这之后我朝半导体，系统等信息产业会加速发展</p>",
+                "comment_count": 4,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc4Mjc3NTMgioPt1gUoBzAEQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTEyNjE2cgkzNzI3MTU1NjM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "叙利亚的战略位置极为重要，地处中东中心位置，还有大量石油储备，对于西方国家极为重要，是西方国家与俄博弈的棋盘。众所周知，几年前叙内战爆发，反政府武装迅速壮大，一票恐怖分子也进叙搅局。形成了巴沙尔政府军、反政府武装、伊斯兰国等多方势力，在巴…",
+                "created_time": 1523709165,
+                "id": 366888113,
+                "voteup_count": 9,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-fb29781d9e0dd6e875085fc7302beff6_{size}.jpg",
+                    "badge": [],
+                    "name": "弦断",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0d1035ca87dbcd8d272383b689292cd2",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-fb29781d9e0dd6e875085fc7302beff6_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "liu-si-liang-23-27",
+                    "id": "0d1035ca87dbcd8d272383b689292cd2"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/366888113",
+                "question": {
+                    "title": "怎么看4月13日美国联合英国法国对叙利亚的这次武装打击？",
+                    "url": "http://www.zhihu.com/api/v4/questions/272278728",
+                    "created": 1523678743,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 272278728
+                },
+                "updated_time": 1523710023,
+                "content": "<p>叙利亚的战略位置极为重要，地处中东中心位置，还有大量石油储备，对于西方国家极为重要，是西方国家与俄博弈的棋盘。</p><p>众所周知，几年前叙内战爆发，反政府武装迅速壮大，一票恐怖分子也进叙搅局。形成了巴沙尔政府军、反政府武装、伊斯兰国等多方势力，在巴沙尔政权支撑不住的时候，俄罗斯普京政府出兵援叙，而俄国的目的扶持巴沙尔政权巩固俄在叙利益。</p><p>上个月叙政府军在俄军火力支援下基本剿灭反政府武装，而反政府武装最大的支持者是美国及北约一票走狗，他们的目的就是扶持反政府武装与俄国扶持的巴沙尔政权作对，搅乱俄国布局。</p><p>再看美英法对叙利亚动武的时机，正直叙政府军基本剿灭反政府武装，美英法见他们在叙国内扶持的势力被消灭殆尽，如果一个俄国扶持的政府完全控制叙利亚，美英法以后在叙利亚的利益将大打折扣，所以叙反政府武装幕后代理人坐不住了扶持的棋子没了只能直接出面了。</p><p>俄罗斯的说法，那就是这次叙利亚化武事件，纯粹是由美国特工策划的，目的是阻止叙利亚军队的节节胜利势头。</p><p>以化武这种自导自演的好戏为借口直接绕过联合国安理会，武力攻击叙利亚干涉别国内政的流氓行径，打击叙政府就是变相打击俄罗斯，这就是美英法赤裸裸向俄国索要瓜分叙利亚蛋糕。<br>特朗普说，“将持续对叙利亚进行轰炸，直到叙利亚政府停止使用化武攻击。”这就是向巴沙尔政权及扶持者俄罗斯索要在叙利益，叙割分利益之时就是叙政府停用化武之日。</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTY3NjgxMTAg7enH1gUoCTACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIyNzgxMzc0cgkzNjY4ODgxMTM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524794551,
+                "is_labeled": false,
+                "excerpt": "当72岁的美国总统特朗普遇到40出头的法国总统马克龙时，他抑制不住自己对青年才俊的那种喜欢，拥抱牵手亲脸各种小动作不断。如果一个人喜欢比自己小很多的同性，要么是从对方身上看到了自己年轻时的影子，要么是打心底里欣赏和羡慕对方。特朗普40岁的时候肯…",
+                "excerpt_title": "",
+                "id": 36174082,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-27fc9a067d3ea945be74a82633fc65e5_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-fdf61c096588dc95a7ec5492c45efba8_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-ff2f522e8c99334d0934970ffd47968f_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/4105f115b1168ce4e4754c0269b5b4b2_{size}.jpg",
+                    "badge": [],
+                    "name": "局势君",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/15f3734d808ea552397c5cfbda8409fa",
+                    "gender": 1,
+                    "user_type": "people",
+                    "headline": "头衔很少，干货很多！",
+                    "avatar_url": "https://pic3.zhimg.com/50/4105f115b1168ce4e4754c0269b5b4b2_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "talkforeasy",
+                    "id": "15f3734d808ea552397c5cfbda8409fa"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/36174082",
+                "title": "不和第一名交手，是得不到地盘和话语权的",
+                "created": 1524794551,
+                "content": "<p>当72岁的美国总统特朗普遇到40出头的法国总统马克龙时，他抑制不住自己对青年才俊的那种喜欢，拥抱牵手亲脸各种小动作不断。如果一个人喜欢比自己小很多的同性，要么是从对方身上看到了自己年轻时的影子，要么是打心底里欣赏和羡慕对方。特朗普40岁的时候肯定不是马克龙现在的样子，无论外形还是国际地位。所以特朗普对马克龙这个政坛小鲜肉是一种发自肺腑的喜欢，如今自己什么都有了，就是没有马克龙的颜值和年龄啊。<br/><br/>这两天这两人之间那些小动作反而比他们聊了什么更有新闻性。特朗普从来都不是一个守口如瓶的人，也没有专事专办的那份耐心，跟法国总统见面的日子，他却对记者们公布了另外一个消息。4月24号那天，也就是马克龙访美的第二天，特朗普对媒体说，他已经下令自己的财政部长、贸易代表、经济委员会主任还有白宫贸易顾问等人抓紧时间收拾行李，等中国的五一小长假一过路上不堵了，他们就带团过去和中国人谈贸易协定，而且他本人觉得这一次应该能谈成；当然乐观归乐观，万一谈不拢的话，各位就等着观赏贸易战吧。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-fdf61c096588dc95a7ec5492c45efba8_b.jpg\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-fdf61c096588dc95a7ec5492c45efba8_r.jpg\"/><figcaption>（特朗普和马克龙愉快地手拉手）</figcaption></figure><p>如果仔细对比特朗普曾经说过的每一句话，不管是直接对媒体说的还是他在推特上直播的，都还算是比较靠谱，即使办不到也不至于没了下文。他说要派人来那肯定会派过来，他说自己对谈判持有乐观的态度，就意味着他给这帮小弟们划定的底线并不是没有下限，不至于让我国难以接受，不然他的乐观从何而来呢？另外他还说谈不拢就要收税打贸易战，这个可以看成是他担心提前剧透所以说了一句迷惑人的话。特朗普为什么会乐观，我们不妨看看他即将派出的大队人马中为首的四个人都是什么来头。<br/><br/>四个人中，财政部长姆努钦和白宫国家经济委员会主任库德洛算是鸽派人物，爱好和平推崇自由贸易；而贸易代表莱特希泽和白宫贸易顾问纳瓦罗在贸易上属于鹰派人物，是特朗普那一套美国优先反对自由贸易的忠实粉丝。所以从这4个人的配置就看出了特朗普这一次的良苦用心和满满的诚意。如果四个人全是鸽派的话他担心被我们给忽悠了，所以要安排两个鹰派给盯着；反之如果四个人都是鹰派的话，虽然很符合他自己的胃口，但是他也担心事情会谈崩了后果难以承受。<br/><br/>所以我们才说特朗普用心良苦并且很有诚意，看来他是真心想把事情谈成的。他对那四个人充满了希望，觉得他们既不会让中国人占了便宜，也不会把事情办砸。但是即将到来的这一场谈判可不是请客吃饭和按摩捏脚，这帮人不占点便宜不得到相当的好处是不会回去的，这一切都是幕后老板特朗普的意思。我们为什么这样背后说人家呢，这个是有规律可循的。我们从韩国那边的情况来分析一下就知道了，因为上个月韩国在出口美国的钢材和铝材上得到了永久的关税豁免。 </p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-ff2f522e8c99334d0934970ffd47968f_b.jpg\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-ff2f522e8c99334d0934970ffd47968f_r.jpg\"/><figcaption>（美国财政部长姆努钦）</figcaption></figure><p>还记得3月8号那天特朗普大笔一挥在一份文件上签了名，那份文件的内容说两个礼拜之后，所有运往美国的钢材额外加税25%，铝材额外加税10%，请注意是“所有”。这个税率往上一加，可能原本赚钱的买卖就要亏了，全球那些跟美国人从事钢铝贸易的企业分分钟要黄的节奏。可是人家特朗普既有威胁国家安全这种所谓的法律依据，还有签署总统行政命令的权力，他这么做没人拿他有办法。<br/><br/>这条命令一出友邦们那是一片惊诧。特朗普很快就感觉到了巨大的压力，压力不仅来自国外也来自国内。情急之下他又下令有关部门说这个税给部分盟友们暂时免征一个月，在此期间重新跟它们谈条件签贸易合同，这个合同的原则是美国人不能吃亏，谈的好了这个税就能免，谈的不好那时间一到马上开征。这就是特朗普这个职业商人的做法，先不计成本不考虑后果并且六亲不认地先把税给加上去，然后你们火急火燎挨个找我谈，谈得拢我们就免税谈不拢我们就收税。韩国就是最早火急火燎找美国谈条件签合同的国家之一。<br/><br/>早在奥巴马时代，韩国和美国之间就签署了双边贸易协定。这一次韩国为了请求特朗普给它免了这两项钢铝制品的关税，原来那个旧协议被重新修改了一下。把韩国每年从美国进口的汽车数量增加了一倍，并将美国对韩国某些汽车征收的关税延长了20年。这些改完双方按了手印之后前面两个钢铝税韩国是永远不用交了，虽然得到了永久的豁免待遇，但是韩国每年出口到美国的钢材总量还被限制在了270万吨，多一斤都不行。270万吨是韩国往年向美国出口钢材的7成左右。 </p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-14437f797957e746b93393c68ac49069_b.jpg\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-14437f797957e746b93393c68ac49069_r.jpg\"/><figcaption>（美国总统特朗普和韩国总统文在寅）</figcaption></figure><p>美国和韩国是什么关系呢？是军事战略盟友啊！美国在韩国有41个军事基地，每年都举行规模庞大的军事演习，而且下个月特朗普和某80后的会谈还要韩国牵线搭桥。纵使有这样的关系，特朗普也是一副锱铢必较有便宜必上的模样。那么可以想象一下，五一之后来的那拨人面对我们的时候，会有多么贪婪和令人头疼。这帮人的目的是要谈一个中美双边贸易协定出来，这个协定的核心指导思想就是美国人要多占便宜少吃亏。<br/><br/>双边协定如果谈成了，那就意味着我们一直担心的中美贸易战会被避免，也意味着我们将来能看到更多美国货出现在我们周围。美国货的出现就说明美国人迫使我国开放了某些领域，这些领域对外开放了，国内原本那些同行们可能要过苦日子了，它们得跟美国产品竞争客户和市场，争不过就意味着被挤出市场，从而残酷地破产倒闭或失业。虽然从商业上这是没有问题的，但是有人下岗失业终究是我们的社会问题。<br/><br/>想必这几天负责接待和谈判的同志们每天都在加班熬夜做准备，五一也应该有没有假期吧，那个让大伙儿都担心的贸易战会不会避免就看节后的谈判情况了。再说之前那两个钢材和铝材的关税对我们可是立刻生效的，像欧盟、阿根廷、巴西、加拿大、墨西哥等国还有1个月的临时豁免，我们连这个都没有。那么我们只能乖乖地掏钱吗？当然还是要做一下反抗的，万一反抗成功了呢！我们的反抗措施是找世界贸易组织进行磋商。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-4c105737213c3613d2a1c8dcee68f214_b.jpg\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-4c105737213c3613d2a1c8dcee68f214_r.jpg\"/><figcaption>（为了报复美国我们计划对美国汽车加税）</figcaption></figure><p>在世贸组织的成员里，如果有人觉得某个人不遵守贸易规矩而使自己蒙受了损失的话，就可以要求对方来世贸组织的会议室，请世贸组织的有关机构做裁判或中间人，双方面对面谈判解决这个争议；如果双方谈不拢那么就在世贸组织来一场类似民事诉讼的法律行动，最后根据判决结果来解决纠纷。这个就是国际贸易组织的争端解决机制。<br/><br/>我们向世贸组织发起针对美国的磋商请求后，美国要在10天内给我们答复，回应到底要不要参与磋商，目前这一步美国人已经做了。接下来双方要在一个月内见面开始会谈，并且要在两个月内彻底搞定这件事。如果1个月内双方不见面或者两个月内谈不拢的话，那就要请专家组出面解决了。专家组由哪些人组成需要当事双方共同敲定，如果两家都懒得挑人那世贸组织就自己做主找人了。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-b853d3c2d5f4cd70405408d4d606d127_b.jpg\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-b853d3c2d5f4cd70405408d4d606d127_r.jpg\"/><figcaption>（位于瑞士日内瓦的世贸总部大楼）</figcaption></figure><p>那么专家组怎么解决两家的分歧呢？在此大家把这个专家组当做一个法院的法官团队就可以了。专家组的任务就是收集分歧双方提交的各种材料，然后仔细研究这些到手的证据并且实地调查走访，完了查阅世贸组织的相关规定和法律条文，最后做出到底谁对谁错事情该怎么办的裁决。专家组的这个审判时间短则半年，最长能到9个月。所以中美之间关于这个钢铝收税的纠纷说不定到今年的年底才能知道最终结果。</p><p><br/>当专家组的结果出来之后，当事双方就需要按照这个结果来执行了，该改正错误的改正错误，该给人赔偿的就给人赔偿。执行这个结果的时间也是短则半年长可达1年半。所以这种国际争端的解决和执行都拖得特别久，最差的情况是我们今年提交了磋商案，真正迫使对方解决问题是两年后的事情了。假如对方死都不肯改正错误不按照磋商结果办事的话，那么世贸组织还可以允许原告对这个老赖实行强制的关税报复。<br/><br/>这眼瞅着到月底了，也就意味着之前被临时豁免了钢铝关税的那些国家的安稳日子马上到头了，于是这些国家坐不住了，也纷纷向世贸组织请求说要跟美国人磋商。世贸组织说你们没看新闻吗，这个磋商中国人早就提出来了，你们直接加进去我们一起解决就行。所以前两天欧盟、香港、印度、俄罗斯和泰国都写了申请书加入中美贸易磋商，大家算是一起当原告到世贸组织状告美国吧。与此同时同时挪威、新加坡、瑞士、土耳其和委内瑞拉也表达了对那几个原告的声援，表示将随时关注案情的进展。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-d1a9fda7e552733cf1e6d486def67672_b.jpg\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-d1a9fda7e552733cf1e6d486def67672_r.jpg\"/><figcaption>（位于比利时布鲁塞尔的欧盟总部）</figcaption></figure><p>过了五一我们一方面要跟美国人谈双边贸易协定，另一方面还要在世贸组织和美国人进行关税磋商，这是2018年我们必须要面对和跨过去的两道坎。这个也不能说美国人有多坏，可以说这是市场规律决定的。即使在同一个菜市场上做生意的两个小商贩，如果其中一个生意越做越大，同行之间发生不愉快的事情也是必然的，何况是大国之间呢！实力和地盘以及话语权从来都是在和高手过招的时候争取到的，如果我们这一次我们跨过了这两道坎，想必有不少国家会对我们刮目相看，这对我们将来在中亚、南亚和非洲的经济和战略布局是很有意义的。</p>",
+                "comment_count": 6,
+                "image_url": "https://pic4.zhimg.com/50/v2-27fc9a067d3ea945be74a82633fc65e5_hd.jpg",
+                "voteup_count": 36,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjY2MDE3NiC3iYrXBSgkMAZAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2MTc0MDgy"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526916739,
+                "is_labeled": false,
+                "excerpt": "周末国际上最受关注的新闻大概就是咱们高层赴美进行贸易磋商的事情了，今天早上起来之后就看到APP半夜疯狂推送，中美就经贸磋商发表联合声明，概括起来有以下几条： 1、将采取有效措施实质性减少美对华货物贸易逆差； 2、<b>双方同意有意义地增加美国农产品和…</b>",
+                "excerpt_title": "",
+                "id": 37083514,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-14b98559d27b4ebef25ca66cf8ef091c_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-cfdc1be97757f6ef5533ead888523f80_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-4f154ae4aa7adf31bff0cfc9c95f8be4_{size}.jpg",
+                    "badge": [],
+                    "name": "奶瓶哥",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/a29a83b06f8866424a649f145235ba1c",
+                    "gender": -1,
+                    "user_type": "people",
+                    "headline": "专注趋势二十年，公众号：趋势漫游指北",
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-4f154ae4aa7adf31bff0cfc9c95f8be4_is.jpg",
+                    "is_org": false,
+                    "type": "people",
+                    "url_token": "mei-ri-ge-gu-qu-shi",
+                    "id": "a29a83b06f8866424a649f145235ba1c"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/37083514",
+                "title": "农业股要苦逼了",
+                "created": 1526828703,
+                "content": "<p>周末国际上最受关注的新闻大概就是咱们高层赴美进行贸易磋商的事情了，今天早上起来之后就看到APP半夜疯狂推送，中美就经贸磋商发表联合声明，概括起来有以下几条：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、将采取有效措施实质性减少美对华货物贸易逆差；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、<b>双方同意有意义地增加美国农产品和能源出口、中方将大量增加自美购买商品和服务；</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、同意鼓励双向投资，将努力创造公平竞争营商环境；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>4、双方高度重视知识产权保护，同意加强合作；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其中第二条作为消费者来说是一件好事，以后可以买到更多更便宜的进口食品，但对A股农业板块的冲击也很大，一开始传出贸易战时，因为我们是美国最大的大豆出口国，所以停止进口大豆是大家第一个想到的反击招数，顺着这个思路往下推导，农产品的需求不变，来源却急剧减少，农产品势必要涨价，直接导致农业股先凸凸了一波，现在贸易磋商初步结果出来，不但没有减少，反而要加大美国农产品采购，对农业板块会有明显的冲击。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最搞笑的是，中新社对此的评论是“扩大农产品进口规模有助于倒逼国内农业结构调整”，这洗地就有点过分了，以芯片为例芯把这句话改一下：扩大电子芯片进口规模有助于倒逼国内芯片结构调整，你就知道这种逻辑其实挺扯的，咱们进口芯片的年份和规模都不小了，也没见国内芯片结构有进步性的调整，反而是整个行业都被美国牢牢掌握在手上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我觉得咱们毕竟还不是第一强国，贸易磋商有让步是正常情况，有短板并不怕，不要想着一味洗地，要正视自己的不足，加把劲解决短板才是当前最重要的事，这样咱们的国家才会越来越好！</p><hr/><p>周五石油罕见霸榜，中石油一根大阳线创下15年股灾以来单日最大涨幅，带着一群石油小弟冲击涨停板，指数也被带着反转了一回。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>老实说我还不确定这根阳线是不是油价上涨带动的，按理说油价飞涨也不是一天两天的事，游资现在才反应过来的这反射弧也忒长了点。</p><hr/><p>董明珠接受央视采访时，表示“哪怕投资500亿，格力也要把芯片研究成功。要想长期持续发展，必须掌握核心技术”，理是这么个理，身为一个中国人，我也希望中国的企业在芯片上不会受制于人，但资本是残酷的，只逐利，不讲感情，芯片研发困难重重，这种说法对格力的股价不一定是好事。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>常山药业周四高管集体减持，周五股价扑街，开盘大跌7%，跟着立刻封死跌停，第二个追进去的14.4亿资金一起吃了碗大面。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>昨晚推送了一条语音，炸出许多潜水的夜猫子，后台回复比平时在推文里的评论热闹多了，回复第一多的是夸我声音好听，第二多就有点囧了，我当时说的是最后一句是“<a href=\"https://link.zhihu.com/?target=http%3A//www.jiangka.cc/movie\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">回复电影得网址</a>”，然而不少人都发了电影的网址，怪我没讲清咯。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>今晚就这样，以上~</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-cfdc1be97757f6ef5533ead888523f80_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1284\" data-rawheight=\"552\" class=\"origin_image zh-lightbox-thumb\" width=\"1284\" data-original=\"https://pic1.zhimg.com/v2-cfdc1be97757f6ef5533ead888523f80_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>查询个股趋势的工具趋势通已更新完最新数据，公众号： “每日个股趋势 ” ，点击菜单“查询趋势”可用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前总共1687只股票处于上涨通道，趋势上涨率47.25%，较上个交易日上涨1.59个百分点。</p>",
+                "comment_count": 2,
+                "image_url": "https://pic2.zhimg.com/50/v2-14b98559d27b4ebef25ca66cf8ef091c_hd.jpg",
+                "voteup_count": 9,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNzAyNDQxNyCfnYbYBSgJMAJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM3MDgzNTE0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1526976973,
+                "is_labeled": false,
+                "excerpt": "这一个多月注定是中兴公司最为动荡的岁月，自从美国确认对中兴实施禁售措施后，中兴整间公司就已经进入到了一种“休克”状态，同时引发国内对于芯片行业自给能力的讨论热潮。经历了一波三折后，就像美国总统特朗普此前在推特上预告的那样，美国政府将推动解…",
+                "excerpt_title": "",
+                "id": 37156624,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-f59418c6ac5e7be328df9e00b3a236d9_hd.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-9246163df5295a843566cc3c0cff1ba7_{size}.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "name": "太平洋电脑网",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/6d8ddeb92749ece5530430c3c1b67f52",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "headline": "聊聊硬件，聊聊互联网",
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-9246163df5295a843566cc3c0cff1ba7_is.jpg",
+                    "is_org": true,
+                    "type": "people",
+                    "url_token": "tai-ping-yang-dian-nao-wang",
+                    "id": "6d8ddeb92749ece5530430c3c1b67f52"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/37156624",
+                "title": "重大利好！中兴确认中美达成取消禁令的大致方案",
+                "created": 1526974791,
+                "content": "<p>这一个多月注定是中兴公司最为动荡的岁月，自从美国确认对中兴实施禁售措施后，中兴整间公司就已经进入到了一种“休克”状态，同时引发国内对于芯片行业自给能力的讨论热潮。经历了一波三折后，就像美国总统特朗普此前在推特上预告的那样，美国政府将推动解除对中兴公司的相关制裁措施。</p><i><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-b7020bb27e04440d24159ffe2e2995b2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"572\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic3.zhimg.com/v2-b7020bb27e04440d24159ffe2e2995b2_r.jpg\"/></figure></i><p>　援引《华尔街日报》的报道称，中国与美国方面已经就解决中兴的争议问题达成了大致的框架方案，协议将解除美国公司向中兴销售零部件和软件的禁令。</p><p>　　具体的方案细节还在进一步的商讨之中，但是预计当完成谈判时，中兴就能重新获得美国供应商的零部件与软件，让公司重新运行起来。当然这个方案也是拥有附加条件的，据称中兴公司可能要被迫对管理层和董事会进行相应的调整，甚至还必须缴纳一定数额的罚金，不过这一切能够换回中兴的重新启动，也是值得的。</p><p>　　对以上消息，中兴方面回应到：消息属实。</p><p>　　当然任何禁令的取消都要经由美国国安部门的详细审查，不过这次已经基本可以确认，中兴很快就可以正式回归了！</p>",
+                "comment_count": 3,
+                "image_url": "https://pic3.zhimg.com/50/v2-f59418c6ac5e7be328df9e00b3a236d9_hd.jpg",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNzA1MzY1MiDHko/YBSgEMANAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM3MTU2NjI0"
+        }
+    ]
+}

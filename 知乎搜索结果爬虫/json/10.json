@@ -1,0 +1,257 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=4543.64776",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=4572.6523&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=4572.65230"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524451120,
+                "is_labeled": false,
+                "excerpt": "作者：亚历山德罗夫 起来，巨大的国家，做决死斗争！要消灭法西斯恶势力，消灭万恶匪群！让高贵的愤怒，翻腾如波涛汹涌！进行人民的战争！神圣的战争！ 敌我是两个极端，一切背道而驰：我们要和平的生活，敌人要黑暗统治！让高贵的愤怒，翻腾如波涛汹涌！进…",
+                "excerpt_title": "",
+                "id": 35999704,
+                "voteup_count": 11,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "type": "people",
+                    "id": "8f205aba367ccae24789d61818ddb009"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35999704",
+                "title": "这首《神圣的战争》送给所有跪在美国跟前“批判”国家与国企的“理中客”",
+                "created": 1524450865,
+                "content": "<p>作者：亚历山德罗夫</p><p class=\"ztext-empty-paragraph\"><br/></p><p>起来，巨大的国家，做决死斗争！</p><p>要消灭法西斯恶势力，消灭万恶匪群！</p><p>让高贵的愤怒，翻腾如波涛汹涌！</p><p>进行人民的战争！</p><p>神圣的战争！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>敌我是两个极端，一切背道而驰：</p><p>我们要和平的生活，</p><p>敌人要黑暗统治！</p><p>让高贵的愤怒，翻腾如波涛汹涌！</p><p>进行人民的战争！</p><p>神圣的战争！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>全国人民轰轰烈烈，回击那刽子手，</p><p>回击暴虐的掠夺者，和吃人的野兽！</p><p>让高贵的愤怒，翻腾如波涛汹涌！</p><p>进行人民的战争！</p><p>神圣的战争！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不让邪恶的翅膀飞进我们的国境</p><p>祖国宽广的田野，不让敌人蹂躏！</p><p>让高贵的愤怒，翻腾如波涛汹涌！</p><p>进行人民的战争！</p><p>神圣的战争！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>腐朽的法西斯妖孽，当心你的脑袋</p><p>为人类不肖子孙，准备下棺材！</p><p>让高贵的愤怒，翻腾如波涛汹涌！</p><p>进行人民的战争！</p><p>神圣的战争！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>起来，巨大的国家，做决死斗争！</p><p>要消灭法西斯恶势力，消灭万恶匪群！</p><p>让高贵的愤怒，翻腾如波涛汹涌！</p><p>进行人民的战争！</p><p>神圣的战争！</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjU5MDI1MCCxjPXWBSgLMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1OTk5NzA0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "在贸易战这个问题上。苹果是友军。在全球化这个问题上。苹果是友军。在中国就业这个问题上。苹果还是友军。苹果应该是川普最恨的一批企业之一了。利润都在外面，产业链都在外面。给别人创造就业，给自己创造逆差。在中国价位高，跟一众国产手机厂商是错位竞…",
+                "created_time": 1524498785,
+                "id": 374512927,
+                "voteup_count": 7723,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-cb8922f0c58213674d74902fd6df3bef_{size}.jpg",
+                    "badge": [],
+                    "name": "facetothefate",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "死理性",
+                    "url_token": "facetothefate",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-cb8922f0c58213674d74902fd6df3bef_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/0847cda7d21f071fa7febe246ce26580",
+                    "type": "people",
+                    "id": "0847cda7d21f071fa7febe246ce26580"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/374512927",
+                "question": {
+                    "title": "如果中国不卖苹果产品，会有什么影响？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274000158",
+                    "created": 1524199528,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274000158
+                },
+                "updated_time": 1524498786,
+                "content": "<p>在贸易战这个问题上。苹果是友军。</p><p>在全球化这个问题上。苹果是友军。</p><p>在中国就业这个问题上。苹果还是友军。</p><p>苹果应该是川普最恨的一批企业之一了。</p><p>利润都在外面，产业链都在外面。</p><p>给别人创造就业，给自己创造逆差。</p><p>在中国价位高，跟一众国产手机厂商是错位竞争，还每每赠送新机设计，消减国产手机设计成本。</p><p>开刀不应该拿苹果开刀，这是送川普助攻呢。</p><p>应该开刀的都是在华狂挣钱，却不制造就业岗位，给中国带来沉重负担的企业。</p><p>比如浓眉大眼的高通。。。</p>",
+                "comment_count": 508,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkQQBBoIOTgxNTQ2NTUg4YL41gUoqzww/ANAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMjMxNjQyNjVyCTM3NDUxMjkyNw=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "禁售这种手段太low了，川普无法整合国内力量，才只好搞禁售。 三星在中国的份额从2013年的20%跌到现在不足1%，中国禁售了吗？boom7事件罚款都没罚，老回的官司还拖着呢。 中国只要支持阿里和腾讯，在30%抽成的事上跟苹果刚到底，就够苹果受得了，还占着道德…",
+                "created_time": 1524430449,
+                "id": 373719289,
+                "voteup_count": 12959,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-0214ee7ff3640a2b0d327282b1e16e98_{size}.jpg",
+                    "badge": [
+                        {
+                            "topics": [
+                                {
+                                    "category": "n_wiki_zhihu",
+                                    "is_black": false,
+                                    "name": "深度学习（Deep Learning）",
+                                    "introduction": "深度学习的概念源于人工神经网络的研究。含多隐层的多层感知器就是一种深度学习结构。深度学习通过组合低层特征形成更加抽象的高层表示属性类别或特征，以发现数据的分布式特征表示。深度学习的概念由Hinton等人于2006年提出。基于深度置信网络(DBN)提出非监督贪心逐层训练算法，为解决深层结构相关的优化难题带来希望，随后提出多层自动编码器深层结构。此外Lecun等人提出的卷积神经网络是第一个真正多层结构学习算法，它利用空间相对关系减少参数数目以提高训练性能。深度学习是机器学习中一种基于对数据进行表征学习的方法。观测值（例如一幅图像）可以使用多种方式来表示，如每个像素强度值的向量，或者更抽象地表示成一系列边、特定形状的区域等。而使用某些特定的表示方法更容易从实例中学习任务（例如，人脸识别或面部表情识别）。深度学习的好处是用非监督式或半监督式的特征学习和分层特征提取高效算法来替代手工获取特征。深度学习是机器学习研究中的一个新的领域，其动机在于建立、模拟人脑进行分析学习的神经网络，它模仿人脑的机制来解释数据，例如图像，声音和文本。同机器学习方法一样，深度机器学习方法也有监督学习与无监督学习之分．不同的学习框架下建立的学习模型很是不同．例如，卷积神经网络（Convolutional neural networks，简称CNNs）就是一种深度的监督学习下的机器学习模型，而深度置信网（Deep Belief Nets，简称DBNs）就是一种无监督学习下的机器学习模型。",
+                                    "excerpt": "深度学习的概念源于人工神经网络的研究。含多隐层的多层感知器就是一种深度学习结构。深度学习通过组合低层特征形成更加抽象的高层表示属性类别或特征，以发现数据的分布式特征表示。深度学习的概念由Hinton等人于2006年提出。基于深度置信网络(DBN)提出非监督贪心逐层训练算法，为解决深层结构相关的优化难题带来希望，随后提出多层自动编码器深层结构。此外Lecun等人提出的卷积神经网络是第一个真正多层结构学习算法，它利用空…",
+                                    "is_vote": false,
+                                    "url": "http://www.zhihu.com/api/v4/topics/19813032",
+                                    "avatar_url": "https://pic2.zhimg.com/50/5d3c206139ca2124997418db09b0bb11_qhd.jpg",
+                                    "type": "topic",
+                                    "id": "19813032"
+                                }
+                            ],
+                            "type": "best_answerer",
+                            "description": "优秀回答者"
+                        }
+                    ],
+                    "name": "解浚源",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "计算机科学"
+                    },
+                    "headline": "深度学习/MXNet中文社区 <a href=\"https://link.zhihu.com/?target=https%3A//discuss.gluon.ai\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">discuss.gluon.ai</span><span class=\"invisible\"></span></a>",
+                    "url_token": "eric314",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-0214ee7ff3640a2b0d327282b1e16e98_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/e82eed9cc724d983c41ad59483b90fdc",
+                    "type": "people",
+                    "id": "e82eed9cc724d983c41ad59483b90fdc"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/373719289",
+                "question": {
+                    "title": "如果中国不卖苹果产品，会有什么影响？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274000158",
+                    "created": 1524199528,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274000158
+                },
+                "updated_time": 1533529975,
+                "content": "<p>禁售这种手段太low了，川普无法整合国内力量，才只好搞禁售。<br>三星在中国的份额从2013年的20%跌到现在不足1%，中国禁售了吗？boom7事件罚款都没罚，老回的官司还拖着呢。<br>中国只要支持阿里和腾讯，在30%抽成的事上跟苹果刚到底，就够苹果受得了，还占着道德高地，完全不需要禁售这种难看的手段。<br>但是你们要明白一点，美国不是铁板一块。以苹果为代表的美国买办资产阶级，是中国人民的老朋友。苹果手机在中国生产，为中国创造就业，返销美国，为美国制造逆差，被川普点名批评。中国为什么要帮川普打击苹果？中国反而要扩大开放，团结美国买办资产阶级。<br>川普代表的美国民族资产阶级和工人才是中国真正的敌人。中国的反击集中在农业、汽车、飞机这些领域，就是要集中打击美国的民族资产阶级和工人。</p>",
+                "comment_count": 896,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkQQBBoIOTgwMTAzNDYg8ezz1gUon2UwgAdAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMjMxNjQyNjVyCTM3MzcxOTI4OQ=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "虽是无奈之举，但也可以趁机换一种进攻方式。将来华为与美国的关系会变成类似高通与中国的关系。华为的产品服务全部退出美国意味着，华为在美国（在其他市场当然还需要）不需要再跟友商交叉专利授权，可以放心大胆的收割专利税了，毕竟，华为的大量专利也不…",
+                "created_time": 1524366036,
+                "id": 373057918,
+                "voteup_count": 1933,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/29409d00fac9f25ab2849638e257b3a2_{size}.jpg",
+                    "badge": [],
+                    "name": "多见多怪",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "十万个为什么",
+                    "url_token": "zhu-li-feng",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/29409d00fac9f25ab2849638e257b3a2_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/38f35e3265d2c2e74011ef7d86cd6338",
+                    "type": "people",
+                    "id": "38f35e3265d2c2e74011ef7d86cd6338"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/373057918",
+                "question": {
+                    "title": "如何看待华为即将退出美国市场？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274183241",
+                    "created": 1524322195,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274183241
+                },
+                "updated_time": 1524545305,
+                "content": "<p>虽是无奈之举，但也可以趁机换一种进攻方式。</p><p>将来华为与美国的关系会变成类似高通与中国的关系。</p><p>华为的产品服务全部退出美国意味着，华为在美国（在其他市场当然还需要）不需要再跟友商交叉专利授权，可以放心大胆的收割专利税了，毕竟，华为的大量专利也不是绣花枕头的摆设，毕竟，美国不是号称知识产权保护强国嘛。</p><p>这种事情并非没有先例，比如诺基亚，破产后光靠收专利就赚得盆满钵满（破产说的是诺基亚手机业务，关于诺基亚靠收专利费赚翻了的新闻随便一搜就一大堆：<a href=\"https://link.zhihu.com/?target=http%3A//www.sohu.com/a/210390059_488721\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">不卖产品！凭借手中3万专利，诺基亚年收入上千亿</a>，<a href=\"https://link.zhihu.com/?target=http%3A//www.cyzone.cn/a/20160223/290670.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">光靠专利就能吃撑！没有手机业务的这两年，诺基亚活得滋润得很 - 商业模式 - 创业邦</a>），谁让自己没有产品服务了呢，这种不对称优势，友商也很无奈啊，诺基亚能打友商，友商却没法还手，哈哈。</p><p>可以想象的未来新闻：华为在产品退出美国市场后实现美国市场的首次盈利，^_^。</p>",
+                "comment_count": 425,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkQQBBoIOTc4OTAwODQg1PXv1gUojQ8wqQNAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMjMyMDUwNzVyCTM3MzA1NzkxOA=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "不是我诋毁国内安卓，我父母用的华为，不管下载任何软件，默认，对，是默认有查看通讯录权限，修改通讯录权限，还有一大堆各种乱七八糟的权限。 我在清明节回老家的时候，我妈让我帮他下个视频软件看电视，然后我下了个企鹅的，因为我刚好有企鹅会员。 等我…",
+                "created_time": 1524370329,
+                "id": 373110614,
+                "voteup_count": 9122,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-e4f6d991eeb9fd8b3c23ae4c43c22067_{size}.jpg",
+                    "badge": [],
+                    "name": "蓝翔研究生",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "没有故事，甚至连酒也买不起！",
+                    "url_token": "chungking-16",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-e4f6d991eeb9fd8b3c23ae4c43c22067_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "url": "http://www.zhihu.com/api/v4/people/921f5e06a9a757a5e5fa55ac304c1c53",
+                    "type": "people",
+                    "id": "921f5e06a9a757a5e5fa55ac304c1c53"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/373110614",
+                "question": {
+                    "title": "如果中国禁止销售iPhone了，你会通过代购购买吗？会有多少人呢？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274080141",
+                    "created": 1524243367,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 274080141
+                },
+                "updated_time": 1525524430,
+                "content": "不是我诋毁国内安卓，我父母用的华为，不管下载任何软件，默认，对，是默认有查看通讯录权限，修改通讯录权限，还有一大堆各种乱七八糟的权限。<br><br>我在清明节回老家的时候，我妈让我帮他下个视频软件看电视，然后我下了个企鹅的，因为我刚好有企鹅会员。<br><br>等我下完之后，没有任何提示，反正用的很正常，我就顺便帮我妈清理下手机的垃圾，看看设置里面那些需要修改一下的。<br><br>结果我就在权限里面看见了，腾讯视频有修改通讯录权限，访问通讯录权限，还有各种访问相册，相机。麦克风，地图，地址等等权限。<br><br>我就不明白，你一个视频软件，你特么要修改通讯录权限是什么意思？？？<br><br>你说你要相机我觉得很正常，毕竟偶尔要扫一扫，那你拿相册权限是为何？？<br><br>还有各种推送权限。<br><br>我自己IPhone 手机里的腾讯视频就没这么吊炸天，我下载以后，它就要我开启通知，通讯录，获取我当前地址权限。但是我一律否决，它也没有办法从后台默默给我开启。<br><br>所以，这是我从四年前用iPhone 至今为止，不愿意再换回国内安卓手机的最大原因。<br><br>因为本身硬件，体验各种对比，估计都差不多。但是国内安卓这幅流氓样，我真特么受不鸟！！<br><br>特别是修改通讯录权限这是我一直无法理解的权限？？？你说你访问通讯录说是为了方便加亲朋好友，那你要修改通讯录权限，这是什么操作？？？<br><br>所以如果iPhone 被禁售，而国内安卓没有任何改变，并且没把私自购买iPhone 会被抓起来判刑，吃牢饭写进国家法律里，我就一定会到香港，澳门去自己买。香港澳门也被禁售，我就去台湾，新加坡。<br><br>——————————————————————————————————————————————————分割线<br><br>对于评论里“洗地”的，说我污蔑华为，还是污蔑国内安卓，或者说我瞎编的？？<br><br>你现在下个软件，就下载企鹅视频，你确定它会问你：允许修改通讯录？？然后让你点击：确认允许？？<br><br>你确定它有问？？<br><br>只要不是傻子，没有阅读理解障碍的，都知道，我这个回答，着重点点：默认修改通讯录权限。这个权限它根本没有经过我同意，它要问我可不可以修改通讯录？我会给？？<br><br>而且不止这一个原因，更深层次的是，我TM不明白，一个视频软件，你拿修改通讯录权限这是什么操作？？<br><br>IPhone的权限，我真的没遇见过有修改，修改，修改通讯录权限的操作。。<br><br>这才是让我感觉气愤的地方：首先一个视频软件，你不管从哪方面说，它都应该没有，也不需要的修改通讯录权限。<br><br>紧接着，它并不会主动问你：请允许“我”修改通讯录。然后你可以点击同意，也可以点击否。<br><br>而是，默认有这个权限！！<br><br>这真没得洗。。<br><br>——————————————————————————————2018年5月5号更新。<br><br>来来来，评论里的杠精们，我已经很久没回复了，因为你们永远拿老三样来，回复多了，很累的。<br><br>就在现在我在知乎热榜看见这个问题，点进去看了以后大部分都是安卓的控诉，你们与其想说服我这个ios，还不如去稳定一下你们国内安卓的同胞。<br><br><a href=\"http://www.zhihu.com/question/41542488\" class=\"internal\"><span class=\"invisible\">http://www.</span><span class=\"visible\">zhihu.com/question/4154</span><span class=\"invisible\">2488</span><span class=\"ellipsis\"></span></a><br><figure><noscript><img data-rawheight=\"1334\" src=\"https://pic1.zhimg.com/50/v2-d99df0134d74cd406f7a6c46650ede95_b.jpg\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic1.zhimg.com/v2-d99df0134d74cd406f7a6c46650ede95_r.jpg\"></noscript><img data-rawheight=\"1334\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='1334'&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic1.zhimg.com/v2-d99df0134d74cd406f7a6c46650ede95_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-d99df0134d74cd406f7a6c46650ede95_b.jpg\"></figure><br><br>——————————————————————————再最后更新一次。<figure><noscript><img data-rawheight=\"1334\" src=\"https://pic3.zhimg.com/50/v2-d6587b19fadf1314c4dd9757376da744_b.jpg\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-d6587b19fadf1314c4dd9757376da744_r.jpg\"></noscript><img data-rawheight=\"1334\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='1334'&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-d6587b19fadf1314c4dd9757376da744_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-d6587b19fadf1314c4dd9757376da744_b.jpg\"></figure><figure><noscript><img data-rawheight=\"1334\" src=\"https://pic3.zhimg.com/50/v2-6858d8e878df11b9f85165e417ee6ac6_b.jpg\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-6858d8e878df11b9f85165e417ee6ac6_r.jpg\"></noscript><img data-rawheight=\"1334\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='1334'&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-6858d8e878df11b9f85165e417ee6ac6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-6858d8e878df11b9f85165e417ee6ac6_b.jpg\"></figure><br><figure><noscript><img data-rawheight=\"1334\" src=\"https://pic1.zhimg.com/50/v2-a2944489de968c4d1f0e30e469be7df6_b.jpg\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic1.zhimg.com/v2-a2944489de968c4d1f0e30e469be7df6_r.jpg\"></noscript><img data-rawheight=\"1334\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='1334'&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic1.zhimg.com/v2-a2944489de968c4d1f0e30e469be7df6_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-a2944489de968c4d1f0e30e469be7df6_b.jpg\"></figure><br><br>这是我与其中一个网友的“争论”<br><br><br>我希望有些人不要曲解我的意思，并且如果想说服我，就请直面解决我答案里的问题核心点。<br><br>那才是我尽我真正令我生气的地方。<br><br>而且我相信，我们最后谁也说服不了谁的。<br><br>所以我觉得用安卓的接着用安卓，用iPhone 的接着用iPhone 。<br><br>这个问题完全可以变成：如果中国禁止售卖安卓系统手机以后，你会通过代购购买吗？？<br><br>然后你把我的答案原封不动的复制过去，对调一下就好了。<br><br>这个问题，就此打住了。我不回再回复任何人了。<br><br>想让我觉得我错的，请直接私信给我安卓系统的腾讯视频app那个权限的询问截图：是否修改通讯录。<br><br>不要像这位网友，给了我一张腾讯视频的“协议”。<br><br>————————————————————————真的最后倒数第二次更新。<br><br>有位华为mate9用户，给我发了他的下载腾讯视频里，没有修改通讯录权限截图。<br><br>我不知道他怎么操作的，最起码从他给我的截图来看，修改通讯录权限下的分类的确没有腾讯视频。<br><br>所以就像他说的有必要一起放上来。<br><br>毕竟我这答案已经窜到了第一，在这个问题下，影响还是很大。<figure><noscript><img data-rawwidth=\"750\" data-rawheight=\"1334\" src=\"https://pic1.zhimg.com/50/v2-cf4d1d84ffce5833c2ef52521264acb8_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic1.zhimg.com/v2-cf4d1d84ffce5833c2ef52521264acb8_r.jpg\"></noscript><img data-rawwidth=\"750\" data-rawheight=\"1334\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='1334'&gt;&lt;/svg&gt;\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic1.zhimg.com/v2-cf4d1d84ffce5833c2ef52521264acb8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-cf4d1d84ffce5833c2ef52521264acb8_b.jpg\"></figure><br><figure><noscript><img data-rawwidth=\"720\" data-rawheight=\"1280\" src=\"https://pic2.zhimg.com/50/v2-d0453e5a9d99d16c11446577513a538c_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-d0453e5a9d99d16c11446577513a538c_r.jpg\"></noscript><img data-rawwidth=\"720\" data-rawheight=\"1280\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='1280'&gt;&lt;/svg&gt;\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-d0453e5a9d99d16c11446577513a538c_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-d0453e5a9d99d16c11446577513a538c_b.jpg\"></figure><br><br><figure><noscript><img data-rawwidth=\"1080\" data-rawheight=\"2743\" src=\"https://pic1.zhimg.com/50/v2-a68179d7d4aced99231015e486844d16_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-a68179d7d4aced99231015e486844d16_r.jpg\"></noscript><img data-rawwidth=\"1080\" data-rawheight=\"2743\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='2743'&gt;&lt;/svg&gt;\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-a68179d7d4aced99231015e486844d16_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-a68179d7d4aced99231015e486844d16_b.jpg\"></figure><br><br>从他给我的各种截图来看，的确没有腾讯视频。<br><br>但我明人不说暗话，因为修改通讯录权限，是我实实在在碰到的，不是道听途说来的，所以我现在对于他这个截图来说，并不全信。<br><br>等端午节我再回一趟家，再去操作一遍，把那些过程截图下来上传。<br><br>也可能是我父母用的手机太低端了吧，因为我不懂华为，我也没去它们的设置看具体是哪个型号。只知道花了3000上下。<br><br>或许安卓里的高端机，比如三星s系列，华为高端系列，小米高端系列，OV高端系列等等安卓手机可能并没有这样的情况。<br><br>所以这次更新是最后的倒数第二次更新。<br><br>评论里的那些老三样，我就不一一回复了。<br><br>总之，不服这个答案的，都可以截图全程下载腾讯视频，然后从设置里面查看它是否有这么个权限，最后发给我。<figure><noscript><img data-rawwidth=\"385\" data-rawheight=\"349\" src=\"https://pic3.zhimg.com/50/v2-b8ca04faa2fdc12bed1a185e19c7092c_b.jpg\" class=\"content_image\" width=\"385\"></noscript><img data-rawwidth=\"385\" data-rawheight=\"349\" src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='385'%20height='349'&gt;&lt;/svg&gt;\" class=\"content_image lazy\" width=\"385\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-b8ca04faa2fdc12bed1a185e19c7092c_b.jpg\"></figure>",
+                "comment_count": 3640,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/80/v2-d99df0134d74cd406f7a6c46650ede95_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-d6587b19fadf1314c4dd9757376da744_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-6858d8e878df11b9f85165e417ee6ac6_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic1.zhimg.com/v2-d99df0134d74cd406f7a6c46650ede95_200x112.jpg"
+            },
+            "attached_info": "CkQQBBoIOTc4OTk2NjkgmZfw1gUookcwuBxAAFITdG9wX2FjdGl2aXR5X2Fuc3dlcloIMjMxODIxMTNyCTM3MzExMDYxNA=="
+        }
+    ]
+}

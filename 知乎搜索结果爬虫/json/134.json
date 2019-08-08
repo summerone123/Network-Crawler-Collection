@@ -1,0 +1,227 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1473651255.53158",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1473356297.32&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1473356297.31790"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523402191,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "is_labeled": false,
+                "excerpt": "今天海南股的集体跌停，不太正常。这不像是个政策驱动的热点板块的行为，这更进一步佐证了我一直控制着自己远离海南板块是符合我的交易习惯的。但是，今天我发现很多看我文章的小伙伴，居然始终不听劝，没跑。你们这样做对得起我每天黑眼圈熬夜吗？搞的我今…",
+                "id": 35524724,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-aba816ffd061743e47641291f2a76e43_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-0f6a003c30a01864a3eb1e43610da7d2_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-e01b68794708d9d174d292a18211ec9e_250x0.jpg"
+                ],
+                "created": 1523402191,
+                "url": "http://zhuanlan.zhihu.com/p/35524724",
+                "title": "博鳌论坛上透露了市场接下来的重要信号",
+                "content": "<figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7396917bfd8c3d6ce003cc7eec76d552_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>今天海南股的集体跌停，不太正常。这不像是个政策驱动的热点板块的行为，这更进一步佐证了我一直控制着自己远离海南板块是符合我的交易习惯的。但是，今天我发现很多看我文章的小伙伴，居然始终不听劝，没跑。你们这样做对得起我每天黑眼圈熬夜吗？搞的我今天心情也沙尘暴了一整天。早就听说当年在雄胺一战成名的某基金潜伏在海南板块，但是我依旧不敢去赚我驾驭不了的东西。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-0f6a003c30a01864a3eb1e43610da7d2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"538\" data-rawheight=\"209\" class=\"origin_image zh-lightbox-thumb\" width=\"538\" data-original=\"https://pic3.zhimg.com/v2-0f6a003c30a01864a3eb1e43610da7d2_r.jpg\"/></figure><p>大盘今天走的很失真，银行蓝筹的反弹貌似有点护指数的意思，理解为超跌反弹也不为过。如果说基本面彻底改观，我是没看出来。毛衣战有缓和的迹象，中方做出让步，可能这时候外资又回来买入，我也不十分确定，还要再看两天。我希望是机构的持续买入，这样回补上方缺口指日可待</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-e01b68794708d9d174d292a18211ec9e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"966\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-e01b68794708d9d174d292a18211ec9e_r.jpg\"/></figure><p>我说几个今天的观点，然后，我打算早点睡觉，因为昨天又被404了，身心疲惫啊：</p><ol><li>今天神创回调，军工回调，但是，科技股和医药股依旧杠杠的。这说明，主线热点最强的，依旧会强下去。这就是和资金主导的次新、高送等完全不一样的投资逻辑。再次说明了，今年以来市场风格的转化，大家必须适应；</li><li>今天到15号是个雷区，因为上市公司必须交作业了（1季度业报），越晚交的一般都是差生。这里我到不觉得会影响妖股，现在能妖的起来的，基本都是有业绩撑腰的；</li><li>我突然觉得今天我写的毫无建树，是吧？此处应该写领袖讲话的重要信息：</li></ol><p>（1） 一个开放的中国必然越来越强大，扩大进口（前两天特朗普的推特不是白发的）今天官媒有这样一句话耐人寻味，“中国扩大开放的新举措将惠及不少贸易伙伴，但不适用于那些违反世贸规则、动辄对别国发动贸易战的国家”。人民日报，我敬你是条汉子！</p><p>（2） 证监会主席方星海说：“中国金融改变世界”，这话不是博士说的，不是国师说的，而是证监会主席。说明资本市场的开放力度会增大。但是我不认同大部分人解读为金融开放，银行间市场和债券市场这时候我预计步子不会太大；</p><p>（3） 下调汽车关税10%-12%，符合菠菜之前的预期。其他的还有保护知识产权等，我觉得和股市关系有限，就不一一罗列了。</p><p>4. 还有一个风险，中国股市有救了，但美股可能会持续走下跌趋势，大家留意外部风险。现在最好的选择是指数迅速回补上方缺口，越快越好。但很可能行情还是在科技股这个局部，也许指数继续箱体，做好最坏的打算。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-f8cb43113f62072507abd3e7eb0ad701_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"769\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb\" width=\"769\" data-original=\"https://pic2.zhimg.com/v2-f8cb43113f62072507abd3e7eb0ad701_r.jpg\"/></figure><p>从今天的讲话可以看出，中国不以追求贸易逆差为追求。今年相当幅度降低汽车进口关税同时降低部分其他产品进口关税，加快加入世界贸易组织政府采购贸易进程。我们团队@股市郑道老师有个观点，比较耐人寻味，金融要全面开放，这泡沫承接就来了。至于力度嘛，就得走着看了。我们希望中国在去杠杆的过程中，外资参与的承接越多越好。菠菜认为，关于直接融资渠道股市的利好政策会持续袭来，总之，今年不看空。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b23ffc45164004edebe60512f4993e11_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"626\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-b23ffc45164004edebe60512f4993e11_r.jpg\"/></figure><p>PS：唯一遗憾的是，关于国企改革，目前还没有太多东西出来。</p>",
+                "comment_count": 9,
+                "image_url": "https://pic3.zhimg.com/50/v2-aba816ffd061743e47641291f2a76e43_hd.jpg",
+                "excerpt_title": "",
+                "voteup_count": 36,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjQwMDEyMSDPi7XWBSgkMAlAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NTI0NzI0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1525838120,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "is_labeled": false,
+                "excerpt": "涨的越凶，我就越心里忐忑，因为调整和获利出逃的压力不知道什么时候会释放（3159-3220阻力都很大）。要说赶上MSCI这波，现在还有点早，毕竟还有差不多一个月的时间。传说加入之后会有400亿美元增持A股，而且是被动买入。但是，不会是一天内都满上的，放心…",
+                "id": 36614958,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-0971a263ecf14776387e6aa50474d4f4_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-6bdcfeb729d3b10db5a7242bc0a293f3_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-22a996d3b37be91b5f27f7bc3e62d37d_250x0.jpg"
+                ],
+                "created": 1525821729,
+                "url": "http://zhuanlan.zhihu.com/p/36614958",
+                "title": "用一整篇来说为什么看好联通",
+                "content": "<figure data-size=\"normal\"><img data-rawheight=\"100\" src=\"https://pic4.zhimg.com/v2-8764cdd9641c5f894bd716a049a4c3bb_b.jpg\" data-size=\"normal\" data-rawwidth=\"400\" class=\"content_image\" width=\"400\"/></figure><p>涨的越凶，我就越心里忐忑，因为调整和获利出逃的压力不知道什么时候会释放（3159-3220阻力都很大）。要说赶上MSCI这波，现在还有点早，毕竟还有差不多一个月的时间。传说加入之后会有400亿美元增持A股，而且是被动买入。但是，不会是一天内都满上的，放心吧。上证50指标股可以关注一下，这个适合做ETF，选个股对我在这个阶段，有点难。</p><p>我们很纠结，在写文章的时候总要特意避讳具体的股票，一是怕触碰敏感的规则，二是怕我们才能有限，误导了各位。完全不说也有很多小伙伴不满意，这样，我们只说逻辑。</p><p>因为联通也算是个大象，这种一般不会被一两个土豪轻易控盘。所以，我就说说@股市郑道老师对于联通的一些观点。联通目前是5G题材里郑老师最看好的，理由：</p><p>就基本面研究而言，A股3500多家上市公司，有3400个垃圾，还有几十个停盘。不垃圾的就剩下那么多。从比例来说，挑着很累。这么多的所谓好股基本上都被机构翻烂了，调研透了。因此，股价也就充分且完全的反映了它的价值。那么再想涨怎么办？继续超速增长，可能性有多大呢？这也就是为什么大家戏称A股为投机市场或者说赌场的原因。不是没有价值投资，是数量少。大部人的想法是要高赔率的高胜率，这个可能性是没有的。曾经我有句话，如果问题错了，答案有意义吗？就是指这个情况。那么退而求其次，聪明人就选择了高胜率，毕竟交易起来舒服。交易10次，盈利7-8次，甚至更多。买入就涨，卖出就跌……那种感觉好像股神附体一样。所以价值投资在A股不是很盛行（还有一个原因是媒体的渲染，真正能耐得住寂寞拿十几年、几十年的人都不公开露面，出来吹牛逼说自己价值投资的那些，大家自己想想吧）因此，<b>大部分选择投机</b>。</p><p>既然是投机就是发现逻辑去寻找价差机会。那么我个人（这里指郑老师本人）比较倾向于政治经济。这就是为什么总跟大家讲宏观，分析政策。 A股是政策市，地球人都知道。尤其是19大以来，资本市场的定义给的空前明确，要服务于实体经济（国资是实体经济的代表尤其在这种中美关系紧张的时刻，高层更能清楚的看到这一点）。2006-2007年国资借牛市退出，结果2014-2015年股灾，加倍的都回来了。那么这部分钱，说它高抛低吸也好，说它割韭菜也行，这么大的体量，不是简单几个高抛低吸就能够清的出去的。尤其是在金融开放这个时点，它要在里面起到一个稳定市场的作用（去年开始一直强调外资定价，如果真让外资定了价，这么多国企怎么办？）。因此通过这些分析，我就强烈的看好这两年的市场（内忧外患之时，无论怎样结果，我们都当自强）。</p><figure data-size=\"normal\"><img data-rawheight=\"800\" src=\"https://pic4.zhimg.com/v2-6bdcfeb729d3b10db5a7242bc0a293f3_b.jpg\" data-size=\"normal\" data-rawwidth=\"576\" class=\"origin_image zh-lightbox-thumb\" width=\"576\" data-original=\"https://pic4.zhimg.com/v2-6bdcfeb729d3b10db5a7242bc0a293f3_r.jpg\"/></figure><p>自强需要钱，钱从哪里来？大跃进？锅送出去给国家炼钢？搞笑一样。现在这个全民焦虑的时代，社会已经有些不安的杂音了，所以看看这两年的方向和口号——中国梦、社会矛盾已经从落后的生产力与人民美好生活需要与不平衡不充分的发展之间的矛盾了。说白了就是后面的，小康社会，共同富裕。跟曹司空当初的望梅止渴也差不多。</p><p>所以房地产要被冻结（价格涨与不涨这个问题本身就有问题了。现在冻结没有成交量，价格都是虚的，没有意义了）。如果不冻结，矛盾就会更加突出。同样的原因，股市必涨（以前说过，能容纳这么多年以来堆积的资金池子除了房地产只有股市）。进入股市的资金可以引向各行各业（IPO、CDR、独角兽回归）。这时候，我们才真正有了基本面好的公司，才真正会有价值投资。所以之前两年我一直说5年内看不到价值投资时代来临，无论那些所谓的白马怎么涨，不过是投机换了一个理由而已。</p><p>这一切动作的最主要目的是为了服务于混改，是为了强国（芯片你以为国家会自己投钱么？取之于民用之于民）。国资想要变现的欲望是极其极其极其强烈的，因此必然会诞生一轮大行情，起码不会比2014-2015年小，甚至会大过07年，来完成变现。到那个时候才是真正联合收割机开启。现在活跃股民才几个人，国家队不屑于收割，不要总用小散户的眼睛去看问题。因此，对于5G 作为国家的亲儿子中国联通，就如同中国芯一样，会有政策扶持。至于它赚不赚钱，用多久实现盈利，那是联通老总考虑的问题不是一个投机者考虑的问题。</p><p>记得联通是那天涨了2%左右关注的，随后就涨停了。然后一路向上，现在也将近有17%左右了。这种体量的股涨这么多很不容易的。不过还是维持原来的观点，整个行情下来10块不是问题，15也不是没可能的。当然之后的走势应该没有现在痛快，基本是2步一回头恋恋不舍那种节奏。上述观点，我们在4月25日凌晨的文章<a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzA3NDk4NDcyMQ%3D%3D%26tempkey%3DOTU1XzdqVWpLaE8vdWtBN2ExajIwSkh4REN0MzRubWluaFgwWjMyRzBNUUNvUlRhS3k3YkMtMnZ6aVhCUzJsREhEanJkbXVsRGhOOGVvZ0FwZ1dvRzRvaUFLWkFUOFpwUjZacUFFMmowNllxNFl1eGxOcHpQS0NQX2hTUGJDOUtkcm1vcDlfRUtvNXUtQmFlM1dWcHFjejdmVHFkTXN6dFpENXQ5YVlKUVF%252Bfg%253D%253D%26chksm%3D0480017a33f7886cc54a48dd6911900d6f8bc2aec584329b2cbf1165a88393a1b2e433427043%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">底部已经到了吗？</a>里有详细论述。</p><figure data-size=\"normal\"><img data-rawheight=\"385\" src=\"https://pic2.zhimg.com/v2-22a996d3b37be91b5f27f7bc3e62d37d_b.jpg\" data-size=\"normal\" data-rawwidth=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic2.zhimg.com/v2-22a996d3b37be91b5f27f7bc3e62d37d_r.jpg\"/></figure><p>最近50也开始活跃起来了，不出意外，这周总体上涨，下周震荡调整，随后震荡，再拉升的主力，就是指数权重了。</p><p>后台收到朋友们的提问，问油价上涨收益的具体个股。关于这个问题，我想明确一下，今年涨价题材我一直没怎么提，因为今年以来机构对于涨价题材普遍不敏感，不热情。一个主要的原因是国家不鼓励通过商品期货抬高价格再加杠杆资金炒作，这个态度已经是明摆着的，所以不建议参与。更重要是场内资金极为有限。以上如果你还不理解，自己试试华宝油气吧，现在还是略高了。</p><p>PS：本来准备了一个张骞的段子，今天已经超字数了，就先写到这。晚上世界经济总量第一大国的总统和我们老板打了个重要电话。据说，由于一位重量级神秘80后的努力，毛衣谈判会有所缓和。我看最近记者给国师的照片都是表情凝重的，足见谈判的艰难。上次去了没结果，这次估计会有进展。但我总有一种感觉，这事米国一直没给让步，他们那些条件都不松口，也是难为国师了。但愿能给双方资本市场带来点好消息。</p><p>同时，不要忘了，中堂去日本签了个和日元的互换协议。显然，日韩这次比较滑头，打算接着毛衣战发点小财。下个重点，看看与中国制造2025相关的题材，比如人工智能。</p><figure data-size=\"normal\"><img data-rawheight=\"1208\" src=\"https://pic4.zhimg.com/v2-58ad6442a692b6e8753acb253f215b63_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-58ad6442a692b6e8753acb253f215b63_r.jpg\"/></figure>",
+                "comment_count": 1,
+                "image_url": "https://pic1.zhimg.com/50/v2-0971a263ecf14776387e6aa50474d4f4_hd.jpg",
+                "excerpt_title": "",
+                "voteup_count": 11,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjgzNjg4MyCh4sjXBSgLMAFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM2NjE0OTU4"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1523418721,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-5171f4d619f294aabb151c458cfff4db_{size}.jpg",
+                    "badge": [],
+                    "name": "周勇",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/5d49914564324eecf38ece36503383d6",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "zhou-yong-14",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-5171f4d619f294aabb151c458cfff4db_is.jpg",
+                    "is_org": false,
+                    "headline": "钱耳朵财富学院CEO&amp;首席讲师；擅长宏观经济分析、发掘投资机会、提示金融风险。",
+                    "type": "people",
+                    "id": "5d49914564324eecf38ece36503383d6"
+                },
+                "is_labeled": false,
+                "excerpt": "新一轮扩大开放政策意味着什么？它将给投资者带来哪些投资机会呢？ <b>中美贸易战将平稳落幕</b> 无论此次中国宣布扩大开放是主动为之还是被动接受，都将被外界视为一种让步。因为特朗普当初挑起贸易战的两大诉求，一是中国需要兑现当初加入WTO的开放措施，二是加…",
+                "id": 35534929,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-22a150e12421d3353d4e52fd02a1c911_hd.jpg"
+                ],
+                "created": 1523417847,
+                "url": "http://zhuanlan.zhihu.com/p/35534929",
+                "title": "金融板块和汽车板块将有大机会",
+                "content": "<p>新一轮扩大开放政策意味着什么？它将给投资者带来哪些投资机会呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>中美贸易战将平稳落幕</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>无论此次中国宣布扩大开放是主动为之还是被动接受，都将被外界视为一种让步。因为特朗普当初挑起贸易战的两大诉求，一是中国需要兑现当初加入WTO的开放措施，二是加强知识产权保护。</p><p>在习总今天的讲话内容中，这两点都明确提到了。一方面，承诺将大幅度放宽市场准入。今年，在服务业特别是金融业方面，放宽银行、证券、保险行业外资股比限制的重大措施要确保落地，同时要加快保险行业开放进程，放宽外资金融机构设立限制，扩大外资金融机构在华业务范围，拓宽中外金融市场合作领域。</p><p>在制造业方面，目前已基本开放，保留限制的主要是汽车、船舶、飞机等少数行业，现在这些行业已经具备开放基础，下一步要尽快放宽外资股比限制特别是汽车行业外资限制。</p><p>另一方面，习总承诺加强知识产权保护。对此，外资企业有要求，中国企业更有要求。今年，中国将重新组建国家知识产权局，完善加大执法力度，把违法成本显著提上去，把法律威慑作用充分发挥出来。</p><p>由此看出，当初特朗普挑起贸易战的主要诉求，今天中国都给了答复。如果是这样，贸易战就没有打的必要了。</p><p>美国总统特朗普在中国宣布扩大开放举措后表示，美国很可能会与中国达成协议。</p><p>这意味着，中美贸易战大的冲击将会告一段落，在没有其他因素影响的情况下，市场可能会重新回归平稳。从大环境来讲，这对投资者是有益的，从今天的股市表现就能看出。</p><p>那么，从行业和企业来看，哪些可以收益呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>金融板块</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前美国对中国最心存芥蒂的就是金融业的开放。由于金融涉及到中国的国本和命脉，加之中国金融业从国际比较来看，一直都较为落后，无论从服务水平，还是盈利结构，都很难经受住国际金融巨头的冲击，因此中国金融业的对外开放相对缓慢，落后于整体开放进程。多数G20国家的开放指数处于0.9-1.0之间，我国几乎相当于这些国家的一半，说明未来我们还有巨大的增长潜力。</p><p>从国际横向比较上看，我国金融业的开放程度仅高于缅甸等国家，与OECD国家的平均水平相比存在一定的差距。此外，越南等国家相比，我国金融开放程度也处于较低的位置。我国金融业对外资的开放程度整体处于相对较弱的状态，金融业对外开放的空间较大。</p><p>金融业主要包括银行业、保险业、证券业，当前各个细分领域的对外开放水平各有差异，整体来讲：保险业的开放程度较高，银行次之，证券行业的开放程度最低。</p><p>此次，习总强调，金融业方面，放宽银行、证券、保险行业外资股比限制的重大措施要确保落地，放宽外资金融机构设立限制，扩大外资金融机构在华业务范围。</p><p>此前，中国对中资银行和金融资产管理公司的外资单一持股有不超过20%、合计持股不超过25%的持股比例限制。而且，对外资金融机构设立有严格的条件，业务范围很窄。</p><p>截至2016年底，我国外资银行资产总额为2.93万亿，在银行业金融机构总资产中占比约为1.26%，且这一比例从2011年以来持续降低。这主要是因为近10年来我国银行业快速扩张的同时，外资银行的发展步伐相对较慢。</p><p>除了规模占比较低，外资银行在我国的盈利能力并不理想。银监会的数据显示，外资银行的资产利润率明显低于全国商业银行的平均水平。</p><p>此次扩大金融行业的措施，意味着，外资金融未来持股比例会进一步提高，外资银行将享有同等国民待遇，这对目前A股上市的有外资持股的金融机构是利好，大家可以关注相关基金。</p><p>对中资金融机构来说，短期来看，可能会对一部分盈利结构单一、服务差的金融机构造成冲击。</p><p>从长期看，有竞争才会有进步，龙头企业和有竞争实力的金融机构将会明显收益。大家也可以关注这些重仓潜力股和龙头股的基金。</p><p>对于老百姓来说，如果引入更多外资金融机构，我们或许可以享受到更多服务好、利率高的金融机构，这对我们全球配置都是有利的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>汽车板块</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>还有一个板块，将会在此次扩大开放中受到影响，就是汽车板块。</p><p>习总在博鳌论坛上提出，尽快放宽外资股比限制特别是汽车行业外资限制，同时还将相当幅度降低汽车进口关税。这一点和国内汽车厂商和市场已经相对成熟有关。</p><p>按照现行《中国汽车产业发展政策》，外资车企入华需成立合资企业，且中方股比不能低于50%、同一外企在华同类产品最多拥有两个合资伙伴。</p><p>新能源汽车可不受两家合资名额限制，但占据市场主导地位的传统燃油汽车股比和合资名额限制仍未松动。中国整车进口关税税率目前为25%，该税率从2006年7月稳定至今。</p><p>美国总统特朗普也多次在其推特上敦促中国放开汽车业。就在4月9日，他还称：“当一辆汽车从中国出口到美国，仅需要缴纳2.5%的关税，而一辆车从美国出口到中国，则需要缴纳25%的关税。这并不是公平和自由的贸易，但已经持续数年。”</p><p>外资股比限制和较高的汽车进口关税，旨在保护中国本土汽车工业发展，此外中国还希望通过成立合资车企，实现“以市场换技术”。</p><p>在引入外资车企之前，中国没有市场化、规模化的本土乘用车企业。多名经历过中国汽车业初创时期的人士感慨，中国当时根本不懂怎么造汽车，尤其是不懂造轿车。</p><p>此次，将相当幅度降低汽车进口关税。也就意味着，外资汽车价格将下降，国内汽车竞争力将面对更大挑战，短期不利于国内整车，对整车是利空。至少在一段时间内，中国汽车价格体系将面临重整。</p><p>进口汽车多为大排量豪华车型，关税调整，意味着价格体系顶端发生松动，势必带来其他国产车型价格调整。这对老百姓说是一件大好事，但是对于自主品牌企业来说，利润可能受损。</p><p>而对于出口占比高的汽车零部件公司，则是利好。</p><p>像亚星客车、中通客车、海马汽车、比亚迪、广汽集团、北京汽车等都属于整车厂商。汽车零部件公司有：广特科技、旭升股份、迪生力等。这从今天汽车零部件公司的相关市场表现就能看出，汽车零部件公司涨幅居前。</p><p>汽车制造业是国民经济的支柱产业之一。此前，我国对外资车企持股设置了50%的上限，中外合资车企基本是按50：50的持股比例。放开股比限制一方面有利于汽车产业市场化良性竞争，打破技术依赖与封闭；另一方面则会让技术占有优势的外资企业过多抢占中国汽车市场份额，对自主品牌发展不利。</p><p>去年以来，跨国车企掀起了新一轮与国内本土车企合作的热潮，包括大众与江淮、福特与众泰、宝马与长城等陆续成立新能源汽车合资公司。一旦股比放开，不排除一些国际车企巨头将在华采取独资成立新能源车企的可能性。比如特斯拉等。未来，大家可以关注重仓与新能源汽车相关的基金。</p><hr/><p>向大家推荐我在知乎私家课的课程：《让你少奋斗十年的小白理财课》</p><a href=\"https://www.zhihu.com/remix/albums/897472204978139136?utm_medium=social&amp;utm_source=wechat_session\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-458630cbf57bb3919be27dee65172bc7_120x160.jpg\" data-image-width=\"690\" data-image-height=\"3898\" class=\"internal\">知乎私家课</a><p>课程将教会你：</p><p>1、靠谱实用的钱生钱秘笈</p><p class=\"ztext-empty-paragraph\"><br/></p><p>拒绝晦涩难懂的专业术语，我们只给你经过金钱考验的老司机投资经验。让你踩着他赚钱的脚印，不再“交学费”，获取学了就能用的钱生钱秘笈。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、做金钱的主人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>每个人对金钱的驾驭能力是不一样的，掌握了金钱运行逻辑的人可以很容易的钱生钱。靠谱周用最容易懂的语言和多年财经媒体、财富管理强大的解释能力，帮你迅速提升财商，掌握金钱运行的逻辑，做金钱的主人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、看到财富自由的曙光</p><p class=\"ztext-empty-paragraph\"><br/></p><p>人人都追求生活自由，其中最重要的一部分是财富自由，没有之一。如果寄希望于工作技能提升、工资增长，绝大多数人永远无法财富自由。学会理财，开始理财，站在更长的时间线看待自己的人生理想，财富自由会离你越来越近。</p><p></p>",
+                "comment_count": 0,
+                "image_url": "https://pic1.zhimg.com/50/v2-22a150e12421d3353d4e52fd02a1c911_hd.jpg",
+                "excerpt_title": "",
+                "voteup_count": 3,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjQwNDI0NyD3hbbWBSgDMABAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1NTM0OTI5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "非专业回答：1）中国商务部并不能决定两家国外公司最终合并与否。2）中国商务部可以决定对合并后新公司的在华业务采取限制措施。根据相关报道，各主要市场如美国、欧盟、日韩甚至俄罗斯都已经批准。这项并购已经成为我们就中兴芯片被禁事件，与美国博弈的重…",
+                "created_time": 1524124275,
+                "id": 370823194,
+                "voteup_count": 8,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-238bbf216e8b2a278122fc726ff76690_{size}.jpg",
+                    "badge": [],
+                    "name": "时光涟漪",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/3a7ba075808e57606a736f46978d3601",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "737767777",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-238bbf216e8b2a278122fc726ff76690_is.jpg",
+                    "is_org": false,
+                    "headline": "",
+                    "type": "people",
+                    "id": "3a7ba075808e57606a736f46978d3601"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370823194",
+                "question": {
+                    "created": 1524106353,
+                    "url": "http://www.zhihu.com/api/v4/questions/273858384",
+                    "title": "高通并购恩智浦为什么需要向中国商务部申请？",
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273858384
+                },
+                "updated_time": 1524124313,
+                "content": "<p>非专业回答：</p><p>1）中国商务部并不能决定两家国外公司最终合并与否。</p><p>2）中国商务部可以决定对合并后新公司的在华业务采取限制措施。</p><p>根据相关报道，各主要市场如美国、欧盟、日韩甚至俄罗斯都已经批准。</p><p>这项并购已经成为我们就中兴芯片被禁事件，与美国博弈的重要筹码了。</p><p>想想第一高价股茅台，再想想陷入窘境的京微雅格等创新企业。</p><p>刺破大马士革夜空的流星就在眼前。</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTc0ODMzNTYg85Th1gUoCDAAQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTMyNzIxcgkzNzA4MjMxOTQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524305837,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-58ac52cf35e6fd6855b2779deb286941_{size}.jpg",
+                    "badge": [],
+                    "name": "李书航",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "一个专业"
+                    },
+                    "url": "http://www.zhihu.com/api/v4/people/fcf53d62d5deb9acc53dbdc9672b20b2",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "lishuhang",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-58ac52cf35e6fd6855b2779deb286941_is.jpg",
+                    "is_org": false,
+                    "headline": "<a href=\"https://link.zhihu.com/?target=http%3A//lishuhang.me\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">lishuhang.me</span><span class=\"invisible\"></span></a> | 微信 航通社 | 微博 @lishuhang",
+                    "type": "people",
+                    "id": "fcf53d62d5deb9acc53dbdc9672b20b2"
+                },
+                "is_labeled": false,
+                "excerpt": "<i>本文首发于百家号，原创文章，未经授权，请勿转载。</i><i>航通社 (ID:lifeissohappy) 微博：@lishuhang</i>4月16日，美国商务部宣布禁止美国企业向中兴通讯出售任何电子技术或通讯元件，禁令为期7年直到2025年3月13日。中兴通讯当即在港股和A股停牌。英国国家网络安全…",
+                "id": 35825401,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-7fcf7ebcc743b31c07aa7da12316d45b_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-7fdbeadca00f5a4cd570283e702558af_250x0.jpg"
+                ],
+                "created": 1524034655,
+                "url": "http://zhuanlan.zhihu.com/p/35825401",
+                "title": "中兴被掐脖子引发大恐慌，中国芯片产业真是“永世不得翻身”？",
+                "content": "<p><i>本文首发于百家号，原创文章，未经授权，请勿转载。</i></p><p><i>航通社 (ID:lifeissohappy) 微博：@lishuhang</i></p><p>4月16日，美国商务部宣布禁止美国企业向中兴通讯出售任何电子技术或通讯元件，禁令为期7年直到2025年3月13日。中兴通讯当即在港股和A股停牌。英国国家网络安全中心也警告该国电信行业，不要使用中兴的设备和服务。</p><p>中兴相关危机引发了中国全国舆论的一阵恐慌，人们都在谈论此事将为中国信息通信产业带来怎样深远的打击，甚至有悲观者认为，中兴将在供应链中断后一年之内倒闭，而同类报复措施若再施加于华为、海康等国内技术领军企业，最差的结果，将让整个产业的发展水平倒退20年。</p><p>历史上的甲午年，众多吃败仗的坏消息打碎了当时中国人“天朝上国”的迷梦；而今日中兴只因美国断供就要面临断粮绝境，也让一部分沉醉于高铁、航天、量子通信，甚至共享单车、手机支付等中国技术成就的国人，从“厉害了我的国”的热血情绪中冷静下来。</p><h2><b>中兴确实有错</b></h2><p>首先，一个最现实的问题是，美国带头进行的这次针对中兴的沉重打击，会不会真的波及华为等其他在国外攻城略地的中国IT大企业？毕竟，在芯片领域，没有一家中国公司能如同现在的高铁、航天等行业一样说完全“自主知识产权”，都得在关键零部件供应中仰人鼻息。</p><p>4月17日，商务部新闻发言人表示：“中方一贯要求中国企业在海外经营过程中，遵守东道国的法律政策，合法合规开展经营。中兴公司与数百家美国企业开展了广泛的贸易投资合作，为美国贡献了数以万计的就业岗位。希望美方依法依规，妥善处理，并为企业创造公正、公平、稳定的法律和政策环境。”</p><p>同时，商务部也表示“将密切关注事态进展，随时准备采取必要措施，维护中国企业的合法权益”。但在过去一两天内，我们看到的唯一反制措施是针对美国产高粱的反倾销措施，如果说这是“必要措施”的话，并不对等。</p><p>官方的这种回复不仅显示出中国暂时并不准备对等还击，还显示出，他们并没有100%的确定中兴是无辜的——不然就不会讲中兴对美国“没有功劳，也有苦劳”。</p><p>综合各方对事件的梳理，中兴曾在美国法院认罪，称违反美国对伊朗制裁措施，非法向伊朗运送美国商品和技术。当时中兴与美国政府达成和解协议。于2017年3月向美国政府支付了 8.9 亿美元罚金，并且还面临 3 亿美元的附加处罚。而作为认罪条件，中兴同意开除 4 名高级管理人员，并对其它 35 人进行处罚。</p><p>而美国商务部称中兴只解雇了4名高级管理人员，并未对其他35名员工进行纪律处罚或减少奖金，整改措施并没有落实，于是美方认为已无法再相信中兴公司的承诺，就发出禁令。</p><p>公众号“财经十一人”文章称，在美方于2012年3月立案调查后，中兴没有采取必要的出口管制合规管理措施，反而想方设法规避美国出口管制规定。甚至，中兴在已经受到美国政府调查的情况下，仍然没有把握机会堵住漏洞，反而采取了不配合的态度，导致风险进一步升级，最终在出口管制方面的合规管理完全失控。</p><p>将心比心地试想，如果有一家在中国运行的跨国公司，违反中国法律法规，在中国政府调查时还想方设法逃避，企图蒙混过关，我们中国人会作何感想？</p><p>我们旁人都能看出来的问题，中兴老总能不知道？恐怕他们比我们任何人都更清楚，自己有哪几种关键零部件只能向美国进口，连替代都没有。只是在此情况下，中兴仍可对美国的调查“不当回事”，唯一合情理的解释只能是他们相信自己有国家撑腰，可以冒险。</p><p>“财经十一人”的文章甚至称，中兴内部分成“主战派”和“主和派”，最终“主战派”占了上风，认为中兴作为一家中国企业应该采取抵抗的态度，不需要配合美国政府的调查。</p><p>现在我们知道，中兴25-30%组件的供应链被掐断，最好的结果也是从手机制造领域全面撤退，放弃刚有起色的AI布局，而最坏的结果是让“巨大中华”到“中华酷联”的唯二幸存者，再少一个。</p><h2><b>产业何去何从</b></h2><p>对中兴本次遭受的打击，可以从两个角度去理解：一种是帝国主义“亡我之心不死”，想掐住中国发展的“战略机遇期”；一种是中兴自己违规，美国在维护市场规则。从中兴自己做过的一系列不理智的举动来看，本次打击只针对中兴一家的观点，似乎可以找到证据支持。</p><p>但美国执行禁运和国家安全政策，向来都是可松可紧，将施行反制措施这一点当作是随时可以在牌桌上打出的牌。中国“知识产权保护不力”问题也一样由来已久，但到底选择什么时候启动301条款，要打击几次，每次针对什么领域，全都是美方说了算。</p><p>更糟糕的是，可能正是对中兴的调查过程，让另一家同业巨头华为在美国遭受同样的调查风险。2016年6月，新浪科技引述《纽约时报》报道，美国官员公布了调查中发现的中兴内部文件，称中兴也使用与“一家商业对手”相同的商业模式，和伊朗等受制裁国家做生意。虽然文件没有写明这家对手是华为，但其描述完全符合华为。</p><p>由此，美国商务部向华为公司发出行政传唤，要求华为提供过去5年向朝鲜、伊朗、叙利亚、古巴和苏丹等被美国制裁国家出口的全部信息，配合有关美国对通讯技术出口限制的调查。该调查到现在暂时没看到后续进展。</p><p>特朗普政府执政具有一定的“随机性”，本次对华实施的准贸易战打击，相信前几任政府都不会贸然出手，有所忌惮；而长期依托中国客户的美国部分通信产业链业者也会遭受阵痛。</p><p>但是，如果这次打击能如此准确地击中中国的软肋，让所有人都意识到中国的相关产业是如此不堪一击，那么恐怕会有更多美国人觉得有机可乘，是不是也可以放胆一赌。</p><p>通信业硬件和与之配合的软件开发，都涉及到基础学科的积累，不属于简单的模式创新。中国可以把O2O、共享经济等概念玩出花来，却不得不刻意忽略这些创新来自美国、韩国等提供的芯片、屏幕等组件，以及基于这些组件之上，很大程度也由美国提供的操作系统。</p><p>制造高精度元件必须的光刻机，中国仍然无法自行生产，并处于西方国家对华禁运物品名单之内。对高端芯片，中国暂时只能通过反向工程方式寻求破解，就是俗话说的“拆机再装上”。这种破解的成功率相当低。</p><p>当然，中国有众多留学生学习了相关知识或者在美欧相关企业任职。但很显然，如果他们现在回国效力，就意味着中国将全面撕破脸皮，退出现在西方主导的芯片市场流通体系。中国如果没有自信能把人家所有技术细节都“偷师”回来，不会断然要求在外学习的中国人回国。</p><p>有种说法，几十年前的中国，做不出沙发要用的弹簧。当时人们要打家具，别的木头和垫子都好找，就是这弹簧，得从已经报废的旧沙发上卸下来，回收再用。而在国内橡胶产业没发展起来的时候，乳胶避孕套也得洗洗再扑上滑石粉，以供重复使用。</p><p>现在，中国仍有一个高技术产业的命脉握于他人手中的现实引发了类似的恐惧，已经有段子调侃说我们要恢复进口电子洋垃圾，并且从上面把老奔腾处理器和内存条抠下来。</p><p>如今再回头看看我们自己的研制历程，恐怕会让人哑然失笑。不知有多少宝贵的时间和机遇，被浪费在“汉芯”造假这样的事情上，辛苦做出来的软硬件，必须兼容现有通用的系统才有市场（不反向编译还怎么兼容？），就算如此也少有国内厂商采用。</p><p>关于目前中国芯片业的对外依存度，目前已有多方报道论述。这里仅就普通消费者更好理解的软件产业来看，国内号称“自主知识产权”的多款操作系统无一例外是Linux内核，红旗RedOffice曾仅仅给甲骨文的OpenOffice代码改了个名字。甚至曾有人讥笑“别人一开源，我们就自主创新了”。</p><p>很多时候，只要最终结果还算好，一般人看不出什么来，一项根本称不上太创新的项目就能上《新闻联播》，然后让大家都觉得我们“厉害了”。甚至为了让科研经费有个交代，我们不惜绕开公认的评价体系，创造一套自己的评价体系，论文造假等等也是层出不穷。</p><p>现在，有些问题已经无可回避。和仿制药、大飞机等产业类似，电子通信基础设施方面的被动局面，是我们当初为扶植“科技创新”过程中所做的骗补贴等诸多蠢事，开始到了需要偿还的时候。</p><p>衷心祝愿整个行业能借此反思，知耻后勇，在科技创新这种攻坚战上认真起来，做好落后别人20年的准备。</p><p>也许危机最终不会全面爆发，也许还是会在一夜之间，被双方高层的某种谈判再次化解，就像中兴2013年曾躲过的那一劫；但要是事后行业故态复萌，继续不思进取，我们可能就真的没有希望了。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7fdbeadca00f5a4cd570283e702558af_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"200\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic4.zhimg.com/v2-7fdbeadca00f5a4cd570283e702558af_r.jpg\"/></figure><p><i>～欢迎转发到朋友圈～</i></p><p><i>商业转载和引用请在公众号对话框输入关键字【转载】</i> </p>",
+                "comment_count": 14,
+                "image_url": "https://pic3.zhimg.com/50/v2-7fcf7ebcc743b31c07aa7da12316d45b_hd.jpg",
+                "excerpt_title": "",
+                "voteup_count": 54,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUyMDY2OSDf2NvWBSg2MA5AAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODI1NDAx"
+        }
+    ]
+}

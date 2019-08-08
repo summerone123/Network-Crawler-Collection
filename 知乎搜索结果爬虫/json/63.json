@@ -1,0 +1,300 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440530748.96693",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1440437303.45&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440437303.44680"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559020538,
+                "is_labeled": false,
+                "excerpt": "日前，有消息称美国埃默里大学以所谓中国“窃取机密”“违反NIH规定”为由，解雇华裔教授李晓江及其妻子，并关闭其实验室。 ▲来自 Science 的报道5月25日，暨南大学校长宋献中透露，<b>暨大决定全盘接手李晓江团队的所有教授、人员归国，并为其提供场地、实验…</b>",
+                "excerpt_title": "",
+                "id": 67246165,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-50e2508d0ac4b3467d69b35172e67468_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-d9fb9ec36a7df93788bf74b5d3f89b77_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-e00ba731dbe3482a2278be74a1606639_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "宫伟芳",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "职业经理人",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "gong-wei-fang-98",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/683a71ebc070f3e3562d0207b758f6a2",
+                    "type": "people",
+                    "badge": [],
+                    "id": "683a71ebc070f3e3562d0207b758f6a2",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67246165",
+                "title": "盈透招商：华裔教授美国实验室突遭关闭！中国大学：愿全盘接手",
+                "created": 1559020538,
+                "content": "<p>日前，有消息称美国埃默里大学以所谓中国“窃取机密”“违反NIH规定”为由，解雇华裔教授李晓江及其妻子，并关闭其实验室。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-d9fb9ec36a7df93788bf74b5d3f89b77_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"741\" data-rawheight=\"583\" class=\"origin_image zh-lightbox-thumb\" width=\"741\" data-original=\"https://pic4.zhimg.com/v2-d9fb9ec36a7df93788bf74b5d3f89b77_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▲来自 Science 的报道</p><p>5月25日，暨南大学校长宋献中透露，<b>暨大决定全盘接手李晓江团队的所有教授、人员归国，并为其提供场地、实验室等继续从事研究。同时表示希望有更多的学者能回国从事科学研究。</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>暨大校长宋献中：愿全盘接手李晓江团队</p><p class=\"ztext-empty-paragraph\"><br/></p><p>25日，暨大校长在一个研讨会上透露，将全盘接手李晓江团队的所有教授、人员归国。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e00ba731dbe3482a2278be74a1606639_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-e00ba731dbe3482a2278be74a1606639_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▲文汇网视频截图</p><p>宋献中指出，中美贸易摩擦一定会对在美中国人才有影响，但只要他们愿意回来，內地高校能够把他们接纳下来。这是內地高校在经济社会建设中应有的责任和使命担当。<b>他亦希望年轻人今后更多的回到国內来从事科学研究。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>华人学者突遭解雇：校方未提供任何具体理由</p><p class=\"ztext-empty-paragraph\"><br/></p><p>据《环球科学》杂志旗下公号“科研圈”此前披露，5月23日，美国埃默里大学突然把自己的华裔终身教授李晓江，以官方邮件通知的形式正式开除，这也是对5月17日为何突然关停李晓江在美国实验室的进一步解释。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-6a3e134d211d77427044de6a5b9ce406_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"717\" data-rawheight=\"647\" class=\"origin_image zh-lightbox-thumb\" width=\"717\" data-original=\"https://pic3.zhimg.com/v2-6a3e134d211d77427044de6a5b9ce406_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>根据 5 月 23 日埃默里大学在当地媒体《亚特兰大宪法报》（The Atlanta Journal-Constitution）发表的声明，<b>校方对此次突发事件仅有一个笼统的解释：“没有完全披露来自国外的研究经费来源，以及在中国研究机构和高校的工作情况”。</b></p><p>埃默里大学在上文提及的声明中表示，他们是在收到国立卫生研究院（NIH）要求进行内部调查的来函后，开展此次行动的。</p><p>5月24日，李晓江对埃默里大学的指控进行了反驳。李晓江表示，这所位于亚特兰大的大学解雇了他和他的妻子、实验室共同负责人、神经学家李世华，“同时没有任何通知或机会让我们对未经证实的指控作出回应”。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-03608f4c64da83c6ddfb9c0b2842b1f1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-03608f4c64da83c6ddfb9c0b2842b1f1_r.jpg\"/></figure><p>▲埃默里大学官网关于李晓江的页面已无法显示</p><p>​</p><p>据《知识分子》引述李晓江的话说，自2012年以来，他每年都会向校方说明其国外研究活动，早在2018年11月，他就在配合调查时提交了相关文件，还就“在中国的工作向埃默里大学解释过，且目前在中国待的时间比原定的时间还要少”，他曾向前任院长提交了申请书，并获得同意。<b>由此，李晓江不认为自己未充分披露在国外工作情况。对于是否有知识产权泄露问题，他的团队也为其辩解称“两边的实验不同，且经费没有交叉”。</b></p><p>李晓江还告诉 Science 的记者，<b>有四名在实验室工作的中国籍博士后被告知要在 30 天内离开美国。他表示，这四名博士后没人知道自己被解雇的理由。</b></p><p>据了解，李晓江和李世华教授夫妇均为著名遗传学家，在埃默里大学任职已长达20多年。</p>",
+                "comment_count": 1,
+                "image_url": "https://pic1.zhimg.com/50/v2-50e2508d0ac4b3467d69b35172e67468_hd.jpg",
+                "voteup_count": 5,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMDcyMzQ2IPqHs+cFKAUwAUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjcyNDYxNjU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "topic_thumbnails_extra_info": [
+                    {
+                        "width": 1280,
+                        "playlist": {
+                            "ld": {
+                                "width": 640,
+                                "format": "mp4",
+                                "url": "https://vdn1.vzuu.com/LD/38b261e6-781a-11e8-9e91-0242ac112a2d.mp4?disable_local_cache=1&bu=topic&expiration=1561111352&auth_key=1561111352-0-0-cb419f8b1754d0768d52b243da8e6fb4&f=mp4&v=hw",
+                                "duration": 256.86,
+                                "height": 360,
+                                "bitrate": 528.012,
+                                "size": 16953154
+                            },
+                            "hd": {
+                                "width": 1280,
+                                "format": "mp4",
+                                "url": "https://vdn1.vzuu.com/HD/38b261e6-781a-11e8-9e91-0242ac112a2d.mp4?disable_local_cache=1&bu=topic&expiration=1561111352&auth_key=1561111352-0-0-99ce60ea327c2ed8ee9e9f050c7b4d6e&f=mp4&v=hw",
+                                "duration": 256.86,
+                                "height": 720,
+                                "bitrate": 2104.668,
+                                "size": 67575644
+                            },
+                            "sd": {
+                                "width": 848,
+                                "format": "mp4",
+                                "url": "https://vdn1.vzuu.com/SD/38b261e6-781a-11e8-9e91-0242ac112a2d.mp4?disable_local_cache=1&bu=topic&expiration=1561111352&auth_key=1561111352-0-0-a499f818c548de5cd5a89fa982a2f05c&f=mp4&v=hw",
+                                "duration": 256.86,
+                                "height": 478,
+                                "bitrate": 922.92,
+                                "size": 29632660
+                            }
+                        },
+                        "url": "https://pic3.zhimg.com/v2-b67efdb7ada6334045fe4fea843bb012.jpg",
+                        "duration": 256.86,
+                        "video_id": "994517566265524224",
+                        "type": "video",
+                        "height": 720
+                    }
+                ],
+                "updated": 1529893673,
+                "is_labeled": false,
+                "excerpt": "中兴芯片事件发酵到现在，无论是学界或是民间，对芯片问题与解决方法都各说各话，难以统一。因为问题盘根错节，又没有人掌握全面信息，所以答案至今扑朔迷离。然而复杂问题的背后，答案可能又是简单而朴实的，也许我们等待的是那个指出「皇帝的新衣」的小孩…",
+                "excerpt_title": "",
+                "id": 38454016,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-125ac1d5b7b78962eb6dc4953fffdf18_hd.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-0c9a15cd905de70ec1ed7238aec5f7b6_{size}.jpg",
+                    "name": "MUSETALK",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "欢迎关注微信公众号：MUSEVIDEO",
+                    "gender": -1,
+                    "user_type": "people",
+                    "url_token": "musevideo",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-0c9a15cd905de70ec1ed7238aec5f7b6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/db4f4f67dc3a1e602dd3a531b4b90321",
+                    "type": "people",
+                    "badge": [],
+                    "id": "db4f4f67dc3a1e602dd3a531b4b90321",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/38454016",
+                "title": "这可能才是中国芯片问题的本质",
+                "created": 1529893674,
+                "content": "<p>中兴芯片事件发酵到现在，无论是学界或是民间，对芯片问题与解决方法都各说各话，难以统一。因为问题盘根错节，又没有人掌握全面信息，所以答案至今扑朔迷离。然而复杂问题的背后，答案可能又是简单而朴实的，也许我们等待的是那个指出「皇帝的新衣」的小孩。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国工程院院士、美国半导体协会「大学研究大奖」首位华人获得者马佐平先生作客明思，道出复杂现状下的简单本质。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>小编  I  少年小腆甜</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/994517566265524224\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic1.zhimg.com/v2-b67efdb7ada6334045fe4fea843bb012.jpg\" data-lens-id=\"994517566265524224\"><img class=\"thumbnail\" src=\"https://pic1.zhimg.com/v2-b67efdb7ada6334045fe4fea843bb012.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/994517566265524224</span></span></a><hr/><p> 微信公众号：musevideo</p><p>【 明思，是全球顶尖学者、艺术家及企业家分享各自观察、思考与灵感的短视频平台。】</p><p>【 小哥哥小姐姐也可以在这儿看到明思视频 I 微信公众号 I 哔哩哔哩 I 油管 I 微博 I 头条 】</p>",
+                "comment_count": 33,
+                "image_url": "https://pic4.zhimg.com/50/v2-125ac1d5b7b78962eb6dc4953fffdf18_hd.jpg",
+                "voteup_count": 111,
+                "type": "article",
+                "thumbnail": "https://pic3.zhimg.com/v2-b67efdb7ada6334045fe4fea843bb012.jpg",
+                "thumbnail_extra_info": {
+                    "width": 1280,
+                    "playlist": {
+                        "ld": {
+                            "width": 640,
+                            "format": "mp4",
+                            "url": "https://vdn1.vzuu.com/LD/38b261e6-781a-11e8-9e91-0242ac112a2d.mp4?disable_local_cache=1&bu=topic&expiration=1561111352&auth_key=1561111352-0-0-cb419f8b1754d0768d52b243da8e6fb4&f=mp4&v=hw",
+                            "duration": 256.86,
+                            "height": 360,
+                            "bitrate": 528.012,
+                            "size": 16953154
+                        },
+                        "hd": {
+                            "width": 1280,
+                            "format": "mp4",
+                            "url": "https://vdn1.vzuu.com/HD/38b261e6-781a-11e8-9e91-0242ac112a2d.mp4?disable_local_cache=1&bu=topic&expiration=1561111352&auth_key=1561111352-0-0-99ce60ea327c2ed8ee9e9f050c7b4d6e&f=mp4&v=hw",
+                            "duration": 256.86,
+                            "height": 720,
+                            "bitrate": 2104.668,
+                            "size": 67575644
+                        },
+                        "sd": {
+                            "width": 848,
+                            "format": "mp4",
+                            "url": "https://vdn1.vzuu.com/SD/38b261e6-781a-11e8-9e91-0242ac112a2d.mp4?disable_local_cache=1&bu=topic&expiration=1561111352&auth_key=1561111352-0-0-a499f818c548de5cd5a89fa982a2f05c&f=mp4&v=hw",
+                            "duration": 256.86,
+                            "height": 478,
+                            "bitrate": 922.92,
+                            "size": 29632660
+                        }
+                    },
+                    "url": "https://pic3.zhimg.com/v2-b67efdb7ada6334045fe4fea843bb012.jpg",
+                    "duration": 256.86,
+                    "video_id": "994517566265524224",
+                    "type": "video",
+                    "height": 720
+                }
+            },
+            "attached_info": "CjQQBxoHNzU3MzMwNSCqpsHZBShvMCFAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM4NDU0MDE2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1557994602,
+                "is_labeled": false,
+                "excerpt": "今天给大家介绍一个新闻里不常出现的人物——约翰·罗伯特·博尔顿（John Robert Bolton），这人现在的职位是国家安全顾问。这个职位和白宫顾问是完全不同的，他主要服务于对岸五角大楼的智囊团成员。翻开博大叔的简历，从他1970年自耶鲁大学毕业至今一直都…",
+                "excerpt_title": "",
+                "id": 65957201,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-57f19418dfb1e8ddc047cc803f19e272_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-fcc308ccf0d0db98f8f14e39955e08bc_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-fcd8eb7e5fc99904a3fc69ead4f4f796_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "gender": 0,
+                    "user_type": "people",
+                    "url_token": "xing-kong-cai-fu",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "type": "people",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/65957201",
+                "title": "短线风险尚存，长期行情仍可期待",
+                "created": 1557976837,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4c33d7f30ee3398e93c0c9ff7e663936_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p><br/>今天给大家介绍一个新闻里不常出现的人物——约翰·罗伯特·博尔顿（John  Robert  Bolton），这人现在的职位是国家安全顾问。这个职位和白宫顾问是完全不同的，他主要服务于对岸五角大楼的智囊团成员。翻开博大叔的简历，从他1970年自耶鲁大学毕业至今一直都是共和党内部的主战派。世界上有一种精英叫战争贩子，博大叔正是躲在星条旗后面的这一角色。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-fcc308ccf0d0db98f8f14e39955e08bc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1010\" data-rawheight=\"563\" class=\"origin_image zh-lightbox-thumb\" width=\"1010\" data-original=\"https://pic1.zhimg.com/v2-fcc308ccf0d0db98f8f14e39955e08bc_r.jpg\"/></figure><p>菠菜在墙外看了不少博大叔的事迹，比如配合老布什发动海湾战争把萨达姆赶下台，担任对岸驻联合国大使期间努力要把国际原子能机构总干事穆罕默德·巴拉迪赶下台，一直在联合国各种会议中担当黑嘴角色，抨击联合国以此为由反对山姆大叔交纳联合国会费。如果你想知道一个有文化的流氓是啥样，可以深度的去了解一下博大叔。这货的言行等同于川大爷的二次方，只是人家川大爷有核心技术，会使用移动互联网进行个人IP的塑造。</p><p>博大叔有句臭大街的名言：美国同世界的关系就是锤子与钉子的关系，美国爱敲打谁就敲打谁。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-fcd8eb7e5fc99904a3fc69ead4f4f796_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"533\" data-original=\"https://pic3.zhimg.com/v2-fcd8eb7e5fc99904a3fc69ead4f4f796_r.jpg\"/></figure><p>由于太过锋芒，博大叔只能都在幕后干实事。5月13日《华尔街日报》爆出一个猛料，美国将出兵12万进入中东。川大爷马上站出来辟谣：“没有的事，我咋不知道呢？”确实他不太知道，因为这事是博尔顿这货让五角大楼弄得，根本就没抄送到川大爷手里签字。现在菠菜了解到的实锤如下：</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e78ff3cbf13d74fbd30d463de6235205_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"772\" data-rawheight=\"239\" class=\"origin_image zh-lightbox-thumb\" width=\"772\" data-original=\"https://pic2.zhimg.com/v2-e78ff3cbf13d74fbd30d463de6235205_r.jpg\"/></figure><p>1、美驻伊拉克大使馆发明确通知，在伊拉克的美国人紧急撤离；<br/>2、之前菠菜写过五角大楼一把手马蒂斯和川大爷在叙利亚撤兵问题上意见不和，前者坚持不撤，后者要撤，于是马蒂斯辞职。现在的五角大楼依旧是个代理一把手帕特里克沙纳罕依旧没转正。在叙利亚的山姆大叔的队伍至今没有撤兵，菠菜从中感受到川大爷就是嘴硬，根本干不过五角大楼的后台；<br/>3、阿联酋领海附近有四艘商船遭遇“蓄意破坏”，官方没有披露细节。到底是谁炸的呢，有两种可能，一种可能是伊朗因为要凸显霍尔木兹海峡的重要性，另一种可能是山姆大叔要栽赃给伊朗（或者是美国花钱雇的马甲，比如某些极端组织）。出来干架总要找个堂而皇之的理由，或者背着个大牌坊。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4d7a5245327490cbe41b70e5398a5cf5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"631\" data-rawheight=\"162\" class=\"origin_image zh-lightbox-thumb\" width=\"631\" data-original=\"https://pic2.zhimg.com/v2-4d7a5245327490cbe41b70e5398a5cf5_r.jpg\"/></figure><p>川大爷是个好演员，长期在社交媒体胡说八道把资本市场吓得一惊一乍的。比如昨天，整个A股股民集体沉浸在A股反弹的视觉冲击里仿佛外部风险已经褪去。菠菜觉得到6月28日的G20这一个月期间山姆大叔是要转移阵地去中东薅点筹码回来继续干的节奏，因为上一轮新华社+人民日报+新闻联播已经在舆论场上直接把美股干出个大坑，老祖宗说杀敌一千自损八百，别说八百华尔街连二百都扛不住了。</p><p>现在数浪的都和算命差不多，赌deal能达成的都和买大买小差不多。所以，此刻无短线操作方案，短期不可控的雷太多。中长期的逻辑始终从年初就清晰，5G、软件、芯片电子产业，总之，我们比对岸差在哪块，哪块就是机会；反之，被对岸敲诈多的行业其中有不少低端制造业，比如制衣等本来就是要转出去的，这些就是雷，要规避的。</p><p>短期的平静不能替代中期的不确定性，自己要清楚一般投资者的时间分配和资金体量是否适合做短线。外部都平静了，内部的经济转型还是要靠自己。最近瞄了一眼经济数据，这个作业不太好看。改革深水区本来就阻力大，还有人隔着太平洋给你捣乱，能不闹心吗？</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-772fe3f5bba6398c253a3989b19cc712_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"483\" data-rawheight=\"557\" class=\"origin_image zh-lightbox-thumb\" width=\"483\" data-original=\"https://pic3.zhimg.com/v2-772fe3f5bba6398c253a3989b19cc712_r.jpg\"/></figure><p>菠菜始终认同一句话，短线是技术层面的，参与中国资本市场就要长期看好中国经济基本面，否则就别来。你去看看巴菲特，他啥时候不是又红又专的唱多美国经济基本面，否则他可以不用买美股。可是，国内市场上一票口口声声说自己是价值投资的，天天不看好经济基本面，实际上就是不断打脸，这样的股神不是好演员，我也不信他能赚到大钱。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-bf3cd735f0766cb734ca2cb5c47a59a4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"652\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-bf3cd735f0766cb734ca2cb5c47a59a4_r.jpg\"/></figure><p></p>",
+                "comment_count": 0,
+                "image_url": "https://pic3.zhimg.com/50/v2-57f19418dfb1e8ddc047cc803f19e272_hd.jpg",
+                "voteup_count": 6,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyNzg2MDg4IIWu8+YFKAYwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjU5NTcyMDE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1551963106,
+                "is_labeled": false,
+                "excerpt": "今天（3月7日），华为公司轮值董事长郭平在深圳总部宣布：针对美国政府对华为公司的不公平打压和遏制，<b>华为公司决定正式起诉美国政府！</b>在发布会上，郭平表示，美国国会一直拿不出任何支持其限制华为产品决策的证据，却仍然在去年通过了禁止美国联邦部门使用…",
+                "excerpt_title": "",
+                "id": 58615555,
+                "topic_thumbnails": [
+                    "https://pic1.zhimg.com/50/v2-4eb23e0e07ff1a79675f930d2674732b_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-d87df959f483e6e2e698cf25c9ca4639_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/90ccc3802f92462ef04e2c960d8b821b_{size}.jpg",
+                    "name": "笨虎",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "经济学硕士"
+                    },
+                    "headline": "微信公号「笨虎的录音笔」- 有关财富的小秘密",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "ben-hu-90",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/90ccc3802f92462ef04e2c960d8b821b_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/afb2246e71be5b3d92888c0ddeb2bccb",
+                    "type": "people",
+                    "badge": [],
+                    "id": "afb2246e71be5b3d92888c0ddeb2bccb",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/58615555",
+                "title": "华为起诉美国联邦政府！胜算有么？会有几何？",
+                "created": 1551963106,
+                "content": "<p>今天（3月7日），华为公司轮值董事长郭平在深圳总部宣布：针对美国政府对华为公司的不公平打压和遏制，<b>华为公司决定正式起诉美国政府！</b></p><p>在发布会上，郭平表示，美国国会一直拿不出任何支持其限制华为产品决策的证据，却仍然在去年通过了禁止美国联邦部门使用华为产品的国防授权法案，迫使华为不得不采取法律手段，作为维护华为权益和名誉最后的应对办法。</p><p>郭平说，对于华为的封杀不仅非法，更阻碍华为参与公平的市场竞争，最终损害了美国消费者的利益。如果没有这种非法的封杀，华为就可以把先进的5G技术带给美国，为美国建立起最好的5G网络。</p><p>“我们希望法庭的裁决会令华为和美国人民受益”，郭平说。</p><p>笨虎觉得，这一招真的很高。</p><p><b>先不论胜负与否，华为都会赢得国内民众的掌声：作为中国的民族企业，我们绝不会任人宰割，我们要维护自己的权益！</b></p><p>而且，我们拿起的这张牌，正是你们美国人一直以来标榜的法治！</p><p>同时，直指美国政府的做法侵犯了美国人民的利益，争取美国普通民众的支持。</p><p>这样一来，华为就把难题就留给了美国人：你们的民权法治到底是真的还是假的？</p><p>美国政府对华为的封杀措施，依据是NDAA（国防授权法案），于 2018 年 8 月 13 日经美国国会批准，国防授权法案批准了 7160 亿美元的国防资金，并对一系列涉及美国安全的网络安全、IT 供应链等事项做出了规定。</p><p>其中的Section 889 明令禁止用联邦资金购买来自中国华为和中兴的电信设备和电信服务，来自深圳海能达（专网通信）、杭州海康威视、大华技术（安防视频监控）的视频监控设备。</p><p><b>华为起诉的就是这一法案，违反了美国宪法中的「剥夺公权法案条款」（Bill of Attainder），即禁止任何立法机构未经审判，通过立法的形式宣布一方有罪并进行惩罚。</b></p><p>以及作为补充的宪法第五修正案中的「正当程序条款」：不经正当法律程序，任何人不得被剥夺生命、自由或财产。</p><p>现在，当着全世界人民的面，美国人陷入了两难处境！</p><p><b>笨虎觉得，这一次华为的胜算还是有的。</b></p><p>因为特朗普在美国国内已经树敌太多，此前因为边境墙修建事件已经和反对党彻底决裂。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d87df959f483e6e2e698cf25c9ca4639_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"428\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-d87df959f483e6e2e698cf25c9ca4639_r.jpg\"/></figure><p>华为此时起诉美国联邦政府，也算是给特朗普反对者的一次助攻良机。<br/></p><p><b>而且，此前中国企业起诉美国联邦政府已经有获胜的先例。</b></p><p>2012年9月28日，美国总统奥巴马签发总统令，以涉嫌威胁美国国家安全为由，中止了三一集团（以下简称“三一”）关联公司Ralls在俄勒冈州Butter Creek风电场的四个风电项目。</p><p>这四个风电项目有一处在海军的限飞空域之内，其余的距离军事管制区不足5英里。根据公开资料，美国海军在此进行低空轰炸和电子战训练，以及试验无人驾驶飞机。</p><p>三一随即反击。2012年10月1日，Ralls向美国哥伦比亚特区联邦地方分区法院递交诉状，将奥巴马总统列为被告。这也让奥巴马成为了首位因阻止外资并购被起诉的美国总统。</p><p>事情一开始并不顺利，2013年10月9日，美国哥伦比亚特区联邦地方分区法院杰克逊法官做出三一集团关联公司Ralls诉奥巴马总统案的初审判决，驳回了三一对奥巴马的所有指控内容。三一随后表示将“坚决诉讼到底”，提出上诉。</p><p><b>2014年7月15日，哥伦比亚特区联邦上诉法院裁定，美国总统奥巴马下达的禁止三一集团在俄勒冈州风电项目的总统令，未经适当的程序，剥夺了Ralls风电项目受宪法保护的财产权。</b></p><p>这意味着三一集团起诉奥巴马在美国巡回上诉法院获胜。2015年11月4日，三一集团宣布，与美国政府正式就Ralls收购俄勒冈州四个美国风电项目的法律纠纷达成全面和解。</p><p>三一重工起诉奥巴马一案，和华为一样是涉及美国宪法第五修正案中的「正当程序条款」：不经正当法律程序，任何人不得被剥夺生命、自由或财产。</p><p>两案之间有很强的相似性，再加上特朗普现在的艰难处境，华为胜算不小。</p><p>---End---</p><p><b>2019，笨虎总结了10个房价特别危险的城市名单，在微信公众号「笨虎的录音笔」回复关键词“城市”即可取阅。</b></p>",
+                "comment_count": 9,
+                "image_url": "https://pic1.zhimg.com/50/v2-4eb23e0e07ff1a79675f930d2674732b_hd.jpg",
+                "voteup_count": 28,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAxMTU1MDcxIOKnhOQFKBwwCUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINTg2MTU1NTU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1558680346,
+                "is_labeled": false,
+                "excerpt": "悟空，成佛已多年，你可曾记得佛祖曾说过，“<b>我西牛贺洲者，不贪不杀，养气潜灵，虽无上真，人人固寿；但那南赡部洲者，贪淫乐祸，多杀多争，正所谓口舌凶场，是非恶海。</b>”师父，我只记得灵山脚下金平府那个老僧说过的话，“<b>我这里向善的人，看经念佛，都指…</b>",
+                "excerpt_title": "",
+                "id": 66624635,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-628e9b5a2296438165cc42bccfa416ec_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-f808457828f16ad785d94ab96d7a57d1_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/17c83eef555138b63cf93b8f92ef67ae_{size}.jpg",
+                    "name": "游戏三",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "西游话题下的扯淡答题者/程序猿",
+                    "gender": 1,
+                    "user_type": "people",
+                    "url_token": "you-xi-san",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/17c83eef555138b63cf93b8f92ef67ae_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/dc0b8ad8d5630214e499b5cf1d2fbba8",
+                    "type": "people",
+                    "badge": [],
+                    "id": "dc0b8ad8d5630214e499b5cf1d2fbba8",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66624635",
+                "title": "还在坚持崇佛抑道式解读西游？醒醒吧…",
+                "created": 1558520819,
+                "content": "<p>悟空，成佛已多年，你可曾记得佛祖曾说过，“<b>我西牛贺洲者，不贪不杀，养气潜灵，虽无上真，人人固寿；但那南赡部洲者，贪淫乐祸，多杀多争，正所谓口舌凶场，是非恶海。</b>”</p><p>师父，我只记得灵山脚下金平府那个老僧说过的话，“<b>我这里向善的人，看经念佛，都指望修到你中华地托生。</b>”</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>“我现四大部洲，众生善恶，各方不一：东胜神洲者，敬天礼地，心爽气平；北巨芦洲者，虽好杀生，只因糊口，性拙情流．无多作践；<b>我西牛贺洲者，不贪不杀，养气潜灵，虽无上真，人人固寿；但那南赡部洲者，贪淫乐祸，多杀多争，正所谓口舌凶场，是非恶海。</b>我今有三藏真经，可以劝人为善。”                                                    —— 原著第八回<br/>忽闻方丈金钟韵，应佛僧人朗诵经。四众正看时，又见廊下走出一个和尚，对唐僧作礼道：“老师何来？”唐僧道：“弟子中华唐朝来者。”那和尚倒身下拜，慌得唐僧搀起道：“院主何为行此大礼？”<b>那和尚合掌道：“我这里向善的人，看经念佛，都指望修到你中华地托生。才见老师丰采衣冠，果然是前生修到的，方得此受用，故当下拜。”</b>唐僧笑道：“惶恐！惶恐！我弟子乃行脚僧，有何受用！若院主在此闲养自在，才是享福哩。”              —— 原著第九十一回</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>—— 曾经的我们，都认为西天是个极乐之地，直到历经十万八千里，<b>来到了灵山下，我们才知道，原来那里的和尚都向往着下辈子到中华托生</b>。</p><p>—— 曾经的我们，都认为西天不贪不杀，养气潜灵，直到快到天竺，<b>才知道有个国家叫灭法国，专杀和尚。 到了灵山，才知道原来取经还必须要交人事给罗汉</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>西游里，九十三回，天竺那，唐僧给我们说了一个佛经记载的小故事，<b>舍卫国布金寺</b>的故事：</p><blockquote>三藏在马上沉思道：“布金，布金，这莫不是舍卫国界了么？”八戒道：“师父，奇啊！我跟师父几年，再不曾见识得路，今日也识得路了。”三藏说道：“不是，我常看经诵典，说是佛在舍卫城祇树给孤园。这园说是给孤独长者问太子买了，请佛讲经。太子说：‘我这园不卖。他若要买我的时，除非黄金满布园地。’给孤独长者听说，<b>随以黄金为砖，布满园地，才买得太子祇园，才请得世尊说法</b>。我想这布金寺莫非就是这个故事？”</blockquote><p>曾经黄金铺地，极其富庶的舍卫国，在虔诚地礼佛之后，却只剩下个半新半旧的寺院。</p><blockquote>离了几个山冈，路旁早见一座大寺。三藏道：“悟空，前面是座寺啊，你看那寺，<b>倒也不小不大，却也是琉璃碧瓦；半新半旧，却也是八字红墙</b>。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>为什么？</p><blockquote>佛祖笑道：“你且休嚷，他两个问你要人事之情，我已知矣。但只是经不可轻传，亦不可以空取，向时众比丘圣僧下山，<b>曾将此经在舍卫国赵长者家与他诵了一遍，保他家生者安全，亡者超脱，只讨得他三斗三升米粒黄金回来</b>，我还说他们忒卖贱了，教后代儿孙没钱使用。</blockquote><p>因为听僧众诵经一遍，就需要三斗三升米粒黄金！</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-f808457828f16ad785d94ab96d7a57d1_b.jpg\" data-size=\"normal\" data-rawwidth=\"420\" data-rawheight=\"313\" class=\"content_image\" width=\"420\"/><figcaption>嘴上全是主义</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>事实上，在86版西游记拍摄时，受到时代思想的限制，整个电视剧表现出浓厚的崇佛抑道的价值观。毕竟那个时候，劝人向善的佛教大众，是需要拉拢的朋友，而代表着封建迷信思想的道教是要抨击的对象。剧组不能按照原著中的设定去拍摄。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但看完这些原著中的文字，如果你还觉得，西游作者笔下的佛教，是我们认识的那个现实中劝人向善的佛教。那我只能呵呵了……</p><p>其实在我看来，西游作者笔下的佛教只不过意味着一种<b>从西方来的普世价值观。</b></p><p><b>及时的从这满嘴福报的价值观里，看到其背后巨大的利益链，才更利于我们看清事实。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>舍卫国在礼佛后，已经消失在历史的长河里。今我中华者，应当如何正确看待这从西方传来的价值观？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>关注本专栏，让我们一起，带着这种批判的眼光，重新审视西游原著，看清西游世界背后残酷的真相。从西游的文字里，了解如何看到一个世界。</p>",
+                "comment_count": 1,
+                "image_url": "https://pic4.zhimg.com/50/v2-628e9b5a2296438165cc42bccfa416ec_hd.jpg",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyOTM0MjQ1IPPHlOcFKAQwAUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjY2MjQ2MzU="
+        }
+    ]
+}

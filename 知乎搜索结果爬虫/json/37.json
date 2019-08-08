@@ -1,0 +1,230 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439418482.53520",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439394893.54&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439394893.53669"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559205183,
+                "is_labeled": false,
+                "excerpt": "<b>文章目录</b>一、中美女主播“跨洋辩论”，到底说了什么？二、隔夜行情回顾与今日展望三、倾听专家声音四、周四重点关注五、隔夜全球热点汇总与投票<b>中美女主播“跨洋辩论”汇总</b>北京时间5月30日周四早8时许，中央广播电视总台中国国际电视台（CGTN）主播刘欣出现…",
+                "excerpt_title": "",
+                "id": 67533835,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-b1b6ce5fa40bae4d608626aca1954f49_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-1a0a37d1afb1548e22470af4009b1c0a_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-e4d6e7e25edd2284e363976c3d626889_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-952e76deb8682a7008709a7f102e919d_{size}.jpg",
+                    "badge": [],
+                    "name": "掌金策略",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "贵金属分析师",
+                    "url_token": "zhang-jin-ce-lue",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-952e76deb8682a7008709a7f102e919d_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/5c5f018bb5a514d0f61cf4256d3ad04e",
+                    "gender": -1,
+                    "type": "people",
+                    "id": "5c5f018bb5a514d0f61cf4256d3ad04e",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67533835",
+                "title": "中美女主播“跨洋辩论”，到底说了什么？",
+                "created": 1559205183,
+                "content": "<p><b>文章目录</b></p><p>一、中美女主播“跨洋辩论”，到底说了什么？</p><p>二、隔夜行情回顾与今日展望</p><p>三、倾听专家声音</p><p>四、周四重点关注</p><p>五、隔夜全球热点汇总与投票</p><p><b>中美女主播“跨洋辩论”汇总</b></p><p>北京时间5月30日周四早8时许，中央广播电视总台中国国际电视台（CGTN）主播刘欣出现在此前向其“约辩”的美国福克斯商业频道画面，与主播Trish Regan（翠西）在美国黄金时段、当地时间29日晚八时的节目《Trish Regan黄金时段》中连线，两人就中美摩擦等相关议题进行一场面对面、直击焦点的“跨洋对话”。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1a0a37d1afb1548e22470af4009b1c0a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"675\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"675\" data-original=\"https://pic3.zhimg.com/v2-1a0a37d1afb1548e22470af4009b1c0a_r.jpg\"/></figure><p>（两位主播简介）</p><p>再来回顾下“约辩”一事。5月22日，CGTN主持人刘欣在一期评论短视频中驳斥了Trish Regan宣扬对华“经济战”的言论，称其评论少有实质性证据，并提出一处数据引用失实问题。刘欣同时表示，如果美方带着偏执和敌意，中美贸易磋商将会无果而终。</p><p>5月23日，Trish Regan在其节目中用11分钟对刘欣的评论作出回应，称“知道自己情绪激动，但也是在有证据的基础上”，并于同一日通过个人推特向刘欣“约辩”。刘欣“应约”。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-e4d6e7e25edd2284e363976c3d626889_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"767\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-e4d6e7e25edd2284e363976c3d626889_r.jpg\"/></figure><p>北京时间8点26分，中美主播对话正式开始。</p><p><b>CGTN主播刘欣与FOX主播约辩要点汇总：</b></p><p>1、刘欣开场白：非常感谢Trish，感谢你给我这次机会，从来没有想过能和你进行直接对话。</p><p>2、刘欣不到30秒的开场白被Trish至少三次插话。</p><p>3、Trish：你能不能跟我们说一下你对现在中美贸易谈判的个人看法？</p><p>刘欣：我并没有内部消息，所以我并不太清楚中美之间的贸易谈判，究竟到达一个什么样的地步，但是我认为中国政府已经非常明确地表明了他们的立场。</p><p><b>4、刘欣谈及知识产权：如果通过双方互惠互利相互学习的目的的话，你愿意花钱去买我们的知识产权，那我认为没有任何问题，为什么不呢？我们可以互惠互利，就我个人来讲，我之所以学英文，因为我有一个美国的老师，我跟美国的朋友去学。</b></p><p><b>5、刘欣：确实有人说中国已经变得如此之强大，为什么中国不能像一个成人一样长大点呢，对于我们来讲我们中国并不是一直想成为弱小的国家，我们也想变得强大，但是真正的目的是你到底怎么去定义发展中国家。</b></p><p>6、北京时间8点43分58秒，跨海对话结束。</p><p>7、刘欣在结束语中欢迎Trish来中国看看。</p><p><b>隔夜行情回顾与今日展望</b></p><p>现货黄金周三（5月29日）小幅收涨，美市盘中最高上探至1285.40美元/盎司，金价自开盘后震荡走高，重返1280关口，但触及日内高位后回落。美元继续反弹，美元指数最高触及98.14，重返98关口。日内无重大数据公布。</p><p>周四（5月30日）亚市早盘，国际现货黄金位于1278.50美元/盎司水平。上一交易日黄金走势剧烈震荡，涨至1285.40美元/盎司高点后大幅回撤下挫，当日收于长上影线的小实体阳线，表明黄金卖盘力度强劲。本交易日目前来看，金价进一步加紧下跌，盘中最低触及1278.23美元/盎司。</p><p><b>倾听专家声音</b></p><p><b>1、<a href=\"https://link.zhihu.com/?target=http%3A//BubbaTrading.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">BubbaTrading.com</span><span class=\"invisible\"></span></a>首席市场策略师Todd Horwitz撰文分析称：</b></p><p>黄金似乎找到了一个新的交易区间，即1270- 1290美元/盎司。在金价准备迈出下一大动作之际，这一区间看起来很稳固。</p><p>Horwitz指出，在黄金进一步走势确认之前，所有理由都暗示金价应该上涨，但事实不尽人意。因此，在这一模式发生变化之前，金价将会走低，目前建议逢高做空。</p><p><b>2、德国商业银行（Commerzbank）在周三发布的报告中表示：</b></p><p>尽管钯金从交易所交易基金ETF中流出，但钯金价格仍在上涨，这可能会抵消汽车需求。德商称“自本季度开始以来，ETF投资者已售出85,000盎司钯金，自今年年初以来已高达100,000盎司。根据庄信万丰的说法，今年将有超过300,000盎司从ETF撤出。然而，疲软的投资需求应该被汽车行业的强劲需求所对冲。”</p><p><b>3、IG分析师表示：</b></p><p>黄金短期前景将取决於1287美元/暗示阻力位是否会被攻克。从较长期来看，金价需要突破1303美元/暗示，才能看到更广泛的看涨行情。在那之前，空头预计不久将卷土重来。</p><p><b>周四重点关注</b></p><p>20:30 美国第一季度实际GDP年化季率修正值</p><p>美国至5月25日当周初请失业金人数</p><p>加拿大第一季度经常帐</p><p>22:00 美国4月成屋签约销售指数月率</p><p>22:30 美国至5月24日当周EIA天然气库存</p><p>23:00 美国至5月24日当周EIA原油库存</p><p>24:00 美联储副主席克拉里达发表讲话</p><p>最近，各大联盟移除华为会员资格的消息传得沸沸扬扬，而这势必会对华为的设备生产造成影响。好消息是，目前来看，移除只是一时的。</p><p><b>关于华为</b></p><p>@IT之家【WiFi联盟、蓝牙联盟、JEDEC协会已恢复华为成员资格】据澎湃新闻报道，继SD存储卡协会（SDA）之后，WiFi联盟、蓝牙技术联盟和JEDEC协会（固态技术协会）等行业组织，均已恢复华为的成员资格。据华为年报披露的数据显示：华为加入了400多个标准组织、产业联盟、开源社区，担任超过400个重要职位。2018年，华为提交标准提案超过5,000篇，累计提交近60000篇。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-157f03f879a549b593c5362477f7af79_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"546\" class=\"origin_image zh-lightbox-thumb\" width=\"728\" data-original=\"https://pic2.zhimg.com/v2-157f03f879a549b593c5362477f7af79_r.jpg\"/></figure><p>@中国经营报【北大教授张海霞致IEEE主席公开信：申请退出编委会】因IEEE限制华为专家参与审稿，北大教授张海霞发文表示，“这远远超出了一个可以接受学术人的底线，做为IEEE的会员和期刊编委，我必须表明自己的态度：我申请退出我所在的两个IEEE期刊的编委会，并给IEEE候任主席写了一封公开信。这是我个人态度，与任何其他组织和个人无关。”</p><p><b>别发弹幕了</b></p><p>@新浪科技【各大直播平台均暂时关闭弹幕】5月29日晚间消息，B站官方微博发布声明称，因弹幕系统技术升级，从即日起至6月6日网站将暂停关闭弹幕功能。稍早时间，部分网友反映，虎牙、斗鱼等直播平台出现弹幕断流现象，用户观看直播时无法同步观看横屏弹幕。据了解，YY直播发布系统升级维护通知公告；虎牙发布系统维护通知。弹幕断流或与系统维护有关。 </p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-3c957e2cd3479ffea91fdb94b9b612fe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"578\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-3c957e2cd3479ffea91fdb94b9b612fe_r.jpg\"/></figure><p><b>一些声音</b></p><p>@新华网【外交部：一国是不是操纵汇率不是美国定的】针对美国财政部日前公布半年度汇率政策报告一事，外交部发言人陆慷5月29日表示，中方多次建议美方不要对他国汇率进行单边评估，一国是不是操纵汇率不是美国定的，有关多边国际机构对于各国汇率一直有权威的评估。“就中方而言，我们将坚定不移地深化汇率市场化改革，继续完善以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，保持人民币汇率在合理均衡水平上的基本稳定。”</p><p>@界面【傅成玉：做好短期石油断供准备，15年内实现能源自给】5月29日，据界面新闻，中国石油化工集团有限公司原董事长傅成玉在上海衍生品市场论坛发表了题为《中国要把能源安全掌握在自己手中》的演讲，“在当今世界大形势下，中国的能源安全问题更加凸显，确保能源安全应当引起高度重视，采取切实措施和行动。这不是危言耸听，而是近在眼前的迫切现实”。</p><p>@路透【美国警告香港注意一艘满载伊朗石油的油轮可能寻求停靠】美国先前警告称，如果香港与一家开往香港并且据称违反对伊朗制裁的油轮开展业务，可能会面临处罚；对此香港提出反驳。香港商务及经济发展局的一位发言人回应美国的警告称，香港一直严格实施联合国安理会的制裁，但安理会并未就伊朗出口石油施加任何限制。</p><p><b>童模或成过去时</b></p><p>@澎湃新闻【浙江拟立法禁止家长让孩子当“童模”从事高强度劳动】《浙江省家庭教育促进条例（草案）》5月29日提交省十三届人大常委会第十二次会议审议，针对家长让孩子当“童模”从事高强度劳动，送孩子上“国学班”、“读经班” 而不接受义务教育等现象，明确父母不得利用未成年人从事有害其身心健康的商业活动，不得阻碍未成年人接受义务教育。</p><p><b>关于苹果</b></p><p>@新浪科技【苹果获折叠屏幕专利，有望在2020年推出可折叠iPhone】据美国CNN网站报道，苹果公司今日获得一项折叠屏幕技术专利，可用于iPhone等设备中。这项专利申请是2018年1月提交的，也是苹果围绕可折叠屏幕提出的一系列专利申请之一。但CNN也指出，包括苹果在内的一些公司经常会申请一些专利，但后来并未真正形成产品。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-822bcdc35f0cafe6e6c68c913a13894c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"630\" data-rawheight=\"353\" class=\"origin_image zh-lightbox-thumb\" width=\"630\" data-original=\"https://pic1.zhimg.com/v2-822bcdc35f0cafe6e6c68c913a13894c_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>@新浪科技【苹果为App Store收30%分成辩护：我们的开支也很高】据美国科技媒体VentureBeat报道，针对美国最高法院最近作出的一项裁决，苹果公司今日展开辩护，在公司网站上进一步强调其原则和做法。苹果为App Store抽取30%的分成给出了理由，称这部分费用被其巨大的运营开支所抵消。苹果还强调，App Store应用商店中还拥有大量的免费App，苹果并不从中获取利润。</p><p>以上，新的一天继续加油吧。</p>",
+                "comment_count": 0,
+                "image_url": "https://pic3.zhimg.com/50/v2-b1b6ce5fa40bae4d608626aca1954f49_hd.jpg",
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMTM2NDU0IL+qvucFKAQwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjc1MzM4MzU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559204278,
+                "is_labeled": false,
+                "excerpt": "最近这一段时间，在网上热议的一个科技话题莫过于华为受到美国的制裁了，自从美国开始制裁华为之后，华为的发展就成为了很多国人关心的问题，不少人每天都在为华为担心，但是我们目前从华为和任正非的表态来看，华为其实一点都不惧怕美国的制裁，相反这一次…",
+                "excerpt_title": "",
+                "id": 67531899,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-5a4c604702131f298e05f47ba380b439_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-cbd2cbecbaeb055e43bd47b8118810c1_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-877c0d458fc9f454416634e35f935ade_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-bf19073e29672f6917c4a713ef9d5797_{size}.jpg",
+                    "badge": [],
+                    "name": "清香的回忆",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "然，多亏有你，我才有了这清香的回忆",
+                    "url_token": "qing-xiang-de-hui-yi",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-bf19073e29672f6917c4a713ef9d5797_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/7f607995c4e30e96e17c9f14de20bfa7",
+                    "gender": 0,
+                    "type": "people",
+                    "id": "7f607995c4e30e96e17c9f14de20bfa7",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67531899",
+                "title": "马云撤掉美国100万个工作岗位，力挺华为，后意识音乐霸气从美撤回",
+                "created": 1559204278,
+                "content": "<p>最近这一段时间，在网上热议的一个科技话题莫过于华为受到美国的制裁了，自从美国开始制裁华为之后，华为的发展就成为了很多国人关心的问题，不少人每天都在为华为担心，但是我们目前从华为和任正非的表态来看，华为其实一点都不惧怕美国的制裁，相反这一次的制裁对于华为来说或也是一个崛起的机会！</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-cbd2cbecbaeb055e43bd47b8118810c1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"443\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-cbd2cbecbaeb055e43bd47b8118810c1_r.jpg\"/></figure><p>对于美国的霸权行为，众多的国产科技巨头公司也开始纷纷声援华为，目前华为已经收到了来自360、台积电等等科技巨头公司的支持。</p><p>最近 ，拒绝了美国多次邀请的脑神经科学家王健瑞教授说：美国那些号称无国界的科学领域已经给他们的ZF跪下了，加入了对华为的封锁，而且渐渐的蔓延至整个领域。作为中国人在使用音乐对大脑科研探索领先地位下，我们后意识音乐不能与他们再继续合作下去，不能让“后意识音乐”开发右脑的科技成果，开启霸权者们获得更多的智商来摧残我们。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-877c0d458fc9f454416634e35f935ade_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"497\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-877c0d458fc9f454416634e35f935ade_r.jpg\"/></figure><p>接着王健瑞教授激动的说：“在地缘政治足球赛的下半场入场，曾是我们的标准传统，而现在，我们已经长大了，一开始就入场的时机已经到来”。</p><p>这话说的真的太TMD霸气了，小编眼睛都模糊了。相信不少网友也能感到这句话中的辛酸吧！！！！！！！！！</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-acd4bdd05baefcb3dc161c2c304f2e70_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"355\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic1.zhimg.com/v2-acd4bdd05baefcb3dc161c2c304f2e70_r.jpg\"/></figure><p>更霸气的是阿里巴巴的马云也开始公开力挺华为，近日，马云表示：由于中国和美国之间持续的贸易问题，阿里巴巴不再为美国创造100万个工作岗位机会！</p><p>看到马云力挺华为的发展，不少网友都表示马云霸气！要知道在面对美国制裁中国企业的时候，作为中国的互联网巨头，大家就应该抱团发展；目前华为不仅在国内收到了很多科技巨头的支持，而且还收到了来自日本松下、英国沃达丰、葡萄牙Aptoide等科技巨头的力挺，相信这一次华为在众多科技互联网公司的支持下，一定会渡过难关，向前发展！塞翁失马，不知道这是一个机会还是一个打击呢？欢迎留言和小编一起互动哦！</p>",
+                "comment_count": 20,
+                "image_url": "https://pic3.zhimg.com/50/v2-5a4c604702131f298e05f47ba380b439_hd.jpg",
+                "voteup_count": 17,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMTM2MDIxILajvucFKBEwFEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjc1MzE4OTk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "美货中的大部分在国内就如空气和水一样，去抵制？怎么抵制？微软，英特尔，IBM，美元……，有些人说如今的世界是美国离不开中国，对于这种说法我不是很理解，承认现实很难吗？一味的夜郎自大，拒绝承认别人的先进，发达，看不清现实，我认为这比高速路上逆…",
+                "created_time": 1554353190,
+                "id": 641095174,
+                "voteup_count": 29,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "badge": [],
+                    "name": "阿华",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "同龄偶像是韩寒，觉得周星驰最好的电影是《功夫》，《喜剧之王》",
+                    "url_token": "a-hua-2-74",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/1ad5cbc12a870185e29a4caf47a18ccb",
+                    "gender": 1,
+                    "type": "people",
+                    "id": "1ad5cbc12a870185e29a4caf47a18ccb",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/641095174",
+                "question": {
+                    "title": "为何人们不抵制美货？",
+                    "url": "http://www.zhihu.com/api/v4/questions/318438167",
+                    "created": 1554144264,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 318438167
+                },
+                "updated_time": 1554353339,
+                "content": "<p>美货中的大部分在国内就如空气和水一样，去抵制？怎么抵制？微软，英特尔，IBM，美元……，有些人说如今的世界是美国离不开中国，对于这种说法我不是很理解，承认现实很难吗？一味的夜郎自大，拒绝承认别人的先进，发达，看不清现实，我认为这比高速路上逆行还危险，老祖宗几千年前就说过“知己知彼，百战不殆”，现在的问题是很多国人既不了解自己国家，也不了解世界，GDP世界第二让很多人脑部充血，整天处于亢奋勃起状态，怼天怼地。</p><p>中兴公司侯老先生深夜坐飞机上美国低头求饶，赔礼道歉干掉自己员工才过去多久？</p><p>有空了解一下中国互罩在国外的处境与待遇？</p><p>大家一起加油吧！希望国家崛起那一天早些到来！</p>",
+                "comment_count": 14,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTQ2NjMxMTQ5IKaYluUFKB0wDkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggzMzA0MDQwN3IJNjQxMDk1MTc0"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1560248595,
+                "is_labeled": false,
+                "excerpt": "格力又成功的搞了一次事件营销，不，是同业监督。格力昨天下午抛出一份举报信（如上图），实名举报奥克斯空调生产销售质量不合格的空调产品。菠菜认真看了格力在其微博上的举报信，有以下几点值得注意： 1、这封举报信是写给国家市场监管总局的，竞争对手举…",
+                "excerpt_title": "",
+                "id": 68675221,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-e7e8b3eb709519884ef5762886e62730_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-4eeb6d7cc080328597b668e3149aa6da_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-ad65a652e4d40dcc0eaf8b666dfcb393_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "badge": [],
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "url_token": "xing-kong-cai-fu",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "gender": 0,
+                    "type": "people",
+                    "id": "59f9ee507a47989029fb9080b3489cff",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/68675221",
+                "title": "格力举报奥克斯却火了美的，这是神马逻辑？",
+                "created": 1560227100,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-fa120dc1cc4ec7168d968513d252b79e_b.jpg\" data-rawwidth=\"400\" data-rawheight=\"100\" data-size=\"normal\" data-caption=\"\" class=\"content_image\" width=\"400\"/></figure><p>格力又成功的搞了一次事件营销，不，是同业监督。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4eeb6d7cc080328597b668e3149aa6da_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1485\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-4eeb6d7cc080328597b668e3149aa6da_r.jpg\"/></figure><p>格力昨天下午抛出一份举报信（如上图），实名举报奥克斯空调生产销售质量不合格的空调产品。菠菜认真看了格力在其微博上的举报信，有以下几点值得注意：</p><p><br/>1、这封举报信是写给国家市场监管总局的，竞争对手举报这种行为虽然不光彩，但是可以作为举报主体的；<br/>2、举报之前已经委托专业三方机构进行过检测验证，是有三方出具的检测报告的；<br/>3、达不到国家二级能耗标准这是实锤，只是通过这种方式将其公开。并且列明了相关法条，诉求是按照《刑法》追究刑事责任；<br/>4、菠菜特别注意了一下，格力当时特别在微博上@发改委。这个细节很重要，这是让行业顶层设计者注意到此事。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-ad65a652e4d40dcc0eaf8b666dfcb393_b.jpg\" data-rawwidth=\"750\" data-rawheight=\"525\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic4.zhimg.com/v2-ad65a652e4d40dcc0eaf8b666dfcb393_r.jpg\"/></figure><p>格力此举显然是有备而来，大家关心的是格力提供的证据是否属实，而不是同业竞争这些边角料。假如奥克斯真的是质量过硬就用事实来反驳。显然，后者被杀个措手不及，连忙抛出了一份准备不足的《声明》（如下图），菠菜注意到以下几点：</p><p><br/>1、质疑格力的举报主体资格，菠菜认为这种质疑是无效的；<br/>2、拿618销售旺季和格力销售业绩下滑为攻击点，显得毫无说服力；<br/>3、说是“不实举报”，已向公安部门报案并向司法机关提起诉讼，菠菜不知道公安局是否给立案。但奥克斯始终没有对格力举报的事实部分，也就是能效虚标给与正面回应。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5d9c85cde2d282b9858c1d6c27aea5a7_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1174\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-5d9c85cde2d282b9858c1d6c27aea5a7_r.jpg\"/></figure><p>截止到菠菜发稿为止，目前没有收到公安部门对奥克斯的公开反馈。但国家市场监管总局却反馈了格力的举报，表示会重视此事并已通知浙江省市场监督管理局进行调查核实（如下图）。这事就大了，如果实锤，必须给消费者一个交待，奥克斯或将会面临退单。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-735c0d00d3bd7b6cf370ac0fe570c381_b.jpg\" data-rawwidth=\"750\" data-rawheight=\"589\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic2.zhimg.com/v2-735c0d00d3bd7b6cf370ac0fe570c381_r.jpg\"/></figure><p>神转折来了，美的居然火了，微博粉丝激增。</p><p><br/>原来是多家媒体报道的时候引用了苏宁悟空棒6月份前10天的销售数据显示，格力排第三，第二是奥克斯，第一是美的。家电领域这种蓝海价格战背后一定是多年的积怨，比如相互挖人以及专利侵权这些都是格力和奥克斯多年前结的梁子。</p><p><br/>但是折射到资本市场上看，奥克斯也是千亿级公司而且一级市场早有今年上市的传闻，这么一搞可能要推迟了。不过制劣售劣确实是不正当行为，如果核实应该接受处罚。反观格力此举，正说明家电这个领域依然是价格战，利润只能靠销售规模增长。这就是为什么董明珠一直喊着要转型，尽管之前手机转型是失败的，但智能家电的浪潮已经到来。要么去一门心思研制出更好的产品，要么只能想办法抢低端市场让出利润。</p><p><br/>作为一名普通消费者的菠菜而言，你们几个赶紧撕，最好把价格都撕下来，哈哈~~</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7d47096f7b10e8c7b260f2e73e535ad6_b.jpg\" data-rawwidth=\"888\" data-rawheight=\"459\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"888\" data-original=\"https://pic3.zhimg.com/v2-7d47096f7b10e8c7b260f2e73e535ad6_r.jpg\"/></figure><p>昨天菠菜还和几个私募朋友聊天，受到了一些启发。其实最近所谓炒涨价的生活必须品都是短线思维，因为机构对盈利预期要求的不高，有点利润就跑了。而且从央行最近的动作来看，很可能会在月底前有所宽松。每年6月底银根都面临偏紧，再赶上从美联储到各个国家央行都要走一轮QE（已经有14家央行降息），因此很可能会有定向的宽松。这也是货币政策层面利好股市。</p><p><br/>我不建议大家去追生活必须品的刚需涨价，这和稀土以及周期性产品的逻辑不同。因为涉及民生的随时可能被一道红头文件叫停戛然而止。市场上机会很多，昨天两市净流入72亿还是很值得关注的。大盘成交量在萎缩，该是变盘的时候来了，我们坚持本周看多。</p>",
+                "comment_count": 1,
+                "image_url": "https://pic4.zhimg.com/50/v2-e7e8b3eb709519884ef5762886e62730_hd.jpg",
+                "voteup_count": 15,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMzkwMDg5IJza/OcFKA8wAUAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjg2NzUyMjE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1557782845,
+                "is_labeled": false,
+                "excerpt": "按照美国商业分析局的分类，GDP的产值由雇员报酬、营业盈余、生产和关税构成。营业盈余中，包含了固定资产折旧等资本消耗。不同的行业领域，产值构成有很大的差别，从而也决定了不同行业的增长速度，进而对美国经济发展、就业、对外贸易产生了不同的影响。…",
+                "excerpt_title": "",
+                "id": 65649089,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-c69126f49a987f5b022c0fae173db89d_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-c42928461e860e4b0657509f57c88812_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-a55b73fbe1938cd966801cf5d5cf141c_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_{size}.jpg",
+                    "badge": [],
+                    "name": "特布鲁",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "专注数据，关注社会 公众号：不惑门 (NCR2019_4)；",
+                    "url_token": "te-bu-lu-59",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-eaabe880e0142515555520ee7e43fba5_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "gender": -1,
+                    "type": "people",
+                    "id": "87a2a1d7bdeafde6d1500eafc4b1fa76",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/65649089",
+                "title": "数字下的美国--房地产业对经济发展和对外贸易的影响。",
+                "created": 1557782845,
+                "content": "<p>按照美国商业分析局的分类，GDP的产值由雇员报酬、营业盈余、生产和关税构成。营业盈余中，包含了固定资产折旧等资本消耗。不同的行业领域，产值构成有很大的差别，从而也决定了不同行业的增长速度，进而对美国经济发展、就业、对外贸易产生了不同的影响。</p><p>从社会财富的分配角度看，雇员报酬属于劳动者收益，营业盈余属于投资者收益，税务属于政府收益。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-c42928461e860e4b0657509f57c88812_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"759\" data-rawheight=\"462\" class=\"origin_image zh-lightbox-thumb\" width=\"759\" data-original=\"https://pic3.zhimg.com/v2-c42928461e860e4b0657509f57c88812_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从2017年的数据看，以基础服务业、商业服务业、社会服务业构成的美国服务业占GDP的比重已经接近70%，商品生产的产值占比低于20%。基础服务业、社会服务业以及政府的就业人口比例高于GDP的产值占比。基础服务业和社会服务业的就业人口占比接近60%，而商业服务业就业人口占比不足7%。<br/></p><p>基础设施，零售业、运输和仓储业、住宿和餐饮业等基础服务行业，专业服务、教育、医疗、文娱等社会服务业，以及政府的产值构成中，雇员报酬占比均超过了50%，是劳动者收益占比较高的行业。</p><p>农业、矿业、公用事业、信息、金融及房地产等行业，营业盈余占比均超过了50%，是投资者收益最大的行业领域。</p><p>矿业、公用事业、批发、零售、住宿餐饮业的税收占比聚在10%以上，是政府收益较高的行业。</p><p>农业、矿业、制造业、运输和仓储、信息、金融、专业服务等行业，可以通过贸易的形式进行商品和服务的流动，也是美国对外贸易最主要的领域。</p><p>对外贸易的顺差和逆差，取决于国内产品和服务需求的供需关系，以及在国际竞争中，相对的成本优势。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a55b73fbe1938cd966801cf5d5cf141c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"731\" data-rawheight=\"456\" class=\"origin_image zh-lightbox-thumb\" width=\"731\" data-original=\"https://pic1.zhimg.com/v2-a55b73fbe1938cd966801cf5d5cf141c_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>通过2017年的数据我们可以看到，房地产、资金、信托和其它金融工具、石油、石油和煤炭制品等行业人均产值都超过了100万美元，而且雇员报酬的占比都低于20%，这也意味着这些行业中，投资者存在较大的收益空间。</p><p>而制造业、基础服务业、社会服务业、政府的大多数行业领域，人均产值均在20万美金之下，而且人均产值越低的行业，雇员报酬占比越高。这也意味着投资者的收益空间较小，对投资人的吸引力不大。</p><p>2017年，美国房地产业的产值规模为在23,680亿美元左右，占美国GDP的比重接近13%，是美国经济发展中一个最重要的产业领域。</p><p>美国是一个私有制国家，土地归私人所有，房产也是美国私人财产中一个最重要的组成部分。按照美国的统计口径，美国的住房租金（包括租房和自有住房租金折算）是房地产的主要产值。对于美国人来说，有房和无房，也是家庭地位标志性的差异。</p><p>房地产对美国经济的贡献不仅体现在行业产值，对于拥有私人房产的人来说，自有住房的租金折算，也会计入资产性收入，并随同收入一起缴纳收入所得税。不仅如此，拥有房产的人，还要缴纳房产税、遗产税等和财产相关的税务（不包含在生产税）。私人购买房产产生的贷款利息同时还是金融业的产值的重要来源。</p><p>与其它行业相比，房地产业不仅对美国的经济发展、政府税收起着重要的贡献，同时，也对劳动力成本的增长产生了巨大的推动作用。房地产业的发展，也使得美国的劳动力成本不可能下降，这也意味着人均产值较低，雇员报酬占比较高的产品生产和服务行业，对资本的吸引力越来越低。</p><p>虽然，美国的生产领域的税率较低，制造业产值的税率在6%以下，但是，较高的人力成本，也是造成制造业回归最重要的障碍，特别是在民用消费品领域，依赖进口更是长期的发展趋势。</p>",
+                "comment_count": 0,
+                "image_url": "https://pic4.zhimg.com/50/v2-c69126f49a987f5b022c0fae173db89d_hd.jpg",
+                "voteup_count": 5,
+                "type": "article"
+            },
+            "attached_info": "Cj0QBxoJMTAyNzE3NjcxIL3C5+YFKAUwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdFoFMjk1MjVyCDY1NjQ5MDg5"
+        }
+    ]
+}

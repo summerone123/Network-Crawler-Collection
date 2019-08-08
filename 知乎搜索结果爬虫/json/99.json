@@ -1,0 +1,237 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1448746978.71711",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1448235726.81&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1448235726.80775"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524107330,
+                "is_labeled": false,
+                "excerpt": "编者注：随着去年轰轰烈烈的大牛市，美股股市自特朗普上任以来，一路高涨，国内经济也迅速复苏，转眼来到今年，就开始预防经济发展过热了，但是事情真的是这样吗？经济发展良好，还要搞贸易战？文章由华盛学院胖虎编译。尽管目前美国经济指标都表明经济增长…",
+                "excerpt_title": "",
+                "id": 35859980,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-cdb2ce516ff31049f1883a2068cd90e8_hd.jpg",
+                    "https://pic1.zhimg.com/80/v2-b585350cf63aa78a75ba9cc6742d4b87_250x0.jpg",
+                    "https://pic2.zhimg.com/80/v2-56f64434e03a40b41c2962a4026b1910_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-ce5aff5e1dd6ca555e6419dc711ab1de_{size}.jpg",
+                    "type": "people",
+                    "name": "华盛证券",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "新浪集团旗下港美股服务",
+                    "url_token": "hua-sheng-tong-26",
+                    "user_type": "organization",
+                    "is_advertiser": true,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-ce5aff5e1dd6ca555e6419dc711ab1de_is.jpg",
+                    "is_org": true,
+                    "gender": -1,
+                    "url": "http://www.zhihu.com/api/v4/people/bedf00773880f3448ace6b56d89a2e5a",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "id": "bedf00773880f3448ace6b56d89a2e5a"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35859980",
+                "title": "图表论证：美国经济增长或现乏力",
+                "created": 1524107330,
+                "content": "<p>编者注：随着去年轰轰烈烈的大牛市，美股股市自特朗普上任以来，一路高涨，国内经济也迅速复苏，转眼来到今年，就开始预防经济发展过热了，但是事情真的是这样吗？经济发展良好，还要搞贸易战？文章由华盛学院胖虎编译。</p><p>尽管目前美国经济指标都表明经济增长，但是已经存在一些指标开始暗示其经济增长已经显现疲软之态。</p><p><b>铁路货运</b></p><p>从下图可以看出，美国铁路货运继续呈现下滑趋势，最新三月份数据为1104080。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-b585350cf63aa78a75ba9cc6742d4b87_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"282\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>如果以百分比变动为衡量依据，通过下图可以看出，铁路货运指数为-2.8%，相比2017年年底明显下滑。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-56f64434e03a40b41c2962a4026b1910_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"284\" class=\"content_image\" width=\"400\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>汽车销售</b></p><p>汽车销售数据在2009年后经历了显著增长，在3月29日更新的2月份数据中，目前该数据为1696.2万辆。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1555a8c2951aae162f297a5bd51c8cfe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"410\" data-rawheight=\"276\" class=\"content_image\" width=\"410\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而同样以基年百分比变动来看，目前的汽车销售数据依然开始呈现下滑的趋势，如下图所示，结合上图可以发现，其实从2015年汽车销售数据达到阶段高峰之后，数据就开始显示出疲软的态势，最新的基年百分比变动数值为-2.1%。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-834b83f2340f87d06d57eaf65496ec1d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"410\" data-rawheight=\"290\" class=\"content_image\" width=\"410\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>联邦收入</b></p><p>自2015年以来，联邦收入的增长具有明显的间歇性，而且经济增长水平与国内真实GDP评估存在差异。截止3月份联邦收入为2108.32亿美元，以基年测算，其数据为-2.7%，并且从下图可以看出，同样类似于汽车销售数据，联邦收入百分比数据从2015年开始增长疲乏。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-52400ebf2bbd34f564e0925ef9df8fcb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"290\" class=\"content_image\" width=\"415\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>商业银行贷款</b></p><p>截止3月份商业银行贷款总价值为21384.559亿美元，但是从下图可以看出，商业银行贷款的增长速度正在呈现明显的下降趋势，以基年百分比变动来测算，更新于4月13日的数据为2.6%。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-237c6e9cb921c242d4f55c2a59e954db_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"292\" class=\"content_image\" width=\"415\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>通货膨胀</b></p><p>虽然最近关于担心通胀发生的言论增多，而且美联储也开始进入加息周期，但是政府更应该竭力预防通货紧缩，因为，通货紧缩的杀伤力明显大于通货膨胀，对市场和经济有着更为严重的影响，下图表示核心PCE物价指数，该指数能够反映由于价格变动使消费者购买替代产品的价格，被认为能更全面、稳定地衡量美国通胀，受到美联储的关注，目前，该数据为1.6%。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d5ab1679b5d4503f086f18986bbb5f69_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"394\" data-rawheight=\"278\" class=\"content_image\" width=\"394\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>综上所述，虽然不能完全通过以上图表来印证美国经济已经疲软，但是，可以从另一角度，全面观察美国经济的发展状况，作为世界第一经济体的美国，其经济发展影响到的不仅仅是美国股市，而且还有全球市场。因此，投资者需要关注其经济发展情况。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-54e4a8f2164b810c3e84fb0806487e83_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"699\" data-rawheight=\"311\" class=\"origin_image zh-lightbox-thumb\" width=\"699\" data-original=\"https://pic4.zhimg.com/v2-54e4a8f2164b810c3e84fb0806487e83_r.jpg\"/></figure><p></p>",
+                "comment_count": 5,
+                "image_url": "https://pic4.zhimg.com/50/v2-cdb2ce516ff31049f1883a2068cd90e8_hd.jpg",
+                "voteup_count": 13,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjUzNDQzOSDCkODWBSgNMAVAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1ODU5OTgw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1522628541,
+                "is_labeled": false,
+                "excerpt": "大半夜的不大不小的新闻还是来了，很显然.gov的关税司是不兴过什么愚人节的 明天这个消息可能会刷爆各大媒体和网站吧内容如下 细节内容和之前商务部的征求意见稿附件pdf一致 商务部的第一阶段征求意见稿已经通过并且实施了，这事实上是针对232法案对应的针…",
+                "excerpt_title": "",
+                "id": 35195075,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-510c2bb0e8f9e7c635301f9a9d951e76_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-a295376bbc3cceca74486e3c68b9b948_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-510c2bb0e8f9e7c635301f9a9d951e76_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "badge": [],
+                    "id": "bc2da0f611dfb0ffdfba11222225f7ec"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35195075",
+                "title": "不大不小的落地锤子",
+                "created": 1522621283,
+                "content": "<p> 大半夜的不大不小的新闻还是来了，很显然.gov的关税司是不兴过什么愚人节的</p><p class=\"ztext-empty-paragraph\"><br/></p><p>明天这个消息可能会刷爆各大媒体和网站吧</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-a295376bbc3cceca74486e3c68b9b948_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1047\" data-rawheight=\"847\" class=\"origin_image zh-lightbox-thumb\" width=\"1047\" data-original=\"https://pic1.zhimg.com/v2-a295376bbc3cceca74486e3c68b9b948_r.jpg\"/></figure><p>内容如下</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-510c2bb0e8f9e7c635301f9a9d951e76_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"790\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"790\" data-original=\"https://pic3.zhimg.com/v2-510c2bb0e8f9e7c635301f9a9d951e76_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-46c8499c622ef04b6e2a365b364f4133_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"782\" data-rawheight=\"148\" class=\"origin_image zh-lightbox-thumb\" width=\"782\" data-original=\"https://pic4.zhimg.com/v2-46c8499c622ef04b6e2a365b364f4133_r.jpg\"/></figure><p>细节内容和之前商务部的征求意见稿附件pdf一致</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-28aa7a8b29fed321732a8924d5eec0ae_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"976\" data-rawheight=\"760\" class=\"origin_image zh-lightbox-thumb\" width=\"976\" data-original=\"https://pic3.zhimg.com/v2-28aa7a8b29fed321732a8924d5eec0ae_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-cddc6be35b9824444bb962d227e0f651_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"818\" data-rawheight=\"336\" class=\"origin_image zh-lightbox-thumb\" width=\"818\" data-original=\"https://pic2.zhimg.com/v2-cddc6be35b9824444bb962d227e0f651_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>商务部的第一阶段征求意见稿已经通过并且实施了，这事实上是针对232法案对应的针对铝和钢铁材料的日常维护</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-a10cd5d08df541b506a812b78758990f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"696\" data-rawheight=\"637\" class=\"origin_image zh-lightbox-thumb\" width=\"696\" data-original=\"https://pic4.zhimg.com/v2-a10cd5d08df541b506a812b78758990f_r.jpg\"/></figure><p>上图来自海南省贸促会官网。内容其实是关于企业针对这次贸易风波的应对措施和风险防范，但是其判断过程是可以借鉴一部分的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国232措施的征收对象是来自加拿大和墨西哥以外国家进口的铝，钢铁制品，而对欧洲，澳大利亚，韩国等国家的关税豁免仅仅延续到5月1日。这一项对全世界范围内的惩罚性关税，中方给出上述第一阶段中止减税的领域事实上是非常正常的</p><p>甚至难以称之为“战争”，其目的仅仅是为了</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-c3bbaf6580e7fe94e96d92cba596be82_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"100\" class=\"origin_image zh-lightbox-thumb\" width=\"704\" data-original=\"https://pic3.zhimg.com/v2-c3bbaf6580e7fe94e96d92cba596be82_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>然而要知道以上都不是重点，都只是一点点的小毛毛雨罢了。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-7d73d9c467cfe20ec554af304413a6c9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"896\" data-rawheight=\"72\" class=\"origin_image zh-lightbox-thumb\" width=\"896\" data-original=\"https://pic2.zhimg.com/v2-7d73d9c467cfe20ec554af304413a6c9_r.jpg\"/></figure><p>就差贴脸告诉我怎么回事了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>回顾一下22号之后关于贸易战的内容</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-68f19ac2453e4cb9aedeb4315d248942_b.jpg\" data-size=\"normal\" data-rawwidth=\"920\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"920\" data-original=\"https://pic3.zhimg.com/v2-68f19ac2453e4cb9aedeb4315d248942_r.jpg\"/><figcaption>真的对抗问题上，想谈</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-1be1fb1ad1d959f93830ca08f7494d0d_b.jpg\" data-size=\"normal\" data-rawwidth=\"919\" data-rawheight=\"585\" class=\"origin_image zh-lightbox-thumb\" width=\"919\" data-original=\"https://pic2.zhimg.com/v2-1be1fb1ad1d959f93830ca08f7494d0d_r.jpg\"/><figcaption>真的对抗问题上，在谈，试图消解美方理由合理性</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-42c744b4f2e23c8d15986e11642080e7_b.jpg\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"934\" data-original=\"https://pic4.zhimg.com/v2-42c744b4f2e23c8d15986e11642080e7_r.jpg\"/><figcaption>找钢铁作为靶子，说明真正的问题谈不动</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-48350dd3ed93ee4db351956e5df85fbf_b.jpg\" data-size=\"normal\" data-rawwidth=\"919\" data-rawheight=\"753\" class=\"origin_image zh-lightbox-thumb\" width=\"919\" data-original=\"https://pic4.zhimg.com/v2-48350dd3ed93ee4db351956e5df85fbf_r.jpg\"/><figcaption>继续找钢铁和铝关税做靶子，在真正的问题上摆底线</figcaption></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e39f4dcc3ec20e8432a142946e423e70_b.jpg\" data-size=\"normal\" data-rawwidth=\"957\" data-rawheight=\"642\" class=\"origin_image zh-lightbox-thumb\" width=\"957\" data-original=\"https://pic1.zhimg.com/v2-e39f4dcc3ec20e8432a142946e423e70_r.jpg\"/><figcaption>直白的说出来了，还想谈</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>其实文中更多出现的关键字，还是互利共赢与蛋糕做大。</p><p>在贸易战中，中方显然不可能取得显著的优势，甚至可能面对的是事实劣势，否则也不可能推出一份并不等值的关税惩罚对象作为回应。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们可以做一个“我比中*海聪明”假设：</p><p>假设前提：中美互知底细</p><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普无论是安抚国内旧工业财团，还是安抚美国人民情绪，为中期选举造势，都可以通过贸易手段制衡对中国的贸易逆差拉仇恨，或者真正意义上MAGA，其行为事实上在特朗普当选之初就可以预见，在不延续民主党对华政策下，碍于世界环境和国内政治生态特朗普很快能打出的牌中可选范围并不宽广，这一需求反应到中国的对策，就是现在的割肉能不能换来长期利益的问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本次贸易对抗的<b>重点</b>，事实上是特朗普的总统备忘录中提到的，特别指出于Federal Register上申明的List，奇妙的是，在Federal Register上搜索这份List却神奇的消失了，当然有原文截出来了一些内容发布到了媒体上，也就形成了现在中文网络内的600亿高科技附加值进口增税的类别名单</p><p class=\"ztext-empty-paragraph\"><br/></p><p>USTR Lighthizer elaborated on ten specific categories of products he expects to recommend: advanced information technology; aerospace and aeronautics equipment; maritime equipment in high tech shipping; modern rail transport equipment; new energy vehicles and equipment; power equipment; agriculture equipment; new materials; biopharma, and advanced medical products</p><p><b>美国贸易代表 </b>Lighthizer 阐述了10个他希望具体推荐增加进口关税的产品类别：</p><p>先进的信息科技产品；航空航天设备；高科技海运装备；现代化铁路设备；新能源汽车和其配件；电力设备；农业设备；新材料；生物制药；先进的医疗产品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>注意加黑部分</p><p>与此对应的是，事实上这些内容是这一份早已公开的中国制造2025名录</p><a href=\"https://link.zhihu.com/?target=http%3A//www.gov.cn/zhengce/content/2015-05/19/content_9784.htm\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">国务院关于印发《中国制造2025》的通知_政府信息公开专栏</a><p class=\"ztext-empty-paragraph\"><br/></p><blockquote> （六）大力推动重点领域突破发展。<br/>　　瞄准新一代信息技术、高端装备、新材料、生物医药等战略重点，引导社会各类资源集聚，推动优势和战略产业快速发展。<br/>　　1.新一代信息技术产业。<br/>　　集成电路及专用装备。着力提升集成电路设计水平，不断丰富知识产权（IP）核和设计工具，突破关系国家信息与网络安全及电子整机产业发展的核心通用芯片，提升国产芯片的应用适配能力。掌握高密度封装及三维（3D）微组装技术，提升封装产业和测试的自主发展能力。形成关键制造装备供货能力。<br/>　　<b>信息通信设备</b>。掌握新型计算、高速互联、先进存储、体系化安全保障等核心技术，全面突破第五代移动通信（5G）技术、核心路由交换技术、超高速大容量智能光传输技术、“未来网络”核心技术和体系架构，积极推动量子计算、神经网络等发展。研发高端服务器、大容量存储、新型路由交换、新型智能终端、新一代基站、网络安全等设备，推动核心信息通信设备体系化发展与规模化应用。<br/>　　操作系统及工业软件。开发安全领域操作系统等工业基础软件。突破智能设计与仿真及其工具、制造物联与服务、工业大数据处理等高端工业软件核心技术，开发自主可控的高端工业平台软件和重点领域应用软件，建立完善工业软件集成标准与安全测评体系。推进自主工业软件体系化发展和产业化应用。<br/>　　2.高档数控机床和机器人。<br/>　　高档数控机床。开发一批精密、高速、高效、柔性数控机床与基础制造装备及集成制造系统。加快高档数控机床、增材制造等前沿技术和装备的研发。以提升可靠性、精度保持性为重点，开发高档数控系统、伺服电机、轴承、光栅等主要功能部件及关键应用软件，加快实现产业化。加强用户工艺验证能力建设。<br/>　　机器人。围绕汽车、机械、电子、危险品制造、国防军工、化工、轻工等工业机器人、特种机器人，以及医疗健康、家庭服务、教育娱乐等服务机器人应用需求，积极研发新产品，促进机器人标准化、模块化发展，扩大市场应用。突破机器人本体、减速器、伺服电机、控制器、传感器与驱动器等关键零部件及系统集成设计制造等技术瓶颈。<br/>　　3.<b>航空航天装备</b>。<br/>　　航空装备。加快大型飞机研制，适时启动宽体客机研制，鼓励国际合作研制重型直升机；推进干支线飞机、直升机、无人机和通用飞机产业化。突破高推重比、先进涡桨（轴）发动机及大涵道比涡扇发动机技术，建立发动机自主发展工业体系。开发先进机载设备及系统，形成自主完整的航空产业链。<br/>　　航天装备。发展新一代运载火箭、重型运载器，提升进入空间能力。加快推进国家民用空间基础设施建设，发展新型卫星等空间平台与有效载荷、空天地宽带互联网系统，形成长期持续稳定的卫星遥感、通信、导航等空间信息服务能力。推动载人航天、月球探测工程，适度发展深空探测。推进航天技术转化与空间技术应用。<br/>　　4.<b>海洋工程装备及高技术船舶</b>。大力发展深海探测、资源开发利用、海上作业保障装备及其关键系统和专用设备。推动深海空间站、大型浮式结构物的开发和工程化。形成海洋工程装备综合试验、检测与鉴定能力，提高海洋开发利用水平。突破豪华邮轮设计建造技术，全面提升液化天然气船等高技术船舶国际竞争力，掌握重点配套设备集成化、智能化、模块化设计制造核心技术。<br/>　　5.<b>先进轨道交通装备</b>。加快新材料、新技术和新工艺的应用，重点突破体系化安全保障、节能环保、数字化智能化网络化技术，研制先进可靠适用的产品和轻量化、模块化、谱系化产品。研发新一代绿色智能、高速重载轨道交通装备系统，围绕系统全寿命周期，向用户提供整体解决方案，建立世界领先的现代轨道交通产业体系。<br/>　　6.<b>节能与新能源汽车</b>。继续支持电动汽车、燃料电池汽车发展，掌握汽车低碳化、信息化、智能化核心技术，提升动力电池、驱动电机、高效内燃机、先进变速器、轻量化材料、智能控制等核心技术的工程化和产业化能力，形成从关键零部件到整车的完整工业体系和创新体系，推动自主品牌节能与新能源汽车同国际先进水平接轨。<br/>　　7.<b>电力装备</b>。推动大型高效超净排放煤电机组产业化和示范应用，进一步提高超大容量水电机组、核电机组、重型燃气轮机制造水平。推进新能源和可再生能源装备、先进储能装置、智能电网用输变电及用户端设备发展。突破大功率电力电子器件、高温超导材料等关键元器件和材料的制造及应用技术，形成产业化能力。<br/>　　8.<b>农机装备</b>。重点发展粮、棉、油、糖等大宗粮食和战略性经济作物育、耕、种、管、收、运、贮等主要生产过程使用的先进农机装备，加快发展大型拖拉机及其复式作业机具、大型高效联合收割机等高端农业装备及关键核心零部件。提高农机装备信息收集、智能决策和精准作业能力，推进形成面向农业生产的信息化整体解决方案。<br/>　　9.<b>新材料</b>。以特种金属功能材料、高性能结构材料、功能性高分子材料、特种无机非金属材料和先进复合材料为发展重点，加快研发先进熔炼、凝固成型、气相沉积、型材加工、高效合成等新材料制备关键技术和装备，加强基础研究和体系建设，突破产业化制备瓶颈。积极发展军民共用特种新材料，加快技术双向转移转化，促进新材料产业军民融合发展。高度关注颠覆性新材料对传统材料的影响，做好超导材料、纳米材料、石墨烯、生物基材料等战略前沿材料提前布局和研制。加快基础材料升级换代。<br/>　　10.<b>生物医药及高性能医疗器械</b>。发展针对重大疾病的化学药、中药、生物技术药物新产品，重点包括新机制和新靶点化学药、抗体药物、抗体偶联药物、全新结构蛋白及多肽药物、新型疫苗、临床优势突出的创新中药及个性化治疗药物。提高医疗器械的创新能力和产业化水平，重点发展影像设备、医用机器人等高性能诊疗设备，全降解血管支架等高值医用耗材，可穿戴、远程诊疗等移动医疗产品。实现生物3D打印、诱导多能干细胞等新技术的突破和应用。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>除了瞧不上中国机床以外，几乎囊括了《中国制造2025》中所有力推重点突破的领域</p><p class=\"ztext-empty-paragraph\"><br/></p><p>特朗普签署的总统令原文如下：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>THE WHITE HOUSE<br/><br/>Office of the Press Secretary<br/><br/>FOR IMMEDIATE RELEASE<br/><br/>March 22, 2018<br/>MEMORANDUM FOR THE SECRETARY OF THE TREASURY<br/><br/>THE UNITED STATES TRADE REPRESENTATIVE<br/><br/>THE SENIOR ADVISOR FOR POLICY<br/><br/>THE ASSISTANT TO THE PRESIDENT FOR ECONOMIC<br/><br/>POLICY<br/><br/>THE ASSISTANT TO THE PRESIDENT FOR NATIONAL<br/><br/>SECURITY AFFAIRS<br/><br/>THE ASSISTANT TO THE PRESIDENT FOR HOMELAND<br/><br/>SECURITY AND COUNTERTERRORISM<br/><br/><br/><br/>SUBJECT: Actions by the United States Related to the Section 301 <br/>Investigation of China&#39;s Laws, Policies, Practices, or Actions Related <br/>to Technology Transfer, Intellectual Property, and Innovation<br/><br/><br/><br/><br/><br/>On August 14, 2017, <b>I directed the United States Trade Representative <br/>(Trade Representative) to determine whether to investigate China&#39;s laws,<br/> policies, practices, or actions that may be unreasonable or <br/>discriminatory and that may be harming American intellectual property <br/>rights, innovation, or technology development.</b> On August 18, 2017, the <br/>Trade Representative initiated an investigation under section 301 of the<br/> Trade Act of 1974, as amended (the &#34;Act&#34;) (19 U.S.C. 2411).<br/><br/><br/><br/>During its investigation, the Office of the United States Trade <br/>Representative (USTR) consulted with appropriate advisory committees and<br/> the interagency section 301 Committee. The Trade Representative also <br/>requested consultations with the Government of China, under section 303 <br/>of the Act (19 U.S.C. 2413). The USTR held a public hearing on October <br/>10, 2017, and two rounds of public written comment periods. The USTR <br/>received approximately 70 written submissions from academics, think <br/>tanks, law firms, trade associations, and companies.<br/><br/><br/><br/>The Trade Representative has advised me that the investigation supports the following findings: <br/><br/><br/>First, China uses foreign ownership restrictions, including joint <br/>venture requirements, equity limitations, and other investment <br/>restrictions, to require or pressure technology transfer from U.S. <br/>companies to Chinese entities. China also uses administrative review and<br/> licensing procedures to require or pressure technology transfer, which,<br/> inter alia, undermines the value of U.S. investments and technology and<br/> weakens the global competitiveness of U.S. firms.<br/><br/><br/>Second, China imposes substantial restrictions on, and intervenes in, <br/>U.S. firms&#39; investments and activities, including through restrictions <br/>on technology licensing terms. These restrictions deprive U.S. <br/>technology owners of the ability to bargain and set market-based terms <br/>for technology transfer. As a result, U.S. companies seeking to license <br/>technologies must do so on terms that unfairly favor Chinese recipients.<br/><br/><br/>Third, China directs and facilitates the systematic investment in, and <br/>acquisition of, U.S. companies and assets by Chinese companies to obtain<br/> cutting-edge technologies and intellectual property and to generate <br/>large-scale technology transfer in industries deemed important by <br/>Chinese government industrial plans. <br/><br/><br/>Fourth, China conducts and supports unauthorized intrusions into, and <br/>theft from, the computer networks of U.S. companies. These actions <br/>provide the Chinese government with unauthorized access to intellectual <br/>property, trade secrets, or confidential business information, including<br/> technical data, negotiating positions, and sensitive and proprietary <br/>internal business communications, and they also support China&#39;s <br/>strategic development goals, including its science and technology <br/>advancement, military modernization, and economic development.<br/><br/><br/>It is hereby directed as follows:<br/><br/><br/>Section 1. Tariffs. (a) The Trade Representative should take all <br/>appropriate action under section 301 of the Act (19 U.S.C. 2411) to <br/>address the acts, policies, and practices of China that are unreasonable<br/> or discriminatory and that burden or restrict U.S. commerce. The Trade <br/>Representative shall consider whether such action should include <br/>increased tariffs on goods from China. <br/><br/><br/>(b) To advance the purposes of subsection (a) of this section, the Trade<br/> Representative shall publish a proposed list of products and any <br/>intended tariff increases within 15 days of the date of this memorandum.<br/> After a period of notice and comment in accordance with section 304(b) <br/>of the Act (19 U.S.C. 2414(b)), and after consultation with appropriate <br/>agencies and committees, the Trade Representative shall, as appropriate <br/>and consistent with law, publish a final list of products and tariff <br/>increases, if any, and implement any such tariffs.<br/><br/><br/>Sec. 2. WTO Dispute Settlement. (a) The Trade Representative shall, as <br/>appropriate and consistent with law, pursue dispute settlement in the <br/>World Trade Organization (WTO) to address China&#39;s discriminatory <br/>licensing practices. Where appropriate and consistent with law, the <br/>Trade Representative should pursue this action in cooperation with other<br/> WTO members to address China&#39;s unfair trade practices.<br/><br/>(b) Within 60 days of the date of this memorandum, the Trade <br/>Representative shall report to me his progress under subsection (a) of <br/>this section.<br/><br/><br/>Sec. 3. Investment Restrictions. (a) The Secretary of the Treasury <br/>(Secretary), in consultation with other senior executive branch <br/>officials the Secretary deems appropriate, shall propose executive <br/>branch action, as appropriate and consistent with law, and using any <br/>available statutory authority, to address concerns about investment in <br/>the United States directed or facilitated by China in industries or <br/>technologies deemed important to the United States.<br/><br/><br/>(b) Within 60 days of the date of this memorandum, the Secretary shall <br/>report to me his progress under subsection (a) of this section.<br/><br/><br/>Sec. 4. Publication. The Trade Representative is authorized and directed to publish this memorandum in the Federal Register.<br/><br/><br/>DONALD J. TRUMP <br/> </blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>全文没啥内容，加黑部分就是特朗普的总统令中指令美国贸易代表完成对中国贸易制裁的相关领域和内容，也就是对应上文贸易代表提到的内容。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国目前占据了大量的工业体系顶端的产品消费和生产，而对于中国来说，中国制造2025的的展望，将会通过低成本，严重的冲击美国企业和公司在工业体系顶端产品上的垄断地位。美国作为高端工业制成品的消费大国，在中国工业向高端转型的过程中，必然会大量采购正在进步的，已经可以替代美国同类产品的中高端制成品，这一行为会事实上加速中国高端工业的发展速度和发展动力，本次贸易制裁的初衷，事实上就是希望在国家层面减缓中国在《中国制造2025》中所提到的【重点领域突破发展】的事实，逼迫中国政府向高科技领域更多的投入和倾斜，付出更大的成本达到相同的目的，同时可以促进本国高端工业的市场稳定和利润稳定，继续促进本国高端工业的发展和中国拉开差距，保持领先和优势地位。</p><p>中国很显然清楚这一点，但是中国是难以阻止的。这是天然的高端工业国对中端工业国在工业升级和转型中的压制力和优势，通过关税和贸易限制他国企业和生产厂家向高端工业转型的步伐，降低转型速度。</p><p>特朗普此次向技术官僚的妥协不得不说可能暗示着特朗普政府和幕僚可能已经开始按照美国智库和美国的发展规划开始执行对中国的长期技术压制和贸易压制的实践。科技产业在中国大部分时候都是目标导向而非利益导向，但是强调军民融合发展的今天，鼓励科技产业盈利和开拓国内外民用市场补贴开发的意味是越来越浓重，在这个关系到美国和中国长期战略实力和科技对比走向的问题上，美国可能因为现实的问题让步吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>事实上是可能的，美国制度和中国制度的差异，在上文某海南省贸促会的文章里已经提到了，来自另外一个高科技工业制成品消费和生产地区，欧盟的制约，和美国国内政治派系与资本，财团在国会内代表人的内部制约。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国对中国中高端产业出口升级的限制打击力度，事实上和国际市场息息相关。抛出钢铁和铝进口关税作为诱饵拉拢其他国家的行为放在一边，如果中国可以找到欧洲作为高端工业制成品和高端工业升级过程中的销售地和技术合作地，中国事实上可以部分减少来自美国贸易打击对中国未来重点领域发展规划造成的损失，而中国的贸易反击在另一方面作为对美国的反制，会对美国经济和人民生活产生一定的负面影响。这里不得不考虑中国对美国依旧存在巨大的贸易依赖性，导致这一项反制可能效果并不好甚至具有反效果。因此中国经济上更多的方向，也是中国可能的方向，便大致指向两点：<b>一是与欧洲更加深层次的科技与贸易合作</b>，希望开发欧洲市场，与欧洲高端制造业企业开展合作甚至收购业务，通过开拓中高端制成品的欧洲市场促进自身的产业升级。<b>二，则是近期中国选择进一步开放金融市场</b>，向美国国内财团和资本放出友好信号，以此作为交换和承诺换取代表人在国会内部对于特朗普这一举措的压力，造成美国文官集团和总统团队的分歧和猜疑，增加特朗普维持这一对中国制裁的成本。</p><p>其最终目的，依旧是希望阻止最终对中国的高端出口制裁或者减缓/减轻这一制裁，降低中国行政和政府力量向科研的进一步让渡，而得以发展其他领域。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>无论如何，这场贸易战在美国贸易代表提出的建议正式成为生效的行政命令和海关惩罚性关税税收文书之前，还不可能那么快的出现定论。中国目前在客观上还缺乏与美国进行大规模贸易对抗的能力和底气</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-f1e06e650838e601b6e8ef96415625c7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"657\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb\" width=\"657\" data-original=\"https://pic4.zhimg.com/v2-f1e06e650838e601b6e8ef96415625c7_r.jpg\"/></figure><p>无论是科技装备进口层面还是粮食进口层面，美国对于中国国内维持物价稳定和经济社会发展都有着相当大的作用，注定了这场贸易战不会以大规模的全面贸易对抗作为结局，但是中国自身工业升级的步伐与重点项目的技术进步也是不可能被贸易制裁轻松阻挡的，双方的意图明显，但是双方客观的实力对比和环境对比依旧作为客观存在影响着双方的政策发展与走向，最终如何收场，就要看中美双方的政治智慧，或者是经济领域之外的，比如某些复杂的地缘政治领域的让渡和交易来完成了。</p>",
+                "comment_count": 24,
+                "image_url": "https://pic3.zhimg.com/50/v2-510c2bb0e8f9e7c635301f9a9d951e76_hd.jpg",
+                "voteup_count": 165,
+                "type": "article"
+            },
+            "attached_info": "CjUQBxoHNjI2ODAzNCDjtoXWBSilATAYQABSEXRvcF9hY3Rpdml0eV9wb3N0cggzNTE5NTA3NQ=="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "不会对每一袋进口大豆做品种鉴定，过于费力，也无法证明这一袋产自巴西的大豆是不是用了美国公司的种籽。国际贸易中的倾销调查，数据统计，关税待遇，主要还是依靠WTO的原产地规范（Rules of Origin）。1980年代关贸总协定的乌拉圭回合谈判中确定，之后在WT…",
+                "created_time": 1538144695,
+                "id": 500188209,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "看人家写"
+                    },
+                    "headline": "",
+                    "url_token": "",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "badge": [],
+                    "id": "02b575f5b1a2301f54e180f17e6ea9ad"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/500188209",
+                "question": {
+                    "created": 1538115184,
+                    "url": "http://www.zhihu.com/api/v4/questions/296422072",
+                    "title": "怎样得知大豆原产地是美国还是巴西？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 296422072
+                },
+                "updated_time": 1538144695,
+                "content": "<p>不会对每一袋进口大豆做品种鉴定，过于费力，也无法证明这一袋产自巴西的大豆是不是用了美国公司的种籽。</p><p>国际贸易中的倾销调查，数据统计，关税待遇，主要还是依靠WTO的原产地规范（Rules of Origin）。</p><p>1980年代关贸总协定的乌拉圭回合谈判中确定，之后在WTO时代，由原产地规范委员会，每年至少一次监督执行。</p><p>大豆，钢铝，石油……这样的大宗商品，原产地相对固定（种植面积和锅炉数量不会突变），容易统计追踪。单独的一船美国大豆，浑水摸鱼当然有可能。超大规模的，就很容易发觉。</p><p>产量八百万吨的加拿大，出口了八百万吨，可以理解为所有产出全部出口后，自用跌价的美国大豆。如国加拿大出口了一千万吨，必然引发中国政府调查。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-ff49341e516ae5466a3d74bec088a977_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1139\" data-rawheight=\"201\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-6a2b14c818b378d3965e749807b9bf9b_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1139\" data-original=\"https://pic3.zhimg.com/v2-ff49341e516ae5466a3d74bec088a977_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1139'%20height='201'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1139\" data-rawheight=\"201\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-6a2b14c818b378d3965e749807b9bf9b_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1139\" data-original=\"https://pic3.zhimg.com/v2-ff49341e516ae5466a3d74bec088a977_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-ff49341e516ae5466a3d74bec088a977_b.jpg\"></figure><p>而美国大豆的上亿吨产量，要隐蔽进入中国，除非我们没有海关统计。</p><p>一粒豆，鉴定不出。百万吨，看不见很难。</p><p><br></p><p>1.　World Soybean Production | SOPA. Available at:　<a href=\"https://link.zhihu.com/?target=http%3A//www.sopa.org/statistics/world-soybean-production/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">World Soybean Production</a>　(Accessed: 28th September 2018)</p><p>2.　WTO | Trade topics - Rules of origin gateway. Available at: <a href=\"https://link.zhihu.com/?target=https%3A//www.wto.org/english/tratop_e/roi_e/roi_e.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">WTO | Trade topics - Rules of origin gateway</a>. (Accessed: 28th September 2018)</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/80/v2-5cb437c9767927681aefd501911f9850_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic4.zhimg.com/v2-5cb437c9767927681aefd501911f9850_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTIxMDEyNzQwILfzuN0FKAcwAkAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyODE0ODc0NnIJNTAwMTg4MjA5"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1551148386,
+                "is_labeled": false,
+                "excerpt": "在说今天市场之前，先讲个动物世界的故事：很久很久以前，在地球上有只大笨熊和大秃鹰打架，结果被肢解了，变成一只小熊和一些阿猫阿狗。这些小动物还不团结，于是秃鹰就成了主宰者。那些阿猫阿狗为了生存，纷纷倒戈和秃鹰混。这样和平的过了若干年后，有一…",
+                "excerpt_title": "",
+                "id": 57681534,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-0d120e9f2106e56e997d895b1d2739f2_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-377b3115bd3b9feccaa887a9a5f2c81f_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-e6b239663d6ff6b47a752a55cd4fdb6b_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "type": "people",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "url_token": "xing-kong-cai-fu",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/57681534",
+                "title": "渤海天然气勘探获重大突破，A股行情亦获重大突破",
+                "created": 1551136922,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>在说今天市场之前，先讲个动物世界的故事：很久很久以前，在地球上有只大笨熊和大秃鹰打架，结果被肢解了，变成一只小熊和一些阿猫阿狗。这些小动物还不团结，于是秃鹰就成了主宰者。那些阿猫阿狗为了生存，纷纷倒戈和秃鹰混。这样和平的过了若干年后，有一只熊猫从东边儿蹒跚而来，找其他动物买石油和天然气。于是，小熊和秃鹰都打着各自的小算盘，想着如何盘剥熊猫。</p><p>熊猫刚开始乱打乱撞，被黑了不少银子。尽管吃了亏，但一直不说话，拼命的在一边用竹子盖房子。房子越来越多，熊猫有了钱，对石油和天然气的需求也与日俱增。某日，小熊找到了熊猫说：既然咱们都是熊，祖上说不定是一家人，你看我卖你点便宜的天然气，咱们联合起来就不会被秃鹰欺负了，如何？</p><p>熊猫晃了一下大脑袋，把竹子扔到一边儿，回答道：我主要想买石油，天然气不是特别必须。不过既然堂哥这么说了，就让你也赚点钱，正好我北方的几个小熊猫冬天着急取暖。</p><p>于是，小熊又用了若干年修建油气管道，心想能主宰熊猫一家的冬天，就能牵制着熊猫。而熊猫自己付款又用了不少自己印的购物券发给动物园其他小动物。但2017年的冬天，天然气对熊猫家比较穷的一些小熊猫而言仍是奢侈的取暖设备。就这样，一个冬天冻死了一只瘦小的熊猫仔。熊猫决定要自己通过提高天然气供给，来影响小熊的天然气价格。</p><p>就这样，熊猫一边用着小熊的天然气，一边在自己的竹席底下挖天然气。直到这一天终于来了……</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-5aa5b9e2f804877b1be616a88da560ef_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"573\" data-rawheight=\"84\" class=\"origin_image zh-lightbox-thumb\" width=\"573\" data-original=\"https://pic4.zhimg.com/v2-5aa5b9e2f804877b1be616a88da560ef_r.jpg\"/></figure><p>这条新闻是爆炸性的，直接让相关的个股有直接表现。单从新闻上看：</p><p>1、千亿方大气田=1.5万个鸟巢体育场体积。可供百万人口城市居民使用上百年。这是渤海湾盆地50年来最大的油气发现（这50年主要开采石油，这次发现天然气算是黑马），足见储量巨大。菠菜特别找了中俄2014年签的30年天然气供应合同，每年供应380亿立方米天然气。可以说，勘探了一个新气井，可以少买俄罗斯3年天然气（至少打个仗是够了）；</p><p>2、攻克技术难题。之前由于地形的原因很多老专家不认为此处会有大规模天然气储藏。在整个勘探到开井过程中，有不少技术突破：</p><p>1) <b>勘探</b>：创立了基于大数据的异常压力钻井决策系统，扫测异常压力（<b>大数据板块</b>，<b>计算机板块</b>）保证作业安全；</p><p>2) <b>井身设计</b>：根据压力数据持续优化井身结构，最终让井眼实现“瘦身”，节省材料，节约了作业成本；</p><p>3) <b>钻头设计</b>：根据地层特性建立优选钻头系统，通过上百次数值模拟，确定最优钻头设计。实现了钻探潜山地层的速度、深度翻倍；</p><p>4) <b>钻井液体系</b>：首创抗高温无固相钻井液体系，保证了210℃的高温下“钻井血液”的良好性能，打破国外技术垄断。</p><p>3、京津冀“热”起来。气井距京津冀只有100多公里，直接可以给北方最大的城市带供暖，更加有利于京津冀地区的稳定和发展（利好<b>京津冀、雄安板块</b>）。</p><p>我强调一点，目前是勘探阶段，和直接大规模开采并反映到业绩上还有时间距离。但井是中海油发现的，潜能恒信的项目也在附近。昨天石化双雄恰好也强势上涨，权重ETF50难得暴动了，而两市却首次出现了净流出，还是25.32亿元。于是，不少小伙伴在猜测，是不是大资金在借暴涨出逃？</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-377b3115bd3b9feccaa887a9a5f2c81f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"535\" data-rawheight=\"264\" class=\"origin_image zh-lightbox-thumb\" width=\"535\" data-original=\"https://pic4.zhimg.com/v2-377b3115bd3b9feccaa887a9a5f2c81f_r.jpg\"/></figure><p>在回答这个问题之前，我们先看看昨天为何会暴涨？第一个原因，周末谈的不错。第二个原因，金融供给侧改革，让很多民企企业主看到了希望，市场开始改善对中国企业的悲观预期。</p><p>回答前面的问题，这种流出可以理解为套牢盘的换手。2900-3100可以说是过去3年套牢盘的重灾区。冲这个阻力位需要强大的动能，一般要实现充分换手才能上去。而昨天大家都发现了指标股全线在被暴拉，这不得不让人觉得是有组织的一次筹码交换。市场在极短的时间内，由弹性好的券商、科技股带动了整个蓝筹权重。接下来我担心会有调整，于是尾盘减了部分仓位。我看到一些本来预期很好的票昨天涨停没有封死，我怕今天开盘会低开。</p><p>假如今天开盘高开，建议大家减仓。<b>上升途中必有洗盘</b>。</p><p>懒得折腾的也没关系，毕竟3月5日临近了，你能再拿住一个月也不影响总体盈利情况。整个年后的行情，可以说5G整个板块都是持续被资金追捧的，而且主力介入很深，后市还有大戏。不要频繁换股，特别是小散我更建议卧倒休息。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-e6b239663d6ff6b47a752a55cd4fdb6b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"228\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-e6b239663d6ff6b47a752a55cd4fdb6b_r.jpg\"/></figure><p>也许最好的还在路上。</p>",
+                "comment_count": 0,
+                "image_url": "https://pic4.zhimg.com/50/v2-0d120e9f2106e56e997d895b1d2739f2_hd.jpg",
+                "voteup_count": 5,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAwOTQ3ODI1IJrx0eMFKAUwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINTc2ODE1MzQ="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1535336109,
+                "is_labeled": false,
+                "excerpt": "周五央行突然说要引入外汇逆周期调节因子，人民币没有如市场预期破7，而是大涨。人民币汇率再次被主动干预是市场反弹的重要基础，因此指数周五继续收红。不仅人民币空头受到了强有力的打击，二级市场的空头也同样。 <b>什么是逆周期因子？</b> 简单的说就是硬抗。…",
+                "excerpt_title": "",
+                "id": 43023555,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-f3889c5f5925309826769305966d1b6d_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-a162aa24ca08d38d1c4dd05c917c4a22_250x0.jpg",
+                    "https://pic4.zhimg.com/80/v2-d1c36fac5b6fe50b6b66d021232dd431_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_{size}.jpg",
+                    "type": "people",
+                    "name": "菠菜",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "股票/金融/理财/逗比杂学/文艺段子手",
+                    "url_token": "xing-kong-cai-fu",
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-def1915abe5c20cb13c269b36b8b55f6_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "url": "http://www.zhihu.com/api/v4/people/59f9ee507a47989029fb9080b3489cff",
+                    "badge": [],
+                    "id": "59f9ee507a47989029fb9080b3489cff"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/43023555",
+                "title": "逆周期因子开启市场新一轮反弹",
+                "created": 1535330366,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-d4c0a512ad922027604bd47c22fcaa9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"100\" class=\"content_image\" width=\"400\"/></figure><p>周五央行突然说要引入外汇逆周期调节因子，人民币没有如市场预期破7，而是大涨。人民币汇率再次被主动干预是市场反弹的重要基础，因此指数周五继续收红。不仅人民币空头受到了强有力的打击，二级市场的空头也同样。 </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a162aa24ca08d38d1c4dd05c917c4a22_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"616\" data-rawheight=\"140\" class=\"origin_image zh-lightbox-thumb\" width=\"616\" data-original=\"https://pic3.zhimg.com/v2-a162aa24ca08d38d1c4dd05c917c4a22_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>什么是逆周期因子？</b></li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>简单的说就是硬抗。人民币汇率相对一篮子货币稳定，然而这个货币篮子兑美元一直在跌。为了人民币硬抗，那么必然要在原来的计算人民币中间价基础上，加上某些“东西”。从汇率的计算方式上直观的理解是：</p><p>逆周期因子 = 市场供求因素 / 逆周期系数 =（上日收盘价 - 上日中间价 - 一篮子货币日间汇率变化×调整系数）/ 逆周期系数</p><p>那么：上日收盘价=市场供求因素+上日中间价+一篮子货币日间汇率变化×调整系数</p><p>引入逆周期因子前：人民币兑美元中间价 = 上日中间价 + 一篮子货币日间汇率变化×调整系数 + 市场供求因素</p><p>引入逆周期因子后：人民币兑美元中间价 = 上日中间价 + 一篮子货币日间汇率变化×调整系数 + 市场供求因素 / 逆周期系数</p><p>从公式上看其实就是在影响人民币市场供求关系。如果上述都懒得看，简单的说就是<b>要释放外汇储备</b>。市场供求关系要想直接干预，当然不是打嘴炮去喊话，而是真金白银的去市场买入。我们看到7月底公布的外储余额不降反升，正是在为这一仗做准备。我不忍告诉你，逆周期调节就是<b>国家自己去汇市坐庄</b>。</p><ul><li><b>引入逆周期因子的影响是什么？</b></li></ul><p>直接影响是汇率不会一直跌下去，甚至向曾经很多人预期的那样直接跌到1:8（真不知道他们的依据是啥），当然还有一个<b>副产品就是股市会涨</b>。</p><p>第一次引入逆周期因子是在去年的5月26日，停止使用（将逆周期因子调整至中性）是在今年1月9日。而这个周期股市从阶段性双底（第二个底是5月24日形成）的第二个底3022，一直走出新高3587.03（2018年1月29日）。这里还叠加了一个央行1月份的货币政策宽松小周期。</p><p>上周一整个股市跌出全年新低2653.11，这时候股市再跌下去会有更多的上市公司跌破质押线，这个风险会迅速传导到银行系统以至于整个金融系统。把上市公司逼疯了就会抛售一切资产来补充担保物，包括房子（有大量的房子是上市公司囤的）从而诱发经济危机。因此股市不仅是证监会和股民的事，一直跌就会影响稳定大局。再换个角度讲，人民币标注了中国所有资产的价格，人家和你玩XX站最终把你家所有资产都打个8折时你承受的了不？</p><p>采用逆周期因子调节一定是阶段性的。长期使用的最大恶果是汇改暂时放缓。因为不能按市场供求关系给货币定价，谈何国际化？不过，都威胁到国家金融安全了，看不见的手不可能袖手旁观也是情理之中的。更重要的是<b>你家的钱不是大风卷来的，总有花光的一天</b>。弹药库不能空啊，否则中国和土耳其类似。</p><p>如果整个市场放弃人民币破7的念头，那么外资就会更猛烈的买买买。菠菜<b>唯一担心的物价</b>。我们看到大宗商品已经开始反弹，现在我妈说市场的鸡蛋也涨价了。这比房子涨价更恐怖。我一直相信国家能平抑物价，短期市场上的一些农产品相关的个股可以看看。菠菜自己仓位近5成，这时候更不建议大家割肉。有的基本面已经走坏的个股可以借反弹调仓，整个市场的风格已经在见底的过程中慢慢转化，我们看好的科技股一直在逆势走自己的逻辑。因此选股不仅是阶段型的，很可能影响到你仓里2-5年的收益。</p><p>这时候我们又发现美联储主席鲍威尔面对9月份的议息大会放出了鸽派的信号，强势美元的政策可能因为特朗普而放缓。这也是利好市场的。</p><p>PS：逆周期因子也是谈判桌上一枚有利的筹码，如果汇率恢复说明XX站出现缓和甚至是转机。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d1c36fac5b6fe50b6b66d021232dd431_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"517\" data-rawheight=\"145\" class=\"origin_image zh-lightbox-thumb\" width=\"517\" data-original=\"https://pic2.zhimg.com/v2-d1c36fac5b6fe50b6b66d021232dd431_r.jpg\"/></figure><p></p>",
+                "comment_count": 8,
+                "image_url": "https://pic4.zhimg.com/50/v2-f3889c5f5925309826769305966d1b6d_hd.jpg",
+                "voteup_count": 13,
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHODYyMjk0NiC+kI3cBSgNMAhAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDQzMDIzNTU1"
+        }
+    ]
+}

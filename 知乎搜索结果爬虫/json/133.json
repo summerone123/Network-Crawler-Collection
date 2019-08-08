@@ -1,0 +1,233 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1473356297.31790",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1472827320.8&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1472827320.79792"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "把互联网经济等同于外卖小哥我觉得太搞笑了。为什么不看看互联网背后的大数据，云计算等东西呢？至于芯片产业，我不认为和互联网经济有什么矛盾的地方，并不是两者只能选其一的事。当然这几年因为互联网行业的高收入，把很多芯片行业的人才给吸走了是事实。…",
+                "created_time": 1525770159,
+                "id": 386551000,
+                "voteup_count": 12,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-6f931a83b3edf96812075f425b20a7c2_{size}.jpg",
+                    "name": "胖麦子",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "pang-mai-zi",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-6f931a83b3edf96812075f425b20a7c2_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/0b5ee44cf349b6e0d6e6a92545c898fd",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "0b5ee44cf349b6e0d6e6a92545c898fd",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/386551000",
+                "question": {
+                    "title": "如何看待因为国内芯片产业发展问题而对互联网经济不满的现象？互联网经济的定位与意义及其未来在哪里？",
+                    "url": "http://www.zhihu.com/api/v4/questions/276367031",
+                    "created": 1525765822,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 276367031
+                },
+                "updated_time": 1525770159,
+                "content": "<p>把互联网经济等同于外卖小哥我觉得太搞笑了。</p><p>为什么不看看互联网背后的大数据，云计算等东西呢？</p><p>至于芯片产业，我不认为和互联网经济有什么矛盾的地方，并不是两者只能选其一的事。当然这几年因为互联网行业的高收入，把很多芯片行业的人才给吸走了是事实。说白了，一个行业能开出高工资，必须要有市场去买单，互联网这个东西，国内市场就足够大。而芯片呢，因为美国的强势，intel，高通等等，再加上商用操作系统都在美国手里，国内芯片厂商即便做出来了，市场上也没人用（没操作系统啊）。所以芯片行业会走的很艰难。</p><p>当然发展芯片产业是很有必要的，这东西确实是核心科技之一，作为一个大国，应该要有，起码在军工领域有自己的芯片和操作系统是事关国土安全的事。</p>",
+                "comment_count": 1,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkMQBBoJMTAwMzUwMzMzIK/PxdcFKAwwAUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzY5MDM4M3IJMzg2NTUxMDAw"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1524290552,
+                "is_labeled": false,
+                "excerpt": "因为美国严厉制裁，中兴遭遇灭顶之灾，绝大部分生产线已经停产，中兴通讯董事长也承认说公司已经进入休克状态。一家昨天还在国际市场叱咤风云的超级公司，被美国佬一棍子打下去，今天就进入可能倒闭的休克状态，确实令人极为感慨。但中兴落得这个结局，首先…",
+                "excerpt_title": "",
+                "id": 35948129,
+                "voteup_count": 20,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-640b2a5654c4523365ab456d07e53f06_{size}.jpg",
+                    "name": "杭子牙",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "华语媒体总编",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "hang-zi-ya-91",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-640b2a5654c4523365ab456d07e53f06_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/d9e7d1047d95bb02f96dcffbe70659a5",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "d9e7d1047d95bb02f96dcffbe70659a5",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35948129",
+                "created": 1524290552,
+                "content": "<p>因为美国严厉制裁，中兴遭遇灭顶之灾，绝大部分生产线已经停产，中兴通讯董事长也承认说公司已经进入休克状态。</p><p>一家昨天还在国际市场叱咤风云的超级公司，被美国佬一棍子打下去，今天就进入可能倒闭的休克状态，确实令人极为感慨。</p><p>但中兴落得这个结局，首先却是自己作死。</p><p>是中兴采购美国零部件，却违反美国的贸易禁运政策，透过壳公司向伊朗倒卖美国禁运产品，被FBI利用内奸抓了现行，罚款并做出惩戒承诺后，还忽悠美国商务部，才落得如此结局。</p><p>把这套投机钻营的手法搬到一个高度法治化的国家，面对一个情报搜集几乎无孔不入的FBI，自己内部又存在合规管理上的严重漏洞，像美国佬这样的全球头号流氓国家，要是不制裁中兴，恐怕都会觉得对不住自己。</p><p><b>虽然如此，从表面上看，美国这次制裁中兴，是中兴自作聪明却一蠢再蠢地被美国抓住了把柄。但美国制裁的根本目的，却和禁止华为进入美国市场是一样的道理，就是为了狙击中国的5G战略。</b></p><p><b>华为和中兴，是中国5G战略的两个领军企业，美国的目的很明确，就是迟滞中国这一战略达成，压制中国高科技产业发展，并将之作为遏制中国战略的一环。</b></p><p><b>所以，对于美国的制裁，中国一定要想办法加以对等报复，不然美国佬食髓知味，还会进一步得寸进尺。</b></p><p>不过，对中国来说，这件事的教训也是深刻的。归结起来，我认为主要包括三个方面：</p><p><b>一是中国企业在开拓国际市场时，要更加重视合规管理，哪些钱能赚，哪些钱不能赚，要搞清楚。</b></p><p>这个告诫对那些正在“一带一路”上顺势进行国际扩张的中国企业尤其重要。一带一路上的国家，大多处于国际投资的红灯或黄灯区，这些国家要么政治不够稳定，要么法律环境欠佳，要么就是美欧等西方国家制裁禁运的国家，在这些国家开拓市场，要尤其注意类似风险规避。</p><p><b>二是要抓紧掌握核心技术。</b></p><p>这个子牙（<b>搜索并关注微信公众号“杭子牙”</b>）作为外行，就不多说了。具体到每个行业、每个领域该掌握哪些核心技术，该怎么掌握，这个行内人要比我们这些外行清楚。</p><p><b>第三，要实事求是地面对客观现实，不要再像个暴发户一样整天炫耀吹牛。</b></p><p>中兴事件爆发后，我们一方面跟踪报道事件内情，一方面对美国的霸道和遏制中国提出严厉批评，同时也不客气地撰文指出，这一事件就像是一剂强力清醒剂，给了那些高度亢奋的民粹主义分子以醍醐灌顶之感。</p><p>近段时间以来，在各种投机媒体、学者的民粹主义渲染下，整个国家好像已经变得可以傲视四海。诸如&#34;中国已经全面超越美国&#34;等论调，如同精神鸦片一样无处不在。</p><p>但这次中兴被制裁，就一耳光把这些民粹主义鸡血党从梦幻中打醒，知道现实世界究竟是个什么样子。</p><p><b>这些年中国发展确实取得了了不起的成绩，经济规模搞到全球第二，在很多领域也走到了世界前列，这很不容易，令人振奋。</b></p><p><b>但同时我们也要看到，在很多更关键的领域，在国家综合实力上，中美相比仍然还有相当差距，还需要长期、持续努力。</b></p><p><b>中国依旧是个发展中国家，要到2035年才能基本实现现代化，到本世纪中叶才能建成社会主义现代化强国。在这期间，我们要正视和美国的差距，要有超越美国的精神和自信，但千万别因为取得一点成绩，就亢奋的要命，天天死命吹嘘，把尾巴翘到天上。</b></p><p>“谦受益，满招损”，对中国来说，头脑发热是最大的敌人，历史上我们就经常吃这个教训。</p><p>要认识到在自信和自大之间，有条很难把握的线，超过这条线，自信就变成了自大，就反而体现出了内心的自卑。</p><p>人都爱面子，多少都会吹点牛皮，国家也一样。</p><p>但且记一点，牛皮偶尔吹吹可以，但吹多了，吹上瘾了，是会被现实打脸，是要上税的。</p><p><b>（更多相关讨论，欢迎搜索并关注微信公众号“杭子牙”）</b></p><p></p><p></p>",
+                "comment_count": 7,
+                "title": "中兴作死，美国作妖，我们应该做些什么？",
+                "topic_thumbnails": [],
+                "type": "article"
+            },
+            "attached_info": "CjwQBxoHNjU2OTcwNiD4p+vWBSgUMAdAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBjEwOTU3NHIIMzU5NDgxMjk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic3.zhimg.com/50/v2-df15745e543951948041147a9b736f7c_hd.jpg",
+                "updated": 1524367689,
+                "is_labeled": false,
+                "excerpt": "我写了一篇坚决支持鸿茅药酒的短文，应该在100字左右，很多人很反感，认为是大奸大恶。突发奇想在写篇大的，站在历史民族的高度，写写两个风马牛不向级的事，鸿茅药酒与《孙子兵法》，看是否产生的关联。 首先说明鸿茅药酒跨省抓人这事，警察犯法没有，从常…",
+                "excerpt_title": "",
+                "id": 35968022,
+                "voteup_count": 2,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "name": "上山若随",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "西方经济学"
+                    },
+                    "headline": "无兵法  不创业",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "shang-shan-ruo-sui",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/7058008d1dcef75499b8aa30f9d965b5",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "7058008d1dcef75499b8aa30f9d965b5",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/35968022",
+                "created": 1524367689,
+                "content": "<p>      我写了一篇坚决支持鸿茅药酒的短文，应该在100字左右，很多人很反感，认为是大奸大恶。突发奇想在写篇大的，站在历史民族的高度，写写两个风马牛不向级的事，鸿茅药酒与《孙子兵法》，看是否产生的关联。</p><p>      首先说明鸿茅药酒跨省抓人这事，警察犯法没有，从常识上讲应该没有，因为罪犯不可能跨省逃窜，跨省抓人如果犯法这是讲不通，现在跨省抓人限制因素是资金问题，如果鸿茅药酒解决了资金问题，抓一个不会跑了闲人，应该不是难事，所以算是美差。二是此人在视频说的很清楚两个论点，一是老人不能喝酒，二是是酒三分毒，由此而推出鸿茅药酒是毒酒，这个逻辑作为医学硕士，推理过程过于奇葩，三是药准字号是国家给的，这个如果是坚决不能取信，而是外行说道作为证据，起码更不靠谱，如同我们老崔大基因这事，肯定外行吗，四是经销商损失150万元不采购了，现在网络时代，如果这种文章不限制一下，多几篇企业完蛋是有可能的，趁这种机会三教九流都来辩论辩论，或许是个机会。</p><p>      但这都不是我坚决支持鸿茅药酒的重点，我支持鸿茅药酒的重点就在今天这篇文章，鸿茅药酒与《孙子兵法》，先说《孙子兵法》是啥，再说《孙子兵法》与老百姓未来赚钱发财有啥关系，再说说鸿茅药酒与《孙子兵法》关联。</p><p>       一、用芈月故事来讲解《孙子兵法》</p><p>      地产大佬冯仑曾经问历史学家：历史真实的芈月是中国第一位女政治家，有电视剧上这么厉害吗，答道：远远不止，芈月不是宫斗剧。我知道很多人尤其是有家底、有事业、有学问的这拨人，都非常喜欢毛泽东，他就是一个政治家、军事家，其实芈月的功力可能在其之上，不管怎么说，芈月才是真正的中华文明建筑根基的第一人。芈月（以后改称宣太后，因为芈月可能是剧本自己加的）在位38年，做成了哪些事呢？</p><p>      1、宣太后当政以后，第一件事是弱魏，魏国是当时战国的第一强国，就在秦国历经商鞅变法和张仪的合纵连横之后，魏国就日渐衰落，宣太后召开的军事会议主要参政者是四个人，一是太后自己、二是儿子秦昭王（16岁），三是丞相魏冉，四是大将军白起。应该来说太后、魏冉、白起是秦国铁三角，从后来的军事发展来说，应该讨论的问题就是“魏国为什么会快速衰落”，结论应该是“四战之地”，即魏国不是不够强大，而是被天天打仗打下去了，秦国要强大，要的不是地盘打，而是要的是黄河天险和长江天险。</p><p>      第一战就是河西之战，沿着黄河上游，一直打到洛阳，南阳一带，然后守住，让中华文明最富庶黄河中上游，全部变成为秦国的内地，打仗方式很简单，冬天去打，因为战国早期是冬天不打仗，所以根本没有守军。</p><p>     2、 第二战是弱楚之战，由于战国七雄楚国基本上是半次改革，所以所有的军事、经济控制在少数家族手中，同时老百姓的日子是非常苦的，国家是没有集中力量的能力的，所以这场战争实际就是打土豪、分田地，没有多少消耗，包括都城之战也是用水淹的方式，没有大的正面交战，地盘直接发展到九江、长沙、武汉、襄阳，整个湖北、湖南、贵州、河南大部全部进入秦国的内属地，至此在宣太后的领导下，秦国从原来陕西省、四川省、重庆三个省，已经占据中国现阶段的60%的土地。</p><p>      3、导演了齐燕战争：宣太后与春申君的爱情故事肯定是假的，与义渠王的共同生活也是没影的事，历史上把灭义渠国是一笔带过，这事很小。但是与乐毅有一腿可能性很大，一是年龄差不多，二是太后与昭王质燕的时候，能够活下来，是需要人照顾的，乐毅是大将军，太后是美女且没人照顾，所以两人在一起机会是很多的，三是太后与昭王回国，这个难度很大，需要力量帮助，四是乐毅打败齐国，故事整体有些扯，应该是秦国出击吸引的齐国主力，然后乐毅攻下都城，其后主力溃散比较靠谱，总体来说，无论与公于私，一定是宣太后导演参与，才让当时的战国第一强国齐国，成为三流国家。</p><p>      4、到了这个时候，宣太后已经70岁，他老人家走后，应该是安排了最后一战，弱赵：长平之战，首先把韩国切成为两半，一半在河南，一半在山西，然后用间谍计把上党地区送给赵国，同时与韩国签约土地属于秦国，在其后两家在这里比吃饭三年把赵国吃空，再其后再用反间计，赵括中计，灭了赵国50万大军，40万坑杀，赵国成为三流国家。</p><p>      5、为什么说这段功劳是宣太后的功劳呢，大伙看细节，整段历史如同一个非常精明能干的妈妈，带了三个儿子，昭王位置正，负责全局，白起能打负责军事，魏冉能文能武，负责行政后勤。这是第一阶段，在弱魏、弱楚之后，魏冉贪污腐败，回家享福不准参政了，昭王长大了，补上了角色，依然强大，这是第二阶段；宣太后死后，秦国做成了长平之战这件大事，随后就是昭王逼死白起，后来秦国连败赵国多次，再没有像样的表现了，但是基本上守住了宣太后留下的长江天险和黄河天险，这时候秦始皇已经出生了，基本上是等到秦始皇长大了，就灭了六国，成就了中华民族今天的样子。</p><p>     说到这里想说什么问题呢？40年来，我们是赶超过程的“赶”问题，首先要了解事实是，为什么我们会在这400年落后挨打，因为科学与民主，科学就是解剖学，无限制解剖一直到基因，无法解剖了开始构建模型了，民主就是老百姓自己作主说了算，忽悠没用了。但是到40年后的今天期待大伙看清两件事，一是宏观经济、微观经济、营销学是解剖学能够看清楚的吗，二是老年病是解剖学看清楚的吗，也就是说中国走到今天，属于科学能够解决的问题我们都会了，起码问题不大了，剩下的问题就是科学解决不了的问题，需要构建抽象框架，来解决时代留给我们的问题。</p><p> 二、《孙子兵法》与美国文化的冲突何在？</p><p>      熟悉营销学的同学，都应该知道两个基础工具，一是4P，二是SWOT，应该来说都觉得很实用吧，在研习《孙子兵法》10多年后，看见这两个就觉得傻，谁用谁死。过来详细分析：什么是4P呢，“产品比别人好，价格比别人有竞争力，渠道都能够打通，传播声音最大”，尽管我的解读有些偏激，但基本就这意思，大伙想想这么多年来企业不就这口号吗：“人我无有，人有我优”，用在今天肯定没好果子吃，再看SWOT，第一资料的完整性，包括技术性资料，竞争对手资料，关联行业竞争性分析，其实根本不可能，再是基本上就是与一个甚至几个行业去打，竞争。所以在这些没有解剖学基础的领域，美国及欧洲留下来的东西，其实质的实用性的东西已经很少很少了，我们需要重新去构建；</p><p>      再看美国处理问题的方式：日本强大时，直接阉割，变成太监再说，从1：280到1：80,那时的日本与他的关系别扭着，就是父子关系估计也会决裂，美国打欧元的时候，还有点人性吗，那是下死手啊，多少家家破人亡啊。现在打中国，会起到效果吗，有这么乖吗，实际就是方法论出现问题吗，明显的区别就是：“更高更大更强”VS“因弱而强”，“盯着敌人的漏洞用狠”VS“盯着敌人的漏洞用谋”，这就是《孙子兵法》的现在意义。</p><p>      再讲一个秦国故事：几经波折，始皇帝同意王翦带领60万大军到秦楚边界，因为面临亡国灭族危险，同时由于在宣太后时代，楚国几百年的根基全部归秦，楚国在长江下游地区（吴越）重新站立起来，已经有了楚虽三户、亡秦必楚的民族恨，很快也聚集起来了60万大军，由当时的名将项羽爷爷项燕带领，项燕前不久才灭秦国的15万大军的。</p><p>      双方对垒之后，王翦采用了深沟壁垒的方式，用骑兵护住粮道，然后两年不战。为什么？因为秦国当时的富裕程度远比楚国要好，二是秦国是国家养兵，楚国是大户养兵，这就是“盯着敌人的漏洞用谋”，因为在淮河一带决战，运输的距离差不多，假设两个人养活一个人的话，基本上是各180万人，共360万人在这里比吃饭两年。此时的秦国已经有巴蜀、关中、黄河、长江、襄阳五大大粮仓，消耗战没事，楚国是大户自己养活军队，两年时间基本消耗干尽，于是大户的队伍开始后撤，其实跟王翦作战的就是国家队8万人，王翦用不到三个月把这60万人全部消灭了。</p><p>三、鸿茅药酒与《孙子兵法》的关系</p><p>      这事另外一个领域，即中药大发展时期来到了。因为两点，一是老年病包括癌症、心脑血管、三高等疾病，基本上是解剖学看不见的东西，需要建构模型，中医中药几千年沉淀，要从中寻找好办法。</p><p>      我一哥们，国营厂长，很早开始投资炒楼花，在一线城市有七套房屋，后来得了癌症，开始治疗，用两年时间，把七套房全部变成了医药费，最后是因为没钱了停药死去的，目前的西药治疗方案基本就是，钱花完、人治死，了事，这是现状怪不得人，因为科技在现在这水平就这样了。现在有人说，癌症疫苗出来了，我打一针就免疫了，只能说，别做梦了，那就是宫颈癌一种，人类唯一知道病因，同时能够控制的癌症。其他癌症还是同理。</p><p>     另外一个出路就是基因与中药的结合，一个早发现，一个早预防控制。可能是未来的一个出路或者产业方向，这才是真真实实的治未病。</p><p>     这才是我支持鸿茅药酒的出发点。</p><p></p><p></p><p></p><p></p>",
+                "comment_count": 7,
+                "title": "鸿茅药酒与《孙子兵法》",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-df15745e543951948041147a9b736f7c_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjQQBxoHNjU3NzY4MCDJgvDWBSgCMAdAAFIRdG9wX2FjdGl2aXR5X3Bvc3RyCDM1OTY4MDIy"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "谢邀。 抱有这种说法的，有一个算一个，都可以说是民族主义和贸易保护主义的支持者。互联网企业赚钱，而芯片制造业不赚钱（这里特指现阶段中国的芯片制造不赚钱）不赚钱的那不是生意，那是慈善，你也不能因为别人不做慈善做生意而骂他们。毕竟，谁会想到还…",
+                "created_time": 1525768427,
+                "id": 386524371,
+                "voteup_count": 50,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-61103b7813cafcd2808f590324badb51_{size}.jpg",
+                    "name": "Dieci Anni",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "微电子工程"
+                    },
+                    "headline": "从统计上讲，关注我比不关注的收益更多。",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "Dieci-anni",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-61103b7813cafcd2808f590324badb51_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/fbfea6a80cdcea66428bcb474cc53bab",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "fbfea6a80cdcea66428bcb474cc53bab",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/386524371",
+                "question": {
+                    "title": "如何看待因为国内芯片产业发展问题而对互联网经济不满的现象？互联网经济的定位与意义及其未来在哪里？",
+                    "url": "http://www.zhihu.com/api/v4/questions/276367031",
+                    "created": 1525765822,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 276367031
+                },
+                "updated_time": 1525861438,
+                "content": "<p>谢邀。</p><p><br></p><p>抱有这种说法的，有一个算一个，都可以说是民族主义和贸易保护主义的支持者。</p><p>互联网企业赚钱，而芯片制造业不赚钱（这里特指现阶段中国的芯片制造不赚钱）不赚钱的那不是生意，那是慈善，你也不能因为别人不做慈善做生意而骂他们。</p><p>毕竟，谁会想到还有某国可以流氓到这个程度，以国家为单位撕毁合同，直接搞贸易禁运？</p><p>你开饭馆的时候，算人工成本算材料成本算政府税收，会算到某一天菜农抵制你不给你供货吗？？？为啥菜农现在耍流氓，一帮人嘲笑的却是你： \"你看不掌握产业链倒霉了吧，鱼香肉丝做得好有什么用？谁让你不去去学种菜，活该。\"</p><p>这是病得赶紧治啊。 </p><hr><p>中国在加入WTO之后，渐渐在熟悉国际社会的规则，这个规则就是<b>工业全球化+市场化</b>。</p><p>所谓工业全球化，就是指各个国家在工业链条中分工不同，而没有任何一个国家能独自完成某一个产品，但是各自都可以完成自己最擅长的部分。而市场化，是指只有那些有竞争力的，符合市场价值规律的产品和公司，才能存活下来。 </p><p>比如苹果手机，在美国干设计，从韩国买屏幕，从日本买摄像头，从台湾买晶圆代工，从大陆买组装，全世界敛钱，这才能够利益最大化。(涉及到的国家其实很多，我只选了四个有代表性的)。 他也完全可以在美国买屏幕，在美国买摄像头...但是他就不会像现在一样赚这么多钱。 </p><p><br></p><p>中国人看到了，觉得这个形式不错，于是也开始学，比如C919，进口大量的配件造国产大飞机，一方面可以省去了很多验证的时间，另一方面也可以尽快取得适航证，尽快商业化。</p><p><b>其实这才应该是国际贸易应该有的样子。</b></p><p>提起韩国，有人说电子行业发达，提起日本德国，有人说精密制造业发达，提起法国有人说航空航天汽车制造行业发达，这可都是老牌资本主义国家吧？我就问一句，包括日英法德的全世界所有的发达国家，除了美国之外，<b>有没有一个敢说自己掌握了全部核心技术的？有没有敢拍着胸口说：“我不怕美国贸易禁运”的？ </b></p><p><b>一个都没有。 </b></p><p><br></p><p>手机能没有高通的SOC吗？(除了三星华为小米苹果)</p><p>笔记本能没有英特尔，AMD的CPU吗？</p><p>汽车电子能没有 TI ,NXP ,ST 吗？</p><p><br></p><p>如果再较真，全世界都封锁美国，美国也一样没有掌握全部核心技术(比如NFC的专利美国几乎没有，大部分在日本，欧洲和中国)。</p><p>本来在市场化，全球化的今天，实现100%纯国产本身就是一个非常反全球化，反市场化的举动。某些人竟然觉得这很正常，这让我觉得非常不正常。 </p><p><br></p><p>而兴起的互联网产业，其实和芯片行业也没什么关系。</p><p>可以去看看美国的创新中心：硅谷的风投领域，是靠一个APP融资的多，还是用芯片制造业/研发/设计融资的多。这个情况在全世界都存在，没有自己的国产芯片的确值得国人反思，但是因此鄙视互联网行业，没有任何逻辑。<b>毕竟人家在研究怎么炒菜的时候，没想到别人会不卖给你锅。 </b></p><p><br></p><p>最后再说一下我的观点：</p><p><b>我认为中国的确应该大力发展芯片行业</b>，不是因为中国应该掌握一切核心技术，而<b>是因为芯片行业利润率高，而污染相对低</b>。 最终的目标<b>不是实现芯片国产化，而是实现国产芯片商业化</b>。 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-d60390eb186403bfa3cf8a2cc0229a0a_b.jpg\" data-rawwidth=\"874\" data-rawheight=\"358\" data-caption=\"\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-7cb81a1bd24b3ea63921cf9c62b3c2fb_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"874\" data-original=\"https://pic4.zhimg.com/v2-d60390eb186403bfa3cf8a2cc0229a0a_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='874'%20height='358'&gt;&lt;/svg&gt;\" data-rawwidth=\"874\" data-rawheight=\"358\" data-caption=\"\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-7cb81a1bd24b3ea63921cf9c62b3c2fb_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"874\" data-original=\"https://pic4.zhimg.com/v2-d60390eb186403bfa3cf8a2cc0229a0a_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-d60390eb186403bfa3cf8a2cc0229a0a_b.jpg\"></figure><p>请在评论区理性讨论，任何不友善言论将有可能被删除，折叠或<b>公众展示</b>，</p>",
+                "comment_count": 4,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/80/v2-2f82522cbf82618c4916f0a952c340b6_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic4.zhimg.com/v2-2f82522cbf82618c4916f0a952c340b6_200x112.jpg"
+            },
+            "attached_info": "CkMQBBoJMTAwMzQ1NTgzIOvBxdcFKDIwBEAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMzY5MDM4M3IJMzg2NTI0Mzcx"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "没有恶劣天气时的大面积延误，只要没有什么突发性事件，就基本上都是其他用户占用空域导致，也就是军事活动，我国的空域属于军方，民航只能在其准许的范围内运行，19号和之前有一天，就是军事活动限制了华北和靠近华中几个民航常用的关键航路点的流量，导致…",
+                "created_time": 1524192866,
+                "id": 371442198,
+                "voteup_count": 26,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/99fe5e78458967a0e74fee9fbd37710c_{size}.jpg",
+                    "name": "成华区吴彦祖",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "空管"
+                    },
+                    "headline": "花村游戏厅老板保护协会会长",
+                    "type": "people",
+                    "user_type": "people",
+                    "url_token": "liu-zhi-li-82",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/99fe5e78458967a0e74fee9fbd37710c_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/21e73851a8179a37f98fe8c7b216b4c6",
+                    "gender": 1,
+                    "badge": [],
+                    "id": "21e73851a8179a37f98fe8c7b216b4c6",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/371442198",
+                "question": {
+                    "title": "如何看待2018年4月19日国内航班大面积延误，是什么原因引起的？",
+                    "url": "http://www.zhihu.com/api/v4/questions/273920541",
+                    "created": 1524135438,
+                    "is_following": false,
+                    "question_type": "normal",
+                    "type": "question",
+                    "id": 273920541
+                },
+                "updated_time": 1524192866,
+                "content": "<p>没有恶劣天气时的大面积延误，只要没有什么突发性事件，就基本上都是其他用户占用空域导致，也就是军事活动，我国的空域属于军方，民航只能在其准许的范围内运行，19号和之前有一天，就是军事活动限制了华北和靠近华中几个民航常用的关键航路点的流量，导致绝大部分航班都长时间延误，而且无法确定具体的起飞时间，这就给航空公司的决策带来了很大的难度。</p><p>如果让旅客上飞机等，只要军事活动结束之后，就可以优先起飞，但是如果等待时间长，旅客是会有情绪的，就会导致航班下客，会重新排队。如果拉旅客去宾馆休息，一个花费高，还有就是如果活动结束早，还要提前把旅客从宾馆接回机场，动作慢的公司，或者计划时间晚的航班，他们的旅客还会面临无酒店可订的局面。</p><p>感觉这几次的军事活动也是受最近国际形势的影响，常看新闻应该也知道吧。而且夏季到了，最近国际形势也是瞬息万变，雷雨和军事活动齐飞的时候。。。多买延误险吧</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/50/v2-3e7e67c84217db719b6884a2b95966e0_b.jpg\" data-rawwidth=\"690\" data-rawheight=\"468\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic3.zhimg.com/v2-3e7e67c84217db719b6884a2b95966e0_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='690'%20height='468'&gt;&lt;/svg&gt;\" data-rawwidth=\"690\" data-rawheight=\"468\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"690\" data-original=\"https://pic3.zhimg.com/v2-3e7e67c84217db719b6884a2b95966e0_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/50/v2-3e7e67c84217db719b6884a2b95966e0_b.jpg\"></figure><p></p>",
+                "comment_count": 5,
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/80/v2-3e7e67c84217db719b6884a2b95966e0_250x0.jpg"
+                ],
+                "type": "answer",
+                "thumbnail": "https://pic3.zhimg.com/v2-3e7e67c84217db719b6884a2b95966e0_200x112.jpg"
+            },
+            "attached_info": "CkIQBBoIOTc1OTYwMDIg4qzl1gUoGjAFQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTQ2NDgycgkzNzE0NDIxOTg="
+        }
+    ]
+}

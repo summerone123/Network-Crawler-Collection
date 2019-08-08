@@ -1,0 +1,267 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439316616.28706",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1439294644.97&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1439294644.97110"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic4.zhimg.com/50/v2-681d5dc1957c491ba247c7c971b77ad4_hd.jpg",
+                "updated": 1558695508,
+                "is_labeled": false,
+                "excerpt": "当谷歌中断与华为合作以后，国人对华为的态度表现的极为担心。华为自主研发操作系统的声音也不绝于耳，但无论外界怎么宣传，华为高管和员工对此都显得波澜不惊，就连余承东都在含糊其辞的说“最早今年秋季面世”，使得这层面纱越来越神秘。 如今，华为自主…",
+                "excerpt_title": "",
+                "id": 66906541,
+                "voteup_count": 19,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-fd62015fd34a067cd0e3c2ab36d542a2_{size}.jpg",
+                    "type": "people",
+                    "name": "悟空小子",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/edbccdf9cc689e5d0cb70db6635b3095",
+                    "badge": [],
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-fd62015fd34a067cd0e3c2ab36d542a2_is.jpg",
+                    "is_org": false,
+                    "gender": 0,
+                    "url_token": "jue-jin-qi-fu-52",
+                    "id": "edbccdf9cc689e5d0cb70db6635b3095"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/66906541",
+                "created": 1558695508,
+                "content": "<p>当谷歌中断与华为合作以后，国人对华为的态度表现的极为担心。华为自主研发操作系统的声音也不绝于耳，但无论外界怎么宣传，华为高管和员工对此都显得波澜不惊，就连余承东都在含糊其辞的说“最早今年秋季面世”，使得这层面纱越来越神秘。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-92e25c122c5343c3dcad196d1e3483ee_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"370\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic3.zhimg.com/v2-92e25c122c5343c3dcad196d1e3483ee_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>如今，华为自主研发“鸿蒙”系统的消息终于坐实，而且研发速度令人出乎意料，连商标都已经申请成功了！相信“山姆大叔”看到绝对傻眼！</p><p>据悟空财税了解，<b>华为申请的两项“鸿蒙”商标，已于今年5月13日成功注册并公告，</b>权限期自2019年5月14日起，直到到2029年5月13日，商标注册号分别是“33093263”和“33104783”。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-841a3de262a3cd17852214eb37517697_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic4.zhimg.com/v2-841a3de262a3cd17852214eb37517697_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>悟空财税知识产权专家介绍，“鸿蒙”注册的是第9类商标，该类别服务项目包括智能手机、操作系统程序、计算机操作软件等等，大多应用于手机、电脑、平板、电视、汽车和智能穿戴等设备，任何人登陆国家商标局网站，都可以查阅到这些信息。</p><p>另外，还有一个细节让人细思极恐。华为被<b>列入“实体管制”名单是在5月16日</b>，<b>而“鸿蒙”商标注册成功则是在5月14日，整整提前了两天</b>。时间再往前推，去年8月24日，华为就已经将“鸿蒙”商标的申请提上了日程。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-360568de635081aab57957a847485a03_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"385\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic4.zhimg.com/v2-360568de635081aab57957a847485a03_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>要知道，那个时候，孟晚舟还没有被拘捕，还整天奔波于华为的各大国际业务；那个时候，5G也没有像现在这样，引发那么激烈的讨论；但那个时候，华为已经在自主研发操作系统上打起了算盘，足以看出任老爷子的前瞻性。</p><p>从提出专利申请到注册成功，华为做了九个月的铺垫。假设华为研发“鸿蒙”是在专利申请后开始的，那么截止到现在，<b>华为的系统研发也已经持续了近九个月</b>。九个月悄无声息，真是低调的不能再低调了！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d761ee759b85d00ae071219a4b95b2c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic2.zhimg.com/v2-d761ee759b85d00ae071219a4b95b2c5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>还有一点是，虽然华为面对“山姆大叔”制裁做好了充足准备，但国外的供应商却显得“依依不舍”，非常不愿意终止合作。</p><p>5月23日，日本企业松下对媒体公开表示，并未与华为终止合作。同天，日本半导体企业东芝也表示，“上海东芝公司”根本不存在，东芝今后仍会与华为展开合作。</p><p>最近，有记者问任总：“华为现在是不是到了最危险最危难的时刻？”</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e744b4c6b4cf06678c8113554173c994_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"323\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-e744b4c6b4cf06678c8113554173c994_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>任正非：“<b>孟晚舟事件没发生的时候，我们公司是到了最危险的时候，那时候大家口袋都有钱了，不服从分配，惰怠。现在我们公司全体振奋，整个‘战斗力’在蒸蒸日上，这个时候我们怎么到了最危险的时候呢？现在应该是在最佳状态了</b>。”</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>​</p>",
+                "comment_count": 3,
+                "title": "华为任正非：鸿蒙商标9个月前就申请了",
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-681d5dc1957c491ba247c7c971b77ad4_hd.jpg",
+                    "https://pic4.zhimg.com/80/v2-92e25c122c5343c3dcad196d1e3483ee_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-841a3de262a3cd17852214eb37517697_250x0.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAyOTk2NzE4INScn+cFKBMwA0AAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjY5MDY1NDE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "华为员工基本一致认为 唇齿相依，唇亡齿寒。 公司之间的矛盾，小于国家矛盾。",
+                "created_time": 1524041347,
+                "id": 370023816,
+                "voteup_count": 65,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/aadd7b895_{size}.jpg",
+                    "type": "people",
+                    "name": "匿名用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "badge": [],
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/aadd7b895_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url_token": "",
+                    "id": "0"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/370023816",
+                "question": {
+                    "created": 1523962192,
+                    "url": "http://www.zhihu.com/api/v4/questions/273661389",
+                    "title": "华为人如何看待中兴被制裁？",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 273661389
+                },
+                "updated_time": 1524041591,
+                "content": "华为员工基本一致认为<br>唇齿相依，唇亡齿寒。<br>公司之间的矛盾，小于国家矛盾。",
+                "comment_count": 6,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTczMzgxNDUgg43c1gUoQTAGQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMDg4ODIwcgkzNzAwMjM4MTY="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "早在2016 年3 月，美国法务部调查到中兴向伊朗和朝鲜非法出口电信设备，这在美国法令中是明令禁止的，于是美国对中兴进行了出口管制，和现在一样，不卖产品给中兴，后来延长了出口禁令执行期限。直到2017年3月，中兴和美国签署了协议，解除了出口限制。协议…",
+                "created_time": 1524450050,
+                "id": 373846987,
+                "voteup_count": 7,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/81b901bdc_{size}.jpg",
+                    "type": "people",
+                    "name": "代计生",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/f75996eed6357cee9a0dbf4e5f96b8ee",
+                    "badge": [],
+                    "user_type": "people",
+                    "headline": "战略是现实与目标的结合点",
+                    "avatar_url": "https://pic3.zhimg.com/50/81b901bdc_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "url_token": "dai-ji-sheng",
+                    "id": "f75996eed6357cee9a0dbf4e5f96b8ee"
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/373846987",
+                "question": {
+                    "created": 1524294574,
+                    "url": "http://www.zhihu.com/api/v4/questions/274132811",
+                    "title": "美国为什么禁售中兴芯片?",
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274132811
+                },
+                "updated_time": 1524450050,
+                "content": "<p>早在2016 年3 月，美国法务部调查到中兴向伊朗和朝鲜非法出口电信设备，这在美国法令中是明令禁止的，于是美国对中兴进行了出口管制，和现在一样，不卖产品给中兴，后来延长了出口禁令执行期限。</p><p>直到2017年3月，中兴和美国签署了协议，解除了出口限制。协议中中兴通讯要向美国政府共支付11.92亿美元，其中有3亿美元是缓期执行，如果在协议签署之后7年内未违反协议内容，该笔罚款将被豁免支付。</p><p>现在的美国法务部部长罗斯表示，中兴又被制裁的原因是<b>因为没有根据和解协议解雇或处罚部分职员</b>。根据当时的协议，中兴通讯须解雇4名高级职员，并通过减少奖金等方式处罚另外35名员工。然而中兴通讯在2018年3月承认，<b>该公司只解雇了4名高级职员，未处罚或减少35名员工的奖金，“这35人中部分还拿到了全奖”</b>。所以美国商务部将禁止美国企业向中兴通讯销售元器件，时间有可能长达7年。</p><p>中兴之所以没有大声喊冤，因为他不冤。</p>",
+                "comment_count": 2,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTgwMzM2MzMggob11gUoBzACQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMTkzODc3cgkzNzM4NDY5ODc="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "image_url": "https://pic3.zhimg.com/50/v2-2c59cdd2e8348bbd6af31aff2ba72d44_hd.jpg",
+                "updated": 1559793114,
+                "is_labeled": false,
+                "excerpt": "明天又到了高考的日子了，说来忏愧，我读书的时候，有一次下雨，体育课改在教室里上，体育老师闲来没事就问我们：你们知道高考为什么在7月7日吗？我们班同学一个个面面相觑，居然没一个人知道是为什么。然后体育老师叹了口气，给我们上了一堂历史课。 后来…",
+                "excerpt_title": "",
+                "id": 68234223,
+                "voteup_count": 12,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+                    "type": "people",
+                    "name": "知乎用户",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/0",
+                    "badge": [],
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+                    "is_org": false,
+                    "gender": 1,
+                    "url_token": "",
+                    "id": "e6535296e613ae4548d9dbeefbe94921"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/68234223",
+                "created": 1559793114,
+                "content": "<p>明天又到了高考的日子了，说来忏愧，我读书的时候，有一次下雨，体育课改在教室里上，体育老师闲来没事就问我们：你们知道高考为什么在7月7日吗？我们班同学一个个面面相觑，居然没一个人知道是为什么。然后体育老师叹了口气，给我们上了一堂历史课。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>后来到了2003年，因为大家都觉得7月太热，为了给同学们减轻点压力，又把高考时间改到6月7日。这么一改，估计现在很多同学更不知道为啥高考是这个日子了。这个日子，过去改变了国家的命运，现在呢，又是每年近千万人改变命运的日子。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我到现在都还记得我高考数学的时候，有一道很简单的10分的解答题，我太粗心把b/a写成了a/b，就这一个小小的失误，痛失10分，最后与第一志愿的学校录取线差了6分，然后我的命运就在这些小小的不经意里被大大的改变了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，我赶上了一个好的时代，在这个时代国家的发展蒸蒸日上，我还是上了大学，毕业之后又赶上经济高速发展的周期，找工作也很容易。在每个时代，总有一些人看上去是不需要时代红利的，他们是人中龙凤不管在哪不管在任何时候，都可以打出一片天地。但是他们永远都只会是极少数，而咱们大部分普通人就不一样了，我们的命运，大多数时候都只有统计学上的意义，所以，也可以说，我们的命运已经交给了时代，我们的命运就是自己国家和民族的命运。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在任何时候，当一个时代和一个国家开始转向，历史的车轮总会无情的隆隆碾过无数的血肉之躯，在战争年代是牺牲的几千万人民，在和平年代则是下岗的几百万工人，这些庞大而又冰冷的数据，抹去了每一个承受了时代命运的个体，以及背后那个家庭的悲欢离合，这些伤痕最后也湮灭在时代的变迁里，记得的人不多。但是这些教训值得我们深思，我们的命运是交给了时代，但是，请不要做时代的炮灰。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>每一个剧烈变化的时代，总会有一些人成为炮灰。所谓的炮灰，是牺牲而没有任何意义的存在，譬如1983年严打的时候因为小罪而被判重刑的人，譬如2018年在P2P狂潮里投进全部身家的人。有些是因为无知，有些是因为贪婪，这样的牺牲在时代转向里，其实没有什么意义，也没有为国家民族承受苦难做出什么贡献，就是一种单纯的被牺牲。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>未来，我们可能又会赶上一个巨变的时代，在这个时代，有两种人最有可能成为时代的炮灰，这两种人并不鲜见，历史上在很多巨变时代都一次次的涌现过，大浪淘沙，等到风平浪静海阔天空之后，最后都被时代淘汰了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一种炮灰是投机者</b>。我们不管做投机还是做投资，用一点专业知识和一点小聪明，保存火种保存自我，在变革时代居安思危属于人之常情。但有一种投机者，属于<b>在国家民族之间进行投机</b>，初看似乎有远见，但往往历史会在不经意的时候给他耳光。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在6、70年代，朝鲜经济依靠苏联扶持欣欣向荣，而我们国家陷入动乱，有很多中国的朝鲜族就投靠了在朝鲜的亲戚。在那时候他们躲过了十年浩劫，但是没想到的是，从八十年代开始，风水轮流转，这批人又想回国来，可是大部分人都有了家庭，即便中国可以接收，对面为了稳定也不肯放人，还要被防止叛逃进行审查，受尽折磨。如今中国什么样，朝鲜什么样，他们后不后悔，没什么人关心，谁会在乎炮灰的命运呢。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这一幕并不只是在我们国家有，那个年代韩国也是苦不堪言，很多人逃往了朝鲜，结局比我们这边过去的更加悲惨。现在很多有钱人都是觉得我们国家各种差，在中国赚了钱都往西方国家跑，在他们眼里，美国民主自由，只要有钱就可以高枕无忧。可能大家并不知道，中国国籍是世界上最难取得的国籍，一旦你主动放弃了，很可能你这辈子就不会再拥有了。而今后这个变革时代，国内会对双重国籍严厉打击，就是针对这些投机分子。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，我们现在说美国将来会打他们耳光他们是不会信的。但是，我们可以看看历史。1941年日本偷袭了美国珍珠港，之后美国对日本宣战。在美国国内也有很多日裔美国人，虽然是美国籍，但是美国人可不这么看，他们把这些日裔美国人视作危险的反动分子，并把他们关进了集中营，让他们体验到了真正的美式民主与自由。为了证明自己别无二心，这些日裔美国人纷纷参军，组建了美军历史上赫赫有名的442团。他们是拥有武士道精神的日裔美国人，为了体现自己的一颗纯粹美国心，战场上格外卖命，当然美国人也体恤他们的真心，总是派他们去最危险的战场当炮灰，这也成就了442团，成了美军伤亡率最高，获得荣誉最多的步兵团。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他们在战场上卖命的时候，大部分人的家属还在集中营里劳改。等到他们载誉归来，以为自己已经完全证明了自己的百分之百美国心，可现实却给了他们一个大耳光，在生活中他们依然饱受歧视和羞辱，白人平时称呼这些日裔美籍为：Japs，翻译过来就是：日本鬼子。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在，美国交通部长赵小兰，似乎就遭遇了一丝尴尬，仅仅因为她是华裔，现在被美媒公开怀疑卖国。而实际上她为了证明自己的美国心也一贯很反华。与她处境类似的还有美国前驻华大使骆家辉，现在被怀疑贪污正被翻旧账。日裔美国人的这一幕，将来会不会在那些拥有中美双重国籍的人身上重演，咱不知道，但是站在国家民族的利益之上，希望大家不要做投机分子，投机一时爽，一直投机，早晚火葬场。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第二种炮灰是悲观者</b>。在任何时代都有悲观者，他们的思想体现为绝望，语言体现为抱怨，行动体现为消极。这样的人在顺风顺水的时代，虽然一边吃饭一边骂娘，但总归托时代的福，沦为卢瑟还可以温饱。但到了巨变的时代，天天看这个不顺眼那个不顺眼，抱怨时代抱怨国家，这样的人到了具体的事情上注定也是干这个不行干那个也不行，那最后的结果，必将沦为时代的炮灰。就像大路上纷纷扬扬的灰尘，路过的人还要掩起口鼻。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>历史总是属于乐观主义者。乐观是人特别难得的品质，永远相信美好永远保持乐观，在任何境地总会想到办法。也有实在没有办法的时候，乐观的人拥有信仰，相信美好一定会到来，也自然更能坚持到胜利。即便没能坚持到胜利，那乐观者也一定会微笑着死去，能笑着面对死亡，可以说是伟大的乐观，我在 <a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzU1NDY5NDczMg%3D%3D%26mid%3D2247483983%26idx%3D1%26sn%3Dcd2b893354b365040ea38e57bcf27f39%26chksm%3Dfbdee36ccca96a7aae2474bbd6f50ff92124244c8386539d840e28ad81a96c3aef8ad9b852e8%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">人死前三分钟会想什么</a> 聊过这个话题，笑对死亡大概是人生真正的胜利。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我也希望自己能和大家一样，不管未来是否有风雨，都永远相信美好，保持乐观，坚持善良。做好投资和生活，不负时代与青春，不做炮灰。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后一首诗送给大家：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一生总欲写新篇，每负青春与少年。</p><p>偶至山边赏月圆，常来海角听涛眠。</p><p>不安长夜梦中梦，偏爱独行天外天。</p><p>览尽秋风零落意，都作春色向人间。</p>",
+                "comment_count": 4,
+                "title": "我们的命运：不做时代的炮灰",
+                "topic_thumbnails": [
+                    "https://pic3.zhimg.com/50/v2-2c59cdd2e8348bbd6af31aff2ba72d44_hd.jpg"
+                ],
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMjkyMDA1INqb4ucFKAwwBEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjgyMzQyMjM="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "topic_thumbnails_extra_info": [
+                    {
+                        "width": 640,
+                        "playlist": {
+                            "ld": {
+                                "width": 640,
+                                "format": "mp4",
+                                "url": "https://vdn1.vzuu.com/LD/670b3d24-ae5c-11e8-b5e1-0242ac112a18.mp4?disable_local_cache=1&bu=topic&expiration=1561111321&auth_key=1561111321-0-0-73ee9189400f614ded17d43297a1c5df&f=mp4&v=hw",
+                                "duration": 515.112,
+                                "height": 360,
+                                "bitrate": 501.547,
+                                "size": 32294119
+                            }
+                        },
+                        "url": "https://pic4.zhimg.com/v2-0cbe783b5efa3ac58fb4701e80bfc3af.jpg",
+                        "duration": 515.112,
+                        "video_id": "1019539891956326400",
+                        "type": "video",
+                        "height": 360
+                    }
+                ],
+                "updated": 1535857666,
+                "is_labeled": false,
+                "excerpt": "曹德旺回应记者“逃跑到美国”真实想法",
+                "excerpt_title": "",
+                "id": 43546846,
+                "voteup_count": 423,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/45ec4e49d07c2b693e02611a44a3ec08_{size}.jpg",
+                    "type": "people",
+                    "name": "的电饭锅",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "is_advertiser": false,
+                    "url": "http://www.zhihu.com/api/v4/people/c0281fbd57984908f1f25de6205de46d",
+                    "badge": [],
+                    "user_type": "people",
+                    "headline": "",
+                    "avatar_url": "https://pic3.zhimg.com/50/45ec4e49d07c2b693e02611a44a3ec08_is.jpg",
+                    "is_org": false,
+                    "gender": -1,
+                    "url_token": "lao-si-ji-45-69",
+                    "id": "c0281fbd57984908f1f25de6205de46d"
+                },
+                "url": "http://zhuanlan.zhihu.com/p/43546846",
+                "created": 1535857666,
+                "content": "<p>曹德旺回应记者“逃跑到美国”真实想法</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1019539891956326400\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic4.zhimg.com/v2-0cbe783b5efa3ac58fb4701e80bfc3af.jpg\" data-lens-id=\"1019539891956326400\"><img class=\"thumbnail\" src=\"https://pic4.zhimg.com/v2-0cbe783b5efa3ac58fb4701e80bfc3af.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1019539891956326400</span></span></a><p></p>",
+                "comment_count": 94,
+                "title": "曹德旺：我和李嘉诚不能比，无心逃跑。但想对政府说几句话",
+                "topic_thumbnails": [],
+                "type": "article",
+                "thumbnail": "https://pic4.zhimg.com/v2-0cbe783b5efa3ac58fb4701e80bfc3af.jpg",
+                "thumbnail_extra_info": {
+                    "width": 640,
+                    "playlist": {
+                        "ld": {
+                            "width": 640,
+                            "format": "mp4",
+                            "url": "https://vdn1.vzuu.com/LD/670b3d24-ae5c-11e8-b5e1-0242ac112a18.mp4?disable_local_cache=1&bu=topic&expiration=1561111321&auth_key=1561111321-0-0-73ee9189400f614ded17d43297a1c5df&f=mp4&v=hw",
+                            "duration": 515.112,
+                            "height": 360,
+                            "bitrate": 501.547,
+                            "size": 32294119
+                        }
+                    },
+                    "url": "https://pic4.zhimg.com/v2-0cbe783b5efa3ac58fb4701e80bfc3af.jpg",
+                    "duration": 515.112,
+                    "video_id": "1019539891956326400",
+                    "type": "video",
+                    "height": 360
+                }
+            },
+            "attached_info": "CjUQBxoHODczODk3MCCCqK3cBSinAzBeQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg0MzU0Njg0Ng=="
+        }
+    ]
+}

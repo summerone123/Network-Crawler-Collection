@@ -1,0 +1,233 @@
+{
+    "paging": {
+        "is_end": false,
+        "totals": 702,
+        "next": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440771746.34603",
+        "is_start": false,
+        "previous": "http://www.zhihu.com/api/v4/topics/20177825/feeds/top_activity?before_id=-1440699140.23&include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=-1440699140.23466"
+    },
+    "version": "1.0",
+    "data": [
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "不能。因为软件产业已经一只脚踏入了共产主义。",
+                "created_time": 1524644451,
+                "id": 375884715,
+                "voteup_count": 119,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic3.zhimg.com/50/v2-d315b42caafb1d50bdac1e2078a51051_{size}.jpg",
+                    "badge": [],
+                    "name": "王霄池",
+                    "edu_member_tag": {
+                        "type": "subject",
+                        "member_tag": "工业设计师"
+                    },
+                    "headline": "独行之兽 / 马克思主义者 / 会写代码",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic3.zhimg.com/50/v2-d315b42caafb1d50bdac1e2078a51051_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/7ef99db689fc93693173e068f6428f83",
+                    "type": "people",
+                    "url_token": "wang-xiao-chi",
+                    "id": "7ef99db689fc93693173e068f6428f83",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/375884715",
+                "question": {
+                    "title": "美国能禁止编程语言或编译器授权吗？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274354086",
+                    "created": 1524455116,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274354086
+                },
+                "updated_time": 1524644451,
+                "content": "<p>不能。</p><p>因为软件产业已经一只脚踏入了共产主义。</p>",
+                "comment_count": 0,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTg0MDk0NTQg4/SA1wUodzAAQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMjQzMDg0cgkzNzU4ODQ3MTU="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1559027345,
+                "is_labeled": false,
+                "excerpt": "村里的黄阳与我是有矛盾的，虽然这事儿他可能并不知道。我听人夸过他几回，说他卖的蔬果便宜好吃，又有人说黄阳本职是养猪的，嘻，谁吃得起猪肉呢？那都是大老爷的事了。但我并不从黄阳那里买蔬果，主要原因大家也都知道，就我们这地儿怎么可能长得出好蔬果…",
+                "excerpt_title": "",
+                "id": 67274711,
+                "topic_thumbnails": [],
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-4536a78f54c6a309ad600d07b6ec4a2d_{size}.jpg",
+                    "badge": [],
+                    "name": "牧威",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "笨鸟久飞，也可入林。",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-4536a78f54c6a309ad600d07b6ec4a2d_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/b4c1340a3275c87604bd54e40b2f76ae",
+                    "type": "people",
+                    "url_token": "mu-wei-33-5",
+                    "id": "b4c1340a3275c87604bd54e40b2f76ae",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/67274711",
+                "title": "矛盾",
+                "created": 1559027345,
+                "content": "<p>村里的黄阳与我是有矛盾的，虽然这事儿他可能并不知道。</p><p>我听人夸过他几回，说他卖的蔬果便宜好吃，又有人说黄阳本职是养猪的，嘻，谁吃得起猪肉呢？那都是大老爷的事了。</p><p>但我并不从黄阳那里买蔬果，主要原因大家也都知道，就我们这地儿怎么可能长得出好蔬果呢？那些夸黄阳蔬果好的怕是收了他的钱来哄骗我罢。要我说，别国某某的蔬果好的远近驰名，那才是真好，虽然贵些，可就我们这地儿怎么可能长得出好蔬果呢？</p><p>除此之外黄阳还有点令我不高兴，他也配姓黄？黄，谐音不就是皇了？他是想暗示什么？是想蹭皇上名头吗？</p><p>我自然是对的，可被黄阳哄骗的人倒不少；我且正义又独立，便去告诉他们：黄阳的蔬果哪里能跟某某的比，肯定是烂的。他们只说他的蔬果确实不错，又问我依据是什么，我说：就我们这地儿，长得出好蔬果吗？</p><p>他们便囔囔起来，说我是看不起本地，是媚外，我倒奇怪了，难道说黄阳的不行就是媚外了吗？可就我们这地儿，怎么可能长得出好蔬果呢？</p><p>我虽这样闹，黄阳并不搭理我，这又加剧了我对他的厌恶，不就是个蹭皇上名头胡乱炒作的蔬果商么？别国的某某的蔬果那么好名气那么响都没这样呢，神气什么？</p><p>但他不搭理我，我也没办法弄他，日子也只好就这样过。</p><p>有一天，约莫是清明前后，我上山砍柴，遇到了几个鬼子兵。他们拎着枪说着拗口的话，问我知不知道黄阳，要我给他们带路。我问他们能不能帮我宰了黄阳，他们说行，我便带着他们去了。</p><p>我领着鬼子兵回了村，有人骂我卖国贼，我就奇了怪了这些人，我只不过是要解决掉黄阳而已，他们每次要把国家扯上来，这之间有什么关系吗？我还不是看不惯他们被骗？天可怜见我一片好心。</p><p>但鬼子兵在我身后，他们也不敢拦着，我便这样大摇大摆地带着他们到黄阳那儿去。我看着黄阳慢慢地走出来，死到临头了他还这样，看他一会儿怎么装。接着我听到身后传来拗口的话：</p><p>“黄阳，你要是不听我们的，这就是下场。”</p><p>这时我感觉一个什么东西抵住了我的后脑。我来不及回头，听到脑中一声巨响：</p><p>“呯！”<br/><br/><br/> 此文送给华为事件中的部分“理中客”。</p><p></p>",
+                "comment_count": 0,
+                "voteup_count": 4,
+                "type": "article"
+            },
+            "attached_info": "CjYQBxoJMTAzMDc4Nzc1IJG9s+cFKAQwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdHIINjcyNzQ3MTE="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1557820144,
+                "is_labeled": false,
+                "excerpt": "有人常说美国好，可是他们到底是哪儿好？ 当真是“扑面而来的清新甜美的空气”？那么，我们说向美国学习，到底该学啥？1创造精神：美国梦的重要源泉 （图片来源：GT Wang） 根据信息时报的报道，美国《滚石》杂志特约编辑，《人物》杂志资深撰稿人亚力克·…",
+                "excerpt_title": "",
+                "id": 65726109,
+                "topic_thumbnails": [
+                    "https://pic2.zhimg.com/50/v2-d49e0904ad94be9e6baf3640713e13ea_hd.jpg",
+                    "https://pic3.zhimg.com/80/v2-345c963da49fe1c95a3b63109c6e4b5b_250x0.jpg",
+                    "https://pic3.zhimg.com/80/v2-bfcbf10059d0f32942eaa8d51ec89a5b_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic2.zhimg.com/50/v2-825f782641b2bda1317f444f9fa09691_{size}.jpg",
+                    "badge": [
+                        {
+                            "type": "identity",
+                            "description": "已认证的官方帐号"
+                        }
+                    ],
+                    "name": "留学生日报",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "百万中国留学生都在关注",
+                    "gender": -1,
+                    "user_type": "organization",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic2.zhimg.com/50/v2-825f782641b2bda1317f444f9fa09691_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/e4a0b00c8c04bc16c0fed1563f1a0444",
+                    "type": "people",
+                    "url_token": "liu-xue-sheng-ri-bao",
+                    "id": "e4a0b00c8c04bc16c0fed1563f1a0444",
+                    "is_org": true
+                },
+                "url": "http://zhuanlan.zhihu.com/p/65726109",
+                "title": "如何正确“吹捧”美国？ 哪些才是美国最值得我们学习和向往的？公知必读",
+                "created": 1557820144,
+                "content": "<p></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-345c963da49fe1c95a3b63109c6e4b5b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1536\" data-rawheight=\"1054\" class=\"origin_image zh-lightbox-thumb\" width=\"1536\" data-original=\"https://pic4.zhimg.com/v2-345c963da49fe1c95a3b63109c6e4b5b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-52bdb8c7c3dec370fd46c2feb6a0eadb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"35\" data-rawheight=\"30\" class=\"content_image\" width=\"35\"/></figure><p>有人常说美国好，可是他们到底是哪儿好？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当真是“扑面而来的清新甜美的空气”？</p><p>那么，我们说向美国学习，到底该学啥？</p><p>1</p><p>创造精神：美国梦的重要源泉</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-bfcbf10059d0f32942eaa8d51ec89a5b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"630\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"630\" data-original=\"https://pic4.zhimg.com/v2-bfcbf10059d0f32942eaa8d51ec89a5b_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：GT Wang）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>根据信息时报的报道，美国《滚石》杂志特约编辑，《人物》杂志资深撰稿人亚力克·福奇所著的《工匠精神：缔造伟大传奇的重要力量》一书，通过对一大批既具有求实才干、又富有创新精神的人对推动美国社会进步所做出的贡献。<br/></p><p>亚力克·福奇如此介绍这些具有实干精神的创新工匠们：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>首先，工匠行为通常是极度私人和孤独的努力，并不惠及大众。<br/><br/>其次，工匠行为的成果常常无法在短期内显现出来，可能需要数年甚至数十年的时间，人们才能完全意识到它的社会影响力。<br/><br/>再次，相比于创造一些新的虚拟物品，美国人本能地更热衷于实物的创造。</blockquote><p>这本书中提到：当我们追溯美国创新能力的根源时，有一个事实是无法被忽视的——那些整个国家中最有影响力的人，美国开国元勋们，都曾经有工匠的身份：富兰克林的壁炉、玻璃琴，华盛顿的水利工程，托马斯·杰斐逊的坡地犁，詹姆斯· 麦迪逊的内置显微镜手杖……</p><p>这群有脚踏实地的实干精神，又有高瞻远瞩的创新胆识的人，这群博学又充满好奇心的人，有基于个人的兴趣来重建世界的方式，这群追逐可能性的人，在一个想法的驱动下建立了一个年轻国家。</p><p>这就是美国。</p><p>短短几百年，美国缓慢而不可阻挡地从农业社会变成工业巨头，也是工匠们一系列想法和创意推动的结果。</p><p>他们继续追逐更好的可能性，解决各领域面临的问题，又推动了国家的进步和成长。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，这种创造力对古今中国社会的进步都十分重要：四大发明等新技术，把中国社会从愚昧落后带到开化文明；而如今各行各业的人才，更是让中国在短短几十多年迅速崛起。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而同时，美国的产品今天依旧较真，而我们以假冒伪劣的闻名于世。特别是在制造领域，大多是吸收、模仿他人，很少独立创新。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说起来，大概也有这个原因：而中国则有个“提起此人，人人皆晓，处处闻名，是各省各县各村人氏。天天挂在大家口头，是中国全国人的代表”的差不多先生。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，除了职业领域，创造力一样体现在美国校园严谨的学术态度中。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国著名的心理学杂志《职业心理学：研究与实践》的一篇文章指出，据统计，美国大学平均每年约有<b>1100名本科生自杀</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他们不仅要承受课业带来的高压，还要完成学术上的创新。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-bb9243c7a080f4e7e701129e47c33c42_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"259\" data-rawheight=\"194\" class=\"content_image\" width=\"259\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：Gameover HK）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国大学“宽进严出”，在优等生云集的学校里，学生们的压力更大：每门课，同时要阅读海量参考资料、参与多次讨论，做严谨的研究报告。经过千锤百炼，走出校园的学生大多具备扎实的学术基础与较高的研究素质。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>而我们的大学严进宽出，大学生人数呈几何数倍增，但真正能解决生产、科研领域里难题的人却奇缺无比。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>亚力克·福奇对当今社会不无忧虑，他认为：“迅猛增长的经济使我们从一个充满实干家的国家转变成为一个充满消费者的国家，美国人正在丢掉神圣的工匠的传统”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而丢掉了工匠传统的我们，终将丢失的就是创造力。没了创造力的世界，形同一副驱壳。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不论是在中国还是在美国，创造精神都是推动社会健康发展的重要源泉。如何重新唤起大家对创造精神的重视，我们都还有很长的路要走。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2</p><p>契约精神：美国建国的基础</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-ee96d429ee715dac51f69a697b53aa14_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"370\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-ee96d429ee715dac51f69a697b53aa14_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：壹读）<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在美国几百年的历史中，与创造精神地位相当的，恐怕就是契约精神。</p><p>契约精神，百度百科如下：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>契约精神是西方文明社会的主流精神，“契约”一词源于拉丁文，原义为交易，其本质是一种契约自由的理念。<br/><br/>所谓契约精神是指存在于商品经济社会，而由此派生的契约关系与内在的原则，是一种自由、平等、守信的精神。</blockquote><p><b>有人提出，美国历史，就是一部契约精神的贯彻史。</b>这一点，或许要从建国说起。</p><p>据百度百科介绍，1620年9月23日，一艘名为“五月花号”的捕鱼船，载着102名英国清教徒，驶向如今的美洲大陆。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>漂泊66天后，最终登陆——后来的美国人视其为开拓美利坚的先驱。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>上岸前，幸存的人讨论如何管理未来的新世界的问题，这批新大陆移民立誓创立一个自治团体，并共同签署了一份重要的政治性契约，将依法而治，后世称《五月花号公约》。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-0eee6a295c4e962862edaab6f65f7a41_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"433\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-0eee6a295c4e962862edaab6f65f7a41_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：老钱文集）<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>据报道，1991年的《世界年鉴》评价该公约是“自动同意管理自己的一个协议，是美国的第一套成文法”，这份著名的文件也被人们称为“美国的出生证明。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>它也为美国的契约精神奠基；也是现在美国信仰自由、法律的根本原因之一。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如今，这种契约精神更渗透进美国方方面面。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以去年的美国大选为例，据报道，只一半左右的大众参与了总统选举的投票，通过“选举人”制度，特朗普胜出。尽管有人对这个结果不满意并游行示威，可是大选遵从美国民主的“游戏规则”，就该“愿赌服输”。反对声拦不住特朗普入主白宫的脚步——<b>人民与国家的契约。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>行政机构和企事业单位有不同层次的审计和监督机制，所有信息公开透明，一旦欺诈，要受重罚—<b>—法律是公众的契约</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国人建立并完善了终身的信用制度：社会安全号码。学生查询成绩、申请学校、找工作、领工资甚至到银行开户、申请贷款、租房都需要它。孩子从小接受关于诚信和法制的教育，懂得讲诚信、遵守公共契约才有利于个人和社会发展—<b>—社会之间的契约。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>学校宽进严出，每个课程的纲要，已包含该课程的学习目标、成绩结构、评分标准、功课任务及具体要求、学术政策（对作弊抄袭的政策等）等，学生如果达不到，那么肯定无法过关——<b>学生与学校的契约。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b> “The deal is deal”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>“双方商定”就是契约，一旦商定就坚决执行，不管是人民之间，还是人民与国家之间，种种契约把人关联在一起。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>知名学者沈群曾发声：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>“正因为有如此的契约精神，这个社会才显得规范，人们在生活中才有章可循，我们在向前走的时候，才感觉到自己每一步的进步”。 　</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>而中国历经几千年君主专制，民主制度、契约精神的基因比较弱，人情网、“潜规则”更加牢固，还长路漫漫。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>3</p><p>试错文化：它的盛行，铸造了今日美国</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-6bda2e81f1a87122ea3c62c421ff3c5d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-6bda2e81f1a87122ea3c62c421ff3c5d_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：elearning industry)<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>说了美国的民族精神与灵魂，接下来说美国的性格。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>自信、勇敢，是容纳在美国人性格中的重要元素。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不需再拿课堂上勇于发言的美国孩子与羞涩表达的亚洲孩子来比。其实，关于美国如何成功的故事，实际上正是一部不断试错的历史。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可以说，没有投资，<b>没有试错，就没有美国。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>据砍柴网报道，几百年前，英国人成为第一批对美洲大陆的投资者。美国是当时殖民投资公司的一个产品，虽然第一批对美国的投资者赔了钱。但美国人不仅继承了这种试错的风格，更将对投资的文化发扬光大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>随后，美国从微不足道的起点，从一片莽荒之地，成长为一个规模巨大的超级经济体。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有人说：<b>“当初英国的那些绅士们所做的投资，是人类历史上回报率最丰厚的一次”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>同样体现这一点的，还有硅谷。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-0f6298655decba7c3a7c961a7ac09334_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-0f6298655decba7c3a7c961a7ac09334_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：产品100）<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在硅谷，快速而敏捷地决策胜过缓慢、按部就班得来的共识。放在美国互联网行业，这种精神更加明显：创业本身是一场冒险，成功是个别现象，失败才是常态，但是不做真的连失败的机会都不会有。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国电商巨头亚马逊更是把这种试错文化身体力行，在亚马逊内部发挥到极致。他们的掌门在接受《华盛顿邮报》采访时，却对代价极大的<b>Fire Phone的失败感到自豪</b>：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>“亚马逊取得的每一个成功都冒了很大险，是我们坚持不懈的结果。我们汲取每一次失败的教训，跌倒后爬起来继续前行。”</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>而这种试错，在美国倡导个人英雄主义，强调个人以及个性对于普世价值的超越的背景下，接触过中国最底层，也接触过中国最高层，并在西方生活过的张维为教授发表过演讲《中国人，你为什么不自信》。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其中提到：崛起到今天这个地步，中国的进步无疑是世界上最大的，可以说是人类历史上前所未有。选贤任能制度优越过西方，脱贫人数占世界脱贫人数的百分之八十。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他说：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>“西方的长处和短处都客观存在。但现在，它体制中的短处，开始慢慢压倒长处。可是，我走了一百多个国家之后，深深感觉：中国已经进步如此，<b>可是相当大的一个人群，特别是知识界、媒体界，这些人不自信，总觉得还有个非常理想的彼岸世界，就在西方，特别是美国”</b>。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>有人提出：<b>中国有些人还戴着欧美人给我们配的眼镜看今天的中国，沉浸在所谓的欧美天堂里不可自拔。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>4</p><p>包容精神：美国文化的精髓之一</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b362e6ce03d73d4a82c9d4f7d51e2d75_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"406\" data-rawheight=\"234\" class=\"content_image\" width=\"406\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：The City of San Antonio)</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国是个极具包容性的国家。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这种包容，首先体现在建立在契约精神之上的各州政府与联邦政府的关系。中国青年报报道，美国，各州、各地方政府都有一定程度的自治权，包容了对同一件事的不同态度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美利坚国土上，更有来自世界各地的人在这里定居生活。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以纽约为例，约五万的希腊裔大多居住在皇后区，东正教教堂与穆斯林清真寺紧紧相邻，各守自己的信仰，彼此相安无事，每逢各个宗教的重大节日，纽约就成了不分种族、宗教、肤色、和谐生活在一起的图景。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>搜狐网报道，2017年1月下旬刊的《文学教育》也提到这个主题。旅美学者汤伟提出：<b>包容是美国文化的精髓。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>法国巴黎恐怖袭击后，各国学者反思：为什么这事一再在法国发生？弗朗西斯·福山曾指出，“无法更有效地整合穆斯林移民，无疑为欧洲埋下一颗定时炸弹”。欧洲社会不愿公开直面穆斯林移民的身份认同，更没有像美国帮少数族裔融入整个社会。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而这与美国政府长期对多元文化的支持鼓励政策分不开。　</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a3471e997f092130febb7f393602fe89_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-a3471e997f092130febb7f393602fe89_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：CNN Money)</p><p>一位基督教牧师说：</p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>如果我们不能容忍其它宗教，我们自己的教义也无法被别的宗教容忍。</blockquote><p>据报道，甚至在全美的很多中学大学，都有国际化课程和项目。除了学习不同文化之外，还会组织学生到所学习的国家实地考察体验、组织讨论，为他们对不同文化文明的认识打下很好的基础。　</p><p>2010年8月13日，美国总统奥巴马支持在911纽约遭受恐怖袭击的遗址附近兴建一座清真寺。理由是：“<b>美国的价值观是要让所有宗教团体都受到同等、公平的对待。”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>除了精神上的包容，还有不同声音的包容。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>面对社会对黑人的暴力行为，马丁·路德·金坚决支持，根植于基督教的以非暴力的形式抗争。　</p><p>他坚持“我们必须永远站在自尊和教规的最高水准上继续我们的抗争。”</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他自身不满足、不包容当时面对的黑人群体的不公遭遇，并发声抗争，可他采取了较有包容性的非暴力手段。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>力排众议，他最终为民权运动的正当性，做了充分而合理的辩护，并得到全美更多人的响应。所有努力，最终促使参众两院通过了《民权法案》。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>能包容不同的人，包括，马丁·路德·金，在私人生活上有部分黑暗面，却依旧不影响他在美国人眼中的地位与价值。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>社会能包容不同的声音。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>而中国的文化传统一直秉持着兼爱、友善的思想，对各民族包容，这种包容使得各民族产生强大的凝聚力，让中华文明不断传承。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可如今，中国遭遇不包容。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-617cf922e2f90cd5994c0a911b935a87_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"308\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-617cf922e2f90cd5994c0a911b935a87_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（图片来源：Mightycall）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>比如，中国有些运动员，因为退赛新闻，一下子从民族英雄变成了民族罪人，从前种种荣耀被抹杀了。尊严、荣誉、权益，甚至包括说话的权利一下子被剥夺，悠悠众口，可以诛心。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>把道德标准凌驾在口舌之争的胜利上，容不下他人偶尔的错误甚至失误，审判不同的三观，用扣帽子的方式阻挡别人发出不同的意见。</p><p>我们常问：说学美国的时候，该学什么。以上四方面或许就是。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而张维为教授演讲时说过：<b>“美国有很多地方不错的，但是我说我们该平视美国，平视西方，既不要仰视也不要俯视”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>看得见美国的优势与问题，也看得见自身的优点与不足。然后就是发挥改变身边的人，进而圆满国家的力量吧。</p><p></p><p></p>",
+                "comment_count": 26,
+                "image_url": "https://pic2.zhimg.com/50/v2-d49e0904ad94be9e6baf3640713e13ea_hd.jpg",
+                "voteup_count": 54,
+                "type": "article"
+            },
+            "attached_info": "Cj8QBxoJMTAyNzM0Nzk1IPDl6eYFKDYwGkAAUhF0b3BfYWN0aXZpdHlfcG9zdFoHMTAwOTQzNnIINjU3MjYxMDk="
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "updated": 1542710159,
+                "is_labeled": false,
+                "excerpt": "<b>来源：微信公众号 半导体那些事儿（ID：IC-008）</b><b>“ 第一时间了解国内外半导体、IC、电子行业动态，原厂动态、市场行情、行业机会、政策方向等资讯不容错过。 ”</b> 日前，据传美国下一个制裁目标或许是安控大厂海康威视（Hikvision），其AI芯片主要来自于芯片…",
+                "excerpt_title": "",
+                "id": 50413916,
+                "topic_thumbnails": [
+                    "https://pic4.zhimg.com/50/v2-63065fe1a060b0297f32490dbe95e7db_hd.jpg",
+                    "https://pic2.zhimg.com/80/v2-a324b02dc2b3156034a154cf487a23e5_250x0.jpg",
+                    "https://pic1.zhimg.com/80/v2-94246fce997d3ec32f39111ba3f0182e_250x0.jpg"
+                ],
+                "author": {
+                    "avatar_url_template": "https://pic1.zhimg.com/50/v2-289268f54b9c29729e613030a5fbb22e_{size}.jpg",
+                    "badge": [],
+                    "name": "半导体那些事儿",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "芯方式（ICfans），半导体人分享交流社区。<a href=\"https://link.zhihu.com/?target=http%3A//www.icfans.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">icfans.com</span><span class=\"invisible\"></span></a>",
+                    "gender": -1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic1.zhimg.com/50/v2-289268f54b9c29729e613030a5fbb22e_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/4cb92d3f6b2ab72ce6edd48223fe79d4",
+                    "type": "people",
+                    "url_token": "icfans",
+                    "id": "4cb92d3f6b2ab72ce6edd48223fe79d4",
+                    "is_org": false
+                },
+                "url": "http://zhuanlan.zhihu.com/p/50413916",
+                "title": "传美国下一步制裁海康威视 英伟达或成最大输家 | 半导体那些事儿",
+                "created": 1542710159,
+                "content": "<p><b>来源：微信公众号 半导体那些事儿（ID：IC-008）</b></p><p><b>“ 第一时间了解国内外半导体、IC、电子行业动态，原厂动态、市场行情、行业机会、政策方向等资讯不容错过。 ”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>日前，据传美国下一个制裁目标或许是安控大厂海康威视（Hikvision），其AI芯片主要来自于芯片大厂英伟达的供应。英伟达在图形芯片和AI相关芯片的领先地位，在中国和美国左右逢源，但随着贸易战开打，中美紧张关系持续升温，英伟达在夹缝中的日子并不好过。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a324b02dc2b3156034a154cf487a23e5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic2.zhimg.com/v2-a324b02dc2b3156034a154cf487a23e5_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>美国英特尔、高通等芯片大厂也都销售产品给中国客户，但由于英伟达在最先进的AI芯片上稳坐第一把交椅，美国的限制技术出口理所应当会选择拿英伟达开刀。</p><p>英伟达曾宣传海康威视如何把AI技术整合到监控摄像机，在中国的官网上也展示了警方如何利用英伟达的图形芯片，把过滤监控数据所需时间从数月缩短至数天。</p><p>华尔街日报11月19日报导，共和党籍参议员Marco Rubio与16位国会议员于8月底联名写信给美国国务卿蓬佩奥Mike Pompeo与美国财长梅努钦Steven T . Mnuchin，呼吁特朗普政府对海康威视、浙江大华科技有限公司这两家英伟达客户实施制裁措施。Rubio表示，高度关切美国芯片公司可能正在扶助中国打造高科技警察国度。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-94246fce997d3ec32f39111ba3f0182e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-94246fce997d3ec32f39111ba3f0182e_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>英伟达发言人则表示，中国警方的作业是依据普遍可取得的影像资料进行，英伟达无法追踪每个芯片的用途，但希望美国政府提供制裁实体的指引，公司将完全遵从。</p><p>英伟达所希望美国政府提供的“指引”来得很快。昨（19）日，美国拟颁发新一轮技术出口管制，人工智能和芯片均在列，美方政府或许想要通过技术出口管制来进行实体制裁。</p><p>受此影响，英伟达11月19日股票大跌12.00%，收于144.70美元，创2017年7月6日以来收盘新低。英伟达已连续5年收高，今年迄今下跌25.22%。英伟达近日财报显示，本季营收约27.0亿美元。根据FactSet的统计，分析师原先预期英伟达第4季营收将达34.0亿美元。</p><p>英伟达去年97亿美元的营收中，有20%来自中国，也因此，管理层对中美贸易战的担忧正持续升高。另外，虚拟货币挖矿行业的需求下滑，也愈发加重了英伟达的压力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>文章及配图来源：爱集微</p><p>封面图来源：摄图网</p>",
+                "comment_count": 20,
+                "image_url": "https://pic4.zhimg.com/50/v2-63065fe1a060b0297f32490dbe95e7db_hd.jpg",
+                "voteup_count": 15,
+                "type": "article"
+            },
+            "attached_info": "Cj0QBxoIMTAyNjQzMzggj8fP3wUoDzAUQABSEXRvcF9hY3Rpdml0eV9wb3N0WgYxMDY2MTVyCDUwNDEzOTE2"
+        },
+        {
+            "type": "topic_feed",
+            "target": {
+                "excerpt": "刚才看题目的时候，还以为是假新闻，因为按理说发起调查的应该是商务部，怎么会是司法部。 搜了一下，在新浪财经看到有介绍： 而这一次，美国司法部对华为展开的是刑事调查，代表着华为可能存在更严重的潜在不当行为。如果调查者发现华为故意违反美国的出口…",
+                "created_time": 1524696699,
+                "id": 376309949,
+                "voteup_count": 21,
+                "is_labeled": false,
+                "author": {
+                    "avatar_url_template": "https://pic4.zhimg.com/50/v2-2405bda1ffd100e369357eb48bd180ee_{size}.jpg",
+                    "badge": [],
+                    "name": "安然",
+                    "edu_member_tag": {
+                        "type": "default",
+                        "member_tag": ""
+                    },
+                    "headline": "公众号：anranoneworld",
+                    "gender": 1,
+                    "user_type": "people",
+                    "is_advertiser": false,
+                    "avatar_url": "https://pic4.zhimg.com/50/v2-2405bda1ffd100e369357eb48bd180ee_is.jpg",
+                    "url": "http://www.zhihu.com/api/v4/people/b0ce7a4651f1f5dfbdb25516a9b593d3",
+                    "type": "people",
+                    "url_token": "an-ran-40",
+                    "id": "b0ce7a4651f1f5dfbdb25516a9b593d3",
+                    "is_org": false
+                },
+                "url": "http://www.zhihu.com/api/v4/answers/376309949",
+                "question": {
+                    "title": "如何看待华为被美国司法部调查？",
+                    "url": "http://www.zhihu.com/api/v4/questions/274753372",
+                    "created": 1524668360,
+                    "question_type": "normal",
+                    "is_following": false,
+                    "type": "question",
+                    "id": 274753372
+                },
+                "updated_time": 1524696699,
+                "content": "刚才看题目的时候，还以为是假新闻，因为按理说发起调查的应该是商务部，怎么会是司法部。<br><br>搜了一下，在新浪财经看到有介绍：<br><br>而这一次，美国司法部对华为展开的是刑事调查，代表着华为可能存在更严重的潜在不当行为。如果调查者发现华为故意违反美国的出口禁令，可能对华为处以额外的刑事处罚。<br><br>此次的司法部调查之前，华为还接到了美国商务部和财政部的行政传票，也是关于出口禁令方面的问题。<br><br>华为和中兴不一样，不论是体量，还是在行业内，亦或是在国际、国内的影响力，都非中兴可比。<br><br>当前，华为是全球基站电子和其他通信设备的最大厂商，也是全球第三大智能手机厂商。<br><br>对中兴下手，和对华为下手，是截然不同的。<br><br>尤其是在华为几乎退出美国市场的时候，如果打压成真，那毫无疑问是要阻止中国公司在高科技领域的发展。<br><br>从这个角度讲，华为是个更大的靶子，也是个更好的筹码。<br><br>虽然份额高，但华为还没有到不可替代的地步。虽然在手机cpu上不依赖高通，但在其他零部件上，对美国也有相当的依赖。而cpu还是委托台积电生产，也在美国势力范围内。<br><br>当然华为也是美国公司的大客户，制裁华为对美国公司也有影响。<br><br>中兴真是猪队友啊，这次卖了自己还不够，把华为也卖了。<br><br>现在只能看后续，因为现在消息不全。如果真的制裁华为，那就真逼着我们考虑抵制苹果了。",
+                "comment_count": 16,
+                "topic_thumbnails": [],
+                "type": "answer",
+                "thumbnail": ""
+            },
+            "attached_info": "CkIQBBoIOTg0ODY3NTEg+4yE1wUoFTAQQABSE3RvcF9hY3Rpdml0eV9hbnN3ZXJaCDIzMzMxOTU4cgkzNzYzMDk5NDk="
+        }
+    ]
+}
